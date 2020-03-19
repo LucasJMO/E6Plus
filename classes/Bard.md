@@ -38,17 +38,17 @@ DC | Type of Knowledge
 
 **Songs**(Su): The bardic ablities song of life/shelter/evasion/freedom/battle/swiftness are supernatural abilities which confer bonuses on allies within 30 ft who can hear the bard. Each song requires a standard action to start, and a standard action each round to continue. There is no limit on the number of rounds a song can remain active. Stopping a song is a free action, and transitioning from one active song to another requires a swift action. If a bard takes damage while using a song they must roll a concentration check of DC 10 + damage dealt or stop any ongoing song effect.
 
-	**Song of Life**: Affected allies gain immunity to poison and disease. Additionally once per day per two class levels, a bard can roll a performance check and heal an affected ally a number of hitpoints equal to the result of the check.
+**Song of Life**: Affected allies gain immunity to poison and disease. Additionally once per day per two class levels, a bard can roll a performance check and heal an affected ally a number of hitpoints equal to the result of the check.
 
-	**Song of Shelter**: Affected allies gain resistance 5 to an energy type of the bard's choosing. The bard may switch to a different type of energy by expending a swift action. At 5th level the resistance increases to 10.
+**Song of Shelter**: Affected allies gain resistance 5 to an energy type of the bard's choosing. The bard may switch to a different type of energy by expending a swift action. At 5th level the resistance increases to 10.
 
-	**Song of Evasion**: Affected allies gain +2 to armor class and saving throws. Additionally a bard with song of evasion active gains concealment.
+**Song of Evasion**: Affected allies gain +2 to armor class and saving throws. Additionally a bard with song of evasion active gains concealment.
 
-	**Song of Freedom**: A bard may select an ally within range, granting them freedom of movement and suppressing an ongoing spell efect. If the ally exits range or the song ends, then the spell effect resumes.
+**Song of Freedom**: A bard may select an ally within range, granting them freedom of movement and suppressing an ongoing spell efect. If the ally exits range or the song ends, then the spell effect resumes.
 
-	**Song of Battle**: Affected allies gain +2 to attack rolls and damage.
+**Song of Battle**: Affected allies gain +2 to attack rolls and damage.
 
-	**Song of Swiftness**: Affected allies who make a full attack gain an extra attack at their full base attack bonus. Additionally a bard with song of swiftness active increases all of their forms of movement (land movement, burrow, climb, fly, and swim) by 30 feet, up to a maximum of twice the bard's normal speed with that form of movement.
+**Song of Swiftness**: Affected allies who make a full attack gain an extra attack at their full base attack bonus. Additionally a bard with song of swiftness active increases all of their forms of movement (land movement, burrow, climb, fly, and swim) by 30 feet, up to a maximum of twice the bard's normal speed with that form of movement.
 
 **Combine Songs**: At 6th level, a bard gains the ability to have multiple songs active at the same time. Starting a combined song is a standard action, switching either active song is a swift action, and stopping is a free action. Two versions of the same song can be active, however their effects do not stack. The exceptions to this are song of shelter (the bard can choose a different type of energy for each song) and song of freedom (the bard can choose a separate target for each song, or suppress two ongoing spell effects on the same target). A bard with a combined song active must fully stop (end both songs) before entering a power song.
 
