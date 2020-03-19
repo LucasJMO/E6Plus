@@ -12,4 +12,4 @@ Classes may be selected from the ones specified in this repository, or from othe
 
 ### Designation of Open Content
 
-All text in this repository is declard Open Content, as per Section 15 of the Open Game License.
+All text in this repository is declared Open Content, as per Section 15 of the Open Game License.
