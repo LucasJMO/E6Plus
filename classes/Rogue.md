@@ -14,3 +14,17 @@ LVL | BAB | F | R | W | Special
 4   | 3   | 1 | 4 | 1 | Uncanny Dodge
 5   | 3   | 2 | 4 | 1 | Sneak Attack +3d6, Special Ability
 6   | 4   | 2 | 5 | 2 | Trap Sense +2, Special Ability
+
+**Weapon and Armor Proficiency**: Rogues are proficient with all simple weapons, plus the hand crossbow, rapier, sap, shortbow, and short sword. Rogues are proficient with light armor, but not with shields.
+
+**Sneak Attack**:
+
+**Trapfinding**:
+
+**Evasion**:
+
+**Trap Sense**:
+
+**Uncanny Dodge**:
+
+**Special Ability**:

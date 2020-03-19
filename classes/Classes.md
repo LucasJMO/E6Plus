@@ -2,7 +2,7 @@
 
 The following is a master list of classes tailored for E6+. 
 
-##Classes
+## Classes
 
 Barbarian
 Bard
