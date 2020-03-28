@@ -10,7 +10,7 @@ LVL | BAB | F | R | W | Special
 --- | --- | - | - | - | ------- 
 1   | 1   | 2 | 0 | 2 | Combat Focus          
 2   | 2   | 3 | 0 | 3 | Active Assault, Problem Solver          
-3   | 3   | 3 | 1 | 3 | Bonus Feat 
+3   | 3   | 3 | 1 | 3 | Bonus Feat, Pack Mule 
 4   | 4   | 4 | 1 | 4 | Bonus Feat, Weapon Training
 5   | 5   | 4 | 1 | 4 | Improved Delay        
 6   | 6/1 | 5 | 2 | 5 | Bonus Feat, Array of Stunts, Foil Action
@@ -24,6 +24,8 @@ LVL | BAB | F | R | W | Special
 **Active Assault**(Ex): A 2nd level fighter gains the ability to take a 5 foot step each turn as an immediate action, this is in addition to all other forms of movement (including the normal 5 foot step).
 
 **Problem Solver**(Ex): A 2nd level fighter may expend a swift action and gain the benefits of any [Combat] feat for which he meets the prerequisites and use it for a number of rounds equal to his class level. This ability may be used once per hour.
+
+**Pack Mule**(Ex): A 3rd level fighter suffers no penalties for carrying a medium load, and may retrieve stored items from his person without provoking an attack of opportunity.
 
 **Weapon Training**(Ex): A 4th level fighter gains the ability to become proficient with any weapon he spends a full day training with. He may take no other actions during this day, and if he is interrupted he loses all progress and must begin again.
 
