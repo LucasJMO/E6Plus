@@ -8,12 +8,12 @@
 
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
-1   | 1   | 2 | 0 | 2 | Fire Resistance, Fire Burst, Fire Bolts, Impress Flames, Fire Magic     
-2   | 2   | 3 | 0 | 3 | Ignite
-3   | 3   | 3 | 1 | 3 | Piercing Flames, Hands of Fire
-4   | 4   | 4 | 1 | 4 | Fire Immunity, Smokeless Flame
-5   | 5   | 4 | 1 | 4 | Fireballs, Mind of Fire
-6   | 6/1 | 5 | 2 | 5 | Conflagration
+1   | 0   | 2 | 2 | 2 | Fire Resistance, Fire Burst, Fire Bolts, Impress Flames, Fire Magic     
+2   | 1   | 3 | 3 | 3 | Ignite
+3   | 2   | 3 | 3 | 3 | Piercing Flames, Hands of Fire
+4   | 3   | 4 | 4 | 4 | Fire Immunity, Smokeless Flame
+5   | 3   | 4 | 4 | 4 | Fireballs, Mind of Fire
+6   | 4   | 5 | 5 | 5 | Conflagration
 
 **Weapon and Armor Proficiency**: Fire Mages are proficient with all simple weapons, as well as the whip, all martial axes, and all sizes and varieties of scimitar (including falchions). Fire Mages are proficient with light armor, but not shields of any kind.
 
@@ -21,7 +21,7 @@ LVL | BAB | F | R | W | Special
 
 **Fire Burst**: As a standard action, a Fire Mage can emit a burst of flame from his body, striking all creatures and objects within 10’ of his position except himself. This burst of flames inflicts 1d6 of fire damage, with an allowed Reflex Save for half (DC 10 + 1/2 class level + charisma modifier)
 
-**Fire Bolts**: A Fire Mage can throw bolts of fire as a standard action. A Fire Bolt travels out to short range, requires a ranged touch attack to hit, and inflicts 1d6 of Fire damage per Fire Mage level, up to a maximum of 4d6 at 4th level.
+**Fire Bolts**: A Fire Mage can throw bolts of fire as a standard action. A Fire Bolt travels out to short range, requires a ranged touch attack to hit, and inflicts 1d6 of Fire damage per Fire Mage level, up to a maximum of 5d6 at 5th level.
 
 **Impress Flames**: Every time a Fire Mage inflicts Fire damage on any target, whether with his class abilities or another source of fire, he inflicts an amount of extra Fire Damage equal to his class level.
 

@@ -1,17 +1,19 @@
 # Jester
 
+**Hit Die**: d6
+
 **Skills**: Balance (Dex), Bluff (Cha), Climb (Str), Concentration (Con), Craft (Int), Diplomacy (Cha), Disable Device (Int), Disguise (Cha), Escape Artist (Dex), Gather Information (Cha), Hide (Dex), Intimidate (Cha), Jump (Str), Listen (Wis), Move Silently (Dex), Perform (Cha), Profession (Wis), Search (Int), Sense Motive (Wis), Sleight of Hand (Dex), Spellcraft (Int), Spot (Wis), Swim (Str), Tumble (Dex), Use Magic Device (Cha)
 
 **Skills/Level**: 6 + Int modifier
 
 LVL | BAB | F | R | W | Special | 0 | 1 | 2
 --- | --- | - | - | - | ------- | - | - | -
-1   | 0   | 0 | 2 | 2 | Harlequin's Mask, Ignore Components, Poison Use | 2 |  -  |  -  
-2   | 1   | 0 | 3 | 3 | Laugh it Off | 3 | 0 |  -  
-3   | 2   | 1 | 3 | 3 | Sneak Attack +1d6, Power Slide | 3 | 1 | -
-4   | 3   | 1 | 4 | 4 | Jester's Feint | 3 | 2 | 0
-5   | 3   | 2 | 4 | 4 | Cruel Comment, Killer Clown | 3 | 3 | 1
-6   | 4   | 2 | 5 | 5 | Sneak Attack +2d6, Last Trick | 3 | 3 | 2
+1   | 0   | 0 | 2 | 0 | Harlequin's Mask, Ignore Components, Poison Use | 2 |  -  |  -  
+2   | 1   | 0 | 3 | 0 | Laugh it Off | 3 | 0 |  -  
+3   | 2   | 1 | 3 | 1 | Sneak Attack +1d6, Power Slide | 3 | 1 | -
+4   | 3   | 1 | 4 | 1 | Jester's Feint | 3 | 2 | 0
+5   | 3   | 1 | 4 | 1 | Cruel Comment, Killer Clown | 3 | 3 | 1
+6   | 4   | 2 | 5 | 2 | Sneak Attack +2d6, Last Trick | 3 | 3 | 2
 
 **Weapon and Armor Proficiency**: Jesters are proficient with light armor but not with shields of any kind. A Jester is proficient with no weapons, but suffers no attack penalty for using a weapon with which they are not proficient or which is made for a character of a different size than themselves. Even, perhaps especially, improvised weapons may be used without the usual -4 penalty.
 
