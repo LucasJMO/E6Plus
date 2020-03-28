@@ -8,8 +8,8 @@
 
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
-1   | 0   | 0 | 2 | 0 | Sneak Attack +1d6, Trapfinding, Special Ability          
-2   | 1   | 0 | 3 | 0 | Evasion
+1   | 0   | 0 | 2 | 0 | Sneak Attack +1d6, Trapfinding       
+2   | 1   | 0 | 3 | 0 | Evasion, Special Ability
 3   | 2   | 1 | 3 | 1 | Sneak Attack +2d6, Trap Sense +1, Special Ability  
 4   | 3   | 1 | 4 | 1 | Uncanny Dodge
 5   | 3   | 2 | 4 | 1 | Sneak Attack +3d6, Special Ability
