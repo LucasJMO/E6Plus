@@ -45,7 +45,7 @@ These bonuses to AC apply even against touch attacks or when the monk is flat-fo
 
 **Ki Ray**: A 2nd level monk may make a ranged touch attack with a maximum range of 25 + 5 feet per monk level, dealing 1d6/monk level + Wisdom modifier.
 
-**Ki Strike**: A 4th level monk's unarmed attacks are treated as magic wweapons for the purpose of dealing damage to creatures with damage reduction.
+**Ki Strike**: A 4th level monk's unarmed attacks are treated as magic weapons for the purpose of dealing damage to creatures with damage reduction.
 
 **Slow Fall**(Ex): At 4th level or higher, a monk can slow her descent. When first using this ability, she takes damage as if the fall were 20 feet shorter than it actually is. At 6th level she takes damage as if the fall were 40 feet shorter than it actually is.
 
