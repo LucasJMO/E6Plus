@@ -6,24 +6,24 @@
 
 **Skills/Level**: 4 + Int modifier
 
-LVL | BAB | F | R | W | Special 
---- | --- | - | - | - | ------- 
-1   | 1   | 2 | 2 | 2 | Unarmed Strike, Improved Grapple, Weapon Finesse, Takedown
-2   | 2   | 3 | 3 | 3 | Prone Movement, Leg Entanglement, Countergrappling
-3   | 3   | 3 | 3 | 3 | Improved Pin, Ground and Pound, Joint Lock
-4   | 4   | 4 | 4 | 4 | Choke, Ki Strike, 
-5   | 5   | 4 | 4 | 4 | 
-6   | 6/1 | 5 | 5 | 5 | Death Choke
+LVL | BAB | F | R | W | Special | ACB | USB
+--- | --- | - | - | - | ------- | --- | ---
+1   | 1   | 2 | 2 | 2 | Unarmed Strike, Improved Grapple, Weapon Finesse, Takedown ||
+2   | 2   | 3 | 3 | 3 | Prone Movement, Leg Entanglement, Countergrappling ||
+3   | 3   | 3 | 3 | 3 | Improved Pin, Ground and Pound, Joint Lock ||
+4   | 4   | 4 | 4 | 4 | Choke, Ki Strike, ||
+5   | 5   | 4 | 4 | 4 | ||
+6   | 6/1 | 5 | 5 | 5 | Death Choke ||
 
-**Weapon and Armor Proficiency**: Monks are not proficient with any weapons, armor, or shields.
+**Weapon and Armor Proficiency**: Grapplers are not proficient with any weapons, armor, or shields.
 
 When wearing armor, using a weapon, shield, or carrying a medium or heavy load, a gappler loses her class abilities.
 
-**Unarmed Strike**: A 1st level monk gains Improved Unarmed Strike as a bonus feat. A monk's attacks may be either fist interchangeably or even from elbows, knees, and feet. This means that a monk may even make unarmed strikes with her hands full. There is no such thing as an off hand attack for a monk striking unarmed. A monk may thus apply her full Strength bonus on damage rolls for all her unarmed strikes.
+**Unarmed Strike**: A 1st level grappler gains Improved Unarmed Strike as a bonus feat. A grappler's attacks may be either fist interchangeably or even from elbows, knees, and feet. This means that a grappler may even make unarmed strikes with her hands full. There is no such thing as an off hand attack for a grappler striking unarmed. A grappler may thus apply her full Strength bonus on damage rolls for all her unarmed strikes.
 
 **Improved Grapple**: A 1st level grappler gains Improved Grapple as a bonus feat.
 
-**Weapon Finesse**: A monk may use her Dexterity modifier instead of Strength modifier on unarmed attack rolls. 
+**Weapon Finesse**: A grappler may use her Dexterity modifier instead of Strength modifier on unarmed attack rolls. 
 
 **Grappling Finesse**: A grappler may use her Dexterity modifier instead of Strength on grapple checks.
 
