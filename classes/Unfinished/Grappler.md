@@ -6,22 +6,22 @@
 
 **Skills/Level**: 4 + Int modifier
 
-LVL | BAB | F | R | W | Special | ACB | USB
---- | --- | - | - | - | ------- | --- | ---
-1   | 1   | 2 | 2 | 2 | Unarmed Strike, Improved Grapple, Weapon Finesse, Takedown ||
-2   | 2   | 3 | 3 | 3 | Prone Movement, Leg Entanglement, Countergrappling ||
-3   | 3   | 3 | 3 | 3 | Improved Pin, Ground and Pound, Joint Lock ||
-4   | 4   | 4 | 4 | 4 | Choke, Ki Strike, ||
-5   | 5   | 4 | 4 | 4 | ||
-6   | 6/1 | 5 | 5 | 5 | Death Choke ||
+LVL | BAB | F | R | W | Special | Unarmed Damage |ACB 
+--- | --- | - | - | - | ------- | -------------- |--- 
+1   | 1   | 2 | 2 | 2 | Unarmed Strike, Grapple Arts, Weapon Finesse, Grappling Finesse, Takedown | 1d6 | +0
+2   | 2   | 3 | 3 | 3 | Prone Movement, Leg Entanglement, Countergrappling | 1d6 | +1
+3   | 3   | 3 | 3 | 3 | Improved Pin, Defensive Grappler, Grapple Strike | 1d6 | +2
+4   | 4   | 4 | 4 | 4 | Choke, Impossible Grip, Powerful Grappler | 1d8 | +3
+5   | 5   | 4 | 4 | 4 | Carry | 1d8 | +4
+6   | 6/1 | 5 | 5 | 5 |  | 1d8 | +5
 
 **Weapon and Armor Proficiency**: Grapplers are not proficient with any weapons, armor, or shields.
 
-When wearing armor, using a weapon, shield, or carrying a medium or heavy load, a gappler loses her class abilities.
+When wearing armor, using a weapon, shield, or carrying a heavy load, a gappler loses her class abilities.
 
 **Unarmed Strike**: A 1st level grappler gains Improved Unarmed Strike as a bonus feat. A grappler's attacks may be either fist interchangeably or even from elbows, knees, and feet. This means that a grappler may even make unarmed strikes with her hands full. There is no such thing as an off hand attack for a grappler striking unarmed. A grappler may thus apply her full Strength bonus on damage rolls for all her unarmed strikes.
 
-**Improved Grapple**: A 1st level grappler gains Improved Grapple as a bonus feat.
+**Grapple Arts**: A 1st level grappler gains Improved Grapple as a bonus feat. Additionally the grappler adds their class level as an untyped bonus on grapple checks.
 
 **Weapon Finesse**: A grappler may use her Dexterity modifier instead of Strength modifier on unarmed attack rolls. 
 
@@ -49,4 +49,21 @@ Note that this ability requires the enemy to be within the grappler's threat ran
 
 **Improved Pin**: A 3rd level grappler gains the ability to initiate a pin with a single grapple check. If he wins an opposed grapple check by 5 or more he immediately pins the opponent.
 
-**Ground and Pound**: A 3rd level grappler who has an opponent grappled does not take any penalties 
+**Defensive Grappler**: A 3rd level grappler does not lose his Dexterity bonus to AC while grappling. 
+
+**Grapple Strike**: A 3rd level grappler who has an opponent grappled does not take any penalties on attack rolls against an opponent they are grappling. Additionally they add 1d6 damage to their attacks against foes who are being grappled.
+
+**Choke**: A 4th level grappler who has pinned an opponent may use a standard action to initiate a choke. Make another opposed grapple check, if the grappler wins by 10 or more the opponent becomes stunned. Each turn the grappler may continue the choke by expending another standard action. When the grappler releases the choke the opponent remains stunned for another 1d4+1 rounds.
+
+**Impossible Grip**: A 4th level grappler gains the ability to grapple incorporeal creatures. While grappling, the grappler's unarmed attacks are treated as magic weapons for the purpose of dealing damage to creatures with damage reduction or incorporeal creatures.
+
+**Powerful Grappler**: A 4th level grappler is treated as one size category larger than he is for grapple checks. This does not stack with other abilities which allow the grappler to be treated as one size category larger (for example the goliath ability powerful build).
+
+**Carry**: A 5th level grappler who has an opponent grappled may use a standard action to initiate a carry. Make another opposed grapple check, if the grappler wins by 10 or more the opponent is carried. The grappler may move and attack as normal, provided the opponent is not too heavy for them. They may not initiate another grapple without first releasing the opponent they are carrying. A grappler cannot initiate a carry against an opponent who has a great weight than their maximum heavy load + 100 pounds.
+
+Movement Speed | Weight of Carried Opponent
+-------------- | --------------------------
+Normal         | Light or Medium Load
+Halved		   | Heavy Load
+5 feet 		   | Heavy Load + 100 pounds
+
