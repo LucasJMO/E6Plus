@@ -55,11 +55,13 @@ Note that this ability requires the enemy to be within the grappler's threat ran
 
 **Choke**: A 4th level grappler who has pinned an opponent may use a standard action to initiate a choke. Make another opposed grapple check, if the grappler wins by 10 or more the opponent becomes stunned. Each turn the grappler may continue the choke by expending another standard action. When the grappler releases the choke the opponent remains stunned for another 1d4+1 rounds.
 
+This ability only affects creatures who can be subject to critical hits or sneak attacks.
+
 **Impossible Grip**: A 4th level grappler gains the ability to grapple incorporeal creatures. While grappling, the grappler's unarmed attacks are treated as magic weapons for the purpose of dealing damage to creatures with damage reduction or incorporeal creatures.
 
 **Powerful Grappler**: A 4th level grappler is treated as one size category larger than he is for grapple checks. This does not stack with other abilities which allow the grappler to be treated as one size category larger (for example the goliath ability powerful build).
 
-**Carry**: A 5th level grappler who has an opponent grappled may use a standard action to initiate a carry. Make another opposed grapple check, if the grappler wins by 10 or more the opponent is carried. The grappler may move and attack as normal, provided the opponent is not too heavy for them. They may not initiate another grapple without first releasing the opponent they are carrying. A grappler cannot initiate a carry against an opponent who has a great weight than their maximum heavy load + 100 pounds.
+**Carry**: A 5th level grappler who has an opponent grappled may use a standard action to initiate a carry. Make another opposed grapple check, if the grappler wins by 10 or more the opponent is carried. The grappler may move and attack as normal, provided the opponent is not too heavy for them. They may not initiate another grapple without first releasing the opponent they are carrying. A grappler cannot initiate a carry against an opponent who has a greater weight than their maximum heavy load + 100 pounds.
 
 Movement Speed | Weight of Carried Opponent
 -------------- | --------------------------

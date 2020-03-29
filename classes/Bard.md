@@ -8,7 +8,7 @@
 
 LVL | BAB | F | R | W | Special | 0 | 1 | 2
 --- | --- | - | - | - | ------- | - | - | -
-1   | 0   | 0 | 2 | 2 | Bardic Knowledge, Inspire Heroism +1, Skill Focus (Perform), Song of Life | 4/2 |  -  |  -  
+1   | 0   | 0 | 2 | 2 | Bardic Knowledge, Bardic Music, Inspire Heroism +1, Skill Focus (Perform), Song of Life | 4/2 |  -  |  -  
 2   | 1   | 0 | 3 | 3 | Inspire Competence, Song of Shelter, Song of Evasion | 5/3 | 2/0 |  -  
 3   | 2   | 1 | 3 | 3 | Inspire Heroism +2, Song of Freedom | 6/3 | 3/1 | 2/0
 4   | 3   | 1 | 4 | 4 | Song of Battle | 6/3 | 3/2 | 3/1
@@ -32,9 +32,11 @@ DC | Type of Knowledge
 
 **Skill Focus (Perform)**: At 1st level a bard gains the feat skill focus for the skill perform. If the Bard already has this feat, they can instead select a different feat for which they meet the prerequisites.
 
-**Inspire Heroism**(Su): Once per day per bard level, a bard who is performing one of his song abilities can select an ally being affected by the song and provide them with a +1 morale bonus to saving throws, armor class, attack rolls, and damage. At 3rd level this bonus increases to +2, and at 5th level it increases to +3. This bonus continues as long as the ally is being affected by the bard's song, and for 5 rounds after.
+**Bardic Music**(Su): A 1st level bard gains the ability to aid allies with his music. This can be used a number of times per day equal to bard class level. Inspire Heroism and Inspire Competence both exhaust one daily use of bardic music. 
 
-**Inspire Competence**(Su): Once per day per bard level, a bard can help an ally succeed at a task. The ally must be within 30 feet, and be able to see and hear the Bard. The ally gains a competence bonus on skill checks with a particular skill as long as he continues to hear the bard's music. This bonus is equal to the bard's performance check divided by 5 (rounded down). The effect lasts as long as the bard concentrates, up to a maximum of two minutes. A bard cannot inspire competence in himself.
+**Inspire Heroism**(Su): At 1st level, a bard who is performing one of his song abilities can select an ally being affected by the song and provide them with a +1 morale bonus to saving throws, armor class, attack rolls, and damage. At 3rd level this bonus increases to +2, and at 5th level it increases to +3. This bonus continues as long as the ally is being affected by the bard's song, and for 5 rounds after.
+
+**Inspire Competence**(Su): At 2nd level, a bard can help an ally succeed at a task. The ally must be within 30 feet, and be able to see and hear the Bard. The ally gains a competence bonus on skill checks with a particular skill as long as he continues to hear the bard's music. This bonus is equal to the bard's performance check divided by 5 (rounded down). The effect lasts as long as the bard concentrates, up to a maximum of two minutes. A bard cannot inspire competence in himself.
 
 **Songs**(Su): The bardic ablities song of life/shelter/evasion/freedom/battle/swiftness are supernatural abilities which confer bonuses on allies within 30 ft who can hear the bard. Each song requires a standard action to start, and a standard action each round to continue. There is no limit on the number of rounds a song can remain active. Stopping a song is a free action, and transitioning from one active song to another requires a swift action. If a bard takes damage while using a song they must roll a concentration check of DC 10 + damage dealt or stop any ongoing song effect.
 
