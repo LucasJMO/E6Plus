@@ -43,4 +43,6 @@ The ranger can also use this ability to influence a magical beast with an intell
 
 **Bonus Feat**: At 3rd level the ranger gains a bonus feat along with any feats gained from their standard level progression.
 
+**Opportunist**(Ex): Once per round, the ranger can make an attack of opportunity against an opponent who has just been struck for damage in melee by another character. This attack counts as the ranger’s attack of opportunity for that round. Even a ranger with the Combat Reflexes feat can’t use the opportunist ability more than once per round.
+
 **Improved Combat Style**(Ex): A 6th level ranger is treated as having the Manyshot feat and the Improved wo-Weapon Fighting feat even if he does not have the normal prerequisites for the feat. The benefits of the Ranger's chosen style only apply when he wears light or no armor.
