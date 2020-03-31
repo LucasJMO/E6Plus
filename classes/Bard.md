@@ -11,8 +11,8 @@ LVL | BAB | F | R | W | Special | 0 | 1 | 2
 1   | 1   | 0 | 2 | 2 | Bardic Music, Bardic Knowledge, Skill Focus (Perform), Countersong, Fascinate, Inspire Courage +1 | 4/2 |  -  |  -  
 2   | 2   | 0 | 3 | 3 | Weapon Finesse | 5/3 | 2/0 |  -  
 3   | 3   | 1 | 3 | 3 | Inspire Competence | 6/3 | 3/1 | 2/0
-4   | 4   | 1 | 4 | 4 |  | 6/3 | 3/2 | 3/1
-5   | 5   | 2 | 4 | 4 |  | 7/4 | 4/3 | 4/2
+4   | 4   | 1 | 4 | 4 | Bonus Metamagic Feat | 6/3 | 3/2 | 3/1
+5   | 5   | 2 | 4 | 4 | Bonus Feat | 7/4 | 4/3 | 4/2
 6   | 6/1 | 2 | 5 | 5 | Suggestion | 7/4 | 5/4 | 4/3
 
 **Weapon and Armor Proficiency**: A bard is proficient with all simple and martial weapons. Bards are proficient with light armor, medium armor, and shields (except tower shields). A bard can cast bard spells while wearing light or medium armor without incurring the normal arcane spell failure chance. However wearing heavy armor or using a shield incurs a chance of arcane spell failure if the spell being cast has a somatic component. A multiclass bard still incurs the normal arcane spell failure chance for arcane spells received from other classes.
@@ -48,6 +48,10 @@ DC | Type of Knowledge
 
 The ally gets a +2 competence bonus on skill checks with a particular skill as long as he or she continues to hear the bard’s music. Certain uses of this ability are infeasible. The effect lasts as long as the bard concentrates, up to a maximum of 2 minutes. A bard can’t inspire competence in himself. Inspire competence is a mind-affecting ability.
  
+**Bonus Metamagic Feat**: A 4th level bard may select a metamagic feat in addition to any feats from his standard class progression.
+
+**Bonus Feat**: A 5th level bard may select a feat in addition to any feats from his standard class progression.
+
 **Suggestion**(Sp): A bard of 6th level or higher with 9 or more ranks in a Perform skill can make a suggestion (as the spell) to a creature that he has already fascinated. Using this ability does not break the bard’s concentration on the fascinate effect, nor does it allow a second saving throw against the fascinate effect.
 
 Making a suggestion doesn’t count against a bard’s daily limit on bardic music performances. A Will saving throw (DC 10 + 1/2 bard’s level + bard’s Cha modifier) negates the effect. This ability affects only a single creature. Suggestion is an enchantment (compulsion), mind-affecting, language dependent ability.
