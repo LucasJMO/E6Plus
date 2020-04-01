@@ -1,6 +1,6 @@
 # Bard
 
-**Hit Die**: d8
+**Hit Die**: d6
 
 **Skills**: Appraise (Int), Balance (Dex), Bluff (Cha), Climb (Str), Concentration (Con), Craft (Int), Decipher Script (Int), Diplomacy (Cha), Disguise (Cha), Escape Artist (Dex), Gather Information (Cha), Heal (Wis), Hide (Dex), Jump (Str), Knowledge (all skills, taken individually) (Int), Listen (Wis), Move Silently (Dex), Perform (Cha), Profession (Wis), Sleight of Hand (Dex), Speak Language (None), Spellcraft (Int), Swim (Str), Tumble (Dex), Use Magic Device (Cha)
 
@@ -8,18 +8,20 @@
 
 LVL | BAB | F | R | W | Special | 0 | 1 | 2
 --- | --- | - | - | - | ------- | - | - | -
-1   | 1   | 0 | 2 | 2 | Bardic Music, Bardic Knowledge, Skill Focus (Perform), Countersong, Fascinate, Inspire Courage +1 | 4/2 |  -  |  -  
-2   | 2   | 0 | 3 | 3 | Weapon Finesse | 5/3 | 2/0 |  -  
-3   | 3   | 1 | 3 | 3 | Inspire Competence | 6/3 | 3/1 | 2/0
-4   | 4   | 1 | 4 | 4 | Bonus Metamagic Feat | 6/3 | 3/2 | 3/1
-5   | 5   | 2 | 4 | 4 | Bonus Feat | 7/4 | 4/3 | 4/2
-6   | 6/1 | 2 | 5 | 5 | Suggestion | 7/4 | 5/4 | 4/3
+1   | 1   | 0 | 2 | 2 | Advanced Learning, Bardic Music, Bardic Knowledge, Skill Focus (Perform), Countersong, Fascinate, Inspire Courage +1, Weapon Finesse | (4+1)/2 |  -  |  -  
+2   | 2   | 0 | 3 | 3 | Point Blank Shot | (5+1)/3 | (2+1)/1 |  -  
+3   | 3   | 1 | 3 | 3 | Inspire Competence, Songcaster | (6+1)/3 | (3+1)/1 | -
+4   | 4   | 1 | 4 | 4 | Songspinner | (6+1)/3 | (3+1)/2 | (2+1)/1
+5   | 5   | 2 | 4 | 4 | Bonus Metamagic Feat | (6+1)/4 | (4+1)/3 | (3+1)/1
+6   | 6/1 | 2 | 5 | 5 | Suggestion | (6+1)/4 | (4+1)/3 | (3+1)/2
 
 **Weapon and Armor Proficiency**: A bard is proficient with all simple and martial weapons. Bards are proficient with light armor, medium armor, and shields (except tower shields). A bard can cast bard spells while wearing light or medium armor without incurring the normal arcane spell failure chance. However wearing heavy armor or using a shield incurs a chance of arcane spell failure if the spell being cast has a somatic component. A multiclass bard still incurs the normal arcane spell failure chance for arcane spells received from other classes.
 
 **Spells**: A bard casts arcane spells which are drawn from the bard spell list. He can cast any spell he knows without preparing it beforehand. To learn or cast a spell, a bard must have a Charisma score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a bard's spell is 10 + spell level + Charisma modifier.
 
 Upon reaching 4th level, and at every Bard level after that, a Bard can choose to learn a new spell in place of one he already knows. 
+
+**Advanced Learning**: At 1st, 2nd, and 4th level, a bard can gain an additional spell known, from a spell list outside of her own (should she choose to do so). The spell may be of a level no higher than that of the highest level spell the bard already knows. If a spell appears on multiple spell lists, use the lowest level version.
 
 **Bardic Music**: Once per day per bard level, a bard can use his song or poetics to produce magical effects on those around him (usually including himself, if desired). While these abilities fall under the category of bardic music and the descriptions discuss singing or playing instruments, they can all be activated by reciting poetry, chanting, singing lyrical songs, singing melodies, whistling, playing an instrument, or playing an instrument in combination with some spoken performance. Each ability requires both a minimum bard level and a minimum number of ranks in the Perform skill to qualify; if a bard does not have the required number of ranks in at least one Perform skill, he does not gain the bardic music ability until he acquires the needed ranks.
 
@@ -44,13 +46,21 @@ DC | Type of Knowledge
 
 **Weapon Finesse**: A bard may use her Dexterity modifier instead of Strength modifier on unarmed attack rolls. 
 
+**Point Blank Shot**: A 2nd level bard gains the feat Point Blank Shot, if she already has this feat she may instead select another feat for which she meets the prerequisites.
+
 **Inspire Competence**(Su): A bard of 3rd level or higher with 6 or more ranks in a Perform skill can use his music or poetics to help an ally succeed at a task. The ally must be within 30 feet and able to see and hear the bard. The bard must also be able to see the ally.
 
 The ally gets a +2 competence bonus on skill checks with a particular skill as long as he or she continues to hear the bard’s music. Certain uses of this ability are infeasible. The effect lasts as long as the bard concentrates, up to a maximum of 2 minutes. A bard can’t inspire competence in himself. Inspire competence is a mind-affecting ability.
  
-**Bonus Metamagic Feat**: A 4th level bard may select a metamagic feat in addition to any feats from his standard class progression.
+**Songcaster**: A 3rd level bard gains the ability to offset the cost of metamagic spells by expending daily uses of his bardic music ability. For each use expended the spell's level is reduced by 1. A spell cannot be made to be a lower level than it was without any metamagic.
 
-**Bonus Feat**: A 5th level bard may select a feat in addition to any feats from his standard class progression.
+Each day a bard can only expend a number of daily uses of bardic music equal to his class level, even if he has gained additional uses via some other method.
+
+**Songspinner**: A 4th level bard gains the ability to modify the DC of spells by expending daily uses of his bardic music ability. For each use expended a spell's save DC can be raised (or lowered) by 1. This bard may only change a spell's DC by a maximum of bard levels divided by 2.
+
+This ability can affect spells cast by the bard, spells targeting the bard, or spells with a target within 30 feet of the bard. Using this ability requires an immediate action.
+
+**Bonus Metamagic Feat**: A 5th level bard may select a metamagic feat in addition to any feats from his standard class progression.
 
 **Suggestion**(Sp): A bard of 6th level or higher with 9 or more ranks in a Perform skill can make a suggestion (as the spell) to a creature that he has already fascinated. Using this ability does not break the bard’s concentration on the fascinate effect, nor does it allow a second saving throw against the fascinate effect.
 
