@@ -21,7 +21,7 @@ LVL | BAB | F | R | W | Special
 
 **Code of Conduct**: A knight must abide by the following rules. Breaking any results in the loss of Knightly abilities until atonement is completed. A knight must refuse bonuses from Aid Another actions in combat, a knight must refrain from the use of poisons of any kind, a knight may not voluntarily change shape, and a knight may not sell magic items.
 
-**Draw Fire**: With a Swift Action, a Knight may pique the interest of any mindless opponent within medium range. That creature must make a will save (DC 10 + ½ HD + constitution modifier) or spend all of its actions moving towards or attacking the Knight. This effect ends after a number of rounds equal to the Knight’s class level.
+**Draw Fire**: With a Swift Action, a Knight may pique the interest of any mindless opponent within medium range. That creature must make a will save (DC 10 + 1/2 HD + constitution modifier) or spend all of its actions moving towards or attacking the Knight. This effect ends after a number of rounds equal to the Knight’s class level.
 
 **Damage Reduction**: A Knight has Damage Reduction X/-, where X is half her Knight level, rounded down.
 
