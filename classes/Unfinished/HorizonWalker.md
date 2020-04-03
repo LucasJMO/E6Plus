@@ -2,7 +2,7 @@
 
 **Hit Die**: d10
 
-**Skills**: Balance (Dex), Climb (Str), Diplomacy (Cha), Handle Animal (Cha), Hide (Dex), Knowledge (all skills, taken individually) (Int), Listen (Wis), Move Silently (Dex), Profession (Wis), Ride (Dex), Speak Language (None), Spot (Wis), and Survival (Wis)
+**Skills**: Balance (Dex), Climb (Str), Diplomacy (Cha), Handle Animal (Cha), Hide (Dex), Knowledge (Geography) (Int), Knowledge (Local) (Int), Knowledge (Nature) (Int), Knowledge (Planes) (Int), Listen (Wis), Move Silently (Dex), Profession (Wis), Ride (Dex), Speak Language (None), Spot (Wis), and Survival (Wis)
 
 **Skills/Level**: 4 + Int modifier
 
@@ -10,22 +10,22 @@ LVL | BAB | F | R | W | Special
 --- | --- | - | - | - | ------- 
 1   | 1   | 2 | 2 | 2 | Terrain Mastery
 2   | 2   | 3 | 3 | 3 | Terrain Mastery
-3   | 3   | 3 | 3 | 3 | Terrain Mastery, Planar Terrain Mastery, Horizon Step
-4   | 4   | 4 | 4 | 4 | Terrain Mastery, Planar Terrain Mastery
-5   | 5   | 4 | 4 | 4 | Terrain Mastery, Planar Terrain Mastery
-6   | 6/1 | 5 | 5 | 5 | Terrain Mastery, Planar Terrain Mastery
+3   | 3   | 3 | 3 | 3 | Terrain Mastery, Planar Attunement, Horizon Step
+4   | 4   | 4 | 4 | 4 | Terrain Mastery
+5   | 5   | 4 | 4 | 4 | Terrain Mastery
+6   | 6/1 | 5 | 5 | 5 | Terrain Mastery
 
 **Weapon and Armor Proficiency**: A horizon walker is proficient with all simple and martial weapons. Horizon walkers are proficient with light armor, medium armor, and shields (except tower shields).
-
-**Fast Movement**(Ex): A horizon walker's land speed is faster than the norm for his race by +10 ft. This benefit applies only when he is wearing no armor, light armor, or medium armor and not carrying a heavy load. Apply this bonus before modifying the horizon walker's speed because of any load carried or armor.
 
 **Terrain Mastery**: At each level, the Horizon Walker adds a new terrain environment to their repertoire from those given below. Terrain mastery gives a horizon walker a bonus on checks involving a skill useful in that terrain, or some other appropriate benefit. A horizon walker also knows how to fight dangerous creatures typically found in that terrain, gaining a +1 insight bonus on attack rolls and damage rolls against creatures with that terrain mentioned in the Environment entry of their descriptions. The horizon walker only gains the bonus if the creature description specifically lists the terrain type.
 
 Horizon walkers take their terrain mastery with them wherever they go. They retain their terrain mastery bonuses on skill checks, attack rolls, and damage rolls whether they’re actually in the relevant terrain or not.
 
-**Planar Terrain Mastery**: Planar terrain mastery functions just like terrain mastery, except that the horizon walker can choose one of the planar categories at each level. The horizon walker can take a non-planar terrain type instead, if she wishes.
+**Planar Attunement**: A 3rd level horizon walker gains the ability to attune himself to a plane, gaining the benefits of terrain mastery for that plane. At 4th, and each level thereafter, he may select an additional plane to be simultaneously attuned to (up to 4 at 6th level).
 
-**Horizon Step**: A 4th level horizon walker gains the ability to teleport a short distance every 1d6 rounds. Using this ability requires a swift action, the max range traveled is 10 feet per class level, and if this ability would put you in a place that is already occupied by a solid body, it fails.
+A horizon walker can change the planes he is attuned to by spending a week in careful meditation. He must full rest each night, and spend 12 hours each day connecting to the planes he wishes to attune himself to. He may use the remaining hours of the day to engage in simple, non-strenuous activity. Combat or use of his horizon step ability will cause the attempt to fail, leaving him attuned to the same planes as he was before attempting to change.
+
+**Horizon Step**: A 3rd level horizon walker gains the ability to teleport a short distance every 1d6 rounds. Using this ability requires a swift action, the max range traveled is 10 feet per class level, and if this ability would put you in a place that is already occupied by a solid body, it fails.
 
 The horizon walker may bring touched objects, so long as their weight does not exceed his maximum load. He cannot however bring other creatures.
 
