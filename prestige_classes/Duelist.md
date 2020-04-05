@@ -16,6 +16,8 @@ LVL | BAB | F | R | W | Special
 2   | 2   | 3 | 3 | 0 | Clever opportunist, combat reflexes, deflect arrows, grace
 3   | 3   | 3 | 3 | 1 | Skirmish +1d6, improved reaction +4
 
+**Weapon and Armor Proficiency**: The duelist is proficient with all simple and martial weapons, but no type of armor or shield.
+
 **Canny Defense**(Ex): When not wearing armor or using a shield, a duelist adds a +1 dodge bonus to AC per class level. If a duelist is caught flat footed or otherwise denied her Dexterity bonus, she also loses this bonus.
 
 **Improved Reaction**(Ex): A duelist gains a +2 bonus on initiative checks. At 3rd level this bonus increases to +4. This stacks with the bonus from the Improved Initiative feat.
