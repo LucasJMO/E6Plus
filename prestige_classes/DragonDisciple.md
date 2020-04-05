@@ -20,8 +20,8 @@ LVL | BAB | F | R | W | Special | Spellcasting
 --- | --- | - | - | - | ------- | ------------
 1   | 1   | 2 | 0 | 2 | Natural Armor Increase (+1) | -    
 2   | 2   | 3 | 0 | 3 | Ability Boost (Str +2), breath weapon (2d8), claws and bite | -
-3   | 3   | 3 | 1 | 3 | Ability Boost (Con +2), Blindsense 30 ft, natural armor increase (+2) | +1 level of existing spellcasting class      
-4   | 4   | 4 | 1 | 4 | Ability Boost (Str +2), breath weapon (3d8) | -         
+3   | 3   | 3 | 1 | 3 | Blindsense 30 ft, natural armor increase (+2) | +1 level of existing spellcasting class      
+4   | 4   | 4 | 1 | 4 | Ability Boost (Con +2), breath weapon (3d8) | -         
 5	| 5	  | 4 | 2 | 4 | Natural armor increase (+3) | +1 level of existing spellcasting class
 
 **Weapon and Armor Proficiency**: Dragon disciples gain no proficiency with any weapon or armor.
