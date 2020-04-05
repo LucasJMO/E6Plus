@@ -26,13 +26,13 @@ LVL | BAB | F | R | W | Special | Spellcasting
 
 **Weapon and Armor Proficiency**: Dragon disciples gain no proficiency with any weapon or armor.
 
-**Spells per Day/Spells Known**: Dragon disciples gain bonus spells as they gain levels in this prestige class, as if from having a high ability score, as given on Table: The Dragon Disciple. A bonus spell can be added to any level of spells the disciple already has the ability to cast.
+**Spells per Day/Spells Known**: Dragon disciples gain bonus spells as they gain levels in this prestige class, as if from having a high ability score. A bonus spell can be added to any level of spells the disciple already has the ability to cast.
 
 If a character has more than one spellcasting class, he must decide to which class he adds each bonus spell as it is gained. Once a bonus spell has been applied, it cannot be shifted.
 
-**Natural Armor Increase**: At 1st, 3rd, and 5th level, a dragon disciple gains an increase to the character’s existing natural armor (if any), as indicated on Table: The Dragon Disciple (the numbers represent the total increase gained to that point). As his skin thickens, a dragon disciple takes on more and more of his progenitor’s physical aspect.
+**Natural Armor Increase**: At 1st, 3rd, and 5th level, a dragon disciple gains an increase to the character’s existing natural armor (if any). As his skin thickens, a dragon disciple takes on more and more of his progenitor’s physical aspect.
 
-**Ability Boost**(Ex): As a dragon disciple gains levels in this prestige class, his ability scores increase as noted on Table: The Dragon Disciple.
+**Ability Boost**(Ex): As a dragon disciple gains levels in this prestige class, his ability scores increase.
 
 These increases stack and are gained as if through level advancement.
 
