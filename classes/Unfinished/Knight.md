@@ -12,7 +12,7 @@ LVL | BAB | F | R | W | Special
 2   | 2   | 3 | 0 | 3 | Damage Reduction, Bastion of Defense
 3   | 3   | 3 | 1 | 3 | Energy Resistance, Spell Shield, Speak to Animals
 4   | 4   | 4 | 1 | 4 | Immunity to Fear, Knightly Spirit
-5   | 5   | 4 | 1 | 4 | Sacrifice, Metle
+5   | 5   | 4 | 1 | 4 | Sacrifice, Mettle
 6   | 6/1 | 5 | 2 | 5 | Defend Others, Quick Recovery
 
 **Weapon and Armor Proficiency**: Knights are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with all shields (including tower shields).
