@@ -28,8 +28,6 @@ LVL | BAB | F | R | W | Special | Spellcasting
 
 **Spells per Day**: When a dragon disciple reaches levels 3 and 5, the character gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not, however, gain any other benefit a character of that class would have gained, except for an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming an dragon disciple, he must decide to which class he adds the new level for purposes of determining spells per day.
 
-If a character has more than one spellcasting class, he must decide to which class he adds each bonus spell as it is gained. Once a bonus spell has been applied, it cannot be shifted.
-
 **Natural Armor Increase**: At 1st, 3rd, and 5th level, a dragon disciple gains an increase to the character’s existing natural armor (if any). As his skin thickens, a dragon disciple takes on more and more of his progenitor’s physical aspect.
 
 **Ability Boost**(Ex): As a dragon disciple gains levels in this prestige class, his ability scores increase.
