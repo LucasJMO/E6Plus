@@ -37,7 +37,27 @@ If a character gains uncanny dodge from a second class, the character automatica
 
 **Shadow Shield**(Su): A shadowdancer in darkness gains a +2 shield bonus to her Armor Class.
 
-**Summon Shadow**(Su): 
+**Summon Shadow**(Su): At 4th level, the shadowdancer gains the ability to conjure a humanoid companion out of shadow. This companion can receive orders as if it were a summoned creature, in combat it does not have its own initiative score and instead acts on the turn of the shadowdancer.
+
+
+
+| Shadowdancer Companion | Level 4 | Level 5 | Level 6 |
+| ------ | ------- | ------- | ------- |
+| Size/Type    | Medium Humanoid | | |
+| Hit Dice:    | 4d12 (26) | 5d12 (32) | 6d12 (39) |
+| Initiative:  | +2 | +3 | +4 |
+| Speed:       | 40 ft. | | |
+| Armor Class: | 18 | 19 | 20 |
+| Base Attack/Grapple: | | | |
+| Attack:      | | | |
+| Full Attack: | | | |
+| Space/Reach: | | | |
+| Special Attacks:   | | | |
+| Special Qualities: | | | |
+| Saves:     | | | |
+| Abilities: | | | |
+| Skills:    | | | |
+| Feats:     | | | |
 
 **Improved Uncanny Dodge**(Ex): At 5th level, a shadowdancer can no longer be flanked. This defense denies rogues the ability to use flank attacks to sneak attack the shadowdancer. The exception to this defense is that a rogue at least four levels higher than the shadowdancer can flank her (and thus sneak attack her).
 
@@ -46,19 +66,3 @@ If a character gains uncanny dodge (see above) from a second class the character
 **Shadow Armor**(Su): A shadowdancer in darkness gains a +2 dodge bonus to her Armor Class.
 
 **Shadow Skin**(Su): A shadowdancer in darkness gains damage reduction 3/-.
-
-- | Shadow
-- | ------
-Size/Type    | Medium Undead 
-Hit Dice:    | 4d12 (26)
-Initiative:  | +2
-Speed:       | Fly 40 ft. (good)
-Armor Class: | 
-Base Attack/Grapple: |
-Space/Reach: |
-Special Attacks:   |
-Special Qualities: |
-Saves:     |
-Abilities: |
-Skills:    |
-Feats:     |
