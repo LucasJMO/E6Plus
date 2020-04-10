@@ -39,6 +39,7 @@ If a character gains uncanny dodge from a second class, the character automatica
 
 **Summon Shadow**(Su): At 4th level, the shadowdancer gains the ability to conjure a humanoid companion out of shadow. This companion can receive orders as if it were a summoned creature, in combat it does not have its own initiative score and instead acts on the turn of the shadowdancer.
 
+Summoning the companion requires a swift action, the companion may be placed in a square adjacent to the shadowdancer. Once summoned, the shadowdancer can dismiss  the companion as a free action. Damage to the companion however persists until the shadowdancer's next long rest, which fully restores the companion's hit points, or summons a new companion if the previous one was destroyed. The companion can also be healed by traditional means.
 
 
 | Shadowdancer Companion | Level 4 | Level 5 | Level 6 |
