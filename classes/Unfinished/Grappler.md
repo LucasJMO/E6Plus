@@ -11,9 +11,9 @@ LVL | BAB | F | R | W | Special | Unarmed Damage |ACB
 1   | 1   | 2 | 2 | 2 | Unarmed Strike, Grapple Arts, Weapon Finesse, Grappling Finesse, Takedown | 1d6 | +0
 2   | 2   | 3 | 3 | 3 | Prone Movement, Leg Entanglement, Countergrappling | 1d6 | +1
 3   | 3   | 3 | 3 | 3 | Improved Pin, Defensive Grappler, Grapple Strike | 1d6 | +2
-4   | 4   | 4 | 4 | 4 | Choke, Impossible Grip, Powerful Grappler | 1d8 | +3
-5   | 5   | 4 | 4 | 4 | Carry | 1d8 | +4
-6   | 6/1 | 5 | 5 | 5 |  | 1d8 | +5
+4   | 4   | 4 | 4 | 4 | Impossible Grip, Powerful Grappler | 1d8 | +3
+5   | 5   | 4 | 4 | 4 | Choke | 1d8 | +4
+6   | 6/1 | 5 | 5 | 5 | Carry | 1d8 | +5
 
 **Weapon and Armor Proficiency**: Grapplers are not proficient with any weapons, armor, or shields.
 
@@ -53,15 +53,15 @@ Note that this ability requires the enemy to be within the grappler's threat ran
 
 **Grapple Strike**: A 3rd level grappler who has an opponent grappled does not take any penalties on attack rolls against an opponent they are grappling. Additionally they add 1d6 damage to their attacks against foes who are being grappled.
 
-**Choke**: A 4th level grappler who has pinned an opponent may use a standard action to initiate a choke. Make another opposed grapple check, if the grappler wins by 10 or more the opponent becomes stunned. Each turn the grappler may continue the choke by expending another standard action. When the grappler releases the choke the opponent remains stunned for another 1d4+1 rounds.
-
-This ability only affects creatures who can be subject to critical hits or sneak attacks.
-
 **Impossible Grip**: A 4th level grappler gains the ability to grapple incorporeal creatures. While grappling, the grappler's unarmed attacks are treated as magic weapons for the purpose of dealing damage to creatures with damage reduction or incorporeal creatures.
 
 **Powerful Grappler**: A 4th level grappler is treated as one size category larger than he is for grapple checks. This does not stack with other abilities which allow the grappler to be treated as one size category larger (for example the goliath ability powerful build).
 
-**Carry**: A 5th level grappler who has an opponent grappled may use a standard action to initiate a carry. Make another opposed grapple check, if the grappler wins by 10 or more the opponent is carried. The grappler may move and attack as normal, provided the opponent is not too heavy for them. They may not initiate another grapple without first releasing the opponent they are carrying. A grappler cannot initiate a carry against an opponent who has a greater weight than their maximum heavy load + 100 pounds.
+**Choke**: A 5th level grappler who has pinned an opponent may use a standard action to initiate a choke. Make another opposed grapple check, if the grappler wins by 10 or more the opponent becomes stunned. Each turn the grappler may continue the choke by expending another standard action. When the grappler releases the choke the opponent remains stunned for another 1d4+1 rounds.
+
+This ability only affects creatures who can be subject to critical hits or sneak attacks.
+
+**Carry**: A 6th level grappler who has an opponent grappled may use a standard action to initiate a carry. Make another opposed grapple check, if the grappler wins by 10 or more the opponent is carried. The grappler may move and attack as normal, provided the opponent is not too heavy for them. They may not initiate another grapple without first releasing the opponent they are carrying. A grappler cannot initiate a carry against an opponent who has a greater weight than their maximum heavy load + 100 pounds.
 
 Movement Speed | Weight of Carried Opponent
 -------------- | --------------------------
