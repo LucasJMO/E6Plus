@@ -27,7 +27,7 @@ Upon reaching 4th level, and at every Bard level after that, a Bard can choose t
 
 Starting a bardic music effect is a standard action. Some bardic music abilities require concentration, which means the bard must take a standard action each round to maintain the ability. Even while using bardic music that doesn’t require concentration, a bard cannot cast spells, activate magic items by spell completion (such as scrolls), spell trigger (such as wands), or command word. Just as for casting a spell with a verbal component, a deaf bard has a 20% chance to fail when attempting to use bardic music. If he fails, the attempt still counts against his daily limit.
 
-**Bardic Knowledge**: A bard may make a special bardic knowledge check with a bonus equal to bard level + intelligence modifier + ranks in knowledge (history) divided by two. A successful bardic knowledge check will not reveal the powers of a magic item, byt may give a hint as to its general function. A bard may not take 10 or 20 on this check.
+**Bardic Knowledge**: A bard may make a special bardic knowledge check with a bonus equal to bard level + intelligence modifier + ranks in knowledge (history) divided by two. A successful bardic knowledge check will not reveal the powers of a magic item, but may give a hint as to its general function. A bard may not take 10 or 20 on this check.
 
 DC | Type of Knowledge
 -- | -----------------
