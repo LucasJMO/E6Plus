@@ -22,7 +22,7 @@ LVL | BAB | F | R | W | AC Bonus | Special
 
 **Defensive Stance**: When he adopts a defensive stance, a defender gains phenomenal strength and durability, but he may take no movement on his turn except for a single 5-foot step. He gains +2 to Strength, +4 to Constitution, a +2 resistance bonus on all saves, a +4 dodge bonus to AC, and a +2 bonus to damage reduction.
 
-Using or stopping the defensive stance takes no time itself, but a defender can only do so during his action. A defender suffers no penalties for exiting his stance, but he may only re-enter it after taking no physical actions for a full minute. Additionally, any opponent struck by an attack of opportunity by a defender 
+Using or stopping the defensive stance takes no time itself, but a defender can only do so during his action. A defender suffers no penalties for exiting his stance, but he may only re-enter it after taking no physical actions for a full minute.
 
 **Uncanny Dodge**(Ex): Starting at 2nd level, a defender retains his Dexterity bonus to AC (if any) regardless of being caught flat-footed or struck by an invisible attacker. (He still loses any Dexterity bonus to AC if immobilized.)
 

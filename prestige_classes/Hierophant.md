@@ -16,7 +16,7 @@ LVL | BAB | F | R | W | Special | Spellcasting
 2   | 1   | 3 | 0 | 3 | Special Ability | +1 level of existing spellcasting class
 3   | 1   | 3 | 1 | 3 | Special Ability | -
 4   | 2   | 4 | 1 | 4 | Special Ability | +1 level of existing spellcasting class
-5   | 2   | 4 | 1 | 4 | Special Ability | -
+5   | 2   | 4 | 1 | 4 | Special Ability | +1 level of existing spellcasting class
 
 
 
