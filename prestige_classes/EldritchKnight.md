@@ -16,7 +16,7 @@ LVL | BAB | F | R | W | Special | Spellcasting
 2   | 2   | 3 | 0 | 3 | Armor proficiency (Light) | +1 level of existing spellcasting class
 3   | 3   | 3 | 1 | 3 | Armor proficiency (Medium) | +1 level of existing spellcasting class      
 4   | 4   | 4 | 1 | 4 | Armor proficiency (Heavy) | +1 level of existing spellcasting class
-5	| 5	  | 4 | 2 | 4 |  | +1 level of existing spellcasting class
+5	| 5	  | 4 | 1 | 4 |  | +1 level of existing spellcasting class
 
 **Weapon and Armor Proficiency**: Eldritch knights gain no proficiency with any weapon or armor.
 
