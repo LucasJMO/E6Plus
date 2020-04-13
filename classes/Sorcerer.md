@@ -8,12 +8,12 @@
 
 LVL | BAB | F | R | W | Special | 0 | 1 | 2 | 3
 --- | --- | - | - | - | ------- | - | - | - | -
-1   | 1   | 2 | 0 | 2 | Summon Familiar | 4/5 | 2/3 | -   | -  
-2   | 2   | 3 | 0 | 3 | Bonus Feat | 5/6 | 2/4 | -   | -
-3   | 3   | 3 | 1 | 3 |  | 5/6 | 3/5 | 1/3 | -
-4   | 4   | 4 | 1 | 4 |  | 6/6 | 3/6 | 2/4 | -
-5   | 5   | 4 | 1 | 4 |  | 6/6 | 4/6 | 2/5 | 1/3
-6   | 6/1 | 5 | 2 | 5 |  | 7/6 | 4/6 | 3/6 | 2/4
+1   | 0   | 2 | 0 | 2 | Summon Familiar | 4/5 | 2/3 | -   | -  
+2   | 1   | 3 | 0 | 3 | Bonus Feat | 5/6 | 2/4 | -   | -
+3   | 1   | 3 | 1 | 3 |  | 5/6 | 3/5 | 1/3 | -
+4   | 2   | 4 | 1 | 4 |  | 6/6 | 3/6 | 2/4 | -
+5   | 2   | 4 | 1 | 4 |  | 6/6 | 4/6 | 2/5 | 1/3
+6   | 3   | 5 | 2 | 5 |  | 7/6 | 4/6 | 3/6 | 2/4
 
 **Weapon and Armor Proficiency**: Sorcerers are proficient with all simple weapons. They are not proficient with any type of armor or shield. Armor of any type interferes with a sorcerer’s gestures, which can cause his spells with somatic components to fail.
 
