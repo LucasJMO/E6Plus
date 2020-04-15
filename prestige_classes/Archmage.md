@@ -8,7 +8,7 @@
 
 ## Requirements
 
-To qualify to become a hierophant, a character must fulfill all the following criteria.
+To qualify to become an archmage, a character must fulfill all the following criteria.
 
 **Feats**: Magical Aptitude, Skill Focus (Knowledge [Arcana])
 
@@ -58,11 +58,11 @@ An archmage may choose to eliminate a spell slot of a higher level than that req
 
 ## 3rd Level High Arcana
 
-**Arcane Blast**(Su): You may expend a spell to fire a ray of force dealing 1d6 per class level + 1d6 per level of spell expended. This ray has a range of 10 feet per class level, requires a standard action to fire and a ranged touch attack to hit.
+**Arcane Blast**(Su): You may expend a spell to fire a ray of force dealing 1d6 per class level + 1d6 per level of spell expended. This ray has a range of 10 feet per level, requires a standard action to fire and a ranged touch attack to hit.
 
 **Quickened Arcane Blast**(Su): The arcane blast ability requires a swift action to use instead of a standard action.
 
-## Variable High Arcana
+## Variable Level High Arcana
 
 **Enhanced Knowledge**(Ex): You learn a number of new spells with levels totalling to the level of the lost spell slot + 1. Treat 0th level spells as 1/2. 
 
