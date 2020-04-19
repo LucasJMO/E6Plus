@@ -35,7 +35,9 @@ A rogue who beats the trap's DC by 10 or more with a Disable Device check can st
 
 **Uncanny Dodge**: Starting at 4th level, a rogue can react to danger before her senses would normally allow her to do so. She retains her Dexterity bonus to AC (if any) even if she is caught flat-footed or struck by an invisible attacker. However, she still loses her Dexterity bonus to AC if immobilized.
 
-**Special Ability**: A rogue may select one of crippling strike, dark caster, defensive roll, hide in plain sight, improved evasion, opportunist, power slide, skill mastery, slippery mind, or bonus feat.
+## Special Ability 
+
+A rogue may select one of crippling strike, dark caster, defensive roll, hide in plain sight, improved evasion, opportunist, power slide, skill mastery, slippery mind, or bonus feat.
 
 **Crippling Strike**: A successful sneak attack deals two points of strength damage or dex damage. This ability may be gained multiple times.
 
