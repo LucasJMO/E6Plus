@@ -13,7 +13,7 @@ LVL | BAB | F | R | W | Special | 1 | 2
 3   | 3   | 3 | 3 | 1 | Endurance, 2nd Favored Enemy, Quick Draw, Power Slide, Bonus Feat | - | -
 4   | 4   | 4 | 4 | 1 | Animal Companion, Opportunist | 1 | -
 5   | 5   | 4 | 4 | 1 | 3rd Favored Enemy | 2 | 1
-6   | 6/1 | 5 | 5 | 2 | Improved Combat Tyle TWF, Improved Combat Style Ranged | 3 | 2
+6   | 6/1 | 5 | 5 | 2 | Improved Combat Style TWF, Improved Combat Style Ranged | 3 | 2
 
 **Weapon and Armor Proficiency**: A ranger is proficient with all simple and martial weapons, and with light armor and shields (except tower shields).
 
