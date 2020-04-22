@@ -30,6 +30,10 @@ Versatile combatants, masters of bow, blade, and beast.
 
 Cunning killers and thieves, specialized in striking from the shadows.
 
+##Songweaver Bard
+
+A strange faction of bards who trade combat prowess for access to powerful magical songs.
+
 ### Credits
 
 Certain classes and features in this repository were inspired by the excellent work of FrankTrollman and K.
