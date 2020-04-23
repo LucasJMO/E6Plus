@@ -16,7 +16,7 @@ To qualify to become a hierophant, a character must fulfill all the following cr
 
 LVL | BAB | F | R | W | Special | Spells per Day
 --- | --- | - | - | - | ------- | --------------
-1   | 0   | 2 | 0 | 2 | Special Ability | -
+1   | 0   | 2 | 0 | 2 | Special Ability | +1 level of existing spellcasting class
 2   | 1   | 3 | 0 | 3 | Special Ability | +1 level of existing spellcasting class
 3   | 1   | 3 | 1 | 3 | Special Ability | +1 level of existing spellcasting class
 
