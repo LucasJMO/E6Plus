@@ -10,14 +10,14 @@ LVL | BAB | F | R | W | Special
 --- | --- | - | - | - | ------- 
 1   | 1   | 2 | 0 | 2 | Combat Focus          
 2   | 2   | 3 | 0 | 3 | Active Assault, Problem Solver          
-3   | 3   | 3 | 1 | 3 | Bonus Feat, Pack Mule 
+3   | 3   | 3 | 1 | 3 | Pack Mule 
 4   | 4   | 4 | 1 | 4 | Bonus Feat, Weapon Training
 5   | 5   | 4 | 1 | 4 | Improved Delay        
 6   | 6/1 | 5 | 2 | 5 | Bonus Feat, Array of Stunts, Foil Action
 
 **Weapon and Armor Proficiency**: A soldier is proficient with all simple and martial weapons and with all armor (heavy, medium, and light) and shields (including tower shields).
 
-**Bonus Feat**: At 3rd, 4th, and 6th level a soldier gains a bonus feat in addition to any feats from their normal level progression.
+**Bonus Feat**: At 4th and 6th level a soldier gains a bonus feat in addition to any feats from their normal level progression.
 
 **Combat Focus**(Ex): If the soldier is in a situation that is stressful and/or dangerous enough that he would normally be unable to take 10 on skill checks, he may spend a swift action to gain combat focus. A soldier may end his combat focus at any time to reroll any die roll he makes, and if not used it ends on its own after a number of rounds equal to his class level. After voluntarily ending combat focus he must wait one round before re-entering it.
 
@@ -33,5 +33,6 @@ LVL | BAB | F | R | W | Special
 
 **Array of Stunts**(Ex): A 6th level soldier may use an immediate action without sacrificing his swift action on his next turn.
 
-**Foil Action**(Ex): A 6th level soldier may use an immediate action to make a touch attack or ranged touch attack on any opponent within 30 ft. If this attack succeeds the opponent's action is wasted, and any spell slots, limited ability uses, or the like used to power it are expended.
+**Foil Action**(Ex): A 6th level soldier may use an immediate action to make a touch attack or ranged touch attack on any opponent within 30 ft. If this attack succeeds the opponent's action is wasted, and any spell slots, limited ability uses, potions, or the like used to power it are expended.
 
+The only actions exempt from this ability are attack actions (standard or full round) and movement actions (standard, full round, or 5-foot step).

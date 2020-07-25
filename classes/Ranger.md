@@ -10,8 +10,8 @@ LVL | BAB | F | R | W | Special | 1 | 2
 --- | --- | - | - | - | ------- | - | -
 1   | 1   | 2 | 2 | 0 | 1st Favored Enemy, Track, Wild Empathy, Point Blank Shot | - | -  
 2   | 2   | 3 | 3 | 0 | Combat Style TWF, Combat Style Ranged | - | -  
-3   | 3   | 3 | 3 | 1 | Endurance, 2nd Favored Enemy, Quick Draw, Power Slide, Bonus Feat | - | -
-4   | 4   | 4 | 4 | 1 | Animal Companion, Opportunist | 1 | -
+3   | 3   | 3 | 3 | 1 | Endurance, 2nd Favored Enemy, Quick Draw | - | -
+4   | 4   | 4 | 4 | 1 | Animal Companion | 1 | -
 5   | 5   | 4 | 4 | 1 | 3rd Favored Enemy | 2 | 1
 6   | 6/1 | 5 | 5 | 2 | Improved Combat Style TWF, Improved Combat Style Ranged | 3 | 2
 
@@ -23,7 +23,7 @@ To prepare or cast a spell, a ranger must have a Wisdom score equal to at least 
 
 **Favored Enemy**(Ex): At 1st level, a ranger may select a type of creature from among those given on the table. The ranger gains a +2 bonus on Bluff, Listen, Sense Motive, Spot, and Survival checks when using these skills against creatures of this type. Likewise he gets a +2 bonus on weapon damage rolls, and a +1 to crit range against such creatures.
 
-**Track**: A ranger gains Track as a bonus feat.
+**Track**: A 1st level ranger gains Track as a bonus feat.
 
 **Wild Empathy**(Ex): A ranger can improve the attitude of an animal. This ability functions just like a Diplomacy check to improve the attitude of a person. The ranger rolls a d20 and adds his ranger level and his Charisma modifier to determine the wild empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly.
 
@@ -33,16 +33,14 @@ The ranger can also use this ability to influence a magical beast with an intell
 
 **Point Blank Shot**: A 1st level ranger gains the feat Point Blank Shot, if he already has this feat then he may select another feat for which he meets the prerequisites.
 
-**Combat Style**(Ex): A 2nd level ranger gains the feats, Rapid Shot and Two Weapon Fighting, even if he does not meet the normal prerequisites for the feat. The benefit of the ranger's chosen style apply only when he wears light armor or no armor. He loses all benefits of his combat style while wearing medium or heavy armor.
+**Combat Style**(Ex): A 2nd level ranger selects either archery or two-weapon combat as his combat style. A ranger who selects archery gains the feat Rapid Shot, while a ranger who selects two-weapon combat gains the feat Two-Weapon Fighting. These feats may be gained even if the ranger does not meet the normal prerequisites for the chosen feat. The benefit of the ranger's chosen style apply only when he wears light armor or no armor. He loses all benefits of his combat style while wearing medium or heavy armor.
 
 **Endurance**: A ranger gains endurance as a bonus feat at 3rd level. If they already have this feat they may select another feat for which they meet the prerequisites. 
 
-**Quick Draw**(Ex): A ranger may change from bow to melee weapons (or vice-versa) as a swift action. Additionally a ranger may take attacks of opportunity with their melee weapon while they have their bow drawn.
+**Quick Draw**(Ex): A ranger may change from bow to melee weapons (or vice-versa) as a swift action. 
 
-**Power Slide**(Ex): If a 3rd level ranger takes damage from an attack, he may allow himself to be flung backwards, thereby lessening the impact. He may make a balance check with a DC equal to 5 + damage inflicted and if he succeeds he suffers only half damage. This is a skill check, not a save throw, so abilities such as evasion do no apply. He is moved away from the source of damage by 5' for every 5 points of damage (or part thereof) negated in this way. If there is not enough space for him to move, he suffers a d6 damage for each square not moved. If he passes through an occupied square, the ranger must make a tumble check to avoid attacks of opportunity.
+**Animal Companion**(Ex): At 4th level, a ranger gains an animal companion selected from the following list: badger, camel, dire rat, dog, riding dog, eagle, hawk, horse (light or heavy), owl, pony, snake (Small or Medium viper), or wolf. If the campaign takes place wholly or partly in an aquatic environment, the following creatures may be added to the ranger’s list of options: manta ray, porpoise, Medium shark, and squid. This animal is a loyal companion that accompanies the ranger on his adventures as appropriate for its kind.
 
-**Bonus Feat**: At 3rd level the ranger gains a bonus feat along with any feats gained from their standard level progression.
+This ability functions like the druid ability of the same name, except that the ranger’s effective druid level is one-half his ranger level. A ranger may select from the alternative lists of animal companions just as a druid can, though again his effective druid level is half his ranger level. Like a druid, a ranger cannot select an alternative animal if the choice would reduce his effective druid level below 1st.
 
-**Opportunist**(Ex): Once per round, the ranger can make an attack of opportunity against an opponent who has just been struck for damage in melee by another character. This attack counts as the ranger’s attack of opportunity for that round. Even a ranger with the Combat Reflexes feat can’t use the opportunist ability more than once per round.
-
-**Improved Combat Style**(Ex): A 6th level ranger is treated as having the Manyshot feat and the Improved wo-Weapon Fighting feat even if he does not have the normal prerequisites for the feat. The benefits of the Ranger's chosen style only apply when he wears light or no armor.
+**Improved Combat Style**(Ex): A 6th level ranger who selected the archery combat style gains Manyshot, while a 6th level ranger who selected two-weapon combat gains Improved Two-Weapon Fighting. These feats can be gained through Improved Combat Style even if the Ranger does not meet the normal prerequisites. The benefit of the ranger's chosen style apply only when he wears light armor or no armor. He loses all benefits of his combat style while wearing medium or heavy armor.

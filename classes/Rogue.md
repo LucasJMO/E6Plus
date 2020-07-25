@@ -39,11 +39,13 @@ A rogue who beats the trap's DC by 10 or more with a Disable Device check can st
 
 A rogue may select one of crippling strike, dark caster, defensive roll, hide in plain sight, improved evasion, opportunist, power slide, skill mastery, slippery mind, or bonus feat.
 
-**Crippling Strike**: A successful sneak attack deals two points of strength damage or dex damage. This ability may be gained multiple times.
+**Crippling Strike**: A successful sneak attack deals two points of strength damage or dex damage. This ability may be gained multiple times, each time adding an additional two points of either form of damage.
 
-**Dark Caster**: A rogue can learn an illusion spell of 2nd level or lower and cast it a number of times per day equal to rogue level divided by 2 (rounded down, minimum 0). Save DC is 10 + spell level + Intelligence modifier or Charisma modifier. This ability may be gained twice, but must choose a different spell each time. Treat rogue level as caster level.
+**Dark Caster**: A rogue can learn an illusion spell of 2nd level or lower and cast it a number of times per day equal to rogue level divided by 2 (rounded down, minimum 0). Save DC is 10 + spell level + Intelligence modifier or Charisma modifier (whichever is higher). This ability may be gained twice, but must choose a different spell each time. Treat rogue level as caster level.
 
 **Defensive Roll**: If an attack (from a weapon or some other blow) would reduce a rogue to 0 or fewer hit points. The rogue may attempt a reflex saving throw (DC = damage dealt). If the save succeeds, he takes only half damage from the blow.
+
+**Improved Healing**: A rogue gains an enhancement to their natural healing abilities. For every 15 minutes a rogue spends out of combat they recover 1 hitpoint. This is in addition to hitpoints regained via other methods (resting for example).
 
 **Opportunist**: Once per round, a rogue can make an attack of opportunity against an opponent who has just been struck for damage in melee by another character.
 
