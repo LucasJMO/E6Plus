@@ -10,10 +10,10 @@ LVL | BAB | F | R | W | Special
 --- | --- | - | - | - | ------- 
 1   | 1   | 2 | 2 | 2 | Terrain Mastery
 2   | 2   | 3 | 3 | 3 | Terrain Mastery
-3   | 3   | 3 | 3 | 3 | Terrain Mastery, Planar Attunement, Horizon Step
+3   | 3   | 3 | 3 | 3 | Terrain Mastery, Planar Attunement
 4   | 4   | 4 | 4 | 4 | Terrain Mastery
 5   | 5   | 4 | 4 | 4 | Terrain Mastery
-6   | 6/1 | 5 | 5 | 5 | Terrain Mastery
+6   | 6/1 | 5 | 5 | 5 | Terrain Mastery, Horizon Step
 
 **Weapon and Armor Proficiency**: A horizon walker is proficient with all simple and martial weapons. Horizon walkers are proficient with light armor, medium armor, and shields (except tower shields).
 
@@ -25,7 +25,7 @@ Horizon walkers take their terrain mastery with them wherever they go. They reta
 
 A horizon walker can change the planes he is attuned to by spending a week in careful meditation. He must full rest each night, and spend 12 hours each day connecting to the planes he wishes to attune himself to. He may use the remaining hours of the day to engage in simple, non-strenuous activity. Combat or use of his horizon step ability will cause the attempt to fail, leaving him attuned to the same planes as he was before attempting to change.
 
-**Horizon Step**: A 3rd level horizon walker gains the ability to teleport a short distance every 1d6 rounds. Using this ability requires a swift action, the max range traveled is 10 feet per class level, and if this ability would put you in a place that is already occupied by a solid body, it fails.
+**Horizon Step**: A 6th level horizon walker gains the ability to teleport a short distance every 1d6 rounds. Using this ability requires a swift action, the max range traveled is 10 feet per class level, you must have line of sight to the desired destination, and if this ability would put you in a place that is already occupied by a solid body, it fails.
 
 The horizon walker may bring touched objects, so long as their weight does not exceed his maximum load. He cannot however bring other creatures.
 
@@ -41,7 +41,7 @@ The horizon walker may bring touched objects, so long as their weight does not e
 
 **Marsh**: You have a +4 competence bonus on Move Silently checks. You gain a +1 insight bonus on attack and damage rolls against marsh creatures.
 
-**Mountains**: You gain a 10 foot climb speed, or a +10-foot bonus to your climb speed if you have one. You gain a +1 insight bonus on attack and damage rolls against mountain creatures.
+**Mountains**:  You gain tremorsense with a 30-foot range. You gain a +1 insight bonus on attack and damage rolls against mountain creatures.
 
 **Plains**: You have a +4 competence bonus on Spot checks. You gain a +1 insight bonus on attack and damage rolls against plains creatures.
 
@@ -49,7 +49,7 @@ The horizon walker may bring touched objects, so long as their weight does not e
 
 **Astral (Planar)**: You gain telepathy with a range of 100 feet, and the spell-like ability to use detect thoughts at will. You gain a +1 insight bonus on attack and damage rolls against creatures native to the Astral Plane.
 
-**Air (Planar)**: This kind of planar terrain mastery provides you with limited flight. Once per day you may gain a flight speed equal to your base land speed for a number of rounds equal to your class level, activating this ability is a free action. You gain a +1 insight on attack and damage rolls against creatures native to the Elemental Plane of Air.
+**Air (Planar)**: This kind of planar terrain mastery provides you with limited flight. Once per day you may gain a flight speed equal to your base land speed or 20 feet, whichever is less. This flight lasts for a number of rounds equal to your class level, activating this ability is a free action. Additionally you gain a +1 insight on attack and damage rolls against creatures native to the Elemental Plane of Air.
 
 **Fiery (Planar)**: This kind of planar terrain mastery provides you with resistance to fire 10. You gain a +1 insight bonus on attack and damage rolls against outsiders and elementals with the fire subtype.
 
@@ -57,10 +57,10 @@ The horizon walker may bring touched objects, so long as their weight does not e
 
 **Negative (Planar)**: You gain the ability to rebuke or command undead as an evil cleric of your class level.
 
-**Positive (Planar)**: Your connection with this plane sustains you. You no longer require food or drink to survive, and regain 1 hit point for every minute spent out of combat.
+**Positive (Planar)**: Your connection with this plane sustains you. You no longer require food or drink to survive, and regain 1 hit point for every 15 minutes spent out of combat.
 
 **Shadow (Planar)**: You gain the supernatural ability Hide in Plain Sight. You gain a +1 insight bonus on attack and damage rolls against creatures native to the Plane of Shadow.
 
-**Cavernous (Planar)**: You gain tremorsense with a 30-foot range.
+**Cavernous (Planar)**: You gain a 10 foot climb speed, or a +10-foot bonus to your climb speed if you have one.
 
 **Other (Planar)**: If other planes are in use additional Planar Terrains can be created.
