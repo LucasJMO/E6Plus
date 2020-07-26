@@ -1,6 +1,6 @@
 # Arcane Archer
 
-**Hit Die**: d8
+**Hit Die**: d6
 
 **Skills**: Craft (Int), Hide (Dex). Listen (Wis), Move Silently (Dex), Ride (Dex), Spot (Wis), Survival (Wis), Use Rope (Dex
 

@@ -46,7 +46,7 @@ Upon or after reaching 3rd level, a blackguard can call a fiendish bat, cat, dir
 
 A blackguard may have only one fiendish servant at a time.
 
-Should the blackguard’s servant die, he may call for another one after a year and a day. The new fiendish servant has all the accumulated abilities due a servant of the blackguard’s current level.
+Should the blackguard’s servant die, he may call for another one after a week. The new fiendish servant has all the accumulated abilities due a servant of the blackguard’s current level.
 
 **Empathic Link**(Su): The blackguard has an empathic link with his servant out to a distance of up to 1 mile. The blackguard cannot see through the servant’s eyes, but they can communicate empathically. Because of the limited nature of the link, only general emotional content can be communicated.
 

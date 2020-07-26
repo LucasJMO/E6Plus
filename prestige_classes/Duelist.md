@@ -28,7 +28,7 @@ LVL | BAB | F | R | W | Special
 
 **Combat Reflexes**(Ex): A 2nd level duelist gains combat reflexes as a bonus feat.
 
-**Deflect Arrows**: At 2nd level, a duelist gainst the benefit of the Deflect Arrows feat.
+**Deflect Attacks**: At 2nd level, a duelist gainst the ability to deflect incoming attacks. A duelist who would be struck by an attack may expend an immediate action in order to roll an opposed attack. If the result of the duelist's attack roll is equal to or higher than the opponent's attack roll, the attack deals no damage and causes no secondary effects. A duelist may only use this ability while she is not wearing armor or using a shield.
 
 **Grace**(Ex): A 2nd level duelist gains an additional +2 competence bonus on all Reflex saving throws. This ability functions for a duelist only when she is wearing no armor and not using a shield.
 

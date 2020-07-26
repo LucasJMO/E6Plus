@@ -28,7 +28,7 @@ Using or stopping the defensive stance takes no time itself, but a defender can 
 
 **Grounding Strike**(Ex): If a defender strikes an opponent with an attack of opportunity, he may choose to stop the opponent's movement. Forcing them to remain in their current space until their next turn.
 
-**Draw Fire**: With a Swift Action, a defender may pique the interest of any mindless opponent within medium range. That creature must make a will save (DC 10 + 1/2 HD + constitution modifier) or spend all of its actions moving towards or attacking the defender. This effect ends after a number of rounds equal to the defender’s class level.
+**Draw Fire**: With a Swift Action, a defender may pique the interest of any opponent with intelligence 6 or less within medium range. That creature must make a will save (DC 10 + 1/2 HD + constitution modifier) or spend all of its actions moving towards or attacking the defender. This effect ends after a number of rounds equal to the defender’s class level.
 
 **Sacrifice**: As an immediate action a defender may make herself the target of an attack or target effect that targets any creature within her reach.
 
