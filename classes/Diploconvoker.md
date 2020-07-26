@@ -25,7 +25,6 @@ At 3rd level a Diploconvoker can lose a prepared spell of 1st level or higher in
 
 At 5th level a Diploconvoker can lose a prepared spell of 2nd level in order to cast Summon Monster 3, Summon Nature’s Ally 3, or Summon Undead 3. 
 
-
 **Rapid Summoning**: Summoning spells requiring a full round action to cast instead take a standard action.
 
 **Diplomatic Summons**: When casting a Summon Monster/Nature’s Ally/Undead spell a Diploconvoker can attempt a Diplomacy check on a summoned creature as a free action, opposed by the creature’s HD times 4, plus the total number of creatures summoned by the spell. 
@@ -52,6 +51,8 @@ At 3rd level the Diploconvoker gains the ability to summon two small elementals 
 At 4th level the Diploconvoker gains the ability to summon four small elementals as a full round action.
 
 At 5th level the Diploconvoker gains the ability to summon six small elementals by spending two full rounds concentrating on this ability. They can take no other actions during this time, and if they are hit or receive damage from any source during this process then the attempt fails and the usage is lost. 
+
+The maximum number of elementals which can be summoned at one time is equal to the diploconvoker's class level. If the diploconvoker attempts to summon a number of elementals which would take them over this limit, the summoning instead produces the maximum allowable number of elementals and the use is expended.
 
 **Negotiator**: A first level Diploconvoker receives the feat negotiator, if you already possess this feat, you may select a different feat which you meet the requirements for.
  

@@ -15,6 +15,8 @@ LVL | BAB | F | R | W | Special
 5   | 3   | 1 | 4 | 1 | Sneak Attack +2d6, Rapid Stealth, Improved Evasion
 6   | 4   | 2 | 5 | 2 | Mercurial Charge, Athletic Cascade, Power Slide
 
+**Acrobatic Flair**: A Thief Acrobat may move her full movement while using the Tumble or Balance skill without suffering a penalty or increasing the DC of her check.
+
 **Weapon and Armor Proficiency**: Thief Acrobats are proficient with all simple weapons, as well as the sap, the shortsword, the whip, the bolas, the long staff, and the shuriken. Thief Acrobats are proficient with light armor but not with shields of any kind.
 
 **Pole Jump**: If holding a pole, spear, staff, long staff, or other pole-like object in both hands, a Thief Acrobat can add twice her reach to her final distance moved during a Jump check, and in this instance her jump distances are not limited by her height.

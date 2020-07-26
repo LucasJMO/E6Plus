@@ -66,8 +66,8 @@ The companion shares the traits of undead creatures, except that unlike undead t
 | Speed:       | 20 ft. | 30 ft. | 40 ft. |
 | Armor Class: | 14 (+2 dex, +2 natural) | 15 (+2 dex, +3 natural) | 16 (+3 dex, +3 natural)|
 | Base Attack/Grapple: | +4/+6 | +5/+8 | +6/+9 |
-| Attack:      | Blade +6 melee (1d6+2) | Blade +8 melee (1d6+3) | Blade +9 melee (1d6+3) |
-| Full Attack: | Blade +6 melee (1d6+2) | Blade +8 melee (1d6+3) | Blade +9/+4 melee (1d6+3) |
+| Attack:      | Shadow Weapon +6 melee (1d6+2) | Shadow Weapon +8 melee (1d6+3) | Shadow Weapon +9 melee (1d6+3) |
+| Full Attack: | Shadow Weapon +6 melee (1d6+2) | Shadow Weapon +8 melee (1d6+3) | Shadow Weapon +9/+4 melee (1d6+3) |
 | Space/Reach: | 5 ft./5 ft.| | |
 | Special Attacks: | | | |   
 | Special Qualities: | Undead traits (except for healing) | | |

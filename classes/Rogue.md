@@ -8,12 +8,12 @@
 
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
-1   | 0   | 0 | 2 | 0 | Sneak Attack +1d6, Trapfinding       
-2   | 1   | 0 | 3 | 0 | Evasion, Special Ability
-3   | 2   | 1 | 3 | 1 | Sneak Attack +2d6, Trap Sense +1, Special Ability  
-4   | 3   | 1 | 4 | 1 | Uncanny Dodge
-5   | 3   | 2 | 4 | 1 | Sneak Attack +3d6, Special Ability
-6   | 4   | 2 | 5 | 2 | Trap Sense +2, Special Ability
+1   | 0   | 0 | 2 | 2 | Sneak Attack +1d6, Trapfinding       
+2   | 1   | 0 | 3 | 3 | Evasion, Special Ability
+3   | 2   | 1 | 3 | 3 | Sneak Attack +2d6, Trap Sense +1, Special Ability  
+4   | 3   | 1 | 4 | 4 | Uncanny Dodge
+5   | 3   | 2 | 4 | 4 | Sneak Attack +3d6, Special Ability
+6   | 4   | 2 | 5 | 5 | Trap Sense +2, Special Ability
 
 **Weapon and Armor Proficiency**: Rogues are proficient with all simple weapons, plus the hand crossbow, rapier, sap, shortbow, and short sword. Rogues are proficient with light armor, but not with shields.
 
@@ -45,7 +45,7 @@ A rogue may select one of crippling strike, dark caster, defensive roll, hide in
 
 **Defensive Roll**: If an attack (from a weapon or some other blow) would reduce a rogue to 0 or fewer hit points. The rogue may attempt a reflex saving throw (DC = damage dealt). If the save succeeds, he takes only half damage from the blow.
 
-**Improved Healing**: A rogue gains an enhancement to their natural healing abilities. For every 15 minutes a rogue spends out of combat they recover 1 hitpoint. This is in addition to hitpoints regained via other methods (resting for example).
+**Improved Healing**: A rogue gains an enhancement to their natural healing abilities. For every 60 minutes a rogue spends out of combat they recover 1 hitpoint. This is in addition to hitpoints regained via other methods (resting for example). If the rogue already has Improved Healing from some other source they gain Greater Improved Healing instead.
 
 **Opportunist**: Once per round, a rogue can make an attack of opportunity against an opponent who has just been struck for damage in melee by another character.
 

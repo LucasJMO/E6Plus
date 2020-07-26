@@ -15,7 +15,7 @@ LVL | BAB | F | R | W | Special
 5   | 5   | 4 | 1 | 4 | Project Voice
 6   | 6/1 | 5 | 2 | 5 | Terrible Shout, Command Enemy
 
-**Weapon and Armor Proficiency**: Marshalls are proficient with all simple and martial weapons, as well as any exotic weapons appropriate to their race, religion, or culture. Marshalls are proficient with all armor and shields (including tower shields).
+**Weapon and Armor Proficiency**: Marshalls are proficient with all simple and martial weapons. Marshalls are proficient with all armor and shields (including tower shields).
 
 **Battle Shout**: Once per day per class level, a marshall may expend a swift action in order to grant all allies within short range a +1 Morale bonus to all attack and damage rolls. This bonus lasts for a number of rounds equal to the marshall's class level. At 4th level this bonus increases to +2.
 
@@ -23,7 +23,7 @@ LVL | BAB | F | R | W | Special
 
 **Untiring**: A Marshall needs half as much sleep as normal (for example, a long rest for a marshall is 4 hours) and is immune to any effects which cause fatigue, exhaustion, or sleep.
 
-**Heal Injuries**: As a swift action, a marshall can heal a number of characters equal to his class level of a number of hit points equal to his ranks in the Heal skill. This action may be taken a number of times per day equal to 3 + the marshall’s Charisma modifier, and all affected characters must be within close range.
+**Heal Injuries**: As a swift action, a marshall can heal a number of characters equal to his class level of a number of hit points equal to his class level. This action may be taken a number of times per day equal to 3 + the marshall’s Charisma modifier, and all affected characters must be within close range.
 
 **War Shout**: At 3rd level, a Marshall’s battle shout affects all allies within long range. The allies must still be able to hear the Marshall as normal.
 

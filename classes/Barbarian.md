@@ -8,12 +8,12 @@
 
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
-1   | 1   | 2 | 2 | 0 | Fast Movement, Illiteracy, Rage, Power Attack      
-2   | 2   | 3 | 3 | 0 | Skirmish +1d6  
-3   | 3   | 3 | 3 | 1 | Damage Reduction 1/-      
-4   | 4   | 4 | 4 | 1 | Greater Fast Movement        
-5   | 5   | 4 | 4 | 1 | Improved Healing
-6   | 6/1 | 5 | 5 | 2 | Damage Reduction 2/-      
+1   | 1   | 2 | 0 | 0 | Fast Movement, Illiteracy, Rage, Power Attack      
+2   | 2   | 3 | 0 | 0 | Skirmish +1d6  
+3   | 3   | 3 | 1 | 1 | Damage Reduction 1/-      
+4   | 4   | 4 | 1 | 1 | Greater Fast Movement, Improved Healing        
+5   | 5   | 4 | 1 | 1 | 
+6   | 6/1 | 5 | 2 | 2 | Damage Reduction 2/-, Greater Improved Healing      
 
 **Weapon and Armor Proficiency**: A barbarian is proficient with all simple and martial weapons, light armor, medium armor, and shields (except tower shields).
 
@@ -33,4 +33,6 @@ While raging, a barbarian cannot use any Charisma, Dexterity, or Intelligence ba
 
 **Greater Fast Movement**: Add +10 to land speed, this stacks with the bonus from fast movement.
 
-**Improved Healing**: A 5th level barbarian gains an enhancement to their natural healing abilities. For every 15 minutes a barbarian spends out of combat they recover 1 hitpoint. This is in addition to hitpoints regained via other methods (resting for example).
+**Improved Healing**: A 4th level barbarian gains an enhancement to their natural healing abilities. For every 60 minutes a barbarian spends out of combat they recover 1 hitpoint. This is in addition to hitpoints regained via other methods (resting for example). If the barbarian already has improved healing from some outher source they gain greater improved healing instead.
+
+**Greater Improved Healing**: A 6th level barbarian's healing improves even further, letting them recover 1 hitpoint for every 30 minutes spent out of combat. This is not in addition to the healing from Improved Healing, so a 6th level barbarian recovers 2 hitpoints per hour spent out of combat.

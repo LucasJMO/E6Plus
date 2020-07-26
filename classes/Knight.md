@@ -1,6 +1,6 @@
 # Knight
 
-**Hit Die**: d12
+**Hit Die**: d10
 
 **Skills**: Climb (Str), Craft (Int), Diplomacy (Cha), Handle Animal (Cha), Intimidate (Cha), Jump (Str), Knowledge (History) (Int), Knowledge (Nobility) (Int), Knowledge (Geography) (Int), Listen (Wis), Perform (Cha), Ride (Dex), Sense Motive (Wis), Spot (Wis), Swim (Str)
 
@@ -9,9 +9,9 @@
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
 1   | 1   | 2 | 0 | 2 | Code of Conduct, Draw Fire, Shield Mastery       
-2   | 2   | 3 | 0 | 3 | Damage Reduction, Bastion of Defense, Defensive Fighter
-3   | 3   | 3 | 1 | 3 | Energy Resistance, Spell Shield, Speak to Animals
-4   | 4   | 4 | 1 | 4 | Immunity to Fear, Knightly Spirit
+2   | 2   | 3 | 0 | 3 | Bastion of Defense, Defensive Fighter
+3   | 3   | 3 | 1 | 3 | Energy Resistance, Speak to Animals
+4   | 4   | 4 | 1 | 4 | Damage Reduction, Immunity to Fear, Knightly Spirit
 5   | 5   | 4 | 1 | 4 | Sacrifice, Mettle
 6   | 6/1 | 5 | 2 | 5 | Defend Others, Quick Recovery
 
@@ -23,17 +23,15 @@ LVL | BAB | F | R | W | Special
 
 **Shield Mastery**: A knight subtracts his knight level from the armor check penalty given by used shields. This ability can reduce a shield's armor check penalty to a minimum of 0.
 
-**Damage Reduction**: A knight has Damage Reduction X/-, where X is half her knight level (rounded down) plus her shield bonus (this bonus can only come from a physically held shield, spells or magic items which grant a shield bonus do not enhance a knight's damage reduction).
-
 **Bastion of Defense**: All adjacent allies except the knight gain a +2 Dodge bonus to their AC and Reflex Saves.
 
-**Defensive Fighter**(Ex): A knight who chooses to fight defensively incurs only a -2 penalty on attack rolls and gains a +4 dodge bonus to AC.
+**Defensive Fighter**: A knight who chooses to fight defensively incurs only a -2 penalty on attack rolls and gains a +4 dodge bonus to AC.
 
 **Energy Resistance**: As a swift action, a 3rd level knight may grant herself Energy Resistance against any type of energy equal to her knight Level plus her Shield Bonus (as with damage reduction, this bonus can only come from a physically held shield). This energy resistance lasts until she spends a Swift Action to choose another Energy type, or her Shield Bonus is reduced.
 
-**Spell Shield**: A knight gains Spell Resistance of 5 plus her character level and her shield bonus (as with damage reduction, this is only for physically held shields).
-
 **Speak to Animals**: A knight gains a bonus to her Ride and Handle Animal checks equal to half her knight level.
+
+**Damage Reduction**: A 4th level knight gains Damage Reduction X/-, where X is her knight level plus her shield bonus (this bonus can only come from a physically held shield, spells or magic items which grant a shield bonus do not enhance a knight's damage reduction) divided by two (rounded down). For example, a 6th level knight using a tower shield would have Damage Reduction 5/-.
 
 **Immunity to Fear**: A knight is immune to Fear effects.
 
@@ -41,7 +39,7 @@ LVL | BAB | F | R | W | Special
 
 **Sacrifice**: As an immediate action a knight may make herself the target of an attack or target effect that targets any creature within her reach.
 
-**Mettle**: A knight who succeeds a Fortitude partial or Willpower partial save takes no effect as if she had immunity.
+**Mettle**: A knight who succeeds a Fortitude partial or Will partial save takes no effect as if she had immunity.
 
 **Defend Others**: Any ally adjacent to the knight gains Evasion, although the knight does not.
 
