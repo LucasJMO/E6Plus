@@ -22,7 +22,7 @@ LVL | BAB | F | R | W | Special | Spells per Day
 
 **Weapon and Armor Proficiency**: Archmages gain no proficiency with any weapon or armor.
 
-**Spells per Day/Spells Known**: When a new archmage level is gained, the character gains new spells per day (and spells known, if applicable) as if he had also gained a level in whatever arcane spellcasting class in which he could cast 7th-level spells before he added the prestige class level. He does not, however, gain any other benefit a character of that class would have gained. If a character had more than one arcane spellcasting class in which he could cast 7th-level spells before he became an archmage, he must decide to which class he adds each level of archmage for the purpose of determining spells per day.
+**Spells per Day/Spells Known**: When a new archmage level is gained, the character gains new spells per day (and spells known, if applicable) as if he had also gained a level in whatever arcane spellcasting class in which he could cast 2nd-level spells before he added the prestige class level. He does not, however, gain any other benefit a character of that class would have gained. If a character had more than one arcane spellcasting class in which he could cast 2nd-level spells before he became an archmage, he must decide to which class he adds each level of archmage for the purpose of determining spells per day.
 
 ## High Arcana
 

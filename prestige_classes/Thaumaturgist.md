@@ -8,15 +8,15 @@
 
 ## Requirements
 
-To qualify to become a thaumaturgist, a character must be able to cast 1st level divine spells and have taken the feat Spell Focus (conjuration).
+To qualify to become a thaumaturgist, a character must be able to cast 1st level divine or arcane spells and have taken the feat Spell Focus (conjuration).
 
 LVL | BAB | F | R | W | Special | Spellcasting
 --- | --- | - | - | - | ------- | ------------
-1   | 0   | 0 | 0 | 2 | Augment summoning | - 
-2   | 1   | 0 | 0 | 3 | Extended summoning | +1 level of existing spellcasting class
+1   | 0   | 0 | 0 | 2 | Augment summoning | +1 level of existing spellcasting class
+2   | 1   | 0 | 0 | 3 | Extended summoning | -
 3   | 1   | 1 | 1 | 3 |  | +1 level of existing spellcasting class    
 4   | 2   | 1 | 1 | 4 | Contingent conjuration | +1 level of existing spellcasting class
-5	| 2	  | 1 | 1 | 4 | Planar cohort | +1 level of existing spellcasting class
+5	| 2	  | 1 | 1 | 4 | Planar cohort | -
 
 **Weapon and Armor Proficiency**: Thaumaturgists gain no proficiency with any weapon or armor.
 
@@ -34,4 +34,4 @@ The conditions needed to bring the spell into effect must be clear, although the
 
 **Planar Cohort**: A 5th-level thaumaturgist can call on an elemental or outsider of 6 HD or less to act as his cohort. The called creature serves loyally and well as long as the thaumaturgist continues to advance a cause important to the creature.
 
-To call a planar cohort, the thaumaturgist must perform a one hour ritual and provide an offering of 100gp * the HD of the creature. Should the planar cohort die, another can be summoned by repeating this ritual and providing another offering. If the cohort is dismissed it can be summoned again with the ritual, this time no offering is necessary.
+To call a planar cohort, the thaumaturgist must perform a one hour ritual and provide an offering of 10gp * the HD of the creature. Should the planar cohort die, another can be summoned by repeating this ritual and providing another offering. If the cohort is dismissed (dismissal requires a free action) another can be summoned again with the ritual, this time no offering is necessary.

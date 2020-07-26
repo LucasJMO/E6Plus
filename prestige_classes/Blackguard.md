@@ -40,27 +40,39 @@ He adds his Charisma modifier (if positive) to his attack roll and deals 1 extra
 
 **Sneak Attack**: This ability, gained at 3rd level, is like the rogue ability of the same name. 
 
-## Fiendish Servant
+## Fiendish Mount
 
-Upon or after reaching 3rd level, a blackguard can call a fiendish bat, cat, dire rat, horse, pony, raven, or toad to serve him. The blackguard’s servant further gains +2 HD, +1 natural armor, +1 strength, empathic link, improved evasion, share saving throws, share spells, and an Int score of 6.
+Upon or after reaching 3rd level, a blackguard gains the ability to summon an unusually intelligent, strong, and loyal steed. This mount is usually a heavy warhorse (for a Medium blackguard) or a warpony (for a Small blackguard). A blackguard's mount is treated as a magical beast, not an animal, for the purpose of all effects the depend on its type (though it retains an animal's HD, base attack bonus, saves, skill points, and feats).
 
-A blackguard may have only one fiendish servant at a time.
-
-Should the blackguard’s servant die, he may call for another one after a week. The new fiendish servant has all the accumulated abilities due a servant of the blackguard’s current level.
-
-**Empathic Link**(Su): The blackguard has an empathic link with his servant out to a distance of up to 1 mile. The blackguard cannot see through the servant’s eyes, but they can communicate empathically. Because of the limited nature of the link, only general emotional content can be communicated.
-
-Because of the empathic link between the servant and the blackguard, the blackguard has the same connection to a place or an item that the servant does.
-
-**Improved Evasion**(Ex): If the servant is subjected to an attack that normally allows a Reflex saving throw for half damage, it takes no damage on a successful saving throw and only half damage on a failed saving throw. Improved evasion is an extraordinary ability.
-
-**Share Saving Throws**: For each of its saving throws, the servant uses either its own base save bonus or the blackguard’s, whichever is higher. The servant applies its own ability modifiers to saves, and it doesn’t share any other bonuses on saves that the blackguard might have.
-
-**Share Spells**: At the blackguard’s option, he may have any spell (but not any spell-like ability) he casts on himself also affect his servant. The servant must be within 5 feet at the time of casting to receive the benefit. If the spell has a duration other than instantaneous, it stops affecting the servant if it moves farther than 5 feet away and will not affect the servant again even if the servant returns to the blackguard before the duration expires. Additionally, the blackguard may cast a spell with a target of “You” on his servant (as a touch range spell) instead of on himself. A blackguard and his servant can share spells even if the spells normally do not affect creatures of the servant’s type (magical beast).
+The summoning ritual requires an hour of unbroken meditation. Once summoned the mount is treated as a normal magical beast (it must be fed/rested), and remains until it drops to 0 hit points or is dismissed (dismissal is a free action), a mount that is killed or dismissed leaves behind no physical form. In either case repeating the ritual summons the same mount, restored to its hit point maximum.
 
 ## Blackguard Spell List
 
 **1st Level**: Cause fear, corrupt weapon, cure light wounds, doom, inflict light wounds, magic weapon, summon monster 1 
 
 **2nd Level**: bull’s strength, cure moderate wounds, darkness, death knell, eagle’s splendor, inflict moderate wounds, shatter, summon monster 2
+
+**The Blackguard's Mount**:
+
+Bonus HD | Natural Armor Adjustment| Strength Adjustment | Intelligence | Special
+-------- | ----------------------- | ------------------- | ------------ | -------
++2       | +4                      | +1                  | 6            | Empathic Link, Improved Evasion, Share Spells, Share Saving Throws
+
+**Bonus HD**: Extra eight-sided (d8) Hit Dice, each of which gains a Constitution modifier, as normal. Extra Hit Dice improve the mount’s base attack and base save bonuses. A special mount’s base attack bonus is equal to that of a cleric of a level equal to the mount’s HD. A mount has good Fortitude and Reflex saves (treat it as a character whose level equals the animal’s HD). The mount gains additional skill points or feats for bonus HD as normal for advancing a monster’s Hit Dice.
+
+**Natural Armor Adjustment**: An improvement to the mount’s existing natural armor bonus.
+
+**Strength Adjustment**: Add this figure to the mount's strength score.
+
+**Intelligence**: The mount's Intelligence score.
+
+**Empathic Link**(Su): The blackguard has an empathic link with her mount out to a distance of up to 1 mile. The blackguard cannot see through the mount’s eyes, but they can communicate empathically.
+
+**Improved Evasion**: When subjected to an attack that normally allows a Reflex saving throw for half damage, a mount takes no damage if it makes a successful saving throw and half damage if the saving throw fails.
+
+**Share Spells**: At the blackguard’s option, she may have any spell (but not any spell-like ability) she casts on herself also affect her mount.
+
+The mount must be within 5 feet at the time of casting to receive the benefit. If the spell or effect has a duration other than instantaneous, it stops affecting the mount if it moves farther than 5 feet away and will not affect the mount again even if it returns to the blackguard before the duration expires. Additionally, the blackguard may cast a spell with a target of “You” on her mount (as a touch range spell) instead of on herself. A blackguard and her mount can share spells even if the spells normally do not affect creatures of the mount’s type (magical beast).
+
+**Share Saving Throws**: For each of its saving throws, the mount uses its own base save bonus or the blackguard’s, whichever is higher. The mount applies its own ability modifiers to saves, and it doesn’t share any other bonuses on saves that the master might have.
 

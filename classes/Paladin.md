@@ -8,12 +8,12 @@
 
 LVL | BAB | F | R | W | Special | 1 | 2 
 --- | --- | - | - | - | ------- | - | -
-1   | 1   | 2 | 0 | 2 | Aura of Good, Detect Evil, Smite Evil 1/day | - | -  
-2   | 2   | 3 | 0 | 3 | Divine Grace, Harm Undead, Healing Word | - | -  
-3   | 3   | 3 | 1 | 3 | Aura of Courage, Divine Health | - | -
-4   | 4   | 4 | 1 | 4 | Turn Undead, Defensive Fighter | 1 | -
-5   | 5   | 4 | 1 | 4 | Smite Evil 2/day | 2 | 1
-6   | 6/1 | 5 | 2 | 5 | Special Mount, Remove Disease | 3 | 2
+1   | 1   | 2 | 0 | 0 | Aura of Good, Detect Evil, Smite Evil 1/day | - | -  
+2   | 2   | 3 | 0 | 0 | Divine Grace, Harm Undead, Healing Word | - | -  
+3   | 3   | 3 | 1 | 1 | Aura of Courage, Divine Health | - | -
+4   | 4   | 4 | 1 | 1 | Turn Undead, Defensive Fighter | 1 | -
+5   | 5   | 4 | 1 | 1 | Smite Evil 2/day | 2 | 1
+6   | 6/1 | 5 | 2 | 2 | Special Mount, Remove Disease | 3 | 2
 
 **Weapon and Armor Proficiency**: Paladins are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with all shields (including tower shields).
 

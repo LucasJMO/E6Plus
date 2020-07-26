@@ -39,7 +39,6 @@ The lore of true stamina | +2 bonus on Fortitude saves
 Secret knowledge of avoidance | +2 bonus on Reflex saves
 Weapon trick | +1 bonus on attack rolls
 Dodge trick | +1 dodge bonus to AC
-Applicable knowledge | Any one feat
 Newfound arcana | 1 bonus 1st-level spell
 More newfound arcana | 1 bonus 2nd-level spell
 

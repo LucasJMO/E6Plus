@@ -14,15 +14,15 @@ To qualify to become a dragon disciple, a character must fulfill all the followi
 
 **Spellcasting**: Ability to cast arcane spells without preparation
 
-**Special**: The player chooses a dragon variety when taking the first level of this prestige class.
+**Special**: The player chooses a dragon variety when taking the first level of this prestige class. Taken dragon disciple levels cannot be retrained. Dragon disciple levels stack with sorcerer levels for the purpose of determining caster level.
 
 LVL | BAB | F | R | W | Special | Spellcasting
 --- | --- | - | - | - | ------- | ------------
 1   | 1   | 2 | 0 | 2 | Natural Armor Increase (+1) | -    
 2   | 2   | 3 | 0 | 3 | Ability Boost (Str +2), breath weapon (2d8), claws and bite | -
-3   | 3   | 3 | 1 | 3 | Blindsense 30 ft, natural armor increase (+2) | +1 level of existing spellcasting class      
+3   | 3   | 3 | 1 | 3 | Ability Boost (Dex +2), Blindsense 30 ft, natural armor increase (+2) | +1 level of existing spellcasting class      
 4   | 4   | 4 | 1 | 4 | Ability Boost (Con +2), breath weapon (3d8) | -         
-5	| 5	  | 4 | 2 | 4 | Natural armor increase (+3) | +1 level of existing spellcasting class
+5	| 5	  | 4 | 2 | 4 | Draconic Aspect, Natural armor increase (+3) | +1 level of existing spellcasting class
 
 **Weapon and Armor Proficiency**: Dragon disciples gain no proficiency with any weapon or armor.
 
@@ -68,3 +68,7 @@ Large | 1d8 | 1d6
 **Blindsense**(Ex): At 3rd level, the dragon disciple gains blindsense with a range of 30 feet. Using nonvisual senses the dragon disciple notices things it cannot see. He usually does not need to make Spot or Listen checks to notice and pinpoint the location of creatures within range of his blindsense ability, provided that he has line of effect to that creature.
 
 Any opponent the dragon disciple cannot see still has total concealment against him, and the dragon disciple still has the normal miss chance when attacking foes that have concealment. Visibility still affects the movement of a creature with blindsense. A creature with blindsense is still denied its Dexterity bonus to Armor Class against attacks from creatures it cannot see.
+
+**Draconic Aspect**: A 5th level dragon disciple's appearance is forever altered, their skin gains a smooth, metallic quality, and a light tinge matching the color of their chosen dragon variety. Their eyes change to a deep golden color. 
+
+They gain a +2 to charisma based skill checks, +1 to saves against paralysis, sleep, or poison, and darkvision out to 60 feet (120 feet if they already had darkvision from another source).
