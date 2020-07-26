@@ -8,12 +8,12 @@
 
 LVL | BAB | F | R | W | Special | 0 | 1 | 2 | 3
 --- | --- | - | - | - | ------- | - | - | - | -
-1   | 0   | 2 | 0 | 2 | Summon Familiar, Scribe Scroll | 3 | 1 | -   | -  
-2   | 1   | 3 | 0 | 3 | Bonus Feat | 4 | 2 | -   | -
-3   | 1   | 3 | 1 | 3 |  | 4 | 2 | 1 | -
-4   | 2   | 4 | 1 | 4 | Bonus Feat | 4 | 3 | 2 | -
-5   | 2   | 4 | 1 | 4 |  | 4 | 3 | 2 | 1
-6   | 3   | 5 | 2 | 5 | Bonus Feat | 4 | 3 | 3 | 2
+1   | 0   | 0 | 0 | 2 | Summon Familiar, Scribe Scroll | 3 | 1 | -   | -  
+2   | 1   | 0 | 0 | 3 | Bonus Feat | 4 | 2 | -   | -
+3   | 1   | 1 | 1 | 3 |  | 4 | 2 | 1 | -
+4   | 2   | 1 | 1 | 4 | Bonus Feat | 4 | 3 | 2 | -
+5   | 2   | 1 | 1 | 4 |  | 4 | 3 | 2 | 1
+6   | 3   | 2 | 2 | 5 | Bonus Feat | 4 | 3 | 3 | 2
 
 **Weapon and Armor Proficiency**: Wizards are proficient with the club, dagger, heavy crossbow, light crossbow, and quarterstaff, but not with any type of armor or shield. Armor of any type interferes with a wizard’s movements, which can cause her spells with somatic components to fail.
 
@@ -31,7 +31,7 @@ Unlike a bard or sorcerer, a wizard may know any number of spells. She must choo
 
 **Scribe Scroll**: At 1st level, a wizard gains Scribe Scroll as a bonus feat.
 
-**Bonus Feats**: At 2nd and 5th level, a wizard gains a bonus feat. At each such opportunity, she can choose a metamagic feat, an item creation feat, or Spell Mastery. The wizard must still meet all prerequisites for a bonus feat, including caster level minimums.
+**Bonus Feat**: At 2nd, 4th, and 6th level, a wizard gains a bonus feat. At each such opportunity, she can choose a metamagic feat, an item creation feat, or Spell Mastery. The wizard must still meet all prerequisites for a bonus feat, including caster level minimums.
 
 These bonus feats are in addition to the feat that a character of any class gets from advancing levels. The wizard is not limited to the categories of item creation feats, metamagic feats, or Spell Mastery when choosing these feats.
 
