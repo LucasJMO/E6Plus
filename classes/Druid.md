@@ -70,3 +70,33 @@ The form chosen must be that of an animal the druid is familiar with.
 A druid loses her ability to speak while in animal form because she is limited to the sounds that a normal, untrained animal can make, but she can communicate normally with other animals of the same general grouping as her new form. (The normal sound a wild parrot makes is a squawk, so changing to this form does not permit speech.)
 
 The new form’s Hit Dice can’t exceed the character’s druid level.
+
+**The Druid's Animal Companion**: A druid’s animal companion is different from a normal animal of its kind in many ways. A druid’s animal companion is superior to a normal animal of its kind and has special powers, as described below.
+
+Class Level | Bonus HD | Natural Armor Adjustment | Strength/Dexterity Adjustment | Bonus Tricks | Special
+----------- | -------- | ------------------------ | ----------------------------- | ------------ | -------
+1st-2nd     | +0       | +0                       | +0                            | 1            | Link, share spells
+3rd-5th     | +2       | +2                       | +1                            | 2            | Evasion
+6th         | +4       | +4                       | +2                            | 3            | Devotion
+ 
+**Animal Companion Basics**: Use the base statistics for a creature of the companion’s kind, but make the following changes.
+
+**Class Level**: The character’s druid level. The druid’s class levels stack with levels of any other classes that are entitled to an animal companion for the purpose of determining the companion’s abilities and the alternative lists available to the character.
+
+**Bonus HD**: Extra eight-sided (d8) Hit Dice, each of which gains a Constitution modifier, as normal. Remember that extra Hit Dice improve the animal companion’s base attack and base save bonuses. An animal companion’s base attack bonus is the same as that of a druid of a level equal to the animal’s HD. An animal companion has good Fortitude and Reflex saves (treat it as a character whose level equals the animal’s HD). An animal companion gains additional skill points and feats for bonus HD as normal for advancing a monster’s Hit Dice.
+
+**Natural Armor Adjustment**: The number noted here is an improvement to the animal companion’s existing natural armor bonus.
+
+**Strength/Dexterity Adjustment**: Add this value to the animal companion’s Strength and Dexterity scores.
+
+**Bonus Tricks**: The value given in this column is the total number of "bonus" tricks that the animal knows in addition to any that the druid might choose to teach it (see the Handle Animal skill). These bonus tricks don’t require any training time or Handle Animal checks, and they don’t count against the normal limit of tricks known by the animal. The druid selects these bonus tricks, and once selected, they can’t be changed.
+
+**Link**: A druid can handle her animal companion as a free action, or push it as a move action, even if she doesn’t have any ranks in the Handle Animal skill. The druid gains a +4 circumstance bonus on all wild empathy checks and Handle Animal checks made regarding an animal companion.
+
+**Share Spells**: At the druid’s option, she may have any spell (but not any spell-like ability) she casts upon herself also affect her animal companion. The animal companion must be within 5 feet of her at the time of casting to receive the benefit. If the spell or effect has a duration other than instantaneous, it stops affecting the animal companion if the companion moves farther than 5 feet away and will not affect the animal again, even if it returns to the druid before the duration expires.
+
+Additionally, the druid may cast a spell with a target of "You" on her animal companion (as a touch range spell) instead of on herself. A druid and her animal companion can share spells even if the spells normally do not affect creatures of the companion’s type (animal).
+
+**Evasion**: If an animal companion is subjected to an attack that normally allows a Reflex saving throw for half damage, it takes no damage if it makes a successful saving throw.
+
+**Devotion**: An animal companion gains a +4 morale bonus on Will saves against enchantment spells and effects.

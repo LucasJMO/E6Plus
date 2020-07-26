@@ -13,7 +13,7 @@ To qualify to become a duelist, a character must have a base attack bonus of +3 
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
 1   | 1   | 2 | 2 | 0 | Canny defense, improved reaction +2, spring attack
-2   | 2   | 3 | 3 | 0 | Clever opportunist, combat reflexes, deflect arrows, grace
+2   | 2   | 3 | 3 | 0 | Clever opportunist, combat reflexes, deflect attacks, grace
 3   | 3   | 3 | 3 | 1 | Skirmish +1d6, improved reaction +4
 
 **Weapon and Armor Proficiency**: The duelist is proficient with all simple and martial weapons, but no type of armor or shield.
