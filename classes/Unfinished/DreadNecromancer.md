@@ -86,9 +86,8 @@ Because of this empathic link, the master has the same connection to an item or 
 **Speak With Master**: A familiar and the master can communicate verbally as if they were using a common language. Other creatures do not understand the communication without magical help.
 
 ## Dread Necromancer Spells
-
-**1**: Bane, Bestow Wound, Cause Fear, Chill Touch, Detect Magic, Detect Undead, Doom, Hide from Undead, Inflict Light Wounds, Ray of Enfeeblement, Summon Undead 1, Undetectable Alignment
-
-**2**: Blindness/Deafness, Command Undead, Darkness, Death Knell, False Life, Gentle Repose, Ghoul Touch, Inflict Moderate Wounds, Scare, Spectral Hand, Summon Swarm, Summon Undead 2
-
-**3**: Crushing Despair, Halt Undead, Inflict Serious Wounds, Ray of Exhaustion, Speak With Dead, Summon Undead 3, Vampiric Touch
+Spell Level | Spells Known
+----------- | ------------
+**1** | Bane, Bestow Wound, Cause Fear, Chill Touch, Detect Magic, Detect Undead, Doom, Hide from Undead, Inflict Light Wounds, Ray of Enfeeblement, Summon Undead 1, Undetectable Alignment
+**2** | Blindness/Deafness, Command Undead, Darkness, Death Knell, False Life, Gentle Repose, Ghoul Touch, Inflict Moderate Wounds, Scare, Spectral Hand, Summon Swarm, Summon Undead 2
+**3** | Crushing Despair, Halt Undead, Inflict Serious Wounds, Ray of Exhaustion, Speak With Dead, Summon Undead 3, Vampiric Touch

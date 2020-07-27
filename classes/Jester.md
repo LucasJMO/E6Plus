@@ -45,8 +45,8 @@ An enemy targeted by this ability multiple times gains a +5 bonus to Spot for ea
 
 ## Jester Spells
 
-**0**: Alarm, Detect Magic, Detect Poison, Grease, Unseen Servant, Ventriloquism
-
-**1**: Fire Trap, Hideous Laughter, Magic Mouth, Misdirection, Pyrotechnics, Reduce Person
-
-**2**: Baleful Transposition, Explosive Runes, Glitterdust, Invisibility, Rage, Touch of Idiocy
+Level | Spells Known
+----- | ------------
+**0** | Alarm, Detect Magic, Detect Poison, Grease, Unseen Servant, Ventriloquism
+**1** | Fire Trap, Hideous Laughter, Magic Mouth, Misdirection, Pyrotechnics, Reduce Person
+**2** | Baleful Transposition, Explosive Runes, Glitterdust, Invisibility, Rage, Touch of Idiocy

@@ -48,9 +48,10 @@ The summoning ritual requires an hour of unbroken meditation. Once summoned the 
 
 ## Blackguard Spell List
 
-**1st Level**: Cause fear, corrupt weapon, cure light wounds, doom, inflict light wounds, magic weapon, summon monster 1 
-
-**2nd Level**: bull’s strength, cure moderate wounds, darkness, death knell, eagle’s splendor, inflict moderate wounds, shatter, summon monster 2
+Level | Spells Known
+----- | ------------
+**1** | Cause fear, corrupt weapon, cure light wounds, doom, inflict light wounds, magic weapon, summon monster 1 
+**2** | bull’s strength, cure moderate wounds, darkness, death knell, eagle’s splendor, inflict moderate wounds, shatter, summon monster 2
 
 **The Blackguard's Mount**:
 
