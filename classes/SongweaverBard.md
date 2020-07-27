@@ -21,7 +21,7 @@ LVL | BAB | F | R | W | Special | 0 | 1 | 2
 
 Upon reaching 4th level, and at every songweaver level after that, a songweaver can choose to learn a new spell in place of one he already knows. 
 
-**Bardic Knowledge**: A songweaver may make a special bardic knowledge check with a bonus equal to songweaver level + intelligence modifier + ranks in knowledge (history) divided by two. A successful bardic knowledge check will not reveal the powers of a magic item, byt may give a hint as to its general function. A songweaver may not take 10 or 20 on this check.
+**Bardic Knowledge**: A songweaver may make a special bardic knowledge check with a bonus equal to songweaver level + intelligence modifier + ranks in knowledge (history) divided by two. A successful bardic knowledge check will not reveal the powers of a magic item, but may give a hint as to its general function. A songweaver may not take 10 or 20 on this check.
 
 DC | Type of Knowledge
 -- | -----------------

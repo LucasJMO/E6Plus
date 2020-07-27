@@ -13,7 +13,7 @@ To qualify to become a thaumaturgist, a character must be able to cast 1st level
 LVL | BAB | F | R | W | Special | Spellcasting
 --- | --- | - | - | - | ------- | ------------
 1   | 0   | 0 | 0 | 2 | Augment summoning | +1 level of existing spellcasting class
-2   | 1   | 0 | 0 | 3 | Extended summoning | -
+2   | 1   | 0 | 0 | 3 | Extended summoning | +1 level of existing spellcasting class
 3   | 1   | 1 | 1 | 3 |  | +1 level of existing spellcasting class    
 4   | 2   | 1 | 1 | 4 | Contingent conjuration | +1 level of existing spellcasting class
 5	| 2	  | 1 | 1 | 4 | Planar cohort | -

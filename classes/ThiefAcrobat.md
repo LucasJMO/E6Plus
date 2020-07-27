@@ -13,7 +13,7 @@ LVL | BAB | F | R | W | Special
 3   | 2   | 1 | 3 | 1 | Sure Climb, Kip Up
 4   | 3   | 1 | 4 | 1 | Detect Magic, Grapple Line, Skill Mastery
 5   | 3   | 1 | 4 | 1 | Sneak Attack +2d6, Rapid Stealth, Improved Evasion
-6   | 4   | 2 | 5 | 2 | Mercurial Charge, Athletic Cascade, Power Slide
+6   | 4   | 2 | 5 | 2 | Mercurial Charge, Athletic Cascade, Unsettling Choreography
 
 **Acrobatic Flair**: A Thief Acrobat may move her full movement while using the Tumble or Balance skill without suffering a penalty or increasing the DC of her check.
 
@@ -37,4 +37,4 @@ LVL | BAB | F | R | W | Special
 
 **Athletic Cascade**: If a Thief acrobat moves before making an attack, for the purpose of flanking she may count any square she has moved through as threatening an opponent, in addition to the space she is actually attacking from. In this manner she may even flank with herself.
 
-**Power Slide**:  If a 6th level Thief Acrobat takes damage from an attack, he may allow himself to be flung backwards, thereby lessening the impact. He may make a Balance check with a DC equal to the damage inflicted and if he succeeds, he suffers only half damage. This is a skill check, not a Save Throw, so abilities such as evasion do not apply. He is moved away from the source of damage by 5’ for every 5 points of damage (or part thereof) negated in this way. If there is not enough space for him to move, he suffers a d6 of damage for each square not moved. If he passes through an occupied square, the Thief Acrobat must make a tumble check to avoid attacks of opportunity. 
+**Unsettling Choreography**: A thief acrobat of 6th level may use her Dexterity modifier in place of her Strength modifier when making trip or bullrush attempts.

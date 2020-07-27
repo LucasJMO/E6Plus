@@ -10,7 +10,7 @@
 
 To qualify to become a hierophant, a character must fulfill all the following criteria.
 
-**Feats**: Skill Focus (Knowledge [Religion]), Scribe Scroll
+**Feats**: A hierophant must have two out of Skill Focus (Knowledge [Religion]), Scribe Scroll, and Brew Potion
 
 **Spells**: Able to cast 1st-level divine spells.
 
@@ -46,7 +46,7 @@ Lawful evil     |Chaotic good
 Neutral evil    |Neutral good
 Chaotic evil    |Lawful good
 
-**Bless Water**(Su): You gain the ability to create temporary potions. Each day you may select one spell you know and imbue a vial of water with its benefits. The spell must be a valid choice for the Brew Potion feat. The vial of water becomes a potion of the selected spell. If not consumed, the temporary potion reverts to normal water after 12 hours.
+**Bless Water**(Su): You gain the ability to create temporary potions. Once per day per class level you may select one spell you know and imbue a vial of water with its benefits. The spell must be a valid choice for the Brew Potion feat. The vial of water becomes a potion of the selected spell. If not consumed, the temporary potion reverts to normal water after 12 hours.
 
 **Divine Counterspell**(Su): As an immediate action, you can expend one of your spells to counter a spell. Upon using this ability you must identify the spell with a spellcraft check (DC 15 + the spell's level). If you correctly identify the spell you can expend a spell or spell slot of a level equal to or higher than the spell being cast to counter the spell. This ability is usable once per day per class level.
 

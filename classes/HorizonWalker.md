@@ -25,7 +25,7 @@ Horizon walkers take their terrain mastery with them wherever they go. They reta
 
 A horizon walker can change the planes he is attuned to by spending a week in careful meditation. He must full rest each night, and spend 12 hours each day connecting to the planes he wishes to attune himself to. He may use the remaining hours of the day to engage in simple, non-strenuous activity. Combat or use of his horizon step ability will cause the attempt to fail, leaving him attuned to the same planes as he was before attempting to change.
 
-**Horizon Step**(Su): A 6th level horizon walker gains the ability to teleport a short distance every 1d6 rounds. Using this ability requires a swift action, the max range traveled is 10 feet per class level, you must have line of sight to the desired destination, and if this ability would put you in a place that is already occupied by a solid body, it fails. This form of movement does not provoke attacks of opportunity, and is only available to a horizon walker wearing light, medium, or no armor.
+**Horizon Step**(Su): A 6th level horizon walker gains the ability to teleport a short distance every 1d8 rounds. Using this ability requires a swift action, the max range traveled is 10 feet per class level, you must have line of sight to the desired destination, and if this ability would put you in a place that is already occupied by a solid body, it fails. This form of movement does not provoke attacks of opportunity, and is only available to a horizon walker wearing light, medium, or no armor.
 
 The horizon walker may bring touched objects, so long as their weight does not exceed his maximum load. He cannot however bring other creatures.
 

@@ -1,30 +1,32 @@
-**Special**: For all variations of the feats Expanded Spell Knowledge and Expanded Caster Stamina, the benefits can only be applied to characters whose class casting progression will give them access to 3rd level spells (note that this does not include characters who gain access to these spells through a special class ability). Additionally, cross classing (taking levels of separate classes) nullifies the benefits of these feats. 
+**Special**: For all variations of the feats Expanded Spell Knowledge and Expanded Caster Stamina, the benefits can only be applied to characters whose class casting progression will give them access to 3rd level spells (note that this does not include characters who gain access to these spells through a special class ability). Cross classing (taking levels of separate classes) in such a way that would prevent a character from gaining the ability to cast 3rd level spells nullifies the benefits of these feats.
 
-**Expanded Spell Knowledge**
+**Expanded Arcane Spell Knowledge**
 
-Benefit: You learn new spell(s) whose level equals three (round down, and treat new 0th-level spell as ½). Thus, a Sorcerer could learn one 3rd level spell, one 1st, and one 2nd level spells, three 1st level spells, or 6 0th level spells. 
+Prerequisite: Ability to cast arcane spells.
 
-Special: You may select spells at a higher level than you can currently cast, however you do not learn those spells until you reach a level which would allow you to cast them. For example if a 1st level Sorcerer selects a 3rd level spell, they would not learn it until they reached level 6. 
+Benefit: You learn new spell(s) whose level equals three (round down, and treat new 0th-level spell as 1/2). Thus, a Sorcerer could learn one 3rd level spell, one 1st, and one 2nd level spells, three 1st level spells, or 6 0th level spells. 
 
-**Expanded Spell Knowledge** [General]:
+Special: You may select spells at a higher level than you can currently cast, however you do not learn those spells until you reach a level which would allow you to cast them. For example if a 1st level Sorcerer selects a 3rd level spell, they would not learn it until they reached level 6. This feat may only be used to learn new arcane spells.
 
-Prerequisite: Character level 6.1
+**Expanded Spell Knowledge**:
 
-Benefit: You learn 1 or more new spells known, with spell levels totalling to three (treat a new 0th level slot as ½).
+Benefit: You learn 1 or more new spells known, with spell levels totalling to three (treat a new 0th level slot as 1/2).
 
 Special: This feat can be taken multiple times, each time you take it it provides more spells.
 
-**Expanded Caster Stamina**:
+**Expanded Arcane Caster Stamina**:
 
-Benefit: You gain 1 or more new spell slots, with spell levels totalling to 3. Treat 0th level spells as ½. Thus a Sorcerer could gain one 3rd level slot, one 1st and one 2nd level slot, three 1st level slots, or 6th 0th level slots.
+Prerequisite: Ability to cast arcane spells.
 
-Special: You may select slots of a higher level than you can currently cast, however you do not gain access to those slots until you reach a level which would allow you to cast them. 
+Benefit: You gain 1 or more new spell slots, with spell levels totalling to 3. Treat 0th level spells as 1/2. Thus a Sorcerer could gain one 3rd level slot, one 1st and one 2nd level slot, three 1st level slots, or 6th 0th level slots.
+
+Special: You may select slots of a higher level than you can currently cast, however you do not gain access to those slots until you reach a level which would allow you to cast them.This feat may only be used to gain spell slots for arcane spells. 
 
 **Expanded Caster Stamina**:
 
 Prerequisite: Character level 6.1
 
-Benefit: You gain 1 or more new spell slots, with spell levels totalling to 3. Treat 0th level spells as ½.
+Benefit: You gain 1 or more new spell slots, with spell levels totalling to 3. Treat 0th level spells as 1/2.
 
 Special: This feat can be taken multiple times, each time you take it it provides more slots.
 
@@ -55,10 +57,4 @@ Prerequisite: Ability Training feat for selected Ability
 
 Benefit: Choose one Ability. You gain a permanent +2 bonus to that ability.
 
-Special: You can gain this feat multiple times, its effects do not stack. Each time you take this feat it applies to another ability.
-
-**Rapid Shot**: 
-
-Benefit: You can get one extra attack per round with a ranged weapon. The attack is at your highest base attack bonus, but each attack you make in that round (the extra one and the normal ones) takes a -2 penalty. You must use the full attack action to use this feat. 
-
-Special: This feat may be used as a prerequisite for feats or classes requiring the feats Point Blank Shot or Precise Shot
+Special: You can gain this feat up to 6 times, its effects do not stack. Each time you take this feat it applies to another ability.
