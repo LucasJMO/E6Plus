@@ -25,7 +25,7 @@ LVL | BAB | F | R | W | Special
 
 **Kip Up**: A Thief Acrobat may stand up from prone as a free action which does not provoke an attack of opportunity.
 
-**Detect Magic**: A Thief Acrobat may use detect magic at-will as a spell-like ability. A Thief Acrobat may use her Appraise Skill in place of her Spellcraft in order to glean additional information from her detect magic.
+**Detect Magic**(Sp): A Thief Acrobat may use detect magic at-will as a spell-like ability. A Thief Acrobat may use her Appraise Skill in place of her Spellcraft in order to glean additional information from her detect magic.
 
 **Grapple Line**: A Thief Acrobat may fire a missile weapon designed as a grappling weapon at an unoccupied square and, if it does at least 1 point of damage to an object filling that square (wall, ceiling, statue, etc) or a securely affixed object (ceiling post, small statue, etc) the Thief acrobat may run a rope from his current position to that location as a full round action. He may then use this rope to make a Balance or Climb check as normal.
 

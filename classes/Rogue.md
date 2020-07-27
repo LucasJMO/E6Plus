@@ -53,9 +53,11 @@ A rogue may select one of crippling strike, dark caster, defensive roll, hide in
 
 An enemy targeted by this ability multiple times gains a +5 bonus to Spot for each prior time he has been targeted, regardless of who won the prior checks. This bonus lasts for 24 hours.
 
-**Jester's Trip**: A rogue who strikes an opponent with a melee sneak attack, they may make a free trip attempt which does not provoke an attack of opportunity.
+**Jester's Trip**: A rogue who strikes an opponent with a melee sneak attack, may make a free trip attempt which does not provoke an attack of opportunity.
 
 **Opportunist**: Once per round, a rogue can make an attack of opportunity against an opponent who has just been struck for damage in melee by another character.
+
+**Rapid Stealth**: A rogue does not suffer the -10 penalty to Move Silently or Hide for moving at her full normal speed.
 
 **Skill Mastery**: Upon gaining this ability, the rogue selects a number of skills equal to 3 + Intelligence modifier. When making a skill check with one of these skils, he may take 10 even if stress and distraction would normally prevent such a thing. This ability may be gained multiple times.
 
