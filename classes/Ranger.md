@@ -23,6 +23,26 @@ To prepare or cast a spell, a ranger must have a Wisdom score equal to at least 
 
 **Favored Enemy**(Ex): At 1st level, a ranger may select a type of creature from among those given on the table. The ranger gains a +2 bonus on Bluff, Listen, Sense Motive, Spot, and Survival checks when using these skills against creatures of this type. Likewise he gets a +2 bonus on weapon damage rolls, and a +1 to crit range against such creatures.
 
+At 3rd and 5th level the ranger selects an additional favored enemy type from those given on the table. In addition, at each such interval, the bonuses against any one favored enemy (including the one just selected, if so desired) increase by 2 (save for the bonus to crit range, which increases by 1).
+
+Type (Subtype) | Type (Subtype)
+---------------|---------------
+Aberration				|Humanoid (reptilian)
+animals 				|Magical beast
+Construct				|Monstrous Humanoid
+Dragon					|Ooze
+Elemental				|Outsider (air)
+Fey						|Outsider (chaotic)
+Giant					|Outsider (evil)
+Humanoid (aquatic)		|Outsider (fire)
+Humanoid (dwarf)		|Outsider (good)
+Humanoid (elf)			|Outsider (lawful)
+Humanoid (goblinoid)	|Outsider (native)
+Humanoid (gnoll)		|Outsider (water)
+Humanoid (halfling)		|Plant
+Humanoid (human)		|Undead
+Humanoid (orc)			|Vermin
+
 **Track**: A 1st level ranger gains Track as a bonus feat.
 
 **Wild Empathy**(Ex): A ranger can improve the attitude of an animal. This ability functions just like a Diplomacy check to improve the attitude of a person. The ranger rolls a d20 and adds his ranger level and his Charisma modifier to determine the wild empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly.
