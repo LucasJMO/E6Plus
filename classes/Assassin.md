@@ -2,7 +2,7 @@
 
 **Hit Die**: d6
 
-**Skills**: Balance (Dex), Bluff (Cha), Climb (Str), Concentration (Con), Craft (Int), Diplomacy (Cha), Disable Device (Int), Disguise (Cha), Escape Artist (Dex), Gather Information (Cha), Heal (Wis), Hide (Dex), Intimidate (Cha), Jump (Str), Knowledge (all skills, taken individually) (Int), Listen (Wis), Move Silently (Dex), Perform (Cha), Profession (Wis), Search (Int), Sense Motive (Wis), Sleight of Hand (Dex), Spellcraft (Int), Spot (Wis), Swim (Str), Tumble (Dex), Use Magic Device (Cha)
+**Skills**: Balance (Dex), Bluff (Cha), Climb (Str), Concentration (Con), Craft (Int), Disable Device (Int), Disguise (Cha), Escape Artist (Dex), Gather Information (Cha), Heal (Wis), Hide (Dex), Intimidate (Cha), Jump (Str), Knowledge (all skills, taken individually) (Int), Listen (Wis), Move Silently (Dex), Perform (Cha), Profession (Wis), Search (Int), Sense Motive (Wis), Sleight of Hand (Dex), Spellcraft (Int), Spot (Wis), Swim (Str), Tumble (Dex), Use Magic Device (Cha)
 
 **Skills/Level**: 6 + Int modifier
 
@@ -13,7 +13,7 @@ LVL | BAB | F | R | W | Special | 0 | 1 | 2
 3   | 2   | 1 | 3 | 1 | Hide in Plain Sight | 6/3 | 3/1 | 2/0
 4   | 3   | 1 | 4 | 1 | Cloak of Discretion, Skill Mastery | 6/3 | 3/2 | 3/1
 5   | 3   | 1 | 4 | 1 | Trapfinding, Trapmaking, Nerve of the Killer | 6/3 | 4/3 | 3/2
-6   | 4   | 2 | 5 | 2 | Palm Weapon | 6/3 | 4/3 | 3/2
+6   | 4   | 2 | 5 | 2 | Palm Weapon, Poisonmaster | 6/3 | 4/3 | 3/2
 
 **Spellcasting**: An assassin is an Arcane Spellcaster with the same spells per day and spells known progression as a Bard, except that he gains no more than three spell slots per level. An assassin’s spells known may be chosen from the Sorcerer/Wizard list, and must be from the schools of Divination, Illusion, or Necromancy. To cast an assassin spell, she must have an Intelligence at least equal to 10 + the spell level. The DC of the assassins’ spells is Intelligence based and the bonus spells are Intelligence based.
 
@@ -42,3 +42,7 @@ If an assassin already has uncanny dodge from a different class he automatically
 **Nerves of the Killer**:  A 5th level assassin gains a limited immunity to compulsion and charm effects. While studying a target for a Death Attack, and for one round afterward, he counts as if he were within a protection from evil effect. This does not confer a deflection bonus to AC.
 
 **Palm Weapon**(Su): A 6th level assassin may conceal weapons with supernatural skill. Any weapon concealed with Sleight of Hand cannot be found with Divination magic.
+
+**Poisonmaster**: A 6th level assassin can create short term poisons. By expending an entire healer's kit worth of materials and an hour of time, he can synthesize short term poisons which degrade to uselessness after one week.
+
+These poisons deal 3d6 damage as a primary effect, and should the target fail its fortitude save, 2d6 ability score damage as a secondary effect. The save DC is 16 plus the assassin's Intelligence Modifier. The type of ability score damage is selected when the poison is created. If a target is affected by multiple poisons targeting the same ability score the ability score damage does not stack.

@@ -2,7 +2,7 @@
 
 **Hit Die**: d6
 
-**Skills**: Appraise (Int), Balance (Dex), Bluff (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Disable Device (Int), Escape Artist (Dex), Hide (Dex), Intimidate (Cha), Jump (Str), Listen (Wis), Move Silently (Dex), Perform (Cha), Profession (Wis), Search (Int), Sense Motive (Wis), Sleight of Hand (Dex), Spot (Wis), Swim (Str), Tumble (Dex), Use Magic Device (Cha), Use Rope (Dex)
+**Skills**: Appraise (Int), Bluff (Cha), Balance (Dex), Climb (Str), Craft (Int), Disable Device (Int), Escape Artist (Dex), Hide (Dex), Intimidate (Cha), Jump (Str), Listen (Wis), Move Silently (Dex), Perform (Cha), Profession (Wis), Search (Int), Sense Motive (Wis), Sleight of Hand (Dex), Spot (Wis), Swim (Str), Tumble (Dex), Use Magic Device (Cha), Use Rope (Dex)
 
 **Skills/Level**: 6 + Int modifier
 
@@ -33,7 +33,7 @@ LVL | BAB | F | R | W | Special
 
 **Rapid Stealth**: A Thief acrobat does not suffer the -10 penalty to Move Silently or Hide for moving at her full normal speed.
 
-**Mercurial Charge**: A Thief Acrobat need not move in a straight line to charge, nor must she charge the closest available space. She still may not move back on herself during a charge.
+**Mercurial Charge**: As a full round action, a thief acrobat may move up to twice her movement speed and then make a single attack at her full Base Attack Bonus. The thief acrobat may not move back on herself while using this form of movement, if she moves at least 10 feet before making her attack she adds +2 to her roll and -2 to her AC for the next turn. Tumble checks taken during this action suffer a penalty of -10.
 
 **Athletic Cascade**: If a Thief acrobat moves before making an attack, for the purpose of flanking she may count any square she has moved through as threatening an opponent, in addition to the space she is actually attacking from. In this manner she may even flank with herself.
 

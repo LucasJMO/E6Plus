@@ -2,7 +2,7 @@
 
 **Hit Die**: d10
 
-**Skills**: Balance (Dex), Bluff (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Escape Artist (Dex), Handle Animal (Cha), Heal (Wis), Jump (Str), Knowledge (all skills, taken individually) (Int), Listen (Wis), Move Silently (Dex), Profession (Wis), Ride (Dex), Sense Motive (Wis), Spot (Wis), Survival (Wis), Swim (Str), Tumble (Dex), Use Rope (Dex)
+**Skills**: Balance (Dex), Climb (Str), Craft (Int), Escape Artist (Dex), Handle Animal (Cha), Heal (Wis), Jump (Str), Knowledge (all skills, taken individually) (Int), Listen (Wis), Move Silently (Dex), Profession (Wis), Ride (Dex), Spot (Wis), Survival (Wis), Swim (Str), Tumble (Dex), Use Rope (Dex)
 
 **Skills/Level**: 6 + Int modifier
 

@@ -14,8 +14,12 @@ A vampire who goes for a week without draining blood suffers a point of Charisma
 
 **Create Spawn**: A humanoid or monstrous humanoid slain by the vampire's blood drain rises as a vampire spawn 1d4 days after burial. Spawn are under the command of the vampire and remain enslaved until their master's death.
 
-**Damage Reduction**: 
+**Damage Reduction**: A vampire gains damage reduction 2/silver or magic.
 
 **Turn Resistance**: A vampire has +4 turn resistance.
 
 **Resistance**: A vampire has cold and electricity resistance 10.
+
+**Fast Healing**: A vampire heals a point of damage each round so long as it has 1 hit point.
+
+**Gaseous Form**: As a standard action, a vampire can assume gaseous form at will, as the spell cast by a 5th-level sorcerer, but can remain gaseous indefinitely and has a fly speed of 20 feet with perfect maneuverability.
