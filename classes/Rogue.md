@@ -47,7 +47,7 @@ A rogue may select one of crippling strike, dark caster, defensive roll, hide in
 
 **Hide in Plain Sight**: A rogue with hide in plain sight can use the Hide skill even while being observed (as long as he is within 10 feet of some sort of shadow). He cannot however, hide in his own shadow.
 
-**Improved Healing**: A rogue gains an enhancement to their natural healing abilities. For every 60 minutes a rogue spends out of combat they recover 1 hitpoint. This is in addition to hitpoints regained via other methods (resting for example). If the rogue already has Improved Healing from some other source they gain Greater Improved Healing instead.
+**Greater Improved Healing**: A rogue gains an enhancement to their natural healing abilities. For every 60 minutes a rogue spends out of combat they recover 1 hitpoint. This is in addition to hitpoints regained via other methods (resting for example).
 
 **Jester's Feint**: As a swift action a rogue may toss a brightly colored object in the square of an enemy with a Sleight of Hand check opposed by the enemy’s Spot check. If he succeeds, the enemy is denied his Dex bonus for the rogue’s next attack. This ability has a range of 30 ft.
 
