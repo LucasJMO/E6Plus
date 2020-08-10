@@ -20,12 +20,12 @@
 
 LVL | BAB | F | R | W | Special | Power Points/Day | Powers Known | Maximum Power Level Known
 --- | --- | - | - | - | ------- | ---------------- | ------------ | -------------------------
-1   | 0   | 0 | 2 | 2 | Discipline, psicrystal affinity | 2 | 3 			  | 1st 
-2   | 1   | 0 | 3 | 3 | Bonus feat			   | 6 | 5			  | 1st
-3   | 2   | 1 | 3 | 3 | 					   | 11| 7			  | 2nd
-4   | 3   | 1 | 4 | 4 | Bonus feat			   | 17| 9			  | 2nd
-5   | 3   | 1 | 4 | 4 | 					   | 25| 11			  | 3rd
-6   | 4   | 2 | 5 | 5 | Bonus feat			   | 35| 13			  | 3rd
+1   | 0   | 0 | 0 | 2 | Discipline, psicrystal affinity | 2 | 3 			  | 1st 
+2   | 1   | 0 | 0 | 3 | Bonus feat			   | 6 | 5			  | 1st
+3   | 1   | 1 | 1 | 3 | 					   | 11| 7			  | 2nd
+4   | 2   | 1 | 1 | 4 | Bonus feat			   | 17| 9			  | 2nd
+5   | 2   | 1 | 1 | 4 | 					   | 25| 11			  | 3rd
+6   | 3   | 2 | 2 | 5 | Bonus feat			   | 35| 13			  | 3rd
 
 **Weapon and Armor Proficiency**: Psions are proficient with the club, dagger, heavy crossbow, light crossbow, quarterstaff, and shortspear. They are not proficient with any type of armor or shield. Armor does not, however, interfere with the manifestation of powers.
 
