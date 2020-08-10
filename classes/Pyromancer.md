@@ -9,10 +9,10 @@
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
 1   | 0   | 0 | 2 | 2 | Fire Resistance, Fire Burst, Fire Bolts, Impress Flames, Fire Magic     
-2   | 1   | 0 | 3 | 3 | Ignite
+2   | 1   | 0 | 3 | 3 | Ignite, smokeless flame
 3   | 2   | 1 | 3 | 3 | Piercing Flames, Hands of Fire
-4   | 3   | 1 | 4 | 4 | Fire Immunity, Smokeless Flame
-5   | 3   | 1 | 4 | 4 | Fireballs
+4   | 3   | 1 | 4 | 4 | Fire Immunity
+5   | 3   | 1 | 4 | 4 | Fireballs, nimbus
 6   | 4   | 2 | 5 | 5 | Mind of Fire
 
 **Weapon and Armor Proficiency**: Pyromancers are proficient with all simple weapons, as well as the whip, all martial axes, and all sizes and varieties of scimitar (including falchions). Pyromancers are proficient with light armor, but not shields of any kind.
@@ -31,14 +31,16 @@ Although a pyromancer can become proficient with other forms of armor, wearing m
 
 **Ignite**(Su): As a standard action, a 2nd level Pyromancer can cause any creature or object to burst into flame. A creature on fire suffers 1d4 of Fire damage per round on their turn (the Mage’s Impress Flames ability applies to each round). At the start of its turn, the creature can expend a move equivalent action to attempt a Reflex save (DC 10 + 1/2 class level + charisma modifier), if the creature succeeds it still takes damage for the turn, however the flames are extinguished. If the flames are not extinguished they go out on their own after three rounds. This ability can be used out to short range, and it always hits.
 
+**Smokeless Flame**(Su): A 2nd level Pyromancer can create fires that produce no heat and do not burn. These fires can be anything from the size of a torch to a bonfire, and produce light accordingly. Each lasts for 1 hour per class level. Smokeless Flame can be created anywhere within medium range.
+
 **Piercing Flames**: From 3rd level on, a Pyromancer’s fire cuts through Fire Resistance, hardness, damage reduction, and Immunity. No more than 1/2 of the damage inflicted by his fire can be negated by hardness, immunity, damage reduction, or resistance to fire. In addition, the Pyromancer ignores the first 5 points of Fire Resistance or damage reduction that a target has.
 
 **Hands of Fire**(Su): A 3rd level Pyromancer can set fire to their own body, causing them to count as armed at all times, even with unarmed attacks. The Pyromancer also causes an extra 1d4 of Fire damage with all melee attacks. Beginning this effect requires a swift action, but it may be ended as a free action.
 
 **Fire Immunity**: At 4th level a Pyromancer is immune to fire.
 
-**Smokeless Flame**(Su): A 4th level Pyromancer can create fires that produce no heat and do not burn. These fires can be anything from the size of a torch to a bonfire, and produce light accordingly. Each lasts for 1 hour per class level. Smokeless Flame can be created anywhere within medium range.
+**Fireballs**(Su): A 5th level Pyromancer can hurl explosive fire anywhere within 20 feet per level as a Full Round Action. This Fire explodes into a 10’ radius and inflicts 1d4 of Fire Damage per level. All creatures within the area are entitled to a Reflex save to halve damage (DC 10 + 1/2 class level + Charisma Modifier). 
 
-**Fireballs**(Su): A 5th level Pyromancer can hurl explosive fire anywhere within short range as a Full Round Action. This Fire explodes into a 10’ radius and inflicts 1d4 of Fire Damage per level. All creatures within the area are entitled to a Reflex save to halve damage (DC 10 + 1/2 class level + Charisma Modifier). 
+**Nimbus**: Beginning at 5th level, a pyromancer can activate this ability as a move-equivalent action. Flames that harm neither the pyromancer nor her equipment engulf her entire body. While she is aflame, the character’s Charisma score increases by 4 and she gains damage reduction 5/magic. If she is struck in melee, the attacker takes 2d4 points of fire damage. This ability lasts for up to 1 round per pyromancer level and is usable once per day.
 
 **Mind of Fire**(Su): As a standard action, 6th level Pyromancer can duplicate the effects of rage or confusion for a number of rounds equal to his class level. The target must be within short range, and is entitled to a Will Save to negate this effect (DC 10 + 1/2 class level + Charisma Modifier). This is a mind influencing compulsion effect, and an individual targeted by this ability cannot be affected by it again for another 24 hours.
