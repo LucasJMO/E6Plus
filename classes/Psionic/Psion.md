@@ -128,6 +128,7 @@ Because of the telepathic link between a psicrystal and its owner, the owner has
 
 **Psicrystal Personalities**
 Personality 	| Benefit to Owner
+--------------- | ----------------
 Artiste			| +3 bonus on Craft checks
 Bully			| +3 bonus on Intimidate checks
 Coward			| +3 bonus on Hide checks
