@@ -20,12 +20,11 @@
 
 LVL | BAB | F | R | W | Special | Power Points/Day | Powers Known | Maximum Power Level Known
 --- | --- | - | - | - | ------- | ---------------- | ------------ | -------------------------
-1   | 0   | 0 | 0 | 2 | Discipline, psicrystal affinity | 2 | 3 			  | 1st 
-2   | 1   | 0 | 0 | 3 | Bonus feat			   | 6 | 5			  | 1st
-3   | 1   | 1 | 1 | 3 | 					   | 11| 7			  | 2nd
-4   | 2   | 1 | 1 | 4 | Bonus feat			   | 17| 9			  | 2nd
-5   | 2   | 1 | 1 | 4 | 					   | 25| 11			  | 3rd
-6   | 3   | 2 | 2 | 5 | Bonus feat			   | 35| 13			  | 3rd
+1   | 0   | 0 | 0 | 2 | Discipline, psicrystal affinity | 4 | 3 			  | 1st 
+2   | 1   | 0 | 0 | 3 | Bonus feat			   | 11| 5			  | 1st
+3   | 1   | 1 | 1 | 3 | 					   | 18| 7			  | 2nd
+4   | 2   | 1 | 1 | 4 | Bonus feat			   | 27| 9			  | 2nd
+5   | 2   | 1 | 1 | 4 | 					   | 37| 11			  | 3rd
 
 **Weapon and Armor Proficiency**: Psions are proficient with the club, dagger, heavy crossbow, light crossbow, quarterstaff, and shortspear. They are not proficient with any type of armor or shield. Armor does not, however, interfere with the manifestation of powers.
 
@@ -47,7 +46,7 @@ To learn or manifest a power, a psion must have an Intelligence score of at leas
 
 These bonus feats are in addition to the feats that a character of any class gains every three levels. A psion is not limited to psionic feats, metapsionic feats, and psionic item creation feats when choosing these other feats.
 
-**Discipline**: Every psion must decide at 1st level which psionic discipline he will specialize in. Choosing a discipline provides a psion with access to the class skills associated with that discipline (see above), as well as the powers restricted to that discipline. However, choosing a discipline also means that the psion cannot learn powers that are restricted to other disciplines. He can’t even use such powers by employing psionic items.
+**Discipline**: Every psion must decide at 1st level which two psionic disciplines he will specialize in. Choosing a discipline provides a psion with access to the class skills associated with that discipline (see above), as well as the powers restricted to that discipline. However, choosing a discipline also means that the psion cannot learn powers that are restricted to other disciplines. He can’t even use such powers by employing psionic items.
 
 **Psicrystal Affinity**: A 1st level psion gains the feat Psicrystal Affinity. Allowing them to gain a psicrystal.
 

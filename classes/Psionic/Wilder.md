@@ -8,12 +8,12 @@
 
 LVL | BAB | F | R | W | Special | Power Points/Day | Powers Known | Maximum Power Level Known
 --- | --- | - | - | - | ------- | ---------------- | ------------ | -------------------------
-1   | 0   | 0 | 0 | 2 | Wild surge +1, psychic enervation, psicrystal affinity | 1 | 3 			  | 1st 
-2   | 1   | 0 | 0 | 3 | Elude touch			   | 6 | 2			  | 1st
-3   | 2   | 1 | 1 | 3 | Wild surge +2		   | 11| 2			  | 1st
-4   | 3   | 1 | 1 | 4 | Surging euphoria 	   | 17| 3			  | 2nd
-5   | 3   | 1 | 1 | 4 | Bonus feat 			   | 25| 3			  | 2nd
-6   | 4   | 2 | 2 | 5 | Wild surge +3 		   | 35| 4			  | 2nd
+1   | 0   | 0 | 0 | 2 | Wild surge +1, psychic enervation, psicrystal affinity, discipline | 4 | 3 			  | 1st 
+2   | 1   | 0 | 0 | 3 | Elude touch			   | 11| 3			  | 1st
+3   | 2   | 1 | 1 | 3 | Wild surge +2		   | 18| 3			  | 1st
+4   | 3   | 1 | 1 | 4 | Surging euphoria 	   | 27| 4			  | 2nd
+5   | 3   | 1 | 1 | 4 | Bonus feat 			   | 37| 4			  | 2nd
+6   | 4   | 2 | 2 | 5 | Wild surge +3 		   | 50| 5			  | 2nd
 
 **Weapon and Armor Proficiency**: Wilders are proficient with all simple weapons, with light armor, and with shields (except tower shields).
 
@@ -51,7 +51,11 @@ In all cases, the wild surge effectively pays the extra power point cost that is
 
 A wilder who is overcome by psychic enervation is dazed until the end of her next turn.
 
-**Psicrystal Affinity**: A 1st level psion gains the feat Psicrystal Affinity. Allowing them to gain a psicrystal.
+**Psicrystal Affinity**: A 1st level wilder gains the feat Psicrystal Affinity. Allowing them to gain a psicrystal.
+
+**Discipline**: Every wilder must decide at 1st level which psionic discipline he will specialize in. Choosing a discipline provides a wilder with access to the powers restricted to that discipline. However, choosing a discipline also means that the wilder cannot learn powers that are restricted to other disciplines. He can’t even use such powers by employing psionic items.
+
+Unlike a psion, a wilder's selection of class skills is not affected by the discipline he chooses.
 
 **Elude Touch**: Starting at 2nd level, a wilder’s intuition supersedes her intellect, alerting her to danger from attacks (including touch attacks). She gains a dodge bonus to Armor Class against all attacks equal to her Charisma bonus.
 
@@ -59,4 +63,4 @@ A wilder who is overcome by psychic enervation is dazed until the end of her nex
 
 If a wilder is overcome by psychic enervation following her wild surge, she does not gain the morale bonus for this use of her wild surge ability.
 
-**Bonus Feat**: A psion gains a bonus feat at 5th level. This feat must be a psionic feat, a metapsionic feat, or a psionic item creation feat.
+**Bonus Feat**: A wilder gains a bonus feat at 5th level. This feat must be a psionic feat, a metapsionic feat, or a psionic item creation feat.

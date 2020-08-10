@@ -17,6 +17,8 @@ LVL | BAB | F | R | W | Special
 
 **Weapon and Armor Proficiency**: Soulknives are proficient with all simple weapons, with their own mind blades, and with light armor, medium armor, and shields (except tower shields).
 
+Although a soulknife may become proficient with other forms of armor, wearing heavy armor prevents them from creating a mind blade.
+
 **Mind Blade**(Su): As a move action, a soulknife can create a semisolid weapon composed of psychic energy distilled from his own mind. The weapon is identical in all ways (except visually) to a normal weapon of its size and type. Despite being referred to as a mind blade, this can be any variety of weapon.
 
 The mind blade can be broken (it has hardness 10 and 10 hit points); however, a soulknife can simply create another on his next move action. The moment he relinquishes his grip on his mind blade, it dissipates (unless he intends to throw it; see below). A mind blade is considered a magic weapon for the purpose of overcoming damage reduction.
@@ -25,7 +27,7 @@ A soulknife can use feats such as Power Attack or Combat Expertise in conjunctio
 
 Even in places where psionic effects do not normally function (such as within a null psionics field), a soulknife can attempt to sustain his mind blade by making a DC 20 Will save. On a successful save, the soulknife maintains his blade for a number of rounds equal to his class level before he needs to check again. On an unsuccessful attempt, the blade vanishes. As a move action on his turn, the soulknife can attempt a new Will save to rematerialize his blade while he remains within the psionics negating effect.
 
-A soulknife cannot dual wield a mind blade and a normal weapon, any attempt to do so causes the mind blade to dissipate.
+A soulknife can dual wield a mind blade and a normal weapon, however a mind blade cannot be treated as an off-hand weapon.
 
 **Martial Weapon Proficiency**: A soulknife gains Martial Weapon Proficiency as a bonus feat, she may select any weapon for this feat. The benefits from this feat apply to manifested mind weapons of the appropriate type.
 
