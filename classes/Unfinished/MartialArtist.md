@@ -61,4 +61,4 @@ A martial artist's slam is treatd as a magical weapon for the purpose of overcom
 
 **Purity of Body**: At 5th level, a martial artist gains immunity to all diseases, except for supernatural and magical diseases.
 
-**Master Style**: Once per day, a Monk of sixth level or higher may activate a Fighting Style and extend its duration to 1 round/level rather than 1 round. Activating this Fighting Style is still a Swift Action. Other Fighting Styles may be activated during this period, though their duration is normally going to be only 1 round. 
+**Master Style**: Once per day, a martial artist of sixth level or higher may activate a Fighting Style and extend its duration to 1 round/level rather than 1 round. Activating this Fighting Style is still a Swift Action. Other Fighting Styles may be activated during this period, though their duration is normally going to be only 1 round. 
