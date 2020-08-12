@@ -2,7 +2,7 @@
 
 **Hit Die**: d8
 
-**Skills**: Balance (Dex), Climb (Str), Concentration (Con), Craft (Int), Diplomacy (Cha), Escape Artist (Dex), Hide (Dex), Jump (Str), Knowledge (arcana) (Int), Knowledge (religion) (Int), Listen (Wis), Move Silently (Dex), Perform (Cha), Profession (Wis), Sense Motive (Wis), Spot (Wis), Swim (Str), Tumble (Dex)
+**Skills**: Balance (Dex), Climb (Str), Concentration (Con), Craft (Int), Escape Artist (Dex), Hide (Dex), Jump (Str), Knowledge (arcana) (Int), Knowledge (religion) (Int), Listen (Wis), Move Silently (Dex), Perform (Cha), Profession (Wis), Sense Motive (Wis), Spot (Wis), Swim (Str), Tumble (Dex)
 
 **Skills/Level**: 4 + Int modifier
 
@@ -17,9 +17,7 @@ LVL | BAB | F | R | W | Special | FOB | Unarmed Damage | ACB | USB
 
 **Weapon and Armor Proficiency**: Monks are proficient with club, crossbow (light or heavy), dagger, handaxe, javelin, kama, nunchaku, quarterstaff, sai, shuriken, siangham, and sling.
 
-Monks are not proficient with any armor or shields.
-
-When wearing armor, using a shield, or carrying a medium or heavy load, a monk loses her AC bonus, as well as her fast movement and flurry of blows abilities.
+Monks are not proficient with any armor or shields. When wearing armor, using a shield, or carrying a medium or heavy load, a monk loses her AC bonus, as well as her fast movement and flurry of blows abilities.
 
 **Flurry of Blows(FOB)**(Ex): When unarmored, a monk may make one extra attack in a round at her highest base attack bonus, but this attack takes a -2 penalty, as does each other attack made that round. This penalty applies for 1 round, so it affects attacks of opportunity the monk might make before her next action. When a monk reaches 5th level, the penalty lessens to -1, and at 6th level the penalty disappears.
 
