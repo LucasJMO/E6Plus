@@ -8,12 +8,12 @@
 
 LVL | BAB | F | R | W | Special | Power Points/Day | Powers Known | Maximum Power Level Known
 --- | --- | - | - | - | ------- | ---------------- | ------------ | -------------------------
-1   | 1   | 2 | 0 | 0 | Bonus feat			   | 2 | 1 			  | 1st 
-2   | 2   | 3 | 0 | 0 | 					   | 6 | 2			  | 1st
-3   | 3   | 3 | 1 | 1 | Bonus feat			   | 10| 3			  | 1st
-4   | 4   | 4 | 1 | 1 | 				 	   | 15| 4			  | 2nd
-5   | 5   | 4 | 1 | 1 | 					   | 19| 5			  | 2nd
-6   | 6/1 | 5 | 2 | 2 | Bonus feat	 		   | 26| 6			  | 2nd
+1   | 1   | 2 | 0 | 2 | Bonus feat			   | 2 | 1 			  | 1st 
+2   | 2   | 3 | 0 | 3 | 					   | 6 | 2			  | 1st
+3   | 3   | 3 | 1 | 3 | Bonus feat			   | 10| 3			  | 1st
+4   | 4   | 4 | 1 | 4 | 				 	   | 15| 4			  | 2nd
+5   | 5   | 4 | 1 | 4 | Bonus feat			   | 19| 5			  | 2nd
+6   | 6/1 | 5 | 2 | 5 | Bonus feat	 		   | 26| 6			  | 2nd
 
 **Weapon and Armor Proficiency**: Psychic warriors are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with shields (except tower shields).
 
@@ -33,6 +33,6 @@ The Difficulty Class for saving throws against psychic warrior powers is 10 + th
 
 To learn or manifest a power, a psychic warrior must have a Wisdom score of at least 10 + the power’s level.
 
-**Bonus Feats**: At 1st level, a psychic warrior gets a bonus combat-oriented feat in addition to the feat that any 1st level character gets and the bonus feat granted to a human character. The psychic warrior gains an additional bonus feat at 3rd and 6th level. These bonus feats must be drawn from the feats noted as fighter bonus feats or psionic feats. The psychic warrior must still meet all prerequisites for the bonus feat, including ability score and base attack bonus minimums as well as class requirements. A psychic warrior cannot choose feats that specifically require levels in the fighter class unless he is a multiclass character with the requisite levels in the fighter class.
+**Bonus Feats**: At 1st level, a psychic warrior gets a bonus combat-oriented feat in addition to the feat that any 1st level character gets and the bonus feat granted to a human character. The psychic warrior gains an additional bonus feat at 3rd, 5th, and 6th level. These bonus feats must be drawn from the feats noted as fighter bonus feats or psionic feats. The psychic warrior must still meet all prerequisites for the bonus feat, including ability score and base attack bonus minimums as well as class requirements. A psychic warrior cannot choose feats that specifically require levels in the fighter class unless he is a multiclass character with the requisite levels in the fighter class.
 
 These bonus feats are in addition to the feats that a character of any class gains every three levels. A psychic warrior is not limited to fighter bonus feats and psionic feats when choosing these other feats.
