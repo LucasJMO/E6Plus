@@ -15,7 +15,7 @@ LVL | BAB | F | R | W | Special | AC Bonus
 5   | 5   | 4 | 4 | 4 | Fighting style, purity of body								| +6
 6   | 6/1 | 5 | 5 | 5 | Master style 			 									| +7
 
-**Weapon and Armor Proficiency**: Martial artists are proficient with all simple weapons, as well any weapon defined as a special monk weapon, such as the sai, the nunchuka, the kama, the shuriken, and the triple staff. Martial artists are not proficient with any armor or shields of any kind.
+**Weapon and Armor Proficiency**: Martial artists are proficient with all simple weapons, as well any weapon defined as a special monk weapon, such as the sai, the nunchaku, the kama, the shuriken, and the triple staff. Martial artists are not proficient with any armor or shields of any kind.
 
 **Armored in Life**: A martial artist has a special armor bonus whenever they are not wearing armor or using a shield. This armor bonus applies against touch attacks and incorporeal touch attacks and has a value of +4. Every even numbered class level, the armored in life bonus increases by 1. 
 
@@ -28,25 +28,15 @@ A martial artist's slam is treatd as a magical weapon for the purpose of overcom
 **Fighting Style**: At levels 1, 3, and 5, the martial artist learns a fighting style. Each fighting style requires a Swift Action to activate, lasts one round, and is usable at will. Each fighting style provides two bonuses selected from the list of fighting style abilities.
 
 * While active, your fighting style provides a +4 Dodge Bonus to AC.
-
 * While active, your fighting style provides a +4 Dodge Bonus to Saving Throws.
-
 * While active, your fighting style allows you to make an attack of opportunity against any opponent who attacks you. This attack of opportunity must be a trip or disarm attempt.
-
 * While active, your fighting style provides you with concealment.
-
 * While active, your fighting style provides a +30’ Insight Bonus to your movement rate.
-
 * While active, your fighting style transforms your slam attacks into Force effects which inflict Force damage and ignore hardness and DR.
-
 * While active, your fighting style provides any bonuses it gives to your slam attack to any attack you make with any weapon.
-
 * While active, your fighting style causes your slam attack to inflict piercing damage and to inflict a 2 point penalty to an ability score of your choice. You decide this ability score when you enter the fighting style, and changing it to another requires a Swift Action. If not fixed through alternate means this penalty remains for 1 minute per class level.
-
 * While active, your fighting style causes your slam attack to inflict slashing damage and to reduce your opponent’s movement rate by 10’ every time they suffer damage from it, to a minimum of half the opponent's base movement speed. This reduction lasts for 1 minute per class level.
-
 * While active, your fighting style allows you to move through occupied spaces as if they were unoccupied and you provoke no attacks of opportunity for your movement.
-
 * While active, your fighting style allows you to shoot fire out of your mouth or hands as a standard action. The fire can be shout out to a maximum of 20 feet per class level, requires a ranged touch attack, and inflicts 1d4 of fire damage per class level if it hits.
 
 **Rain of Flowers**: Any time a 2nd level martial artist inflicts lethal damage, he may elect to inflict non-lethal damage instead. Any time a martial atist inflicts non-lethal damage, he may elect to do lethal damage instead.

@@ -10,12 +10,12 @@ LVL | BAB | F | R | W | Special
 --- | --- | - | - | - | ------- 
 1   | 0   | 0 | 2 | 2 | Mind Blade, martial weapon proficiency
 2   | 1   | 0 | 3 | 3 | Throw mind blade
-3   | 2   | 1 | 3 | 3 | Psychic strike +1d8
-4   | 3   | 1 | 4 | 4 | Free draw
-5   | 3   | 1 | 4 | 4 | Mind blade enhancement
-6   | 4   | 2 | 5 | 5 | Psychic strike +2d8
+3   | 2   | 1 | 3 | 3 | Free draw
+4   | 3   | 1 | 4 | 4 | Mind blade enhancement
+5   | 3   | 1 | 4 | 4 | +1 mind blade
+6   | 4   | 2 | 5 | 5 | Mind blade enhancement
 
-**Weapon and Armor Proficiency**: Soulknives are proficient with all simple weapons, with their own mind blades, and with light armor, medium armor, and shields (except tower shields).
+**Weapon and Armor Proficiency**: Soulknives are proficient with all simple weapons, with light armor, medium armor, and shields (except tower shields).
 
 Although a soulknife may become proficient with other forms of armor, wearing heavy armor prevents them from creating a mind blade.
 
@@ -29,38 +29,29 @@ Even in places where psionic effects do not normally function (such as within a 
 
 A soulknife can dual wield a mind blade and a normal weapon, however a mind blade cannot be treated as an off-hand weapon.
 
+At 5th mind blades manifested by the soulknife gain a +1 enhancement bonus to attack and damage rolls.
+
 **Martial Weapon Proficiency**: A soulknife gains Martial Weapon Proficiency as a bonus feat, she may select any weapon for this feat. The benefits from this feat apply to manifested mind weapons of the appropriate type.
 
 **Throw Mind Blade**: A soul knife of 2nd level or higher can throw his mind blade as a ranged weapon with a range increment of 30 feet.
 
 Whether or not the attack hits, a thrown mind blade then dissipates. A soulknife of 3rd level or higher can make a psychic strike (see below) with a thrown mind blade and can use the blade in conjunction with other special abilities.
 
-**Psychic Strike**: A soulknife of 3rd level or higher imbues his mind blade with destructive psychic energy. This effect deals an extra 1d8 points of damage to living, nonmindless targets he successfully hits with a melee attack (or ranged attack, if he is using the throw mind blade ability). Creatures immune to mind-affecting effects are immune to psychic strike damage. (Unlike the rogue’s sneak attack, the psychic strike is not precision damage and can affect creatures otherwise immune to extra damage from critical hits or more than 30 feet away, provided they are living, nonmindless creatures not immune to mind-affecting effects.)
+**Free Draw**: At 3rd level, a soulknife becomes able to materialize his mind blade as a free action instead of a move action. He can make only one attempt to materialize the mind blade per round, however.
 
-This psychich strike damage only applies to the first attack the soulknife successfully makes each round. If a soulknife scores a critical hit with his mind blade the psychic strike damage is not multiplied.
-
-**Free Draw**: At 4th level, a soulknife becomes able to materialize his mind blade as a free action instead of a move action. He can make only one attempt to materialize the mind blade per round, however.
-
-**Mind Blade Enhancement**: At 5th level, a soulknife gains the ability to enhance his mind blade. He can add any one of the weapon special abilities on the table below that has an enhancement bonus value of +1.
+**Mind Blade Enhancement**: At 4th level, a soulknife gains the ability to enhance his mind blade. He can add any one of the weapon special abilities listed below. At 6th level he may apply another.
 
 The weapon ability or abilities remain the same every time the soulknife materializes his mind blade (unless he decides to reassign its abilities; see below). The ability or abilities apply to any form the mind blade takes, including the use of the shape mind blade or bladewind class abilities.
 
 A soulknife can reassign the ability or abilities he has added to his mind blade. To do so, he must first spend 8 hours in concentration. After that period, the mind blade materializes with the new ability or abilities selected by the soulknife.
 
-Weapon Special Ability 	| Enhancement Bonus Value
----------------------- 	| -----------------------
-Defending				| +1
-Keen 					| +1
-Lucky 					| +1
-Mighty cleaving			| +1
-Psychokinetic			| +1
-Sundering				| +1
-Vicious					| +1
-Collision				| +1
-Mindcrusher				| +1
-Psychokinetic burst		| +1
-Suppression				| +1
-Wounding				| +1
-Bodyfeeder				| +1
-Mindfeeder				| +1
-Soulbreaker				| +1
+* The weapon's threat range is doubled. This benefit doesn't stack with any other effect that expands the threat range of a weapon.		
+* A soulknife who kills an enemy with a melee attack using his mind blade may take a 5-foot step and make another melee attack at the same bonus.
+* The mind blade deals an additional 1d6 force damage.
+* The mind blade deals an additional 2d6 force damage, however on successful hits the soulknife takes 1d6 forece damage.
+* The soulknife gains the benefit of the feat Improved Sunder on sunder attempts made with a mind blade.
+* On a successful critical hit using the mind blade, the soul knife gains 5 temporary hit points. These hitpoints expire after 10 minutes, and the number of temporary hitpoints gained through this ability at any one time cannot exceed 10.
+* The soulknife gains a +4 bonus to initiative rolls.
+* The mind blade deals an additional 2d8 damage to undead creatures.
+* The soulknife gains blindsight out to 30 feet.
+* The soulknife adds his base attack bonus as an enhancement bonus to his Armor Class.

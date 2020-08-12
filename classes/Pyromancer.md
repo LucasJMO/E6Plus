@@ -12,7 +12,7 @@ LVL | BAB | F | R | W | Special
 2   | 1   | 0 | 3 | 3 | Ignite, smokeless flame
 3   | 2   | 1 | 3 | 3 | Piercing Flames, Hands of Fire
 4   | 3   | 1 | 4 | 4 | Fire Immunity
-5   | 3   | 1 | 4 | 4 | Fireballs, nimbus
+5   | 3   | 1 | 4 | 4 | Fireballs
 6   | 4   | 2 | 5 | 5 | Mind of Fire
 
 **Weapon and Armor Proficiency**: Pyromancers are proficient with all simple weapons, as well as the whip, all martial axes, and all sizes and varieties of scimitar (including falchions). Pyromancers are proficient with light armor, but not shields of any kind.
@@ -40,7 +40,5 @@ Although a pyromancer can become proficient with other forms of armor, wearing m
 **Fire Immunity**: At 4th level a Pyromancer is immune to fire.
 
 **Fireballs**(Su): A 5th level Pyromancer can hurl explosive fire anywhere within 20 feet per level as a Full Round Action. This Fire explodes into a 10’ radius and inflicts 1d4 of Fire Damage per level. All creatures within the area are entitled to a Reflex save to halve damage (DC 10 + 1/2 class level + Charisma Modifier). 
-
-**Nimbus**: Beginning at 5th level, a pyromancer can activate this ability as a move-equivalent action. Flames that harm neither the pyromancer nor her equipment engulf her entire body. While she is aflame, the character’s Charisma score increases by 4 and she gains damage reduction 2/magic. If she is targeted in melee, the attacker takes 2d4 points of fire damage. This ability lasts for up to 1 round per pyromancer level and is usable once per day.
 
 **Mind of Fire**(Su): As a standard action, 6th level Pyromancer can duplicate the effects of rage or confusion for a number of rounds equal to his class level. The target must be within short range, and is entitled to a Will Save to negate this effect (DC 10 + 1/2 class level + Charisma Modifier). This is a mind influencing compulsion effect, and an individual targeted by this ability cannot be affected by it again for another 24 hours.
