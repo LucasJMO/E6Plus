@@ -35,7 +35,7 @@ To learn or manifest a power, an elocater must have a Wisdom score of at least 1
 
 **Scorn Earth**(Su): A 1st level elocater gains the ability to float a foot above the ground. Instead of walking she glides along, unconcerned with the hard earth or difficult terrain. While she remains within 1 foot of a flat surface of any solid or liquid, she can take normal actions and make normal attacks, and can move at her normal speed (she can even "run" at up to four times her normal speed). At distances higher than 1 foot she falls, but may slow her speed to a mere 60 feet per round (if she chooses). 
 
-From levels 1 to 5 this ability is usable for one minute per class level per day, however a 6th level elocater gains unlimited use of this ability. Activating or deactivating this ability requires a free action. Once active this ability remains active either until it is deactivated by the elocater, the elocater dies, or the daily use limit is reached.
+From levels 1 to 5 this ability is usable for ten minutes per class level per day, however a 6th level elocater gains unlimited use of this ability. Activating or deactivating this ability requires a free action. Once active this ability remains active either until it is deactivated by the elocater, the elocater dies, or the daily use limit is reached.
 
 **Capricious Step**(Ex): A 2nd level elocater can expend an immediate action to take an extra 5-foot step in any round when she doesn’t perform any other movement (except for the first 5-foot step). Like the first, the second 5-foot step does not provoke attacks of opportunity. The character can take the extra 5-foot step at any point before the beginning of her next turn. In all other ways, the rules for taking a 5-foot step apply.
 
