@@ -8,12 +8,12 @@
 
 LVL | BAB | F | R | W | Special | Power Points/Day | Powers Known | Maximum Power Level Known
 --- | --- | - | - | - | ------- | ---------------- | ------------ | -------------------------
-1   | 1   | 0 | 2 | 2 | Scorn earth | 0            | 1			  | 1
-2   | 2   | 0 | 3 | 3 | Capricious Step | 0        | 1			  | 1
-3   | 3   | 1 | 3 | 3 | Opportunistic strike +1 | 2| 2			  | 1
-4   | 4   | 1 | 4 | 4 | Dimension step, flanker | 6| 2			  | 2
-5   | 5   | 1 | 4 | 4 | Opportunistic strike +2 |10| 2			  | 2
-6   | 6/1 | 2 | 5 | 5 | Accelerated actions     |15| 3			  | 2
+1   | 1   | 0 | 2 | 2 | Scorn earth | 0            | 1			  | 1st
+2   | 2   | 0 | 3 | 3 | Capricious Step | 0        | 1			  | 1st
+3   | 3   | 1 | 3 | 3 | Opportunistic strike +1 | 2| 2			  | 1st
+4   | 4   | 1 | 4 | 4 | Dimension step, flanker | 6| 2			  | 2nd
+5   | 5   | 1 | 4 | 4 | Opportunistic strike +2 |10| 2			  | 2nd
+6   | 6/1 | 2 | 5 | 5 | Accelerated actions     |15| 3			  | 2nd
 
 **Weapon and Armor Proficiency**: An Elocater is proficient with all simple and martial weapons and with light and medium armor.
 
