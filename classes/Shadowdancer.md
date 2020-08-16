@@ -59,21 +59,21 @@ The companion can equip any gear it is given. It suffers the standard penalties 
 
 The companion shares the traits of undead creatures, except that unlike undead the companion can be healed through conventional means. As the shadowdancer advances in level the shadowdancer's companion increases in strength, specific stats are given on the table below.
 
-| Shadowdancer Companion | Level 4 | Level 5 | Level 6 |
-| ------ | ------- | ------- | ------- |
-| Size/Type    | Medium Humanoid | | |
-| Hit Dice:    | 3d12 (19) | 4d12 (26) | 5d12 (32) |
-| Speed:       | 20 ft. | 30 ft. | 40 ft. |
-| Armor Class: | 14 (+2 dex, +2 natural) | 15 (+2 dex, +3 natural) | 16 (+3 dex, +3 natural)|
-| Base Attack/Grapple: | +4/+6 | +5/+8 | +6/+9 |
-| Attack:      | Shadow Weapon +6 melee (1d6+2) | Shadow Weapon +8 melee (1d6+3) | Shadow Weapon +9 melee (1d6+3) |
-| Full Attack: | Shadow Weapon +6 melee (1d6+2) | Shadow Weapon +8 melee (1d6+3) | Shadow Weapon +9/+4 melee (1d6+3) |
-| Space/Reach: | 5 ft./5 ft.| | |
-| Special Attacks: | | | |   
-| Special Qualities: | Undead traits (except for healing) | | |
-| Saves:     | Fort +1, Ref +5, Will +1 | Fort +1, Ref +6, Will +1 | Fort +2, Ref +6, Will +2 |
-| Abilities: | Str 14, Dex 14 | Str 16, Dex 14 | Str 16, Dex 16 |
-| Feats:     | Bonus Feat | Evasion | Bonus Feat |
+Shadowdancer Companion | Level 4 | Level 5 | Level 6 
+------ | ------- | ------- | ------- 
+Size/Type    | Medium Humanoid | | 
+Hit Dice:    | 3d12 (19) | 4d12 (26) | 5d12 (32) 
+Speed:       | 20 ft. | 30 ft. | 40 ft. 
+Armor Class: | 14 (+2 dex, +2 natural) | 15 (+2 dex, +3 natural) | 16 (+3 dex, +3 natural)
+Base Attack/Grapple: | +4/+6 | +5/+8 | +6/+9 
+Attack:      | Shadow Weapon +6 melee (1d6+2) | Shadow Weapon +8 melee (1d6+3) | Shadow Weapon +9 melee (1d6+3) 
+Full Attack: | Shadow Weapon +6 melee (1d6+2) | Shadow Weapon +8 melee (1d6+3) | Shadow Weapon +9/+4 melee (1d6+3) 
+Space/Reach: | 5 ft./5 ft.| | 
+Special Attacks: | | |    
+Special Qualities: | Undead traits (except for healing) | | 
+Saves:     | Fort +1, Ref +5, Will +1 | Fort +1, Ref +6, Will +1 | Fort +2, Ref +6, Will +2 
+Abilities: | Str 14, Dex 14 | Str 16, Dex 14 | Str 16, Dex 16 
+Feats:     | Bonus Feat | Evasion | Bonus Feat 
 
 **Attack**: The shadowdancer companion's default means of attack is by conjuring a weapon out of shadow. This weapon can be conjured or dismissed as a free action. It deals 1d6 damage with a critical range of 19-20/x2. The type of damage dealt (bludgeoning, piercing, or slashing) is selected by the shadowdancer, and the weapon is treated as magical for the purpose of overcoming damage reduction. If the companion is disarmed or voluntarily lets go of this weapon it disappears. The companion can only have one such weapon conjured at a time.
 

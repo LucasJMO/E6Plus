@@ -65,6 +65,6 @@ The maximum number of elementals which can be summoned at one time is equal to t
 ## Diploconvoker Spell List
 Level | Spells Known
 ----- | ------------
-**0** | Create Water, Detect Magic, Mage Hand, Read Magic, Summon Instrument
-**1** | Alarm, Command, Floating Disk, Mage Armor, Mount, Obscuring Mist, Shield, Summon Component, Summon Elysian Thrush, Summon Monster 1, Summon Nature’s Ally 1, Summon Undead 1, Unseen Servant
-**2** | Calm Emotions, Fog Cloud, Insidious Insight, Regal Procession, Steal Summoning, Summon Dire Hawk, Summon Monster 2, Summon Nature’s Ally 2, Summon Swarm, Summon Undead 2, Summon Weapon, Swift Ready, Zone of Truth
+0 | Create Water, Detect Magic, Mage Hand, Read Magic, Summon Instrument
+1 | Alarm, Command, Floating Disk, Mage Armor, Mount, Obscuring Mist, Shield, Summon Component, Summon Elysian Thrush, Summon Monster 1, Summon Nature’s Ally 1, Summon Undead 1, Unseen Servant
+2 | Calm Emotions, Fog Cloud, Insidious Insight, Regal Procession, Steal Summoning, Summon Dire Hawk, Summon Monster 2, Summon Nature’s Ally 2, Summon Swarm, Summon Undead 2, Summon Weapon, Swift Ready, Zone of Truth

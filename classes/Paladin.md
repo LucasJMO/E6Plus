@@ -53,20 +53,20 @@ Bonus HD | Natural Armor Adjustment| Strength Adjustment | Intelligence | Specia
 -------- | ----------------------- | ------------------- | ------------ | -------
 +2       | +4                      | +1                  | 6            | Empathic Link, Improved Evasion, Share Spells, Share Saving Throws
 
-**Bonus HD**: Extra eight-sided (d8) Hit Dice, each of which gains a Constitution modifier, as normal. Extra Hit Dice improve the mount’s base attack and base save bonuses. A special mount’s base attack bonus is equal to that of a cleric of a level equal to the mount’s HD. A mount has good Fortitude and Reflex saves (treat it as a character whose level equals the animal’s HD). The mount gains additional skill points or feats for bonus HD as normal for advancing a monster’s Hit Dice.
+**Bonus HD**: Extra eight-sided (d8) Hit Dice, each of which gains a Constitution modifier, as normal. Extra Hit Dice improve the mount's base attack and base save bonuses. A special mount's base attack bonus is equal to that of a cleric of a level equal to the mount's HD. A mount has good Fortitude and Reflex saves (treat it as a character whose level equals the animal's HD). The mount gains additional skill points or feats for bonus HD as normal for advancing a monster's Hit Dice.
 
-**Natural Armor Adjustment**: An improvement to the mount’s existing natural armor bonus.
+**Natural Armor Adjustment**: An improvement to the mount's existing natural armor bonus.
 
 **Strength Adjustment**: Add this figure to the mount's strength score.
 
 **Intelligence**: The mount's Intelligence score.
 
-**Empathic Link**(Su): The paladin has an empathic link with her mount out to a distance of up to 1 mile. The paladin cannot see through the mount’s eyes, but they can communicate empathically.
+**Empathic Link**(Su): The paladin has an empathic link with her mount out to a distance of up to 1 mile. The paladin cannot see through the mount's eyes, but they can communicate empathically.
 
 **Improved Evasion**: When subjected to an attack that normally allows a Reflex saving throw for half damage, a mount takes no damage if it makes a successful saving throw and half damage if the saving throw fails.
 
-**Share Spells**: At the paladin’s option, she may have any spell (but not any spell-like ability) she casts on herself also affect her mount.
+**Share Spells**: At the paladin's option, she may have any spell (but not any spell-like ability) she casts on herself also affect her mount.
 
-The mount must be within 5 feet at the time of casting to receive the benefit. If the spell or effect has a duration other than instantaneous, it stops affecting the mount if it moves farther than 5 feet away and will not affect the mount again even if it returns to the paladin before the duration expires. Additionally, the paladin may cast a spell with a target of “You” on her mount (as a touch range spell) instead of on herself. A paladin and her mount can share spells even if the spells normally do not affect creatures of the mount’s type (magical beast).
+The mount must be within 5 feet at the time of casting to receive the benefit. If the spell or effect has a duration other than instantaneous, it stops affecting the mount if it moves farther than 5 feet away and will not affect the mount again even if it returns to the paladin before the duration expires. Additionally, the paladin may cast a spell with a target of 'You' on her mount (as a touch range spell) instead of on herself. A paladin and her mount can share spells even if the spells normally do not affect creatures of the mount's type (magical beast).
 
-**Share Saving Throws**: For each of its saving throws, the mount uses its own base save bonus or the paladin’s, whichever is higher. The mount applies its own ability modifiers to saves, and it doesn’t share any other bonuses on saves that the master might have.
+**Share Saving Throws**: For each of its saving throws, the mount uses its own base save bonus or the paladin's, whichever is higher. The mount applies its own ability modifiers to saves, and it doesn't share any other bonuses on saves that the master might have.
