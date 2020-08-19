@@ -149,6 +149,8 @@ psionicPrestigeClasses = ["Cerebremancer.md"
 						 ,"Thrallherd.md"
 						 ,"WarMind.md"
 						 ]
+def escapePercent(lineNum):
+	inFile[lineNum] = inFile[lineNum].replace("%","\%")
 def splitCell(cell): #Some long table cells make the tables run off the page
 	midPoint = math.ceil(len(cell)/2)
 	offset = 0
@@ -239,6 +241,7 @@ for file in baseClasses:
 	mdFile.close()
 	lineNum = 0
 	while lineNum < len(inFile):
+		escapePercent(lineNum)
 		lineNum = processLine(lineNum)
 #	inFile.insert(0,"\\documentclass{article}\n\\begin{document}\n")
 #	inFile.append("\n\\end{document}\n")
@@ -252,6 +255,7 @@ for file in prestigeClasses:
 	mdFile.close()
 	lineNum = 0
 	while lineNum < len(inFile):
+		escapePercent(lineNum)
 		lineNum = processLine(lineNum)
 #	inFile.insert(0,"\\documentclass{article}\n\\begin{document}\n")
 #	inFile.append("\n\\end{document}\n")
@@ -265,6 +269,7 @@ for file in psionicBaseClasses:
 	mdFile.close()
 	lineNum = 0
 	while lineNum < len(inFile):
+		escapePercent(lineNum)
 		lineNum = processLine(lineNum)
 #	inFile.insert(0,"\\documentclass{article}\n\\begin{document}\n")
 #	inFile.append("\n\\end{document}\n")
@@ -278,6 +283,7 @@ for file in psionicPrestigeClasses:
 	mdFile.close()
 	lineNum = 0
 	while lineNum < len(inFile):
+		escapePercent(lineNum)
 		lineNum = processLine(lineNum)
 #	inFile.insert(0,"\\documentclass{article}\n\\begin{document}\n")
 #	inFile.append("\n\\end{document}\n")
