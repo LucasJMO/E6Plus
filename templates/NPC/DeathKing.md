@@ -1,6 +1,6 @@
 # Death King
 
-Death king is an acquired templated which can be added to any humanoid or monstrous humanoid creature.
+Death king is an acquired template which can be added to any humanoid or monstrous humanoid creature.
 
 ## Requirements
 
