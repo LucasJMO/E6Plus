@@ -4,13 +4,13 @@
 
 **Skills**: Balance (Dex), Climb (Str), Handle Animal (Cha), Hide (Dex), Knowledge (all skills, taken individually) (Int), Listen (Wis), Move Silently (Dex), Profession (Wis), Ride (Dex), Search (Int), Speak Language (None), Spot (Wis), Survival (Wis), Swim (Str)
 
-**Skills/Level**: 4 + Int modifier
+**Skills/Level**: 6 + Int modifier
 
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
 1   | 1   | 2 | 2 | 2 | Terrain Mastery
 2   | 2   | 3 | 3 | 3 | Terrain Mastery
-3   | 3   | 3 | 3 | 3 | Terrain Mastery
+3   | 3   | 3 | 3 | 3 | Terrain Mastery, Knowledge Devotion
 4   | 4   | 4 | 4 | 4 | Terrain Mastery, Planar Attunement
 5   | 5   | 4 | 4 | 4 | Terrain Mastery, Horizon Step
 6   | 6/1 | 5 | 5 | 5 | Terrain Mastery, Horizon Guide
@@ -20,6 +20,8 @@ LVL | BAB | F | R | W | Special
 **Terrain Mastery**: At each level, the Horizon Walker adds a new terrain environment to their repertoire from those given below. Terrain mastery gives a horizon walker a bonus on checks involving a skill useful in that terrain, or some other appropriate benefit. A horizon walker also knows how to fight dangerous creatures typically found in that terrain, gaining a +1 insight bonus on attack rolls and damage rolls against creatures with that terrain mentioned in the Environment entry of their descriptions. The horizon walker only gains the bonus if the creature description specifically lists the terrain type.
 
 Horizon walkers take their terrain mastery with them wherever they go. They retain their terrain mastery bonuses on skill checks, attack rolls, and damage rolls whether they’re actually in the relevant terrain or not.
+
+**Knowledge Devotion**: A 3rd level horizon walker gains the feat Knowledge Devotion, even if he does not meet the feat's prerequisites. If he already posseses this feat he may select a different feat for which he meets the prerequisites.
 
 **Planar Attunement**(Su): A 4th level horizon walker gains the ability to attune himself to a plane, gaining the benefits of terrain mastery for that plane. At 5th, and each level thereafter, he may select an additional plane to be simultaneously attuned to (up to 3 at 6th level).
 

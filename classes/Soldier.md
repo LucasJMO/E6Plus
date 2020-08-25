@@ -11,7 +11,7 @@ LVL | BAB | F | R | W | Special
 1   | 1   | 2 | 0 | 2 | Combat Focus          
 2   | 2   | 3 | 0 | 3 | Active Assault, Problem Solver          
 3   | 3   | 3 | 1 | 3 | Pack Mule 
-4   | 4   | 4 | 1 | 4 | Bonus Feat, Weapon Training
+4   | 4   | 4 | 1 | 4 | Bonus Feat
 5   | 5   | 4 | 1 | 4 | Improved Delay        
 6   | 6/1 | 5 | 2 | 5 | Bonus Feat, Array of Stunts, Foil Action
 
@@ -26,8 +26,6 @@ LVL | BAB | F | R | W | Special
 **Problem Solver**(Ex): A 2nd level soldier may expend a swift action and gain the benefits of any [Combat] feat for which he meets the prerequisites and use it for a number of rounds equal to his class level. This ability may be used once per hour.
 
 **Pack Mule**(Ex): A 3rd level soldier suffers no penalties for carrying a medium load, and may retrieve stored items from his person without provoking an attack of opportunity.
-
-**Weapon Training**(Ex): A 4th level soldier gains the ability to become proficient with any weapon he spends a full day training with. He may take no other actions during this day, and if he is interrupted he loses all progress and must begin again.
 
 **Improved Delay**(Ex): A 5th level soldier may delay his actions in one round without compromising his initiative in the next round. In addition, a soldier may interrupt another action with his delayed action like it was a readied action (though he does not have to announce his intentions beforehand).
 

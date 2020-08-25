@@ -11,7 +11,7 @@ LVL | BAB | F | R | W | Special
 1   | 0   | 0 | 2 | 2 | Sneak Attack +1d6, Trapfinding       
 2   | 1   | 0 | 3 | 3 | Evasion, Special Ability
 3   | 2   | 1 | 3 | 3 | Sneak Attack +2d6, Trap Sense +1, Special Ability  
-4   | 3   | 1 | 4 | 4 | Uncanny Dodge
+4   | 3   | 1 | 4 | 4 | Uncanny Dodge, Special Ability
 5   | 3   | 2 | 4 | 4 | Sneak Attack +3d6, Special Ability
 6   | 4   | 2 | 5 | 5 | Trap Sense +2, Special Ability
 
@@ -37,7 +37,7 @@ A rogue who beats the trap's DC by 10 or more with a Disable Device check can st
 
 ## Special Ability 
 
-A rogue may select one of crippling strike, dark caster, defensive roll, hide in plain sight, improved evasion, opportunist, power slide, skill mastery, slippery mind, or bonus feat.
+At each level past 1st, a rogue may select one of crippling strike, dark caster, defensive roll, hide in plain sight, greater improved healing, improved evasion, jester's feint, jester's trip, mettle, opportunist, skill mastery, or slippery mind.
 
 **Crippling Strike**: A successful sneak attack deals two points of strength damage or dex damage. This ability may be gained multiple times, each time adding an additional two points of either form of damage.
 
@@ -49,11 +49,15 @@ A rogue may select one of crippling strike, dark caster, defensive roll, hide in
 
 **Greater Improved Healing**: A rogue gains an enhancement to their natural healing abilities. For every 60 minutes a rogue spends out of combat they recover 1 hitpoint. This is in addition to hitpoints regained via other methods (resting for example).
 
+**Improved Evasion**: This ability works like evasion, except that while the rogue still takes no damage on a successful Reflex saving throw against attacks henceforth she takes only half damage on a failed save. A helpless rogue does not gain the benefit of improved evasion.
+
 **Jester's Feint**: As a swift action a rogue may toss a brightly colored object in the square of an enemy with a Sleight of Hand check opposed by the enemy’s Spot check. If he succeeds, the enemy is denied his Dex bonus for the rogue’s next attack. This ability has a range of 30 ft.
 
 An enemy targeted by this ability multiple times gains a +5 bonus to Spot for each prior time he has been targeted, regardless of who won the prior checks. This bonus lasts for 24 hours.
 
 **Jester's Trip**: A rogue who strikes an opponent with a melee sneak attack, may make a free trip attempt which does not provoke an attack of opportunity.
+
+**Mettle**: A rogue who succeeds a Fortitude partial or Will partial save takes no effect as if she had immunity.
 
 **Opportunist**: Once per round, a rogue can make an attack of opportunity against an opponent who has just been struck for damage in melee by another character.
 

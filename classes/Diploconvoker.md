@@ -8,12 +8,12 @@
 
 LVL | BAB | F | R | W | Special | 0 | 1 | 2
 --- | --- | - | - | - | ------- | - | - | -
-1   | 0   | 0 | 0 | 2 | Diplomatic Summons, Unrestricted Conjuration, Summon Elemental, Negotiator | 2 |  -  |  -  
-2   | 1   | 0 | 0 | 3 |  | 3 | 1 |  -  
+1   | 0   | 0 | 0 | 2 | Diplomatic Summons, Unrestricted Conjuration, Summon Elemental, Negotiator, Rapid Summoning | 2 |  -  |  -  
+2   | 1   | 0 | 0 | 3 | Elemental Ally | 3 | 1 |  -  
 3   | 2   | 1 | 1 | 3 | Skill Focus (Diplomacy) | 4 | 2 | -
 4   | 3   | 1 | 1 | 4 |  | 4 | 2 | 1
 5   | 3   | 1 | 1 | 4 | Legion | 4 | 3 | 2
-6   | 4   | 2 | 2 | 5 | Lesser Planar Binding | 4 | 3 | 2
+6   | 4   | 2 | 2 | 5 |  | 4 | 3 | 2
 
 **Spells**: A Diploconvoker casts arcane spells, which are drawn from the Malconvoker spell list. To prepare or cast a spell, the Diploconvoker must have a charisma score of 10+spell level. The DC for a saving throw against a Diploconvoker’s spell is 10 + spell level + Charisma modifier. 
 
@@ -25,10 +25,7 @@ At 3rd level a Diploconvoker can lose a prepared spell of 1st level or higher in
 
 At 5th level a Diploconvoker can lose a prepared spell of 2nd level in order to cast Summon Monster 3, Summon Nature’s Ally 3, or Summon Undead 3. 
 
-**Rapid Summoning**: Summoning spells requiring a full round action to cast instead take a standard action.
-
-**Diplomatic Summons**: When casting a Summon Monster/Nature’s Ally/Undead spell a Diploconvoker can attempt a Diplomacy check on a summoned creature as a free action, opposed by the creature’s HD times 4, plus the total number of creatures summoned by the spell. 
-Additional penalties are incurred for alignment differences. 
+**Diplomatic Summons**: When casting a Summon Monster/Nature’s Ally/Undead spell a Diploconvoker can attempt a Diplomacy check on a summoned creature with an intelligence score greater than 5 and with which the diploconvoker has a shared language. This check requires a free action, and is opposed by the creature’s HD times 4, plus the total number of creatures summoned by the spell. Additional penalties are incurred for alignment differences. 
 
 A Neutral Diploconvoker attempting to summon a Good or Evil being (or vice versa) receives a -2 penalty to their Diplomacy check. A Good Diploconvoker attempting to summon an Evil being (or vice versa) receives a -4 penalty on their Diplomacy check.
 
@@ -55,12 +52,12 @@ At 5th level the Diploconvoker gains the ability to summon six small elementals 
 The maximum number of elementals which can be summoned at one time is equal to the diploconvoker's class level. If the diploconvoker attempts to summon a number of elementals which would take them over this limit, the summoning instead produces the maximum allowable number of elementals and the use is expended.
 
 **Negotiator**: A first level Diploconvoker receives the feat negotiator, if you already possess this feat, you may select a different feat which you meet the requirements for.
+
+**Rapid Summoning**: Summoning spells requiring a full round action to cast instead take a standard action.
  
 **Skill Focus (Diplomacy)**: A 3rd level Diploconvoker receives the feat Skill Focus (Diplomacy), if you already possess this feat, you may select a different feat which you meet the requirements for.
 
 **Legion**: At 5th level, when casting a Summon Monster/Nature’s Ally/Undead spell, you summon an additional creature from a lower level list. For example a Diploconvoker casting Summon Undead 3 could select to summon a Ghoul from the 3rd level list, and an Owlbear Skeleton from the 2nd level list.
-
-**Lesser Planar Binding**: At 6th level, a Diploconvoker can cast the spell Lesser Planar Binding once per week. This is treated as a 2nd level spell and uses one of the Diploconvoker’s daily 2nd level spell slots.
 
 ## Diploconvoker Spell List
 Level | Spells Known
