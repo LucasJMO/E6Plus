@@ -8,14 +8,16 @@
 
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
-1   | 0   | 0 | 2 | 0 | Acrobatic Flair, Trapfinding, Pole Jump        
+1   | 0   | 0 | 2 | 0 | Acrobatic Flair, Fast Movement, Trapfinding, Pole Jump        
 2   | 1   | 0 | 3 | 0 | Sneak Attack +1d6, Evasion 
 3   | 2   | 1 | 3 | 1 | Sure Climb, Kip Up
-4   | 3   | 1 | 4 | 1 | Detect Magic, Grapple Line, Skill Mastery
-5   | 3   | 1 | 4 | 1 | Sneak Attack +2d6, Rapid Stealth, Improved Evasion
-6   | 4   | 2 | 5 | 2 | Mercurial Charge, Athletic Cascade, Unsettling Choreography
+4   | 3   | 1 | 4 | 1 | Sneak Attack +2d6, Detect Magic, Grapple Line, Skill Mastery
+5   | 3   | 1 | 4 | 1 | Rapid Stealth, Improved Evasion
+6   | 4   | 2 | 5 | 2 | Sneak Attack +3d6, Mercurial Charge, Athletic Cascade, Unsettling Choreography
 
 **Acrobatic Flair**: A Thief Acrobat may move her full movement while using the Tumble or Balance skill without suffering a penalty or increasing the DC of her check.
+
+**Fast Movement**(Ex): A thief acrobat's land speed is faster than the norm for his race by +10 ft. This benefit applies only when he is wearing no armor or light armor and not carrying a heavy load. Apply this bonus before modifying the thief acrobat's speed because of any load carried or armor.
 
 **Weapon and Armor Proficiency**: Thief Acrobats are proficient with all simple weapons, as well as the sap, the shortsword, the whip, the bolas, the long staff, and the shuriken. Thief Acrobats are proficient with light armor but not with shields of any kind.
 

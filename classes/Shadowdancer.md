@@ -10,8 +10,8 @@ LVL | BAB | F | R | W | Special
 --- | --- | - | - | - | ------- 
 1   | 0   | 0 | 2 | 0 | Hide in plain sight, shadow illusion
 2   | 1   | 0 | 3 | 0 | Evasion, darkvision, shadow jump 20 ft., uncanny dodge
-3   | 2   | 1 | 3 | 1 | Cloak of shadow
-4   | 3   | 1 | 3 | 1 | Shadow jump 40 ft., shadow shield, summon shadow
+3   | 2   | 1 | 3 | 1 | Cloak of shadow, summon shadow
+4   | 3   | 1 | 3 | 1 | Shadow jump 40 ft., shadow shield
 5   | 3   | 1 | 4 | 1 | Improved uncanny dodge, shadow armor
 6   | 4   | 2 | 4 | 2 | Shadow jump 80 ft., shadow skin
 
@@ -27,7 +27,7 @@ LVL | BAB | F | R | W | Special
 
 **Shadow Jump**(Su): At 2nd level, a shadowdancer gains the ability to travel between shadows as if by means of a dimension door spell. The limitations are that the magical transport must have line of sight, and must begin and end in an area with at least some shadow. The max distance a shadowdancer can jump begins at 20 ft., and doubles every two class levels, up to 80 ft. at level 6.
 
-Making a jump requires a swift action, and can only be used once every 1d6 rounds.
+Making a jump requires a swift action, and can only be used once every 1d4 rounds.
 
 **Uncanny Dodge**(Ex): Starting at 2nd level, a shadowdancer retains her Dexterity bonus to AC (if any) regardless of being caught flat-footed or struck by an invisible attacker. (She still loses any Dexterity bonus to AC if immobilized.)
 
@@ -47,7 +47,7 @@ If a character gains uncanny dodge (see above) from a second class the character
 
 ## Summon Shadow
 
-At 4th level, the shadowdancer gains the ability to conjure a humanoid companion out of shadow. This companion is controlled via a telepathic connection with the shadowdancer, in combat it does not have its own initiative score and instead acts on the turn of the shadowdancer.  
+At 3rd level, the shadowdancer gains the ability to conjure a humanoid companion out of shadow. This companion is controlled via a telepathic connection with the shadowdancer, in combat it does not have its own initiative score and instead acts on the turn of the shadowdancer.  
 
 Summoning the companion requires a swift action, the companion may be placed in a square adjacent to the shadowdancer. Once summoned, the shadowdancer can dismiss the companion (causing it to disappear) as a free action. A dismissed companion can be summoned again in the same manner, even on the same turn it was dismissed.
 
@@ -59,22 +59,22 @@ The companion can equip any gear it is given. It suffers the standard penalties 
 
 The companion shares the traits of undead creatures, except that unlike undead the companion can be healed through conventional means. As the shadowdancer advances in level the shadowdancer's companion increases in strength, specific stats are given on the table below.
 
-Shadowdancer Companion | Level 4 | Level 5 | Level 6 
------- | ------- | ------- | ------- 
-Size/Type    | Medium Humanoid | | 
-Hit Dice:    | 3d12 (19) | 4d12 (26) | 5d12 (32) 
-Speed:       | 20 ft. | 30 ft. | 40 ft. 
-Armor Class: | 14 (+2 dex, +2 natural) | 15 (+2 dex, +3 natural) | 16 (+3 dex, +3 natural)
+Shadowdancer Companion | Level 3 | Level 4 | Level 5 | Level 6 
+------ | ------- | --------- | ------- | ------- 
+Size/Type    | Medium Humanoid | | |
+Hit Dice:    | 2d12 (13) | 3d12 (19) | 4d12 (26) | 5d12 (32) 
+Speed:       | 20 ft. | 30 ft. | 40 ft. | 50 ft.
+Natural Armor:| +2  | +2 | +3 | +3
 Base Attack/Grapple: | +4/+6 | +5/+8 | +6/+9 
-Attack:      | Shadow Weapon +6 melee (1d6+2) | Shadow Weapon +8 melee (1d6+3) | Shadow Weapon +9 melee (1d6+3) 
-Full Attack: | Shadow Weapon +6 melee (1d6+2) | Shadow Weapon +8 melee (1d6+3) | Shadow Weapon +9/+4 melee (1d6+3) 
+Attack:      | Shadow Weapon +6 melee (1d6+2) | +8 (1d6+3) | +9 (1d6+3) 
+Full Attack: | Shadow Weapon +6 melee (1d6+2) | +8 (1d6+3) | +9/+4 (1d6+3) 
 Space/Reach: | 5 ft./5 ft.| | 
-Special Attacks: | | |    
-Special Qualities: | Undead traits (except for healing) | | 
-Saves:     | Fort +1, Ref +5, Will +1 | Fort +1, Ref +6, Will +1 | Fort +2, Ref +6, Will +2 
-Abilities: | Str 14, Dex 14 | Str 16, Dex 14 | Str 16, Dex 16 
-Feats:     | Bonus Feat | Evasion | Bonus Feat 
+Special Attacks: | | | |   
+Special Qualities: | Undead traits (except for healing) | | |
+Saves:     | Fort +1, Ref +5, Will +1 | Fort +1, Ref +5, Will +1 | Fort +1, Ref +6, Will +1 | Fort +2, Ref +6, Will +2 
+Abilities: | Str 14, Dex 14 | Str 14, Dex 14 | Str 16, Dex 14 | Str 16, Dex 16 
+Feats:     | Evasion | Bonus Feat | Bonus Feat | Bonus Feat 
 
 **Attack**: The shadowdancer companion's default means of attack is by conjuring a weapon out of shadow. This weapon can be conjured or dismissed as a free action. It deals 1d6 damage with a critical range of 19-20/x2. The type of damage dealt (bludgeoning, piercing, or slashing) is selected by the shadowdancer, and the weapon is treated as magical for the purpose of overcoming damage reduction. If the companion is disarmed or voluntarily lets go of this weapon it disappears. The companion can only have one such weapon conjured at a time.
 
-**Bonus Feat**: At shadowdancer levels 4 and 6 the companion gains a bonus feat for which it meets the prerequisites. These feats cannot allow the companion to perform any action it could not normally perform (for example cast a spell, or speak).
+**Bonus Feat**: At shadowdancer levels 4, 5, and 6 the companion gains a bonus feat for which it meets the prerequisites. These feats cannot allow the companion to perform any action it could not normally perform (for example cast a spell, or speak).
