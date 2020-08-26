@@ -57,20 +57,16 @@ The shadowdancer's companion is a medium, bipedal humanoid. It stands approximat
 
 The companion can equip any gear it is given. It suffers the standard penalties for attempting to use weapons/armor with which it is not proficient. It cannot activate magic items, but gains any passive benefits from such items. If the companion dies, is dismissed, or otherwise disappears, all equipped gear or carried items fall in a pile on the space the companion occupied. 
 
-The companion shares the traits of undead creatures, except that unlike undead the companion can be healed through conventional means. As the shadowdancer advances in level the shadowdancer's companion increases in strength, specific stats are given on the table below.
+The companion shares the traits of undead creatures, except that unlike undead the companion can be healed through conventional means and takes damage from negative energy. As the shadowdancer advances in level the shadowdancer's companion increases in strength, specific stats are given on the table below.
 
 Shadowdancer Companion | Level 3 | Level 4 | Level 5 | Level 6 
 ------ | ------- | --------- | ------- | ------- 
-Size/Type    | Medium Humanoid | | |
 Hit Dice:    | 2d12 (13) | 3d12 (19) | 4d12 (26) | 5d12 (32) 
 Speed:       | 20 ft. | 30 ft. | 40 ft. | 50 ft.
 Natural Armor:| +2  | +2 | +3 | +3
-Base Attack/Grapple: | +4/+6 | +5/+8 | +6/+9 
-Attack:      | Shadow Weapon +6 melee (1d6+2) | +8 (1d6+3) | +9 (1d6+3) 
-Full Attack: | Shadow Weapon +6 melee (1d6+2) | +8 (1d6+3) | +9/+4 (1d6+3) 
-Space/Reach: | 5 ft./5 ft.| | 
-Special Attacks: | | | |   
-Special Qualities: | Undead traits (except for healing) | | |
+Base Attack/Grapple: | +3/+5 | +4/+6 | +5/+8 | +6/+9 
+Attack:      | Shadow Weapon +5 melee (1d6+2) | +6 (1d6+2) | +8 (1d6+3) | +9 (1d6+3) 
+Full Attack: | Shadow Weapon +5 melee (1d6+2) | +6 (1d6+2) | +8 (1d6+3) | +9/+4 (1d6+3)   
 Saves:     | Fort +1, Ref +5, Will +1 | Fort +1, Ref +5, Will +1 | Fort +1, Ref +6, Will +1 | Fort +2, Ref +6, Will +2 
 Abilities: | Str 14, Dex 14 | Str 14, Dex 14 | Str 16, Dex 14 | Str 16, Dex 16 
 Feats:     | Evasion | Bonus Feat | Bonus Feat | Bonus Feat 
