@@ -2,18 +2,18 @@
 
 **Hit Die**: d12
 
-**Skills**: Bluff (Cha), Climb (Str), Craft (Int), Concentration (Con), Diplomacy (Cha), Disguise (Cha), Gather Information (Cha), Handle Animal (Cha), Heal (Wis), Hide (Dex), Intimidate (Cha), Jump (Str), Knowledge (All skills, trained individually) (Int), Listen (Wis), Move Silently (Dex), Profession (Wis), Ride (Dex), Search (Int), Sense Motive (Wis), Spellcraft (Int), Spot (Wis), Survival (Wis), Swim (Str), Use Rope (Dex)
+**Skills**: Climb (Str), Craft (Int), Concentration (Con), Diplomacy (Cha), Disguise (Cha), Gather Information (Cha), Handle Animal (Cha), Heal (Wis), Hide (Dex), Intimidate (Cha), Jump (Str), Knowledge (All skills, trained individually) (Int), Listen (Wis), Move Silently (Dex), Profession (Wis), Ride (Dex), Search (Int), Sense Motive (Wis), Spellcraft (Int), Spot (Wis), Survival (Wis), Swim (Str), Use Rope (Dex)
 
 **Skills/Level**: 4 + Int modifier
 
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
-1   | 1   | 2 | 0 | 2 | Battle Shout +1, Inspire Bravery     
-2   | 2   | 3 | 0 | 3 | Untiring, Heal Injuries
-3   | 3   | 3 | 1 | 3 | War Shout
-4   | 4   | 4 | 1 | 4 | Battle Shout +2, Bolster Allies
-5   | 5   | 4 | 1 | 4 | Project Voice
-6   | 6/1 | 5 | 2 | 5 | Terrible Shout, Command Enemy
+1   | 1   | 2 | 0 | 0 | Battle Shout +1, Inspire Bravery     
+2   | 2   | 3 | 0 | 0 | Untiring, Heal Injuries
+3   | 3   | 3 | 1 | 1 | War Shout
+4   | 4   | 4 | 1 | 1 | Battle Shout +2, Bolster Allies
+5   | 5   | 4 | 1 | 1 | Project Voice
+6   | 6/1 | 5 | 2 | 2 | Terrible Shout, Command Enemy
 
 **Weapon and Armor Proficiency**: Marshalls are proficient with all simple and martial weapons. Marshalls are proficient with all armor and shields (including tower shields).
 

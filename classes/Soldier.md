@@ -13,13 +13,13 @@ LVL | BAB | F | R | W | Special
 3   | 3   | 3 | 1 | 3 | Pack Mule 
 4   | 4   | 4 | 1 | 4 | Bonus Feat
 5   | 5   | 4 | 1 | 4 | Improved Delay        
-6   | 6/1 | 5 | 2 | 5 | Bonus Feat, Array of Stunts, Foil Action
+6   | 6/1 | 5 | 2 | 5 | Array of Stunts, Foil Action
 
 **Weapon and Armor Proficiency**: A soldier is proficient with all simple and martial weapons and with all armor (heavy, medium, and light) and shields (including tower shields).
 
 **Bonus Feat**: At 4th and 6th level a soldier gains a bonus feat in addition to any feats from their normal level progression.
 
-**Combat Focus**(Ex): If the soldier is in a situation that is stressful and/or dangerous enough that he would normally be unable to take 10 on skill checks, he may spend a swift action to gain combat focus. A soldier may end his combat focus at any time to reroll any die roll he makes, and if not used it ends on its own after a number of rounds equal to his class level. After voluntarily ending combat focus he must wait one round before re-entering it.
+**Combat Focus**(Ex): A soldier at any time may spend a move action to gain combat focus. A soldier may end his combat focus at any time to reroll any die roll he makes, and if not used it ends on its own after a number of combat rounds equal to his class level. If not in combat, combat focus lasts a number of hours equal to the soldier's class level. After voluntarily ending combat focus he must wait one round before re-entering it.
 
 **Active Assault**(Ex): A 2nd level soldier gains the ability to take a 5 foot step each turn as an immediate action, this is in addition to all other forms of movement (including the normal 5 foot step).
 
