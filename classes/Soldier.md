@@ -12,14 +12,14 @@ LVL | BAB | F | R | W | Special
 2   | 2   | 3 | 0 | 3 | Active Assault, Problem Solver          
 3   | 3   | 3 | 1 | 3 | Pack Mule 
 4   | 4   | 4 | 1 | 4 | Bonus Feat
-5   | 5   | 4 | 1 | 4 | Improved Delay        
-6   | 6/1 | 5 | 2 | 5 | Array of Stunts, Foil Action
+5   | 5   | 4 | 1 | 4 | Array of Stunts       
+6   | 6/1 | 5 | 2 | 5 | Foil Action
 
 **Weapon and Armor Proficiency**: A soldier is proficient with all simple and martial weapons and with all armor (heavy, medium, and light) and shields (including tower shields).
 
-**Bonus Feat**: At 4th and 6th level a soldier gains a bonus feat in addition to any feats from their normal level progression.
+**Bonus Feat**: At 4th level a soldier gains a bonus feat in addition to any feats from their normal level progression.
 
-**Combat Focus**(Ex): A soldier at any time may spend a move action to gain combat focus. A soldier may end his combat focus at any time to reroll any die roll he makes, and if not used it ends on its own after a number of combat rounds equal to his class level. If not in combat, combat focus lasts a number of hours equal to the soldier's class level. After voluntarily ending combat focus he must wait one round before re-entering it.
+**Combat Focus**(Ex): A soldier begins any combat encounter in combat focus. He may end his combat focus at any time to reroll any die roll he makes, and if not used it ends on its own after a number of combat rounds equal to his class level. Voluntarily ending combat focus requires the use of an immediate action, re-entering combat focus after ending it requires the use of a move action.
 
 **Active Assault**(Ex): A 2nd level soldier gains the ability to take a 5 foot step each turn as an immediate action, this is in addition to all other forms of movement (including the normal 5 foot step).
 
@@ -27,9 +27,7 @@ LVL | BAB | F | R | W | Special
 
 **Pack Mule**(Ex): A 3rd level soldier suffers no penalties for carrying a medium load, and may retrieve stored items from his person without provoking an attack of opportunity.
 
-**Improved Delay**(Ex): A 5th level soldier may delay his actions in one round without compromising his initiative in the next round. In addition, a soldier may interrupt another action with his delayed action like it was a readied action (though he does not have to announce his intentions beforehand).
-
-**Array of Stunts**(Ex): A 6th level soldier may use an immediate action without sacrificing his swift action on his next turn.
+**Array of Stunts**(Ex): A 5th level soldier may use an immediate action without sacrificing his swift action on his next turn.
 
 **Foil Action**(Ex): A 6th level soldier may use an immediate action to make a touch attack or ranged touch attack on any opponent within 30 ft. If this attack succeeds the opponent's action is wasted, and any spell slots, limited ability uses, potions, or the like used to power it are expended.
 

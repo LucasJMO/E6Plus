@@ -39,6 +39,6 @@ While raging, a barbarian cannot use any Charisma, Dexterity, or Intelligence ba
 
 **Improved Healing**: A 4th level barbarian gains an enhancement to their natural healing abilities. Every time a barbarian rests they recover an additional hit point per hit die. 
 
-**Unshakeable**: A 5th level barbarian who is reduced to between -1 and -9 hit points automatically becomes stable and is not disabled (they are not limited to a single move or standard action each round). 
+**Unshakeable**: A 5th level barbarian who is reduced to between 0 and -9 hit points automatically becomes stable and is not disabled (they are not limited to a single move or standard action each round). Additionally, a barbarian with 0 or fewer hit points recovers 1 hit point per two levels (rounded up) per round, up to a maximum of 3 hit points per round at 6th level. 
 
 **Greater Improved Healing**: A 6th level barbarian's healing improves even further, letting them recover 1 hitpoint for every 60 minutes spent out of combat. 

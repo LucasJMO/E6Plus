@@ -11,26 +11,26 @@ LVL | BAB | F | R | W | Special
 1   | 1   | 2 | 0 | 0 | Battle Shout +1, Inspire Bravery     
 2   | 2   | 3 | 0 | 0 | Untiring, Heal Injuries
 3   | 3   | 3 | 1 | 1 | War Shout
-4   | 4   | 4 | 1 | 1 | Battle Shout +2, Bolster Allies
-5   | 5   | 4 | 1 | 1 | Project Voice
+4   | 4   | 4 | 1 | 1 | Bolster Allies
+5   | 5   | 4 | 1 | 1 | Snap out of it
 6   | 6/1 | 5 | 2 | 2 | Terrible Shout, Command Enemy
 
 **Weapon and Armor Proficiency**: Marshalls are proficient with all simple and martial weapons. Marshalls are proficient with all armor and shields (including tower shields).
 
-**Battle Shout**: Once per day per class level, a marshall may expend a swift action in order to grant all allies within short range a +1 Morale bonus to all attack and damage rolls. This bonus lasts for a number of rounds equal to the marshall's class level. At 4th level this bonus increases to +2.
+**Battle Shout**: Once per day per class level, a marshall may expend a swift action in order to grant up to three allies within short range a +1 Morale bonus to all attack rolls, damage rolls, and saves. This bonus lasts for a number of rounds equal to the marshall's class level.
 
-**Inspire Bravery**: A allies within short range of a Marshall may add the Marshall’s Charisma bonus to their saves against Fear effects.
+**Inspire Bravery**: A allies within short range of a Marshall may add the Marshall’s Charisma bonus to their saves against Fear effects. This bonus does not stack in a party with multiple marshalls.
 
 **Untiring**: A Marshall needs half as much sleep as normal (for example, a long rest for a marshall is 4 hours) and is immune to any effects which cause fatigue, exhaustion, or sleep.
 
-**Heal Injuries**: As a swift action, a marshall can heal a number of characters equal to his class level of a number of hit points equal to his class level. This action may be taken a number of times per day equal to 3 + the marshall’s Charisma modifier, and all affected characters must be within close range.
+**Heal Injuries**: As a swift action, a marshall can heal up to four allies (including the marshall) a number of hit points equal to his class level. This action may be taken a number of times per day equal to the marshall's class level divided by three (rounded down), and all affected characters must be within close range.
 
-**War Shout**: At 3rd level, a Marshall’s battle shout affects all allies within long range. The allies must still be able to hear the Marshall as normal.
+**War Shout**: At 3rd level, a Marshall’s battle shout affects all allies within medium range. The allies must still be able to hear the Marshall as normal.
 
-**Bolster Allies**: With a swift action, a Marshall may assist all allies within short range of himself. These allies may each reroll one die roll made before the Marshall’s next turn.  
+**Bolster Allies**: At 4th level, allies being affected by the marshall's battle shout may reroll one d20 die roll per usage of battle shout. Activating this reroll requires the use of an immediate action.
 
-**Project Voice**: A Marshall can automatically dispel a silence or similar effect as a Swift action.
+**Snap Out Of It**: A 5th level marshall can expend a move action target an ally within medium range who is suffering a negative effect as the result of a failed will save and allow them to reroll the save. If they succeed the effect ends, if they fail the effect continues as normal.
 
-**Terrible Shout**: As a standard action, a Marshall can force all enemies within Medium range to make a Will save (DC 10 + 1/2 Class Level + Charisma Modifier) or becomes frightened for 10 rounds. Creatures who succeed this save are unaffected for the next 24 hours.
+**Terrible Shout**: Twice per day, a marshall can expend a standard action to force all enemies within 60 feet to make a Will save (DC 10 + 1/2 Class Level + Charisma Modifier) or becomes frightened for a round per class level. Creatures who succeed this save are unaffected by this ability for the next 24 hours.
 
 **Command Enemy**: Twice per day a marshall can expend a swift action in order to cast a quickened command as a spell like ability. The will save to resist is DC 10 + 1/2 class level + Charisma modifier.
