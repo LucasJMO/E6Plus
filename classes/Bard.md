@@ -8,7 +8,7 @@
 
 LVL | BAB | F | R | W | Special | 0 | 1 | 2
 --- | --- | - | - | - | ------- | - | - | -
-1   | 1   | 0 | 2 | 2 | Advanced Learning, Bardic Music, Bardic Knowledge, Skill Focus (Perform), Inspire Courage +1, Weapon Finesse | 4/2 |  -  |  -  
+1   | 1   | 0 | 2 | 2 | Advanced Learning, Bardic Music, Bardic Knowledge, Skill Focus (Perform), Inspire Courage, Weapon Finesse | 4/2 |  -  |  -  
 2   | 2   | 0 | 3 | 3 | Fascinate | 5/3 | 2/1 |  -  
 3   | 3   | 1 | 3 | 3 | Inspire Competence | 6/3 | 3/1 | -
 4   | 4   | 1 | 4 | 4 | Countersong | 6/3 | 3/2 | 2/1

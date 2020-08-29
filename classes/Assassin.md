@@ -9,7 +9,7 @@
 LVL | BAB | F | R | W | Special | 0 | 1 | 2
 --- | --- | - | - | - | ------- | - | - | -
 1   | 0   | 0 | 2 | 0 | Death Attack, Personal Immunity, Poison Use | 4/2 |  -  |  -  
-2   | 1   | 0 | 3 | 0 | Uncanny Dodge | 5/3 | 2/0 |  -  
+2   | 1   | 0 | 3 | 0 | Evasion, Uncanny Dodge | 5/3 | 2/0 |  -  
 3   | 2   | 1 | 3 | 1 | Hide in Plain Sight | 6/3 | 3/1 | 2/0
 4   | 3   | 1 | 4 | 1 | Cloak of Discretion, Skill Mastery | 6/3 | 3/2 | 3/1
 5   | 3   | 1 | 4 | 1 | Trapfinding, Trapmaking, Nerve of the Killer | 6/3 | 4/3 | 3/2
@@ -19,11 +19,13 @@ LVL | BAB | F | R | W | Special | 0 | 1 | 2
 
 **Weapon and Armor Proficiency**: assassins are proficient with all simple and martial weapons. assassins are proficient with all light heavy armor.
 
-**Death Attack**: An assassin may spend a full-round action to study an opponent. If she does so, her next attack is a Death Attack if she makes it within 1 round. A Death Attack inflicts a number of extra dice of damage equal to her assassin level plus two dice, but only if the target is denied its Dexterity Bonus to AC against that attack. Special attacks such as a coup de grace may be a Death Attack. If a character has both sneak attack and death attack, they stack if the character meets the requirements of both. An assassin may load a crossbow simultaneously with his action to study his target if he has a Base Attack Bonus of +1 or more.
+**Death Attack**: An assassin may spend a full-round action to study an opponent. If she does so, her next attack is a Death Attack if she makes it within 1 round. A Death Attack inflicts a number of extra six sided dice of damage equal to her assassin level plus two dice, but only if the target is denied its Dexterity Bonus to AC against that attack. Special attacks such as a coup de grace may be a Death Attack. If a character has both sneak attack and death attack, they stack if the character meets the requirements of both. An assassin may load a crossbow simultaneously with his action to study his target if he has a Base Attack Bonus of +1 or more.
 
 **Personal Immunity**: At each level an assassin may choose a poison to be immune to. At 6th level the assassin gains immunity to all poison.
 
 **Poison Use**: An assassin may prepare, apply, and use poison without any chance of poisoning herself.
+
+**Evasion**: An assassin can avoid even magical and unusal attacks with great agility. If she makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if the assassin is wearing light armor or no armor. A helpless assassin does not gain the benefits of evasion.
 
 **Uncanny Dodge**: Starting at 2nd level, an assassin can react to danger before his senses would normally allow him to do so. He retains his Dexterity bonus to AC (if any) even if he is caught flat-footed or struck by an invisible attacker. However, he still loses his Dexterity bonus to AC if immobilized. 
 
@@ -41,7 +43,7 @@ If an assassin already has uncanny dodge from a different class he automatically
 
 **Nerves of the Killer**:  A 5th level assassin gains a limited immunity to compulsion and charm effects. While studying a target for a Death Attack, and for one round afterward, he counts as if he were within a protection from evil effect. This does not confer a deflection bonus to AC.
 
-**Palm Weapon**(Su): A 6th level assassin may conceal weapons with supernatural skill. Any weapon concealed with Sleight of Hand cannot be found with Divination magic.
+**Palm Weapon**(Su): A 6th level assassin may conceal weapons with supernatural skill. Any weapon concealed with Sleight of Hand gains a +5 to avoid detection via Spot check and cannot be found with Divination magic.
 
 **Poisonmaster**: A 6th level assassin can create short term poisons. By expending an entire healer's kit worth of materials and an hour of time, he can synthesize short term poisons which degrade to uselessness after one week.
 

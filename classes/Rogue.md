@@ -41,7 +41,7 @@ At each level past 1st, a rogue may select one of crippling strike, dark caster,
 
 **Crippling Strike**: A successful sneak attack deals two points of strength damage or dex damage. This ability may be gained multiple times, each time adding an additional two points of either form of damage.
 
-**Dark Caster**: A rogue can learn an illusion spell of 2nd level or lower and cast it a number of times per day equal to rogue level divided by 2 (rounded down, minimum 0). Save DC is 10 + spell level + Intelligence modifier or Charisma modifier (whichever is higher). This ability may be gained twice, but must choose a different spell each time. Treat rogue level as caster level.
+**Dark Caster**: A rogue can learn an illusion spell of 2nd level or lower and cast it a number of times per day equal to rogue level divided by 3 (rounded down, minimum 0). Save DC is 10 + spell level + Intelligence modifier or Charisma modifier (whichever is higher). This ability may be gained twice, but must choose a different spell each time. Treat rogue level as caster level.
 
 **Defensive Roll**: If an attack (from a weapon or some other blow) would reduce a rogue to 0 or fewer hit points. The rogue may attempt a reflex saving throw (DC = damage dealt). If the save succeeds, he takes only half damage from the blow.
 

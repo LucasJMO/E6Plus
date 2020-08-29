@@ -2,6 +2,10 @@
 
 **Hit Die**: d8
 
+**Skills**: Bluff (Cha), Concentration (Con), Knowledge (dungeoneering) (Int), Listen (Wis), Psicraft (Int), Sense Motive (Wis), Spot (Wis), Survival (Wis)
+
+**Skills/Level**: 4 + Int modifier
+
 ## Requirements
 
 To qualify to become a slayer, a character must fulfill one of the following criteria.
@@ -10,10 +14,6 @@ To qualify to become a slayer, a character must fulfill one of the following cri
 
 **Skills**: Concentration 7 ranks
 
-**Skills**: Bluff (Cha), Concentration (Con), Knowledge (dungeoneering) (Int), Listen (Wis), Psicraft (Int), Sense Motive (Wis), Spot (Wis), Survival (Wis)
-
-**Skills/Level**: 4 + Int modifier
-
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
 1   | 1   | 0 | 2 | 2 | Brain nausea, combat style, enemy sense, favored enemy, lucid buffer
@@ -21,7 +21,7 @@ LVL | BAB | F | R | W | Special
 
 **Weapon and Armor Proficiency**: Slayers are proficient with all simple and martial weapons and with all types of armor.
 
-**Brain Nausea**:
+**Brain Nausea**: At 1st level, a slayer gains a constant defensive ability somewhat similar to the aversion power. Any creature that attempts to eat the slayer's brain must succeed on a Will save (DC 15 + slayer's character level) or become disinclined to do so for 24 hours thereafter. A creature that fails this save may take any action it desires except extracting the slayer's brain (but does not realize it is being so affected). This ability is active even if the slayer is unconscious, stunned, or otherwise helpless.
 
 **Combat Style**: At 1st level, a slayer must select one of two combat styles to pursue, psionics or psionic defense. 
 

@@ -9,11 +9,11 @@
 LVL | BAB | F | R | W | Special | 0 | 1 | 2
 --- | --- | - | - | - | ------- | - | - | -
 1   | 0   | 0 | 2 | 0 | Harlequin's Mask, Ignore Components, Poison Use | 2 |  -  |  -  
-2   | 1   | 0 | 3 | 0 | Evasion, Laugh it Off | 3 | 0 |  -  
-3   | 2   | 1 | 3 | 1 | Sneak Attack +1d6 | 3 | 1 | -
-4   | 3   | 1 | 4 | 1 | Jester's Feint | 3 | 2 | 0
+2   | 1   | 0 | 3 | 0 | Sneak Attack +1d6, Evasion | 3 | 0 |  -  
+3   | 2   | 1 | 3 | 1 | Laugh it Off | 3 | 1 | -
+4   | 3   | 1 | 4 | 1 | Sneak Attack +2d6, Jester's Feint | 3 | 2 | 0
 5   | 3   | 1 | 4 | 1 | Killer Clown, Last Trick | 3 | 3 | 1
-6   | 4   | 2 | 5 | 2 | Sneak Attack +2d6, Pratfall | 3 | 3 | 2
+6   | 4   | 2 | 5 | 2 | Sneak Attack +3d6, Pratfall | 3 | 3 | 2
 
 **Weapon and Armor Proficiency**: Jesters are proficient with light armor but not with shields of any kind. A Jester is proficient with no weapons, but suffers no attack penalty for using a weapon with which they are not proficient or which is made for a character of a different size than themselves. Even, perhaps especially, improvised weapons may be used without the usual -4 penalty.
 
