@@ -2,7 +2,7 @@
 
 **Hit Die**: d10
 
-**Skills**: Climb (Str), Craft (Int), Diplomacy (Cha), Handle Animal (Cha), Intimidate (Cha), Jump (Str), Knowledge (History) (Int), Knowledge (Nobility) (Int), Knowledge (Geography) (Int), Listen (Wis), Perform (Cha), Ride (Dex), Sense Motive (Wis), Spot (Wis), Swim (Str)
+**Skills**: Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Jump (Str), Knowledge (History) (Int), Knowledge (Nobility) (Int), Knowledge (Geography) (Int), Listen (Wis), Perform (Cha), Ride (Dex), Sense Motive (Wis), Spot (Wis), Swim (Str)
 
 **Skills/Level**: 4 + Int modifier
 

@@ -1,8 +1,8 @@
 # Marshall
 
-**Hit Die**: d12
+**Hit Die**: d10
 
-**Skills**: Climb (Str), Craft (Int), Concentration (Con), Diplomacy (Cha), Disguise (Cha), Gather Information (Cha), Handle Animal (Cha), Heal (Wis), Hide (Dex), Intimidate (Cha), Jump (Str), Knowledge (All skills, trained individually) (Int), Listen (Wis), Move Silently (Dex), Profession (Wis), Ride (Dex), Search (Int), Sense Motive (Wis), Spellcraft (Int), Spot (Wis), Survival (Wis), Swim (Str), Use Rope (Dex)
+**Skills**: Climb (Str), Craft (Int), Concentration (Con), Disguise (Cha), Gather Information (Cha), Handle Animal (Cha), Heal (Wis), Hide (Dex), Intimidate (Cha), Jump (Str), Knowledge (All skills, trained individually) (Int), Listen (Wis), Move Silently (Dex), Profession (Wis), Ride (Dex), Search (Int), Sense Motive (Wis), Spellcraft (Int), Spot (Wis), Survival (Wis), Swim (Str), Use Rope (Dex)
 
 **Skills/Level**: 4 + Int modifier
 
@@ -10,7 +10,7 @@ LVL | BAB | F | R | W | Special
 --- | --- | - | - | - | ------- 
 1   | 1   | 2 | 0 | 0 | Battle Shout +1, Inspire Bravery     
 2   | 2   | 3 | 0 | 0 | Untiring, Heal Injuries
-3   | 3   | 3 | 1 | 1 | War Shout
+3   | 3   | 3 | 1 | 1 | Heroic Resolve, War Shout
 4   | 4   | 4 | 1 | 1 | Bolster Allies
 5   | 5   | 4 | 1 | 1 | Snap out of it
 6   | 6/1 | 5 | 2 | 2 | Terrible Shout, Command Enemy
@@ -24,6 +24,8 @@ LVL | BAB | F | R | W | Special
 **Untiring**(Ex): A Marshall needs half as much sleep as normal (for example, a long rest for a marshall is 4 hours) and is immune to any effects which cause fatigue, exhaustion, or sleep.
 
 **Heal Injuries**(Su): As a swift action, a marshall can heal up to four allies (including the marshall) a number of hit points equal to his class level. This action may be taken a number of times per day equal to the marshall's class level divided by three (rounded down), and all affected characters must be within close range.
+
+**Heroic Resolve**(Ex): A marshall who is suffering a negative effect as the result of a failed Will save may expend a standard action to attempt the save again with his charisma modifier added on as an additional bonus. This ability is usable once for any effect which requires a Will save. If the marshall succeeds on this save the negative effect ends, if he fails it continues as normal.
 
 **War Shout**(Ex): At 3rd level, a Marshall’s battle shout affects all allies within medium range. The allies must still be able to hear the Marshall as normal.
 
