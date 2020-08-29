@@ -23,13 +23,13 @@ Although a pyromancer can become proficient with other forms of armor, wearing m
 
 **Fire Burst**(Su): As a standard action, a Pyromancer can emit a burst of flame from his body, striking all creatures and objects within 10’ of his position except himself. This burst of flames inflicts 1d4 of fire damage per class level, with an allowed Reflex Save for half (DC 10 + 1/2 class level + charisma modifier)
 
-**Fire Bolts**(Su): A Pyromancer can throw bolts of fire as a standard action. A Fire Bolt travels out to short range, requires a ranged touch attack to hit, and inflicts 1d4 of Fire damage per Pyromancer level, up to a maximum of 6d4 at 6th level.
+**Fire Bolts**(Su): A Pyromancer can throw bolts of fire as a standard action. A Fire Bolt has a range increment of 120 feet, requires a ranged touch attack to hit, and inflicts 1d4 of Fire damage per Pyromancer level, up to a maximum of 6d4 at 6th level.
 
 **Impress Flames**: Every time a Pyromancer inflicts Fire damage on any target, whether with his class abilities or another source of fire, he inflicts an amount of extra Fire Damage equal to his class level.
 
 **Fire Magic**: A Pyromancer is considered to have every spell with the Fire Descriptor on his spell list for the purpose of activating magic items.
 
-**Ignite**(Su): As a standard action, a 2nd level Pyromancer can cause any creature or object to burst into flame. A creature on fire suffers 1d4 of Fire damage per round on their turn (the Mage’s Impress Flames ability applies to each round). At the start of its turn, the creature can expend a move equivalent action to attempt a Reflex save (DC 10 + 1/2 class level + charisma modifier), if the creature succeeds it still takes damage for the turn, however the flames are extinguished. If the flames are not extinguished they go out on their own after three rounds. This ability can be used out to short range, and it always hits.
+**Ignite**(Su): As a standard action, a 2nd level Pyromancer can cause any creature or object to burst into flame. A creature on fire suffers 1d4 of Fire damage per round on their turn (the Mage’s Impress Flames ability applies to each round). At the start of its turn, the creature can expend a move equivalent action to attempt a Reflex save (DC 10 + 1/2 class level + charisma modifier), if the creature succeeds it still takes damage for the turn, however the flames are extinguished. If the flames are not extinguished they go out on their own after three rounds. This ability can be used out to 20 feet per level, and it always hits.
 
 **Smokeless Flame**(Su): A 2nd level Pyromancer can create fires that produce no heat and do not burn. These fires can be anything from the size of a torch to a bonfire, and produce light accordingly. Each lasts for 1 hour per class level. Smokeless Flame can be created anywhere within medium range.
 
