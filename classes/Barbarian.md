@@ -21,7 +21,7 @@ LVL | BAB | F | R | W | Special
 
 **Illiteracy**: Barbarians are the only characters who do not automatically know how to read and write. A barbarian may spend 2 skill points to gain the ability to read and write all languages he is able to speak. Any other character who gains a barbarian level does not lose the literacy he or she already had.
 
-**Rage**(Ex): Once per day per two class levels a barbarian can enter rage. In a rage, a barbarian temporarily gains +4 Strength, +4 Constitution, +2 morale bonus on Will saves, regeneration 1, and an additional +10 to their land speed, but he takes a -2 penalty to Armor Class. Rage lasts for a number of rounds equal to 3 + the barbarian's new Constitution modifier. A barbarian may prematurely end his rage, additionally if his rage would end he may use a free action to immediately transition into another rage.
+**Rage**(Ex): Once per day per two class levels (with a minimum of once) a barbarian can enter rage. In a rage, a barbarian temporarily gains +4 Strength, +4 Constitution, +2 morale bonus on Will saves, regeneration 1, and an additional +10 to their land speed, but he takes a -2 penalty to Armor Class. Rage lasts for a number of rounds equal to 3 + the barbarian's new Constitution modifier. A barbarian may prematurely end his rage, additionally if his rage would end he may use a free action to immediately transition into another rage.
 
 Because of regeneration, damage a barbarian takes while raging is treated as nonlethal damage, and healed at a rate of 1 hit point per round. Damage taken before entering a rage is treated normally, and any nonlethal damage remaining when a barbarian exits rage is converted to lethal damage.
 

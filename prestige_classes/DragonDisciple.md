@@ -19,10 +19,10 @@ To qualify to become a dragon disciple, a character must fulfill all the followi
 LVL | BAB | F | R | W | Special | Spellcasting
 --- | --- | - | - | - | ------- | ------------
 1   | 1   | 2 | 0 | 2 | Breath weapon (1d8), natural armor increase (+1) | -    
-2   | 2   | 3 | 0 | 3 | Ability boost (Str +2), damage reduction 1/-, claws and bite | -
+2   | 2   | 3 | 0 | 3 | Ability boost (Str +2), claws and bite | -
 3   | 3   | 3 | 1 | 3 | Ability boost (Dex +2), breath weapon (2d8), blindsense 30 ft, natural armor increase (+2) | +1 level of existing spellcasting class      
 4   | 4   | 4 | 1 | 4 | Ability boost (Con +2) | -         
-5	| 5	  | 4 | 2 | 4 | Ability boost (Cha +2), Breath Weapon (3d8), damage reduction 2/-, draconic aspect, natural armor increase (+3) | +1 level of existing spellcasting class
+5	| 5	  | 4 | 2 | 4 | Ability boost (Cha +2), Breath Weapon (3d8), draconic aspect, natural armor increase (+3) | +1 level of existing spellcasting class
 
 **Weapon and Armor Proficiency**: A dragon disciple is proficient with light armor.
 
@@ -35,8 +35,6 @@ A dragon disciple can cast spontaneous arcane spells while wearing light armor w
 **Ability Boost**(Ex): As a dragon disciple gains levels in this prestige class, his ability scores increase.
 
 These increases stack and are gained as if through level advancement.
-
-**Damage Reduction**: At 2nd level a dragon disciple gains Damage Reduction. Substract 1 from damage the dragon disciple takes each time he is dealt damage. At 5th level this reduction increases to 2.
 
 **Breath Weapon**(Su): At 1st level, a dragon disciple gains a minor breath weapon. The type and shape depend on the dragon variety whose heritage he enjoys (see below). Regardless of the ancestor, the breath weapon deals 1d8 points of damage of the appropriate energy type. At 3rd level the damage increases to 2d8, and at 5th level it increases to 3d8.
 
@@ -75,4 +73,4 @@ Any opponent the dragon disciple cannot see still has total concealment against 
 
 **Draconic Aspect**: A 5th level dragon disciple's appearance is forever altered, their skin gains a smooth, metallic quality, and a light tinge matching the color of their chosen dragon variety. Their eyes change to a deep golden color. 
 
-They gain a +2 to charisma based skill checks, +1 to saves against paralysis, sleep, or poison, and darkvision out to 60 feet (120 feet if they already had darkvision from another source).
+They gain a +2 to charisma based skill checks, +1 to saves against paralysis, sleep, or poison, darkvision out to 60 feet (120 feet if they already had darkvision from another source), and damage reduction 1/magic.

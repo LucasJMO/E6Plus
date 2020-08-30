@@ -12,15 +12,17 @@ To qualify to become a duelist, a character must have a base attack bonus of +3 
 
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
-1   | 1   | 2 | 2 | 0 | Canny defense, improved reaction +2, spring attack
+1   | 1   | 2 | 2 | 0 | Canny defense +2, improved reaction, spring attack
 2   | 2   | 3 | 3 | 0 | Clever opportunist, combat reflexes, deflect attacks, grace
-3   | 3   | 3 | 3 | 1 | Skirmish +1d6, improved reaction +4
+3   | 3   | 3 | 3 | 1 | Canny defense +4, precise strike +1d6
 
 **Weapon and Armor Proficiency**: The duelist is proficient with all simple and martial weapons, but no type of armor or shield.
 
-**Canny Defense**(Ex): When not wearing armor or using a shield, a duelist adds a +1 dodge bonus to AC per class level. If a duelist is caught flat footed or otherwise denied her Dexterity bonus, she also loses this bonus.
+**Canny Defense**(Ex): When not wearing armor or using a shield, a duelist gains a dodge bonus to AC equal to 1 + class level.
 
-**Improved Reaction**(Ex): A duelist gains a +2 bonus on initiative checks. At 3rd level this bonus increases to +4. This stacks with the bonus from the Improved Initiative feat.
+If a duelist is caught flat footed or otherwise denied her Dexterity bonus, she also loses this bonus.
+
+**Improved Reaction**(Ex): A duelist gains a +1 untyped initiative bonus per class level, up to a maximum of +3 at 3rd level. This stacks with the bonus from the Improved Initiative feat.
 
 **Spring Attack**(Ex): A 1st level duelist gains spring attack as a bonus feat. Even if she does not meet the prerequisites for this feat.
 
@@ -32,5 +34,7 @@ LVL | BAB | F | R | W | Special
 
 **Grace**(Ex): A 2nd level duelist gains an additional +2 competence bonus on all Reflex saving throws. This ability functions for a duelist only when she is wearing no armor and not using a shield.
 
-**Skirmish**(Ex): A 3rd level duelist deals an extra 1d6 damage on all attacks she makes during any round in which she moves at least 10 feet away from where she was at the start of her turn. Because skirmish relies on nimble movement, a duelist does not gain these bonuses on any turn during which she charges.
+**Precise Strike**(Ex): At 3rd level, a duelist gains the ability to strike precisely with a light or one-handed weapon, gaining an extra 1d6 damage added to her normal damage roll.
+
+When making a precise strike, a duelist cannot attack with a weapon in her other hand or use a shield. A duelist's precise strike only works against living creatures with discernible anatomies. Any creature that is immune to critical hits is not vulnerable to a precise strike, and any item or ability that protects a creature from critical hits also protects a creature from a precise strike.
 
