@@ -32,6 +32,6 @@ If a character had more than one spellcasting class before he became a thaumatur
 
 The conditions needed to bring the spell into effect must be clear, although they can be general. If complicated or convoluted condition as are prescribed, the contingent conjuration may fail when triggered. The conjuration spell occurs based solely on the stated conditions, regardless of whether the thaumaturgist wants it to, although most conjurations can be dismissed normally. A thaumaturgist can have only one contingent conjuration active at a time.
 
-**Planar Cohort**: A 5th-level thaumaturgist can call on an elemental or outsider of 6 HD or less to act as his cohort. The called creature serves loyally and well as long as the thaumaturgist continues to advance a cause important to the creature.
+**Planar Cohort**: A 5th-level thaumaturgist can call on an elemental or outsider of 4 HD or less to act as his cohort. The called creature serves loyally and well as long as the thaumaturgist continues to advance a cause important to the creature.
 
 To call a planar cohort, the thaumaturgist must perform a one hour ritual and provide an offering of 10gp * the HD of the creature. Should the planar cohort die, another can be summoned by repeating this ritual and providing another offering. If the cohort is dismissed (dismissal requires a free action) another can be summoned again with the ritual, this time no offering is necessary.

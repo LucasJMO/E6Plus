@@ -33,7 +33,7 @@ LVL | BAB | F | R | W | Special | Spellcasting
 Secret | Effect
 ------ | ------
 Instant Mastery | 4 ranks of a skill in which the character has no ranks
-Secret Health | +3 hit points
+Secret Health | +6 hit points
 Secrets of inner strength | +2 bonus on Will saves
 The lore of true stamina | +2 bonus on Fortitude saves
 Secret knowledge of avoidance | +2 bonus on Reflex saves

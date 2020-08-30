@@ -21,7 +21,7 @@ LVL | BAB | F | R | W | Special
 
 **Illiteracy**: Barbarians are the only characters who do not automatically know how to read and write. A barbarian may spend 2 skill points to gain the ability to read and write all languages he is able to speak. Any other character who gains a barbarian level does not lose the literacy he or she already had.
 
-**Rage**(Ex): Once per day per two class levels a barbarian can enter rage. In a rage, a barbarian temporarily gains +4 Strength, +4 Constitution, +2 morale bonus on Will saves, +1 to their damage reduction, regeneration 1, and an additional +10 to their land speed, but he takes a -2 penalty to Armor Class. Rage lasts for a number of rounds equal to 3 + the barbarian's new Constitution modifier. A barbarian may prematurely end his rage, additionally if his rage would end he may use a free action to immediately transition into another rage.
+**Rage**(Ex): Once per day per two class levels a barbarian can enter rage. In a rage, a barbarian temporarily gains +4 Strength, +4 Constitution, +2 morale bonus on Will saves, regeneration 1, and an additional +10 to their land speed, but he takes a -2 penalty to Armor Class. Rage lasts for a number of rounds equal to 3 + the barbarian's new Constitution modifier. A barbarian may prematurely end his rage, additionally if his rage would end he may use a free action to immediately transition into another rage.
 
 Because of regeneration, damage a barbarian takes while raging is treated as nonlethal damage, and healed at a rate of 1 hit point per round. Damage taken before entering a rage is treated normally, and any nonlethal damage remaining when a barbarian exits rage is converted to lethal damage.
 
@@ -29,7 +29,7 @@ While raging, a barbarian cannot use any Charisma, Dexterity, or Intelligence ba
 
 **Power Attack**: At 1st level a barbarian gains the feat power attack, if the barbarian already has this feat they can instead select a different feat for which they meet the prerequisites.
 
-**Damage Reduction**: At 3rd level a barbarian gains Damage Reduction. Substract 1 from damage the barbarian takes each time he is dealt damage from a weapon or a natural attack. At 6th level this reduction increases to 2.
+**Damage Reduction**: At 3rd level a barbarian gains Damage Reduction. Substract 1 from damage the barbarian takes each time he is dealt damage. At 6th level this reduction increases to 2.
 
 **Endurance**: A barbarian gains endurance as a bonus feat at 3rd level. If they already have this feat they may select another feat for which they meet the prerequisites. 
 
@@ -39,6 +39,6 @@ While raging, a barbarian cannot use any Charisma, Dexterity, or Intelligence ba
 
 **Improved Healing**: A 4th level barbarian gains an enhancement to their natural healing abilities. Every time a barbarian rests they recover an additional hit point per hit die. 
 
-**Unshakeable**: A 5th level barbarian who is reduced to 0 hit points automatically becomes stable and is not disabled (they are not limited to a single move or standard action each round). Additionally, a barbarian with 0 or fewer hit points recovers 1 hit point per round. 
+**Unshakeable**: A 5th level barbarian who is reduced to 0 hit points is not disabled (they are not limited to a single move or standard action each round). Additionally, a barbarian with 0 or fewer hit points recovers 1 hit point per round. 
 
 **Greater Improved Healing**: A 6th level barbarian's healing improves even further, letting them recover 1 hitpoint for every 60 minutes spent out of combat. 

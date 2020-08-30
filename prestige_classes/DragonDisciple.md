@@ -12,21 +12,23 @@ To qualify to become a dragon disciple, a character must fulfill all the followi
 
 **Race**: Any nondragon (cannot already be half-dragon).
 
-**Spellcasting**: Ability to cast arcane spells without preparation
+**Spellcasting**: Ability to cast 1st level arcane spells without preparation
 
 **Special**: The player chooses a dragon variety when taking the first level of this prestige class. Taken dragon disciple levels cannot be retrained. Dragon disciple levels stack with sorcerer levels for the purpose of determining caster level.
 
 LVL | BAB | F | R | W | Special | Spellcasting
 --- | --- | - | - | - | ------- | ------------
-1   | 1   | 2 | 0 | 2 | Natural Armor Increase (+1) | -    
-2   | 2   | 3 | 0 | 3 | Ability Boost (Str +2), breath weapon (2d8), claws and bite | -
-3   | 3   | 3 | 1 | 3 | Ability Boost (Dex +2), Blindsense 30 ft, natural armor increase (+2) | +1 level of existing spellcasting class      
-4   | 4   | 4 | 1 | 4 | Ability Boost (Con +2), breath weapon (3d8) | -         
-5	| 5	  | 4 | 2 | 4 | Draconic Aspect, Natural armor increase (+3) | +1 level of existing spellcasting class
+1   | 1   | 2 | 0 | 2 | Breath weapon (1d8), natural armor increase (+1) | -    
+2   | 2   | 3 | 0 | 3 | Ability boost (Str +2), damage reduction 1/-, claws and bite | -
+3   | 3   | 3 | 1 | 3 | Ability boost (Dex +2), breath weapon (2d8), blindsense 30 ft, natural armor increase (+2) | +1 level of existing spellcasting class      
+4   | 4   | 4 | 1 | 4 | Ability boost (Con +2) | -         
+5	| 5	  | 4 | 2 | 4 | Ability boost (Cha +2), Breath Weapon (3d8), damage reduction 2/-, draconic aspect, natural armor increase (+3) | +1 level of existing spellcasting class
 
-**Weapon and Armor Proficiency**: Dragon disciples gain no proficiency with any weapon or armor.
+**Weapon and Armor Proficiency**: A dragon disciple is proficient with light armor.
 
 **Spells per Day**: When a dragon disciple reaches levels 3 and 5, the character gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not, however, gain any other benefit a character of that class would have gained, except for an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming an dragon disciple, he must decide to which class he adds the new level for purposes of determining spells per day.
+
+A dragon disciple can cast spontaneous arcane spells while wearing light armor without incurring the normal arcane spell failure chance.
 
 **Natural Armor Increase**: At 1st, 3rd, and 5th level, a dragon disciple gains an increase to the character’s existing natural armor (if any). As his skin thickens, a dragon disciple takes on more and more of his progenitor’s physical aspect.
 
@@ -34,7 +36,9 @@ LVL | BAB | F | R | W | Special | Spellcasting
 
 These increases stack and are gained as if through level advancement.
 
-**Breath Weapon**(Su): At 2nd level, a dragon disciple gains a minor breath weapon. The type and shape depend on the dragon variety whose heritage he enjoys (see below). Regardless of the ancestor, the breath weapon deals 2d8 points of damage of the appropriate energy type. At 4th level the damage increases to 3d8.
+**Damage Reduction**: At 2nd level a dragon disciple gains Damage Reduction. Substract 1 from damage the dragon disciple takes each time he is dealt damage. At 5th level this reduction increases to 2.
+
+**Breath Weapon**(Su): At 1st level, a dragon disciple gains a minor breath weapon. The type and shape depend on the dragon variety whose heritage he enjoys (see below). Regardless of the ancestor, the breath weapon deals 1d8 points of damage of the appropriate energy type. At 3rd level the damage increases to 2d8, and at 5th level it increases to 3d8.
 
 Regardless of its strength, the breath weapon can be used only once every 1d4 rounds. Use all the rules for dragon breath weapons except as specified here.
 

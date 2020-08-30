@@ -19,7 +19,7 @@ LVL | BAB | F | R | W | Special
 
 **Code of Conduct**: A knight must abide by the following rules. Breaking any results in the loss of knightly abilities until atonement is completed. A knight must refuse bonuses from Aid Another actions in combat, a knight must refrain from the use of poisons of any kind, a knight may not voluntarily change shape, and a knight may not sell magic items.
 
-**Draw Fire**: With a Swift Action, a knight may pique the interest of any opponent with intelligence 6 or less within 25 + 5/class level feet. That creature must make a will save (DC 10 + 1/2 knight level + constitution modifier) or spend all of its actions moving towards or attacking the knight. This effect ends after a number of rounds equal to the knight’s class level.
+**Draw Fire**: With a Swift Action, a knight may pique the interest of any opponent with intelligence 6 or less within 60 feet. That creature must make a will save (DC 10 + 1/2 knight level + constitution modifier) or spend all of its actions moving towards or attacking the knight. This effect ends after a number of rounds equal to the knight’s class level.
 
 **Shield Mastery**: A knight subtracts his knight level from the armor check penalty given by used shields. This ability can reduce a shield's armor check penalty to a minimum of 0.
 
@@ -31,7 +31,7 @@ LVL | BAB | F | R | W | Special
 
 **Speak to Animals**: A knight gains a bonus to her Ride and Handle Animal checks equal to half her knight level.
 
-**Damage Reduction**: A 4th level knight gains Damage Reduction X/-, where X is her knight level plus her shield bonus (this bonus can only come from a physically held shield, spells or magic items which grant a shield bonus do not enhance a knight's damage reduction) divided by two (rounded down). For example, a 6th level knight using a tower shield would have Damage Reduction 5/-.
+**Damage Reduction**: A 4th level knight gains Damage Reduction X/-, where X is her shield bonus. This bonus can only come from a physically held shield, spells or magic items which grant a shield bonus do not enhance a knight's damage reduction.
 
 **Immunity to Fear**: A knight is immune to Fear effects.
 

@@ -56,7 +56,7 @@ Chaotic evil    |Lawful good
 
 **Gift of the Divine**(Su): Available only to hierophants with cleric levels, this ability allows a hierophant to transfer one or more uses of his turn undead ability to a willing creature. (Hierophants who rebuke undead transfer uses of rebuke undead instead.) The transfer lasts anywhere from 24 hours to one week (chosen at the time of transfer), and while the transfer is in effect, the number of turning attempts per day allowed to the hierophant is reduced by the number transferred. The recipient turns undead as a cleric of the hierophant’s cleric level but uses her own Charisma modifier.
 
-**Healing Overflow**(Su): When you use a spell or class ability to heal a creature's hit points, you may also heal another ally within 30 feet. This functions as if both allies were targeted by the ability, though it still only expends one use.
+**Healing Overflow**(Su): When you use a spell to heal a creature's hit points, you may also heal another ally within 30 feet. This functions as if both allies were targeted by the ability, though it still only expends one use.
 
 **Holy Strength**(Su): When you heal a creature with positive energy (such as by channeling positive energy to heal the living, using cure spells, or using lay on hands), any affected creature gains a +1 sacred bonus on attack rolls, skill checks, ability checks, and saving throws for 1 minute. If you channel negative energy to heal undead, this is a profane bonus rather than a sacred bonus.
 
@@ -74,4 +74,4 @@ As with the imbue with spell ability spell, the hierophant remains responsible t
 
 If the hierophant desires, he may attach a known metamagic feat to the selected spell, permanently raising the level of the spell-like ability. This ability may be selected more than once as a special ability, each time applying to a different spell.
 
-**Spell Power**: This special ability increases a hierophant’s effective caster level by 1 for purposes of determining level-dependent spell variables and for caster level checks. This ability can be selected more than once, and changes to effective caster level are cumulative.
+**Spell Power**: This special ability increases a hierophant’s effective caster level by 1 for purposes of determining level-dependent spell variables and for caster level checks.

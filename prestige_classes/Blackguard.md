@@ -14,7 +14,7 @@ LVL | BAB | F | R | W | Special | 1 | 2
 --- | --- | - | - | - | ------- | - | -
 1   | 1   | 2 | 0 | 2 | Aura of evil, detect good, poison use, smite good | 1 | -  
 2   | 2   | 3 | 0 | 3 | Dark blessing, command undead | 2 | 1  
-3   | 3   | 3 | 1 | 3 | Aura of despair, fiendish servant, sneak attack +1d6 | 3 | 2
+3   | 3   | 3 | 1 | 3 | Aura of despair, fiendish mount, sneak attack +1d6 | 3 | 2
 
 **Weapon and Armor Proficiency**: Blackguards are proficient with all simple and martial weapons, with all types of armor, and with shields.
 

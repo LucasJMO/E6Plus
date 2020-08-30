@@ -24,7 +24,6 @@ LVL | BAB | F | R | W | Special | Spellcasting
 
 **Spellcasting**: When an arcane trickster advances in level, the character gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not, however, gain any other benefit a character of that class would have gained, except for an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a loremaster, he must decide to which class he adds the new level for purposes of determining spells per day.
 
-
 **Ranged Legerdemain**: An arcane trickster can perform the following class skills at a range of 30 feet: Disable Device, Open Lock, or Sleight of Hand. Working at a distance increases the normal skill check DC by 5, and an arcane trickster cannot take 10 on this check. Any object to be manipulated must weigh 5 pounds or less.
 
 **Sneak Attack**: This is exactly like the rogue ability of the same name. If the arcane trickster gets a sneak attack bonus from another source the bonuses on damage stack.
