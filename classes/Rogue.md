@@ -19,7 +19,7 @@ LVL | BAB | F | R | W | Special
 
 **Sneak Attack**: If a rogue can catch an opponent when he is unable to defend himself effectively from her attack, she can strike a vital spot for extra damage. 
 
-The rogue's attack deals extra damage any time her target would be denied a Dexterity bonux to AC (whether the target actually has a Dexterity bonus or not), or when the rogue flanks her target. This extra damage 1d6 at 1st level, and it increases by 1d6 damage every two rogue levels thereafter. Should the rogue score a critical hit with a sneak atack, this extra damage is not multiplied.
+The rogue's attack deals extra damage any time her target would be denied a Dexterity bonus to AC (whether the target actually has a Dexterity bonus or not), or when the rogue flanks her target. This extra damage 1d6 at 1st level, and it increases by 1d6 damage every two rogue levels thereafter. Should the rogue score a critical hit with a sneak atack, this extra damage is not multiplied.
 
 **Trapfinding**: Rogues can use the Search skill to locate traps when the task hs a Difficulty Class higher than 20. 
 

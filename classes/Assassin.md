@@ -41,7 +41,7 @@ If an assassin already has uncanny dodge from a different class he automatically
 
 **Trapmaking**: A 5h level assassin learns to build simple mecahnical traps out of common materials. As long as he has access to ropes, flexible material like green wood, and weapon-grade materials like sharpened wooden sticks or steel weapons, he can build an improved trap in 10 minutes. He can build any non-magical trap on the "CR 1" trap list that doesn't involve a pit. These traps have a search DC equal to 20 + the assassin's level, have a BAB equal to his own, and are always single-use traps. He may add poison to these traps, if he has access to it, but it will dry out in an hour.
 
-**Nerves of the Killer**:  A 5th level assassin gains a limited immunity to compulsion and charm effects. While studying a target for a Death Attack, and for one round afterward, he counts as if he were within a protection from evil effect. This does not confer a deflection bonus to AC.
+**Nerve of the Killer**:  A 5th level assassin gains a limited immunity to compulsion and charm effects. While studying a target for a Death Attack, and for one round afterward, he counts as if he were within a protection from evil effect. This does not confer a deflection bonus to AC.
 
 **Palm Weapon**(Su): A 6th level assassin may conceal weapons with supernatural skill. Any weapon concealed with Sleight of Hand gains a +5 to avoid detection via Spot check and cannot be found with Divination magic.
 
