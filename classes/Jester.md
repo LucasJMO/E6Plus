@@ -37,7 +37,7 @@ The jester's attack deals extra damage any time her target would be denied a Dex
 
 An enemy targeted by this ability multiple times gains a +5 bonus to Spot for each prior time he has been targeted, regardless of who won the prior checks. This bonus lasts for 24 hours.
 
-**Killer Clown**: So long as he meets the requirements of the Harlequin’s Face ability, the Jester can make a special Intimidate check as a move action. If successful, this check causes the enemy to suffer the panicked condition for a round per Jester level. This is a mind-affecting fear effect. A creature targeted by this effect cannot be affected by it again until 24 hours have elapsed.
+**Killer Clown**: So long as he meets the requirements of the Harlequin’s Face ability, the Jester can make a special Intimidate check as a move action. If successful, this check causes the enemy to suffer the frightened condition for 3 rounds. This is a mind-affecting fear effect. A creature targeted by this effect cannot be affected by it again until 24 hours have elapsed.
 
 **Last Trick**: Anytime a Jester is killed or knocked unconscious, he may cast one of his spells known as if it were the spell in a contingency effect.
 

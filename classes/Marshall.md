@@ -33,6 +33,6 @@ LVL | BAB | F | R | W | Special
 
 **Snap Out Of It**(Ex): A 5th level marshall can expend a move action target an ally within 60 feet who is suffering a negative effect as the result of a failed will save and allow them to reroll the save. If they succeed the effect ends, if they fail the effect continues as normal.
 
-**Terrible Shout**(Ex): Twice per day, a marshall can expend a standard action to force all creatures within 60 foot cone to make a Will save (DC 10 + 1/2 Class Level + Charisma Modifier) or becomes frightened for a round per class level. Creatures who succeed this save are unaffected by this ability for the next 24 hours.
+**Terrible Shout**(Ex): Twice per day, a marshall can expend a standard action to force all creatures within 60 foot cone to make a Will save (DC 10 + 1/2 Class Level + Charisma Modifier) or becomes frightened for 3 rounds. Creatures who succeed this save are unaffected by this ability for the next 24 hours.
 
 **Command Enemy**(Sp): Twice per day a marshall can expend a swift action in order to cast a quickened command as a spell like ability. The will save to resist is DC 10 + 1/2 class level + Charisma modifier.
