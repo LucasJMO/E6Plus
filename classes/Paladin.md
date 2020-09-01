@@ -11,7 +11,7 @@ LVL | BAB | F | R | W | Special | 1 | 2
 1   | 1   | 2 | 0 | 0 | Aura of Good, Detect Evil, Smite Evil 1/day | - | -  
 2   | 2   | 3 | 0 | 0 | Divine Grace, Harm Undead, Healing Word | - | -  
 3   | 3   | 3 | 1 | 1 | Aura of Courage, Divine Health | - | -
-4   | 4   | 4 | 1 | 1 | Turn Undead, Defensive Fighter | 1 | -
+4   | 4   | 4 | 1 | 1 | Turn Undead | 1 | -
 5   | 5   | 4 | 1 | 1 | Smite Evil 2/day | 2 | 1
 6   | 6/1 | 5 | 2 | 2 | Special Mount, Remove Disease | 3 | 2
 
@@ -33,7 +33,7 @@ At 5th level the paladin may smite evil one additional time per day.
 
 **Healing Word**(Su): A 2nd level paladin can invoke divine energy to heal herself or others. Each day she can heal a total number of hit points of damage equal to paladin level * charisma modifier (treat any charisma modifier less than or equal to 0 as 1). A paladin may heal any amount with one use of healing word. Using healing word is a swift action.
 
-**Harm Undead**(Su): A 2nd level paladin may draw from the same pool as healing word in order to harm undead creatures. Using harm undead requires a successful melee touch attack (this does not provoke an attack of opportunity). After successfully touching the undead creature, the paladin decides how many points to use from his daily allotment. 
+**Harm Undead**(Su): A 2nd level paladin may draw from the same pool as healing word in order to harm undead creatures. Using harm undead requires a successful melee touch attack (this does not provoke an attack of opportunity). After successfully touching the undead creature, the paladin decides how many points to use from his daily allotment. An opponent subjected to this attack can make a Will save (DC 10 + 1/2 paladin level + charisma modifier) to halve the damage dealt.
 
 **Aura of Courage**(Su): A 3rd level paladin is immune to fear (magical or otherwise). Each ally within 10 feet of her gains a +4 morale bonus on saving throws against fear effects. This ability functions while the paladin is conscious, but not if she is unconscious or dead.
 

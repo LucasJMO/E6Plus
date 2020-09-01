@@ -43,4 +43,4 @@ LVL | BAB | F | R | W | Special
 
 **Defend Others**: Any ally adjacent to the knight gains Evasion, although the knight does not.
 
-**Quick Recovery**: If a knight is stunned or dazed during her turn, that condition ends at the end of that turn.
+**Quick Recovery**: If a knight is stunned, dazed, or paralyzed during her turn, that condition ends at the end of that turn.
