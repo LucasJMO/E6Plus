@@ -9,13 +9,13 @@
 LVL | BAB | F | R | W | Special | 0 | 1 | 2
 --- | --- | - | - | - | ------- | - | - | -
 1   | 0   | 0 | 2 | 0 | Harlequin's Mask, Ignore Components, Poison Use | 2 |  -  |  -  
-2   | 1   | 0 | 3 | 0 | Sneak Attack +1d6, Evasion | 3 | 0 |  -  
-3   | 2   | 1 | 3 | 1 | Laugh it Off | 3 | 1 | -
+2   | 1   | 0 | 3 | 0 | Sneak Attack +1d6, Evasion, Laugh it Off | 3 | 0 |  -  
+3   | 2   | 1 | 3 | 1 | Weapon Sleeve | 3 | 1 | -
 4   | 3   | 1 | 4 | 1 | Sneak Attack +2d6, Jester's Feint | 3 | 2 | 0
 5   | 3   | 1 | 4 | 1 | Killer Clown, Last Trick | 3 | 3 | 1
 6   | 4   | 2 | 5 | 2 | Sneak Attack +3d6, Pratfall | 3 | 3 | 2
 
-**Weapon and Armor Proficiency**: Jesters are proficient with light armor but not with shields of any kind. A Jester is proficient with no weapons, but suffers no attack penalty for using a weapon with which they are not proficient or which is made for a character of a different size than themselves. Even, perhaps especially, improvised weapons may be used without the usual -4 penalty.
+**Weapon and Armor Proficiency**: Jesters are proficient with light armor but not with shields of any kind. A Jester is proficient with daggers, sickles, quarterstaves, darts, and slings, and suffers no attack penalty for using an improvised weapon.
 
 **Spellcasting**: Jester is an Arcane caster with the same spells per day progression as a Bard. A Jester casts from the Jester Spell List (below). A Jester automatically knows every spell on his spell list. He can cast any spell he knows without preparing them ahead of time, provided that spell slots of an appropriate level are still available. To cast a Jester spell, he must have a Charisma of at least 10+spell level. The DC of the Jester’s spells is Charisma based, and the bonus spells are Charisma based.
 
@@ -28,6 +28,8 @@ LVL | BAB | F | R | W | Special | 0 | 1 | 2
 **Evasion**: A jester can avoid even magical and unusal attacks with great agility. If she makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if the rogue is wearing light armor or no armor. A helpless rogue does not gain the benefits of evasion.
 
 **Laugh it Off**: A Jester may add his Charisma modifier as a morale bonus to his saves.
+
+**Weapon Sleeve**: A jester may attempt a Sleight of Hand check to hide weapons in his sleeves. The number of weapons that can be hidden this way is equal to the result of the check divided by 10 (rounded down). Weapons hidden in this manner must be light, cannot be bladed, and may weigh no more than 1 pound. A weapon concealed this way may be drawn as a swift action. The jester must be wearing clothing with sleeves to use this ability. The DC to find the concealed weapons with a search check is the result of the jester's sleight of hand check divided by 2.
 
 **Sneak Attack**: If a jester can catch an opponent when he is unable to defend himself effectively from her attack, she can strike a vital spot for extra damage. 
 
