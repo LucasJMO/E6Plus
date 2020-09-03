@@ -8,7 +8,7 @@
 
 LVL | BAB | F | R | W | Special | 0 | 1 | 2
 --- | --- | - | - | - | ------- | - | - | -
-1   | 1   | 0 | 2 | 2 | Advanced Learning, Bardic Music, Bardic Knowledge, Skill Focus (Perform), Inspire Courage, Weapon Finesse | 4/2 |  -  |  -  
+1   | 1   | 0 | 2 | 2 | Advanced Learning, Bardic Music, Bardic Knowledge, Skill Focus (Perform), Inspire Courage | 4/2 |  -  |  -  
 2   | 2   | 0 | 3 | 3 | Fascinate | 5/3 | 2/1 |  -  
 3   | 3   | 1 | 3 | 3 | Inspire Competence | 6/3 | 3/1 | -
 4   | 4   | 1 | 4 | 4 | Countersong | 6/3 | 3/2 | 2/1
@@ -41,8 +41,6 @@ DC | Type of Knowledge
 **Fascinate**(Sp): A 2nd level bard with 3 or more ranks in a Perform skill can use his music or poetics to cause one or more creatures to become fascinated with him. Each creature to be fascinated must be within 90 feet, able to see and hear the bard, and able to pay attention to him. The bard must also be able to see the creature. The distraction of a nearby combat or other dangers prevents the ability from working. For every three levels a bard attains beyond 1st, he can target one additional creature with a single use of this ability.
 
 **Inspire Courage**(Su): A bard with 3 or more ranks in a Perform skill can use song or poetics to inspire courage in his allies (including himself), bolstering them against fear and improving their combat abilities. To be affected, an ally must be able to hear the bard sing. The effect lasts for as long as the ally hears the bard sing and for 5 rounds thereafter. An affected ally receives a +1 morale bonus on saving throws against charm and fear effects and a +1 morale bonus on attack and weapon damage rolls. Inspire courage is a mind-affecting ability.
-
-**Weapon Finesse**: A bard may use her Dexterity modifier instead of Strength modifier on unarmed attack rolls. 
 
 **Inspire Competence**(Su): A bard of 3rd level or higher with 6 or more ranks in a Perform skill can use his music or poetics to help an ally succeed at a task. The ally must be within 30 feet and able to see and hear the bard. The bard must also be able to see the ally.
 

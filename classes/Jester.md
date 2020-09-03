@@ -15,7 +15,7 @@ LVL | BAB | F | R | W | Special | 0 | 1 | 2
 5   | 3   | 1 | 4 | 1 | Killer Clown, Last Trick | 3 | 3 | 1
 6   | 4   | 2 | 5 | 2 | Sneak Attack +3d6, Pratfall | 3 | 3 | 2
 
-**Weapon and Armor Proficiency**: Jesters are proficient with light armor but not with shields of any kind. A Jester is proficient with daggers, sickles, quarterstaves, darts, and slings, and suffers no attack penalty for using an improvised weapon.
+**Weapon and Armor Proficiency**: Jesters are proficient with light armor but not with shields of any kind. A Jester is proficient with daggers, sickles, quarterstaves, darts, and slings, and suffers no attack penalty for using an improvised weapon. Additionally an improvised thrown weapon for a Jester has a range increment of 20 feet.
 
 **Spellcasting**: Jester is an Arcane caster with the same spells per day progression as a Bard. A Jester casts from the Jester Spell List (below). A Jester automatically knows every spell on his spell list. He can cast any spell he knows without preparing them ahead of time, provided that spell slots of an appropriate level are still available. To cast a Jester spell, he must have a Charisma of at least 10+spell level. The DC of the Jester’s spells is Charisma based, and the bonus spells are Charisma based.
 

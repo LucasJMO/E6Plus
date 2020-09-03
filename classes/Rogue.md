@@ -4,7 +4,7 @@
 
 **Skills**: Appraise (Int), Balance (Dex), Bluff (Cha), Climb (Str), Concentration (Con), Craft (Int), Decipher Script (Int), Diplomacy (Cha), Disable Device (Int), Disguise (Cha), Escape Artist (Dex), Forgery (Int), Gather Information (Cha), Handle Animal (Cha), Heal (Wis), Hide (Dex), Intimidate (Cha), Jump (Str), Knowledge (all skills, taken individually) (Int), Listen (Wis), Move Silently (Dex), Open Lock (Dex), Perform (Cha), Profession (Wis), Ride (Dex), Search (Int), Sense Motive (Wis), Sleight of Hand (Dex), Speak Language (None), Spellcraft (Int), Spot (Wis), Survival (Wis), Swim (Str), Tumble (Dex), Use Magic Device (Cha), Use Rope (Dex)
 
-**Skills/Level**: 10 + Int modifier
+**Skills/Level**: 8 + Int modifier
 
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
@@ -37,11 +37,13 @@ A rogue who beats the trap's DC by 10 or more with a Disable Device check can st
 
 ## Special Ability 
 
-At each level past 1st, a rogue may select one of crippling strike, dark caster, defensive roll, hide in plain sight, greater improved healing, improved evasion, jester's feint, jester's trip, mettle, opportunist, skill mastery, or slippery mind.
+At each level past 1st, a rogue may select one of active assault, damage reduction, dark caster, defensive roll, hide in plain sight, greater improved healing, improved evasion, improved reaction, jester's feint, mettle, opportunist, skill mastery, slippery mind, or unshakeable.
 
-**Crippling Strike**: A successful sneak attack deals two points of strength damage or dex damage. This ability may be gained multiple times, each time adding an additional two points of either form of damage.
+**Active Assault**: A rogue gains the ability to take a 5 foot step each turn as an immediate action, this is in addition to all other forms of movement (including the normal 5 foot step).
 
-**Dark Caster**: A rogue can learn an illusion spell of 2nd level or lower and cast it a number of times per day equal to rogue level divided by 3 (rounded down, minimum 0). Save DC is 10 + spell level + Intelligence modifier or Charisma modifier (whichever is higher). This ability may be gained twice, but must choose a different spell each time. Treat rogue level as caster level.
+**Damage Reduction**: A rogue gains damage reduction 2/-.
+
+**Dark Caster**: A rogue can learn an illusion spell of 2nd level or lower and cast it a number of times per day equal to rogue level divided by 3 (rounded down, minimum 0). Save DC is 10 + spell level + Charisma modifier. This ability may be gained multiple times, however the number of spells a rogue can cast daily remains equal to rogue level divided by 3. Treat rogue level as caster level.
 
 **Defensive Roll**: If an attack (from a weapon or some other blow) would reduce a rogue to 0 or fewer hit points. The rogue may attempt a reflex saving throw (DC = damage dealt). If the save succeeds, he takes only half damage from the blow.
 
@@ -51,11 +53,11 @@ At each level past 1st, a rogue may select one of crippling strike, dark caster,
 
 **Improved Evasion**: This ability works like evasion, except that while the rogue still takes no damage on a successful Reflex saving throw against attacks henceforth she takes only half damage on a failed save. A helpless rogue does not gain the benefit of improved evasion.
 
+**Improved Reaction**: A rogue gains a +2 untyped initiative bonus.
+
 **Jester's Feint**: As a swift action a rogue may toss a brightly colored object in the square of an enemy with a Sleight of Hand check opposed by the enemy’s Spot check. If he succeeds, the enemy is denied his Dex bonus for the rogue’s next attack. This ability has a range of 30 ft.
 
 An enemy targeted by this ability multiple times gains a +5 bonus to Spot for each prior time he has been targeted, regardless of who won the prior checks. This bonus lasts for 24 hours.
-
-**Jester's Trip**: A rogue who strikes an opponent with a melee sneak attack, may make a free trip attempt which does not provoke an attack of opportunity.
 
 **Mettle**: A rogue who succeeds a Fortitude partial or Will partial save takes no effect as if she had immunity.
 
@@ -65,6 +67,6 @@ An enemy targeted by this ability multiple times gains a +5 bonus to Spot for ea
 
 **Skill Mastery**: Upon gaining this ability, the rogue selects a number of skills equal to 3 + Intelligence modifier. When making a skill check with one of these skils, he may take 10 even if stress and distraction would normally prevent such a thing. This ability may be gained multiple times.
 
-**Slippery Mind**: If a rogue with slippery mind is affected by an enchantment spell and fails the saving throw, he can attempt it again 1 round later at the original DC - 3. This is the only extra chance to succeed the saving throw.
+**Slippery Mind**: If a rogue with slippery mind fails a will saving throw and suffers an ongoing negative effect, he can attempt it again 1 round later at the original DC - 3. This is the only extra chance to succeed the saving throw.
 
-**Unsettling Choreography**: A rogue may use her Dexterity modifier in place of her Strength modifier when making trip or bullrush attempts.
+**Unshakeable**: A rogue who is reduced to 0 hit points is not disabled (they are not limited to a single move or standard action each round). Additionally, a rogue with 0 or fewer hit points recovers 1 hit point per round. 
