@@ -1,6 +1,6 @@
 # Ranger
 
-**Hit Die**: d10
+**Hit Die**: d8
 
 **Skills**: Balance (Dex), Climb (Str), Concentration (Con), Craft (Int), Handle Animal (Cha), Heal (Wis), Hide (Dex), Jump (Str), Knowledge (dungeoneering) (Int), Knowledge (geography) (Int), Knowledge (nature) (Int), Listen (Wis), Move Silently (Dex), Profession (Wis), Ride (Dex), Search (Int), Spot (Wis), Survival (Wis), Swim (Str), Tumble (Dex), Use Rope (Dex)
 
@@ -8,7 +8,7 @@
 
 LVL | BAB | F | R | W | Special | 1 | 2 
 --- | --- | - | - | - | ------- | - | -
-1   | 1   | 2 | 2 | 0 | 1st Favored Enemy, Track, Wild Empathy, Point Blank Shot | - | -  
+1   | 1   | 2 | 2 | 0 | 1st Favored Enemy, Track, Wild Empathy, Precise Shot | - | -  
 2   | 2   | 3 | 3 | 0 | Combat Style TWF, Combat Style Ranged | - | -  
 3   | 3   | 3 | 3 | 1 | Endurance, 2nd Favored Enemy, Quick Draw | - | -
 4   | 4   | 4 | 4 | 1 | Animal Companion | 1 | -
@@ -51,7 +51,7 @@ To use wild empathy, the ranger and the animal must be able to study each other,
 
 The ranger can also use this ability to influence a magical beast with an intelligence score of 1 or 2, but he takes a -4 penalty on the check.
 
-**Point Blank Shot**: A 1st level ranger gains the feat Point Blank Shot, if he already has this feat then he may select another feat for which he meets the prerequisites.
+**Precise Shot**: A 1st level ranger gains the feat Precise Shot, if he already has this feat then he may select another feat for which he meets the prerequisites.
 
 **Combat Style**(Ex): A 2nd level ranger selects either archery or two-weapon combat as his combat style. A ranger who selects archery gains the feat Rapid Shot, while a ranger who selects two-weapon combat gains the feat Two-Weapon Fighting. These feats may be gained even if the ranger does not meet the normal prerequisites for the chosen feat. The benefit of the ranger's chosen style apply only when he wears light armor or no armor. He loses all benefits of his combat style while wearing medium or heavy armor.
 

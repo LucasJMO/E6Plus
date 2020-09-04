@@ -8,12 +8,12 @@
 
 LVL | BAB | F | R | W | Special | 0 | 1 | 2
 --- | --- | - | - | - | ------- | - | - | -
-1   | 0   | 0 | 2 | 0 | Harlequin's Mask, Ignore Components, Poison Use | 2 |  -  |  -  
-2   | 1   | 0 | 3 | 0 | Sneak Attack +1d6, Evasion, Laugh it Off | 3 | 0 |  -  
-3   | 2   | 1 | 3 | 1 | Weapon Sleeve | 3 | 1 | -
-4   | 3   | 1 | 4 | 1 | Sneak Attack +2d6, Jester's Feint | 3 | 2 | 0
-5   | 3   | 1 | 4 | 1 | Killer Clown, Last Trick | 3 | 3 | 1
-6   | 4   | 2 | 5 | 2 | Sneak Attack +3d6, Pratfall | 3 | 3 | 2
+1   | 0   | 0 | 2 | 2 | Harlequin's Mask, Ignore Components, Poison Use | 2 |  -  |  -  
+2   | 1   | 0 | 3 | 3 | Sneak Attack +1d6, Evasion, Laugh it Off | 3 | 0 |  -  
+3   | 2   | 1 | 3 | 3 | Weapon Sleeve | 3 | 1 | -
+4   | 3   | 1 | 4 | 4 | Sneak Attack +2d6, Jester's Feint | 3 | 2 | 0
+5   | 3   | 1 | 4 | 4 | Killer Clown, Last Trick | 3 | 3 | 1
+6   | 4   | 2 | 5 | 5 | Sneak Attack +3d6, Pratfall | 3 | 3 | 2
 
 **Weapon and Armor Proficiency**: Jesters are proficient with light armor but not with shields of any kind. A Jester is proficient with daggers, sickles, quarterstaves, darts, and slings, and suffers no attack penalty for using an improvised weapon. Additionally an improvised thrown weapon for a Jester has a range increment of 20 feet.
 

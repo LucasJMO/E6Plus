@@ -8,7 +8,7 @@
 
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
-1   | 1   | 2 | 0 | 0 | Fast Movement, Illiteracy, Rage, Power Attack      
+1   | 1   | 2 | 0 | 0 | Fast Movement, Illiteracy, Rage     
 2   | 2   | 3 | 0 | 0 | Skirmish +1d6  
 3   | 3   | 3 | 1 | 1 | Damage Reduction 1/-, endurance
 4   | 4   | 4 | 1 | 1 | Greater Fast Movement, Improved Healing        

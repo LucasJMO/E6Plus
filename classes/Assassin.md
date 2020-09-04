@@ -8,12 +8,12 @@
 
 LVL | BAB | F | R | W | Special | 0 | 1 | 2
 --- | --- | - | - | - | ------- | - | - | -
-1   | 0   | 0 | 2 | 0 | Death Attack, Personal Immunity, Poison Use | 4/2 |  -  |  -  
-2   | 1   | 0 | 3 | 0 | Evasion, Uncanny Dodge | 5/3 | 2/0 |  -  
-3   | 2   | 1 | 3 | 1 | Hide in Plain Sight | 6/3 | 3/1 | 2/0
-4   | 3   | 1 | 4 | 1 | Cloak of Discretion, Skill Mastery | 6/3 | 3/2 | 3/1
-5   | 3   | 1 | 4 | 1 | Trapfinding, Trapmaking, Nerve of the Killer | 6/3 | 4/3 | 3/2
-6   | 4   | 2 | 5 | 2 | Palm Weapon, Poisonmaster | 6/3 | 4/3 | 3/2
+1   | 0   | 0 | 2 | 2 | Death Attack, Personal Immunity, Poison Use | 4/2 |  -  |  -  
+2   | 1   | 0 | 3 | 3 | Evasion, Uncanny Dodge | 5/3 | 2/0 |  -  
+3   | 2   | 1 | 3 | 3 | Hide in Plain Sight | 6/3 | 3/1 | 2/0
+4   | 3   | 1 | 4 | 4 | Cloak of Discretion, Skill Mastery | 6/3 | 3/2 | 3/1
+5   | 3   | 1 | 4 | 4 | Trapfinding, Trapmaking, Nerve of the Killer | 6/3 | 4/3 | 3/2
+6   | 4   | 2 | 5 | 5 | Palm Weapon, Poisonmaster | 6/3 | 4/3 | 3/2
 
 **Spellcasting**: An assassin is an Arcane Spellcaster with the same spells per day and spells known progression as a Bard, except that he gains no more than three spell slots per level. An assassin’s spells known may be chosen from the Sorcerer/Wizard list, and must be from the schools of Divination, Illusion, or Necromancy. To cast an assassin spell, she must have an Intelligence at least equal to 10 + the spell level. The DC of the assassins’ spells is Intelligence based and the bonus spells are Intelligence based.
 
