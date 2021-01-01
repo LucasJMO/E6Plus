@@ -10,7 +10,7 @@ LVL | BAB | F | R | W | Special | 1 | 2
 --- | --- | - | - | - | ------- | - | -
 1   | 1   | 2 | 0 | 0 | Aura of evil, detect good, smite good 1/day | - | -  
 2   | 2   | 3 | 0 | 0 | Dark blessing, harm others | - | -  
-3   | 3   | 3 | 1 | 1 | Aura of despair | - | -  
+3   | 3   | 3 | 1 | 1 | Aura of despair, dark resilience | - | -  
 4   | 4   | 4 | 1 | 1 | Command undead | 1 | -  
 5   | 5   | 4 | 1 | 1 | Smite good 2/day | 2 | 1  
 6   | 6/1 | 5 | 2 | 2 | Contagion, fiendish mount | 3 | 2
@@ -25,21 +25,21 @@ To prepare or cast a spell, a blackguard must have a Charisma score equal to at 
 
 **Detect Good**(Sp): At will, a blackguard can use detect good, as the spell.
 
-**Poison Use**(Ex): Blackguards are skilled in the use of poison and never risk accidentally poisoning themselves when applying poison to a blade.
-
 **Smite Good**(Su): Once per day, a blackguard may attempt to smite good with one normal melee attack. She adds her Charisma bonus (if any) to her attack roll and deals 1 extra point of damage per blackguard level. If the blackguard accidentally smites a creature that is not good, the smite has no effect, but the ability is still used up for that day. 
 
 At 5th level the blackguard may smite good one additional time per day.
 
 **Dark Blessing**(Su): A blackguard applies his Charisma modifier (if positive) as a bonus on all saving throws.
 
-**Deadly Touch**(Su): Beginning at 2nd level, a blackguard can cause wounds with a successful touch attack. Each day he can deal a total number of hit points of damage equal to his blakguard level * charisma modifier. An opponent subjected to this attack can make a Will save (DC 10 + 1/2 blackguard level + charisma modifier) to halve the damage dealt.
+**Deadly Touch**(Su): Beginning at 2nd level, a blackguard can cause wounds with a successful touch attack. Each day he can deal a total number of hit points of damage equal to his blackguard level * charisma modifier. An opponent subjected to this attack can make a Will save (DC 10 + 1/2 blackguard level + charisma modifier) to halve the damage dealt.
 
 Alternatively, a blackguard can use any or all of this power to cure damage to undead creatures, just as an inflict wounds spell does. This power otherwise functions identically to the blackguard's lay on hands ability.
 
 **Command Undead**(Su): When a blackguard reaches 3rd level, he gains the supernatural ability to command and rebuke undead. He commands undead as would a cleric of two levels lower.
 
 **Aura of Despair**(Su): Beginning at 3rd level, the blackguard radiates a malign aura that causes enemies within 10 feet of him to take a -2 penalty on all saving throws.
+
+**Dark Resilience**: A 3rd level blackguard may be infected with diseases and show symptoms, but does not suffer any of the ill effects (ability score damage, hit point damage, etc).
 
 **Special Mount**(Sp): A 6th level blackguard gains the ability to summon an unusually intelligent, strong, and loyal steed. This mount is usually a heavy warhorse (for a Medium blackguard) or a warpony (for a Small blackguard). A blackguard's mount is treated as a magical beast, not an animal, for the purpose of all effects the depend on its type (though it retains an animal's HD, base attack bonus, saves, skill points, and feats).
 

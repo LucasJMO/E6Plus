@@ -47,7 +47,7 @@ At 2nd level the Diploconvoker gains the ability to summon two small elementals 
 
 At 3rd level the Diploconvoker gains the ability to summon four small elementals as a full round action.
 
-At 4th level the Diploconvoker gains the ability to summon a medium elemental as a standard action. Summoning an elemental this way requires to of the Diploconvoker's daily usages of the summon elemental ability.
+At 4th level the Diploconvoker gains the ability to summon a medium elemental as a standard action. Summoning an elemental this way requires two of the Diploconvoker's daily usages of the summon elemental ability.
 
 At 5th level the Diploconvoker gains the ability to summon two medium elementals by spending two full rounds concentrating on this ability. Using the ability in this way requires 3 of its daily usages. They can take no other actions during this time, and if they are hit or receive damage from any source during this process then the attempt fails and the usages is lost. 
 

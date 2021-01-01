@@ -21,7 +21,7 @@ Although a pyrokineticist can become proficient with other forms of armor, weari
 
 **Fire Weapon**(Su): A pyrokineticist gains the ability to fashion a melee weapon of fire from unstable ectoplasm as a move-equivalent action. She takes no damage from the weapon she creates, and if she releases her hold, it immediately dissipates. A fire weapon can be broken (it has hardness 10 and 10 hit points); however, a pyrokineticist can simply create another on her next move action.
 
-A weapon manifested in this way is treated as a normal weapon of its size and type, except that at 4th level it deals an additional 1d8 points of fire damage to a target it strikes, and at 6th level this additional damage increases to 2d8. This additional fire damage is only applied to the first successful melee attack a pyrokineticist makes each round, and is not multiplied if the pyrokineticist scores a critical hit with their flame weapon. 
+A weapon manifested in this way is treated as a normal weapon of its size and type, except that at 4th level it deals an additional 1d8 points of fire damage to a target it strikes, and at 6th level this additional damage increases to 2d8. This additional fire damage is only applied to the first successful melee attack a pyrokineticist makes each turn, and is not multiplied if the pyrokineticist scores a critical hit with their flame weapon. 
 
 A pyrokineticist can dual wield a fire weapon and a normal weapon, however a fire weapon cannot be treated as an off-hand weapon. A fire weapon is treated as a magical weapon for the purpose of overcoming damage reduction.
 
@@ -29,7 +29,7 @@ A pyrokineticist can dual wield a fire weapon and a normal weapon, however a fir
 
 **Nimbus**(Su): Once per day per two class levels (rounded up) a pyrokineticist can wreathe himself in flames. While nimbus is active the pyrokineticist's Charisma score increases by 4, he gains damage reduction 4/-, his speed increases by 10, and creatures who strike him in melee suffer 1d6 points of fire damage. Activating nimbus requires a free action and it lasts for 3 + the pyrokineticist's constitution modifier rounds.
 
-**Fire Burst**(Su): As a standard action, a 2nd level Pyrokineticist can emit a burst of flame from his body, striking all creatures and objects within 10’ of his position except himself. This burst of flames inflicts 1d4 of fire damage per class level, with an allowed Reflex Save for half (DC 10 + 1/2 class level + charisma modifier)
+**Fire Burst**(Su): As a standard action, a 2nd level Pyrokineticist can emit a burst of flame from his body, striking all creatures and objects within 10’ of his position except himself. This burst of flames inflicts 1d4 points of fire damage per class level, with an allowed Reflex Save for half (DC 10 + 1/2 class level + charisma modifier)
 
 **Piercing Flames**(Su): From 3rd level on, a pyrokineticist’s fire cuts through Fire Resistance, hardness, and Immunity. No more than 1/2 of the damage inflicted by his fire can be negated by hardness, immunity, or resistance to fire. In addition, the pyrokineticist ignores the first 5 points of Fire Resistance that a target has.
 

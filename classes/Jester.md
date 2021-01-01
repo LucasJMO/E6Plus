@@ -29,7 +29,7 @@ LVL | BAB | F | R | W | Special | 0 | 1 | 2
 
 **Laugh it Off**: A Jester may add his Charisma modifier as a morale bonus to his saves.
 
-**Weapon Sleeve**: A jester may attempt a Sleight of Hand check to hide weapons in his sleeves. The number of weapons that can be hidden this way is equal to the result of the check divided by 10 (rounded down). Weapons hidden in this manner must be light, cannot be bladed, and may weigh no more than 1 pound. A weapon concealed this way may be drawn as a swift action. The jester must be wearing clothing with sleeves to use this ability. The DC to find the concealed weapons with a search check is the result of the jester's sleight of hand check divided by 2.
+**Weapon Sleeve**: A jester may attempt a Sleight of Hand check to hide weapons in his sleeves (the jester may take 10 or 20 on this check). The number of weapons that can be hidden this way is equal to the result of the check divided by 10 (rounded down). Weapons hidden in this manner must be light, cannot be bladed, and may weigh no more than 1 pound. A weapon concealed this way may be drawn as a swift action. The jester must be wearing clothing with sleeves to use this ability. The DC to find the concealed weapons with a search check is the result of the jester's sleight of hand check divided by 2.
 
 **Sneak Attack**: If a jester can catch an opponent when he is unable to defend himself effectively from her attack, she can strike a vital spot for extra damage. 
 

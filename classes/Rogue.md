@@ -47,9 +47,11 @@ At each level past 1st, a rogue may select one of active assault, damage reducti
 
 **Defensive Roll**: If an attack (from a weapon or some other blow) would reduce a rogue to 0 or fewer hit points. The rogue may attempt a reflex saving throw (DC = damage dealt). If the save succeeds, he takes only half damage from the blow.
 
-**Hide in Plain Sight**: A rogue with hide in plain sight can use the Hide skill even while being observed (as long as he is within 10 feet of some sort of shadow). He cannot however, hide in his own shadow.
+**Fast Movement**: The rogue gains a +10 foot enhancement to his land speed. Apply this bonus before modifying the rogue's speed because of any load carried or armor.
 
 **Greater Improved Healing**: A rogue gains an enhancement to their natural healing abilities. For every 60 minutes a rogue spends out of combat they recover 1 hitpoint. This is in addition to hitpoints regained via other methods (resting for example).
+
+**Hide in Plain Sight**: A rogue with hide in plain sight can use the Hide skill even while being observed (as long as he is within 10 feet of some sort of shadow). He cannot however, hide in his own shadow.
 
 **Improved Evasion**: This ability works like evasion, except that while the rogue still takes no damage on a successful Reflex saving throw against attacks henceforth she takes only half damage on a failed save. A helpless rogue does not gain the benefit of improved evasion.
 

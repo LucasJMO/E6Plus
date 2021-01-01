@@ -40,7 +40,7 @@ These increases stack and are gained as if through level advancement.
 
 Regardless of its strength, the breath weapon can be used only once every 1d4 rounds. Use all the rules for dragon breath weapons except as specified here.
 
-The DC of the breath weapon is 10 + class level + Con modifier.
+The DC of the breath weapon is 10 + character level.
 
 A line-shaped breath weapon is 5 feet high, 5 feet wide, and 60 feet long. A cone-shaped breath weapon is 30 feet long.
 

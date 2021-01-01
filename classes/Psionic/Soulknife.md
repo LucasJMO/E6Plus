@@ -29,7 +29,7 @@ Even in places where psionic effects do not normally function (such as within a 
 
 A soulknife can dual wield a mind blade and a normal weapon, however a mind blade cannot be treated as an off-hand weapon.
 
-At 5th mind blades manifested by the soulknife gain a +1 enhancement bonus to attack and damage rolls.
+At 5th level, mind blades manifested by the soulknife gain a +1 enhancement bonus to attack and damage rolls.
 
 **Martial Weapon Proficiency**: A soulknife gains Martial Weapon Proficiency as a bonus feat, she may select any weapon for this feat. The benefits from this feat apply to manifested mind weapons of the appropriate type.
 
@@ -51,7 +51,7 @@ A soulknife can reassign the ability or abilities he has added to his mind blade
 
 * The mind blade deals an additional 1d6 force damage.
 
-* The mind blade deals an additional 2d6 force damage, however on successful hits the soulknife takes 1d6 forece damage.
+* The mind blade deals an additional 2d6 force damage, however on successful hits the soulknife takes 1d6 force damage.
 
 * The soulknife gains the benefit of the feat Improved Sunder on sunder attempts made with a mind blade.
 

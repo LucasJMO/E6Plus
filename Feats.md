@@ -18,7 +18,7 @@ Special: This feat can be taken multiple times, each time you take it it provide
 
 Prerequisite: Ability to cast arcane spells.
 
-Benefit: You gain 1 or more new spell slots, with spell levels totalling to 3. Treat 0th level spells as 1/2. Thus a Sorcerer could gain one 3rd level slot, one 1st and one 2nd level slot, three 1st level slots, or 6th 0th level slots.
+Benefit: You gain 1 or more new spell slots, with spell levels totalling to 3. Treat 0th level spells as 1/2. Thus a Sorcerer could gain one 3rd level slot, one 1st and one 2nd level slot, three 1st level slots, or six 0th level slots.
 
 Special: You may select slots of a higher level than you can currently cast, however you do not gain access to those slots until you reach a level which would allow you to cast them.This feat may only be used to gain spell slots for arcane spells. 
 

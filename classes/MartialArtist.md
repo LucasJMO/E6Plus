@@ -23,7 +23,7 @@ LVL | BAB | F | R | W | Special | AC Bonus
 
 **Fatal Strike**: A martial artist has a natural weapon Slam in addition to whatever else he is capable of doing. As a natural slam attack, if he uses no other natural or manufactured weapons he adds his Strength and a half to damage and may make iterative attacks if he has sufficient BAB. If the slam is used with other weaponry, it becomes a secondary natural attack, suffers a -5 penalty to-hit, and adds only half his Strength modifier to damage. A martial artist’s slam attack does a base of 1d8 damage for a medium sized martial artist and does more or less damage as appropriate if the martial artist is larger or smaller than medium size.
 
-A martial artist's slam is treatd as a magical weapon for the purpose of overcoming damage reduction.
+A martial artist's slam is treated as a magical weapon for the purpose of overcoming damage reduction.
 
 **Fighting Style**: At levels 1, 3, and 5, the martial artist learns a fighting style. Each fighting style requires a Swift Action to activate, lasts one round, and is usable at will. Each fighting style provides two bonuses selected from the list of fighting style abilities.
 
