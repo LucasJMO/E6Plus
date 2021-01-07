@@ -101,12 +101,12 @@ Soldier: So active assault should be changed so that you only get one 5 foot ste
 
 SongweaverBard: Could be worth increasing the range of his songs actually, this guy is very strong, but also completely reliant on his teammates to be useful. BUFF/KEEP SAME
 
-Sorcerer: Probably reduce the number of bonus feats. If he commits to metamagic+reducers and specialization then he's a powerhouse offensive engine at 6th level. NERF
+Sorcerer: Took away the 5th level bonus feat, probably not enough, but worth playtesting. DONE
 
 ThiefAcrobat: This is a weird fucking class, I'm going to specify that you can't flank with yourself unless you're using mercurial charge. I don't want people to just completely cheese by using spring attack to get a sneak attack every round while moving out of range.
 After that change I think it's an IMPROVE?
 Really not sure, this seems weak compared to a rogue or jester. Probably should make this better somehow.
 
-Wizard: Basically the same as sorcerer, but you're trading ammo for flexibility. NERF.
+Wizard: Took away the 5th level bonus feat, probably not enough, but worth playtesting. DONE
 
 Paladin: Essentially the same as blackguard

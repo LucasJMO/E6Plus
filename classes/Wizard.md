@@ -12,7 +12,7 @@ LVL | BAB | F | R | W | Special | 0 | 1 | 2 | 3
 2   | 1   | 0 | 0 | 3 | Bonus Feat | 4 | 2 | -   | -
 3   | 1   | 1 | 1 | 3 |  | 4 | 2 | 1 | -
 4   | 2   | 1 | 1 | 4 | Bonus Feat | 4 | 3 | 2 | -
-5   | 2   | 1 | 1 | 4 | Bonus Feat | 4 | 3 | 2 | 1
+5   | 2   | 1 | 1 | 4 |  | 4 | 3 | 2 | 1
 6   | 3   | 2 | 2 | 5 | Bonus Feat | 4 | 3 | 3 | 2
 
 **Weapon and Armor Proficiency**: Wizards are proficient with the club, dagger, heavy crossbow, light crossbow, and quarterstaff, but not with any type of armor or shield. Armor of any type interferes with a wizard’s movements, which can cause her spells with somatic components to fail.
