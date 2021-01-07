@@ -12,8 +12,8 @@ LVL | BAB | F | R | W | Special | 1 | 2
 2   | 2   | 3 | 0 | 0 | Dark blessing, harm others | - | -  
 3   | 3   | 3 | 1 | 1 | Aura of despair, dark resilience | - | -  
 4   | 4   | 4 | 1 | 1 | Command undead | 1 | -  
-5   | 5   | 4 | 1 | 1 | Smite good 2/day | 2 | 1  
-6   | 6/1 | 5 | 2 | 2 | Contagion, fiendish mount | 3 | 2
+5   | 5   | 4 | 1 | 1 | Smite good 2/day | 1 | -  
+6   | 6/1 | 5 | 2 | 2 | Contagion, fiendish mount | 2 | 1
 
 **Weapon and Armor Proficiency**: Blackguards are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with all shields (including tower shields).
 

@@ -19,8 +19,7 @@ Blackguard: STR 18, Greatsword 2d6 (19-20/x2)
 Full Attack: 20.5
 AC: 19+ (full plate, +1 dex, maybe shield?)
 Very tanky, slightly more aggressive version of paladin. Going to nerf spell selection slightly, will do the same with paladin.
-Change spell selection to 1st - 1,1,2. 2nd - 1
-NERF
+Changed spell selection to lower number of available spells, DONE.
 
 Cleric:
 Probably fine, d8 hit dice is fairly beefy, high AC with full plate and a shield. Powerful and flexible. Honestly could probably get rid of the bonus feat.
@@ -109,4 +108,4 @@ Really not sure, this seems weak compared to a rogue or jester. Probably should 
 
 Wizard: Took away the 5th level bonus feat, probably not enough, but worth playtesting. DONE
 
-Paladin: Essentially the same as blackguard
+Paladin: Lowered number of allotted spells. DONE.
