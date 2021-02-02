@@ -17,13 +17,13 @@ LVL | BAB | F | R | W | Special
 
 **Weapon and Armor Proficiency**: Marshalls are proficient with all simple and martial weapons. Marshalls are proficient with all armor and shields (including tower shields).
 
-**Battle Shout**: Once per day per class level, a marshall may expend a swift action in order to grant up to three allies (not including the marshall) within short range a +1 Morale bonus to all attack rolls, damage rolls, and saves. This bonus lasts for a number of rounds equal to the marshall's class level.
+**Battle Shout**: Once per day per class level, a marshall may expend a swift action in order to grant up to four allies (this may include the marshall) within short range a +1 Morale bonus to all attack rolls, damage rolls, and saves. This bonus lasts for a number of rounds equal to the marshall's class level.
 
 **Inspire Bravery**: Allies within 60 feet of a Marshall may add the Marshall’s Charisma bonus to their saves against Fear effects. This bonus does not stack in a party with multiple marshalls.
 
 **Untiring**(Ex): A Marshall needs half as much sleep as normal (for example, a long rest for a marshall is 4 hours) and is immune to any effects which cause fatigue, exhaustion, or sleep.
 
-**Heal Injuries**(Su): As a swift action, a marshall can heal up to four allies (including the marshall) a number of hit points equal to his class level. This action may be taken a number of times per day equal to the marshall's class level divided by three (rounded down), and all affected characters must be within close range.
+**Heal Injuries**(Su): As a swift action, a marshall can heal up to four allies (including the marshall) a number of hit points equal to his class level. This action may be taken a number of times per day equal to the marshall's class level divided by three (rounded down), and all affected characters must be within short range.
 
 **Heroic Resolve**(Ex): A marshall who is suffering a negative effect as the result of a failed Will save may expend a standard action to attempt the save again with his charisma modifier added on as an additional bonus. This ability is usable once for any effect which requires a Will save. If the marshall succeeds on this save the negative effect ends, if he fails it continues as normal.
 

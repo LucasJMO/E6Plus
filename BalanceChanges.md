@@ -57,8 +57,7 @@ Knight: The tankiest tank that ever tanked a tank. Also maybe revise the code of
 This one is weird, since there's no reason to play this class if you're not using a shield. So the damage is going to be solidly worse than any of the other STR melee boys.
 If you invest a feat into exotic weapon proficiency you can have a bastard sword, against AC 15 your average damage on a full attack is like 12.5-14.5 depending on 16 or 18 str.
 But you can reasonably have 27+AC, DR4, energy resistance 10. The sort of issue is that against intelligent enemies they can just know to not attack you. 
-I think this is a fairly situational class, but I like it and think it should stay about the same.
-KEEP SAME
+Changed 'Sacrifice' from reach to adjacent creatures. Also you have to declare that you're using 'Sacrifice' to intercept the attack before it's rolled. DONE.
 
 Marshall: I like this one, big stick guy who gives buffs, heals, improves saves, and gives rerolls. Seems strong and fair.
 KEEP SAME

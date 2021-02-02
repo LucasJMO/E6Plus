@@ -37,7 +37,7 @@ LVL | BAB | F | R | W | Special
 
 **Knightly Spirit**: As a Move equivalent action, a 4th level knight may restore any amount of attribute damage or drain that she has suffered.
 
-**Sacrifice**: As an immediate action a knight may make herself the target of an attack or target effect that targets any creature within her reach.
+**Sacrifice**: As an immediate action a knight may make herself the target of an attack or target effect that targets any adjacent creature. If the attack or effect being intercepted requires an attack roll, the knight must declare that they are using sacrifice before the attack roll is made.
 
 **Mettle**: A knight who succeeds a Fortitude partial or Will partial save takes no effect as if she had immunity.
 

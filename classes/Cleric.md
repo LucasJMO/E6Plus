@@ -10,10 +10,10 @@ LVL | BAB | F | R | W | Special | 0 | 1 | 2 | 3
 --- | --- | - | - | - | ------- | - | - | - | -
 1   | 0   | 2 | 0 | 2 | Turn or rebuke undead | 3 | 1+1 | -   | -  
 2   | 1   | 3 | 0 | 3 |  | 4 | 2+1 | -   | -
-3   | 1   | 3 | 1 | 3 |  | 4 | 2+1 | 1+1 | -
-4   | 2   | 4 | 1 | 4 | Bonus Feat | 5 | 3+1 | 2+1 | -
-5   | 2   | 4 | 1 | 4 |  | 5 | 3+1 | 2+1 | 1+1
-6   | 3   | 5 | 2 | 5 |  | 5 | 3+1 | 3+1 | 2+1
+3   | 2   | 3 | 1 | 3 |  | 4 | 2+1 | 1+1 | -
+4   | 3   | 4 | 1 | 4 | Bonus Feat | 5 | 3+1 | 2+1 | -
+5   | 3   | 4 | 1 | 4 |  | 5 | 3+1 | 2+1 | 1+1
+6   | 4   | 5 | 2 | 5 |  | 5 | 3+1 | 3+1 | 2+1
 
 **Weapon and Armor Proficiency**: Clerics are proficient with all simple weapons, with all types of armor (light, medium, and heavy), and with shields (except tower shields).
 

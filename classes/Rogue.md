@@ -8,12 +8,12 @@
 
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
-1   | 0   | 0 | 2 | 2 | Sneak Attack +1d6, Trapfinding       
-2   | 1   | 0 | 3 | 3 | Evasion, Special Ability
+1   | 0   | 0 | 2 | 2 | Sneak Attack +1d6, Trapfinding 
+2   | 1   | 0 | 3 | 3 | Evasion
 3   | 2   | 1 | 3 | 3 | Sneak Attack +2d6, Trap Sense +1, Special Ability  
 4   | 3   | 1 | 4 | 4 | Uncanny Dodge, Special Ability
-5   | 3   | 2 | 4 | 4 | Sneak Attack +3d6, Special Ability
-6   | 4   | 2 | 5 | 5 | Trap Sense +2, Special Ability
+5   | 3   | 2 | 4 | 4 | Sneak Attack +3d6, Special Ability x2
+6   | 4   | 2 | 5 | 5 | Trap Sense +2, Special Ability x2
 
 **Weapon and Armor Proficiency**: Rogues are proficient with all simple weapons, plus the hand crossbow, rapier, sap, shortbow, and short sword. Rogues are proficient with light armor, but not with shields.
 
@@ -37,23 +37,29 @@ A rogue who beats the trap's DC by 10 or more with a Disable Device check can st
 
 ## Special Ability 
 
-At each level past 1st, a rogue may select one of active assault, damage reduction, dark caster, defensive roll, hide in plain sight, greater improved healing, improved evasion, improved reaction, jester's feint, mettle, opportunist, skill mastery, slippery mind, or unshakeable.
+At 3rd and 4th level, a rogue may select one of active assault, combat focus, damage reduction, dark caster, defensive roll, dextrous trip, fast movement, fear aura, hide in plain sight, improved evasion, improved healing, improved reaction, jester's feint, mettle, moving attack, opportunist, pratfall, rapid stealth, skill mastery, slippery mind, or unshakeable. At 5th and 6th level he may select two special abilities from the list.
 
-**Active Assault**: A rogue gains the ability to take a 5 foot step each turn as an immediate action, this is in addition to all other forms of movement (including the normal 5 foot step).
+**Active Assault**: A rogue gains the ability to take his 5-foot steps out of turn. If on his turn he would have been allowed to take a 5-foot step but elected not to, he may expend an immediate action any time before his next turn to take a 5-foot step. If he took a 5-foot step (or any other form of movement) on his previous turn, he may still expend an immediate action to take a 5-foot step, but if he does, he may not take any other forms of movement on his next turn.
+
+**Combat Focus**: A rogue begins any combat encounter in combat focus. He may end his combat focus at any time to reroll any die roll he makes, and if not used it ends on its own after a number of combat rounds equal to his class level. Voluntarily ending combat focus requires the use of a swift action (or an immediate action if it is not the rogue's turn), re-entering combat focus after ending it requires the use of a move action.
 
 **Damage Reduction**: A rogue gains damage reduction 2/-.
 
-**Dark Caster**: A rogue can learn an illusion spell of 2nd level or lower and cast it a number of times per day equal to rogue level divided by 3 (rounded down, minimum 0). Save DC is 10 + spell level + Charisma modifier. This ability may be gained multiple times, however the number of spells a rogue can cast daily remains equal to rogue level divided by 3. Treat rogue level as caster level.
+**Dark Caster**: A rogue can learn an illusion spell of 2nd level or lower and cast it a number of times per day equal to rogue level divided by 2 (rounded down). Save DC is 10 + spell level + Charisma modifier. Treat rogue level as caster level.
 
 **Defensive Roll**: If an attack (from a weapon or some other blow) would reduce a rogue to 0 or fewer hit points. The rogue may attempt a reflex saving throw (DC = damage dealt). If the save succeeds, he takes only half damage from the blow.
 
+**Dextrous Trip**: A rogue may use her dexterity modifier in place of her strength modifier for trip attempts.
+
 **Fast Movement**: The rogue gains a +10 foot enhancement to his land speed. Apply this bonus before modifying the rogue's speed because of any load carried or armor.
 
-**Greater Improved Healing**: A rogue gains an enhancement to their natural healing abilities. For every 60 minutes a rogue spends out of combat they recover 1 hitpoint. This is in addition to hitpoints regained via other methods (resting for example).
+**Fear Aura**: A rogue radiates a 5-foot-radius fear aura as a free action. Enemies in the area must succeed on a Will save (DC 10 + 1/2 her class level + her Cha modifier) or become shaken. A creature who successfully saves cannot be affected by that rogue's fear aura for 24 hours.
 
 **Hide in Plain Sight**: A rogue with hide in plain sight can use the Hide skill even while being observed (as long as he is within 10 feet of some sort of shadow). He cannot however, hide in his own shadow.
 
 **Improved Evasion**: This ability works like evasion, except that while the rogue still takes no damage on a successful Reflex saving throw against attacks henceforth she takes only half damage on a failed save. A helpless rogue does not gain the benefit of improved evasion.
+
+**Improved Healing**: A rogue gains an enhancement to their natural healing abilities. For every 60 minutes a rogue spends out of combat they recover 1 hitpoint. This is in addition to hitpoints regained via other methods (resting for example).
 
 **Improved Reaction**: A rogue gains a +2 untyped initiative bonus.
 
@@ -63,7 +69,11 @@ An enemy targeted by this ability multiple times gains a +5 bonus to Spot for ea
 
 **Mettle**: A rogue who succeeds a Fortitude partial or Will partial save takes no effect as if she had immunity.
 
+**Moving Attack**: When using the attack action with a melee weapon, a rogue can move both before and after the attack, provided that the total distance moved is not greater than her speed.
+
 **Opportunist**: Once per round, a rogue can make an attack of opportunity against an opponent who has just been struck for damage in melee by another character.
+
+**Pratfall**: Any time a rogue strikes an opponent with a melee sneak attack, they may make a free trip attempt which does not provoke an attack of opportunity.
 
 **Rapid Stealth**: A rogue does not suffer the -10 penalty to Move Silently or Hide for moving at her full normal speed.
 

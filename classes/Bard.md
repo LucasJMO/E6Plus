@@ -8,24 +8,20 @@
 
 LVL | BAB | F | R | W | Special | 0 | 1 | 2
 --- | --- | - | - | - | ------- | - | - | -
-1   | 1   | 0 | 2 | 2 | Advanced Learning, Bardic Music, Bardic Knowledge, Skill Focus (Perform), Inspire Courage | 4/2 |  -  |  -  
-2   | 2   | 0 | 3 | 3 | Fascinate | 5/3 | 2/1 |  -  
-3   | 3   | 1 | 3 | 3 | Inspire Competence | 6/3 | 3/1 | -
-4   | 4   | 1 | 4 | 4 | Countersong | 6/3 | 3/2 | 2/1
-5   | 5   | 2 | 4 | 4 | | 6/4 | 4/3 | 3/1
-6   | 6/1 | 2 | 5 | 5 | Suggestion | 6/4 | 4/3 | 3/2
+1   | 1   | 0 | 2 | 2 | Advanced Learning, Bardic Knowledge, Heroic Note +1, Skill Focus (Perform), Song of Life | 4/2 |  -  |  -  
+2   | 2   | 0 | 3 | 3 | Clever Melody, Song of Shelter, Song of Evasion | 5/3 | 2/1 |  -  
+3   | 3   | 1 | 3 | 3 | Song of Freedom | 6/3 | 3/1 | 2/1
+4   | 4   | 1 | 4 | 4 | Song of Battle | 6/3 | 3/2 | 3/1
+5   | 5   | 2 | 4 | 4 | Heroic Note +2 | 6/3 | 4/3 | 3/1
+6   | 6/1 | 2 | 5 | 5 | Song of Swiftness, Combine Songs, Power Song | 6/3 | 4/3 | 3/2
 
 **Weapon and Armor Proficiency**: A bard is proficient with all simple and martial weapons. Bards are proficient with light armor, medium armor, and shields (except tower shields). A bard can cast bard spells while wearing light or medium armor without incurring the normal arcane spell failure chance. However wearing heavy armor or using a shield incurs a chance of arcane spell failure if the spell being cast has a somatic component. A multiclass bard still incurs the normal arcane spell failure chance for arcane spells received from other classes.
 
 **Spells**: A bard casts arcane spells which are drawn from the bard spell list. He can cast any spell he knows without preparing it beforehand. To learn or cast a spell, a bard must have a Charisma score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a bard's spell is 10 + spell level + Charisma modifier.
 
-Upon reaching 4th level, and at every Bard level after that, a Bard can choose to learn a new spell in place of one he already knows. 
+Upon reaching 4th level, and at every bard level after that, a bard can choose to learn a new spell in place of one he already knows. 
 
-**Advanced Learning**: At 1st, 2nd, 4th, and 6th level, a bard can gain an additional spell known, from a spell list outside of her own (should she choose to do so). The spell may be of a level no higher than that of the highest level spell the bard already knows. If a spell appears on multiple spell lists, use the lowest level version.
-
-**Bardic Music**: Once per day per bard level, a bard can use his song or poetics to produce magical effects on those around him (usually including himself, if desired). While these abilities fall under the category of bardic music and the descriptions discuss singing or playing instruments, they can all be activated by reciting poetry, chanting, singing lyrical songs, singing melodies, whistling, playing an instrument, or playing an instrument in combination with some spoken performance. Each ability requires both a minimum bard level and a minimum number of ranks in the Perform skill to qualify; if a bard does not have the required number of ranks in at least one Perform skill, he does not gain the bardic music ability until he acquires the needed ranks.
-
-Starting a bardic music effect is a standard action. Some bardic music abilities require concentration, which means the bard must take a standard action each round to maintain the ability. Even while using bardic music that doesn’t require concentration, a bard cannot cast spells, activate magic items by spell completion (such as scrolls), spell trigger (such as wands), or command word. Just as for casting a spell with a verbal component, a deaf bard has a 20% chance to fail when attempting to use bardic music. If he fails, the attempt still counts against his daily limit.
+**Advanced Learning**: At 1st, 2nd, and 4th level, a bard can gain an additional spell known, from a spell list outside of her own (should she choose to do so). The spell may be of a level no higher than that of the highest level spell the bard already knows. If a spell appears on multiple spell lists, use the lowest level version.
 
 **Bardic Knowledge**: A bard may make a special bardic knowledge check with a bonus equal to bard level + intelligence modifier + ranks in knowledge (history) divided by two. A successful bardic knowledge check will not reveal the powers of a magic item, but may give a hint as to its general function. A bard may not take 10 or 20 on this check.
 
@@ -38,16 +34,24 @@ DC | Type of Knowledge
 
 **Skill Focus (Perform)**: At 1st level a bard gains the feat skill focus for the skill perform. If the bard already has this feat, they can instead select a different feat for which they meet the prerequisites.
 
-**Fascinate**(Sp): A 2nd level bard with 3 or more ranks in a Perform skill can use his music or poetics to cause one or more creatures to become fascinated with him. Each creature to be fascinated must be within 90 feet, able to see and hear the bard, and able to pay attention to him. The bard must also be able to see the creature. The distraction of a nearby combat or other dangers prevents the ability from working. For every three levels a bard attains beyond 1st, he can target one additional creature with a single use of this ability.
+**Heroic Note**(Su): At 1st level, a bard who is performing one of his song abilities can select an ally being affected by the song and provide them with a +1 morale bonus to saving throws, armor class, attack rolls, and damage. At 5th level this bonus increases to +2. This bonus continues as long as the ally is being affected by the bard's song. This ability can be used once per bard level per day.
 
-**Inspire Courage**(Su): A bard with 3 or more ranks in a Perform skill can use song or poetics to inspire courage in his allies (including himself), bolstering them against fear and improving their combat abilities. To be affected, an ally must be able to hear the bard sing. The effect lasts for as long as the ally hears the bard sing and for 5 rounds thereafter. An affected ally receives a +1 morale bonus on saving throws against charm and fear effects and a +1 morale bonus on attack and weapon damage rolls. Inspire courage is a mind-affecting ability.
+**Clever Melody**(Su): At 2nd level, a bard can help an ally succeed at a task. The ally must be within 30 feet, and be able to see and hear the bard. The ally gains a competence bonus on skill checks with a particular skill as long as he continues to hear the bard's music. This bonus is equal to the bard's performance check divided by 5 (rounded down). The effect lasts as long as the bard concentrates, up to a maximum of two minutes. A bard cannot inspire competence in himself. This ability can be used once per bard level per day.
 
-**Inspire Competence**(Su): A bard of 3rd level or higher with 6 or more ranks in a Perform skill can use his music or poetics to help an ally succeed at a task. The ally must be within 30 feet and able to see and hear the bard. The bard must also be able to see the ally.
+**Songs**(Su): The ablities song of life/shelter/evasion/freedom/battle/swiftness are supernatural abilities which confer bonuses on up to 3 allies within 30 ft who can hear the bard. Each song requires a standard action to start, and a standard action each round to continue. There is no limit on the number of rounds a song can remain active. Stopping a song is a free action, and transitioning from one active song to another requires a swift action. If a bard takes damage while using a song they must roll a concentration check of DC 10 + damage dealt or stop any ongoing song effect.
 
-The ally gets a +2 competence bonus on skill checks with a particular skill as long as he or she continues to hear the bard’s music. Certain uses of this ability are infeasible. The effect lasts as long as the bard concentrates, up to a maximum of 2 minutes. A bard can’t inspire competence in himself. Inspire competence is a mind-affecting ability.
+**Song of Life**: Affected allies gain immunity to poison and disease. Additionally once per day a bard can roll a performance check and heal an affected ally a number of hitpoints equal to the result of the check.
 
-**Countersong**(Su): A 4th level bard with 3 or more ranks in a Perform skill can use his music or poetics to counter magical effects that depend on sound (but not spells that simply have verbal components). Each round of the countersong, he makes a Perform check. Any creature within 30 feet of the bard (including the bard himself) that is affected by a sonic or language-dependent magical attack may use the bard’s Perform check result in place of its saving throw if, after the saving throw is rolled, the Perform check result proves to be higher. If a creature within range of the countersong is already under the effect of a noninstantaneous sonic or language-dependent magical attack, it gains another saving throw against the effect each round it hears the countersong, but it must use the bard’s Perform check result for the save. Countersong has no effect against effects that don’t allow saves. The bard may continue using the countersong for 10 rounds.
+**Song of Shelter**: Affected allies gain resistance 5 to an energy type of the bard's choosing. The bard may switch to a different type of energy by expending a swift action. At 5th level the resistance increases to 10.
 
-**Suggestion**(Sp): A bard of 6th level or higher with 9 or more ranks in a Perform skill can make a suggestion (as the spell) to a creature that he has already fascinated. Using this ability does not break the bard’s concentration on the fascinate effect, nor does it allow a second saving throw against the fascinate effect.
+**Song of Evasion**: Affected allies gain +2 to armor class and saving throws. Additionally a bard with song of evasion active gains concealment.
 
-Making a suggestion doesn’t count against a bard’s daily limit on bardic music performances. A Will saving throw (DC 10 + 1/2 bard’s level + bard’s Cha modifier) negates the effect. This ability affects only a single creature. Suggestion is an enchantment (compulsion), mind-affecting, language dependent ability.
+**Song of Freedom**: A bard may select an ally within range, granting them freedom of movement and suppressing an ongoing spell efect. If the ally exits range or the song ends, then the spell effect resumes.
+
+**Song of Battle**: Affected allies gain +1 to attack rolls and damage.
+
+**Song of Swiftness**: Affected allies who make a full attack gain an extra attack at their full base attack bonus. Additionally a bard with song of swiftness active increases all of their forms of movement (land movement, burrow, climb, fly, and swim) by 30 feet, up to a maximum of twice the bard's normal speed with that form of movement.
+
+**Combine Songs**: At 6th level, a bard gains the ability to have multiple songs active at the same time. Starting a combined song is a standard action, switching either active song is a swift action, and stopping is a free action. Two versions of the same song can be active, however their effects do not stack. The exceptions to this are song of shelter (the bard can choose a different type of energy for each song) and song of freedom (the bard can choose a separate target for each song, or suppress two ongoing spell effects on the same target). A bard with a combined song active must fully stop (end both songs) before entering a power song.
+
+**Power Song**: A 6th level bard who elects not to start a combined song can instead start a power song. This functions identically to standard songs, however range is increased to 60 feet. A bard with a power song active must fully stop (end the song) before entering a combined song.

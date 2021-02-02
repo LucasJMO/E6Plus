@@ -8,7 +8,7 @@
 
 LVL | BAB | F | R | W | Special | 0 | 1 | 2 | 3
 --- | --- | - | - | - | ------- | - | - | - | -
-1   | 0   | 2 | 0 | 2 | Animal companion, nature sense, wild empathy | 3 | 1 | -   | -  
+1   | 0   | 2 | 0 | 2 | Animal companion, nature sense, wild empathy | 3 | 1 | - | -  
 2   | 1   | 3 | 0 | 3 | Woodland stride | 4 | 2 | -   | -
 3   | 1   | 3 | 1 | 3 | Trackless step | 4 | 2 | 1 | -
 4   | 2   | 4 | 1 | 4 | Resist nature's lure | 5 | 3 | 2 | -

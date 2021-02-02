@@ -8,12 +8,12 @@
 
 LVL | BAB | F | R | W | Special |  1 | 2 | 3
 --- | --- | - | - | - | ------- |  - | - | -
-1   | 0   | 0 | 0 | 2 | Charnel touch, rebuke undead | 3 | -   | -  
-2   | 1   | 0 | 0 | 3 | Lich body DR 2 | 4 | -   | -
-3   | 1   | 1 | 1 | 3 | Mental bastion, negative energy burst, tomb-tainted soul | 5 | - | -
-4   | 2   | 1 | 1 | 4 | Advanced learning | 6 | 3 | -
-5   | 2   | 1 | 1 | 4 | Fear Aura, scabrous touch | 6 | 4 | -
-6   | 3   | 2 | 2 | 5 | Advanced learning, lich body DR 4, undead transformation | 6 | 5 | 3
+1   | 1   | 0 | 0 | 2 | Charnel touch, rebuke undead | 3 | -   | -  
+2   | 2   | 0 | 0 | 3 | Lich body DR 2 | 4 | -   | -
+3   | 3   | 1 | 1 | 3 | Mental bastion, negative energy burst, tomb-tainted soul | 5 | - | -
+4   | 4   | 1 | 1 | 4 | Advanced learning | 6 | 3 | -
+5   | 5   | 1 | 1 | 4 | Fear Aura, scabrous touch | 6 | 4 | -
+6   | 6/1 | 2 | 2 | 5 | Advanced learning, lich body DR 4, undead transformation | 6 | 5 | 3
 
 **Weapon and Armor Proficiency**: A dread necromancer is proficient with all simple weapons and with one martial weapon of her choice. Her choice of martial weapon is made when the character takes her first level of dread necromancer and cannot be changed.
 

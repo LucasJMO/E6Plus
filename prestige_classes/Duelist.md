@@ -32,7 +32,7 @@ If a duelist is caught flat footed or otherwise denied her Dexterity bonus, she 
 
 **Grace**(Ex): A 2nd level duelist gains an additional +2 competence bonus on all Reflex saving throws. This ability functions for a duelist only when she is wearing no armor and not using a shield.
 
-**Spring Attack**(Ex): A 2nd level duelist gains spring attack as a bonus feat. Even if she does not meet the prerequisites for this feat.
+**Moving Attack**: When using the attack action with a melee weapon, a duelist can move both before and after the attack, provided that the total distance moved is not greater than her speed.
 
 **Deflect Attacks**: At 3rd level, a duelist gainst the ability to deflect incoming attacks. A duelist who would be struck by an attack may expend an immediate action in order to roll an opposed attack. If the result of the duelist's attack roll is equal to or higher than the opponent's attack roll, the attack deals no damage and causes no secondary effects. A duelist may only use this ability while she is not wearing armor or using a shield.
 
