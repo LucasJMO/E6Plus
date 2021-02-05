@@ -20,12 +20,12 @@
 
 LVL | BAB | F | R | W | Special | Power Points/Day | Powers Known | Maximum Power Level Known
 --- | --- | - | - | - | ------- | ---------------- | ------------ | -------------------------
-1   | 0   | 0 | 0 | 2 | Discipline, psicrystal affinity | 4 | 3 			  | 1st 
+1   | 0   | 0 | 0 | 2 | Discipline, psicrystal affinity | 4 | 3   | 1st 
 2   | 1   | 0 | 0 | 3 | Bonus feat			   | 11| 5			  | 1st
 3   | 1   | 1 | 1 | 3 | 					   | 18| 7			  | 2nd
-4   | 2   | 1 | 1 | 4 | Bonus feat			   | 27| 9			  | 2nd
+4   | 2   | 1 | 1 | 4 |          			   | 27| 9			  | 2nd
 5   | 2   | 1 | 1 | 4 | 					   | 37| 11			  | 3rd
-
+6   | 3   | 2 | 2 | 5 | Bonus feat             | 48| 13           | 3rd
 **Weapon and Armor Proficiency**: Psions are proficient with the club, dagger, heavy crossbow, light crossbow, quarterstaff, and shortspear. They are not proficient with any type of armor or shield. Armor does not, however, interfere with the manifestation of powers.
 
 **Power Points/Day**: A psion's ability to manifest powers is limited by the power points he has available. His base daily allotment of power points is given on the table above. In addition, he receives bonus power points per day if he has a high Intelligence score. His race may also provide bonus power points per day, as may certain feats and items.
@@ -42,7 +42,7 @@ The Difficulty Class for saving throws against psion powers is 10 + the power's 
 
 To learn or manifest a power, a psion must have an Intelligence score of at least 10 + the power's level.
 
-**Bonus Feats**: A psion gains a bonus feat at 2nd, 4th, and 6th level. This feat must be a psionic feat, a metapsionic feat, or a psionic item creation feat.
+**Bonus Feats**: A psion gains a bonus feat at 2nd and 6th level. This feat must be a psionic feat, a metapsionic feat, or a psionic item creation feat.
 
 These bonus feats are in addition to the feats that a character of any class gains every three levels. A psion is not limited to psionic feats, metapsionic feats, and psionic item creation feats when choosing these other feats.
 

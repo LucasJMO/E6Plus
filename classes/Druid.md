@@ -11,9 +11,9 @@ LVL | BAB | F | R | W | Special | 0 | 1 | 2 | 3
 1   | 0   | 2 | 0 | 2 | Animal companion, nature sense, wild empathy | 3 | 1 | - | -  
 2   | 1   | 3 | 0 | 3 | Woodland stride | 4 | 2 | -   | -
 3   | 1   | 3 | 1 | 3 | Trackless step | 4 | 2 | 1 | -
-4   | 2   | 4 | 1 | 4 | Resist nature's lure | 5 | 3 | 2 | -
-5   | 2   | 4 | 1 | 4 | Wild shape (1/day) | 5 | 3 | 2 | 1
-6   | 3   | 5 | 2 | 5 | Wild shape (2/day) | 5 | 3 | 3 | 2
+4   | 2   | 4 | 1 | 4 | Resist nature's lure, wild shape (1/day) | 5 | 3 | 2 | -
+5   | 2   | 4 | 1 | 4 | Wild shape (2/day) | 5 | 3 | 2 | 1
+6   | 3   | 5 | 2 | 5 | Wild shape (3/day) | 5 | 3 | 3 | 2
 
 **Weapon and Armor Proficiency**: Druids are proficient with the following weapons: club, dagger, dart, quarterstaff, scimitar, sickle, shortspear, sling, and spear. They are also proficient with all natural attacks (claw, bite, and so forth) of any form they assume with wild shape.
 
@@ -61,13 +61,13 @@ A druid can also use this ability to influence a magical beast with an Intellige
 
 **Resist Nature's Lure**: Starting at 4th level, a druid gains a +4 bonus on saving throws against the spell-like abilities of fey.
 
-**Wild Shape**(Su): At 5th level, a druid gains the ability to turn herself into any Small or Medium animal and back again once per day. Her options for new forms include all creatures with the animal type. This ability functions like the alternate form special ability, except as noted here. The effect lasts for 1 hour per druid level, or until she changes back. Changing form (to animal or back) is a standard action and doesn’t provoke an attack of opportunity. Each time you use wild shape, you regain lost hit points as if you had rested for a night.
+**Wild Shape**(Su): At 4th level, a druid gains the ability to turn herself into any Small or Medium animal and back again once per day. Her options for new forms include all creatures with the animal type. This ability functions like the alternate form special ability, except as noted here. The effect lasts for 1 hour per druid level, or until she changes back. Changing form (to animal or back) is a standard action and doesn’t provoke an attack of opportunity. Each time you use wild shape, you regain lost hit points as if you had rested for a night.
 
 Any gear worn or carried by the druid melds into the new form and becomes nonfunctional. When the druid reverts to her true form, any objects previously melded into the new form reappear in the same location on her body that they previously occupied and are once again functional. Any new items worn in the assumed form fall off and land at the druid's feet.
 
 The form chosen must be that of an animal the druid is familiar with.
 
-A druid loses her ability to speak while in animal form because she is limited to the sounds that a normal, untrained animal can make, but she can communicate normally with other animals of the same general grouping as her new form. (The normal sound a wild parrot makes is a squawk, so changing to this form does not permit speech.)
+A druid loses her ability to speak while in animal form because she is limited to the sounds that a normal, untrained animal can make, but she can communicate normally with other animals of the same general grouping as her new form. (The normal sound a wild parrot makes is a squawk, so changing to this form does not permit speech.) A druid can still however complete the verbal and somatic components of spells while in wild shape. She can also use any material components or focuses, even if such items are melded into the current form. The only exception to this is that a druid in a form that grants flight must land before casting any spells with somatic components.
 
 The new form’s Hit Dice can’t exceed the character’s druid level.
 

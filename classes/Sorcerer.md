@@ -11,7 +11,7 @@ LVL | BAB | F | R | W | Special | 0 | 1 | 2 | 3
 1   | 0   | 0 | 0 | 2 | Summon Familiar | 4/5 | 2/3 | -   | -  
 2   | 1   | 0 | 0 | 3 | Bonus Feat | 5/6 | 2/4 | -   | -
 3   | 1   | 1 | 1 | 3 |  | 5/6 | 3/5 | 1/3 | -
-4   | 2   | 1 | 1 | 4 | Bonus Feat | 6/6 | 3/6 | 2/4 | -
+4   | 2   | 1 | 1 | 4 |  | 6/6 | 3/6 | 2/4 | -
 5   | 2   | 1 | 1 | 4 |  | 6/6 | 4/6 | 2/5 | 1/3
 6   | 3   | 2 | 2 | 5 | Bonus Feat | 7/6 | 4/6 | 3/6 | 2/4
 
@@ -37,6 +37,6 @@ A slain or dismissed familiar cannot be replaced for a year and day. A slain fam
 
 A character with more than one class that grants a familiar may have only one familiar at a time.
 
-**Bonus Feat**: At 2nd, 4th, 5th, and 6th level, a sorcerer gains a bonus feat. She can choose a metamagic feat, an item creation feat, or Spell Mastery. The sorcerer must still meet all prerequisites for a bonus feat, including caster level minimums.
+**Bonus Feat**: At 2nd and 6th level, a sorcerer gains a bonus feat. She can choose a metamagic feat, an item creation feat, or Spell Mastery. The sorcerer must still meet all prerequisites for a bonus feat, including caster level minimums.
 
 These bonus feats are in addition to the feat that a character of any class gets from advancing levels. The sorcerer is not limited to the categories of item creation feats, metamagic feats, or Spell Mastery when choosing these feats.

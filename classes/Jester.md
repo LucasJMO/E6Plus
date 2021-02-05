@@ -8,11 +8,11 @@
 
 LVL | BAB | F | R | W | Special | 0 | 1 | 2
 --- | --- | - | - | - | ------- | - | - | -
-1   | 0   | 0 | 2 | 2 | Advanced Learning, Harlequin's Mask, Ignore Components, Poison Use | 2 |  -  |  -  
+1   | 0   | 0 | 2 | 2 | Advanced Learning, Harlequin's Mask, Ignore Components, Poison Use, Skill Focus (Sleight of Hand) | 2 |  -  |  -  
 2   | 1   | 0 | 3 | 3 | Sneak Attack +1d6, Evasion, Laugh it Off, Trick Throw | 3 | 0 |  -  
 3   | 2   | 1 | 3 | 3 | Weapon Sleeve | 3 | 1 | -
 4   | 3   | 1 | 4 | 4 | Sneak Attack +2d6, Jester's Feint | 3 | 2 | 0
-5   | 3   | 1 | 4 | 4 | Killer Clown, Last Trick | 3 | 3 | 1
+5   | 3   | 1 | 4 | 4 | Improvised Weapon Master, Killer Clown, Last Trick | 3 | 3 | 1
 6   | 4   | 2 | 5 | 5 | Sneak Attack +3d6, Pratfall | 3 | 3 | 2
 
 **Weapon and Armor Proficiency**: Jesters are proficient with light armor but not with shields of any kind. A Jester is proficient with daggers, sickles, quarterstaves, darts, and slings, and suffers no attack penalty for using an improvised weapon. Additionally an improvised thrown weapon for a Jester has a range increment of 30 feet.
@@ -27,11 +27,15 @@ LVL | BAB | F | R | W | Special | 0 | 1 | 2
 
 **Poison Use**: A Jester may prepare, apply, and use poison without any chance of poisoning himself.
 
+**Skill Focus (Sleight of Hand)**: At 1st level, a Jester gains the feat skill focus for the skill Sleigh of Hand. If the Jester already has this feat, they can instead select a different feat for which they meet the prerequisites.
+
 **Evasion**: A jester can avoid even magical and unusal attacks with great agility. If she makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if the rogue is wearing light armor or no armor. A helpless rogue does not gain the benefits of evasion.
 
 **Laugh it Off**: A Jester may add his Charisma modifier as a morale bonus to his saves.
 
-**Trick Throw**: When throwing improvised weapons a Jester is considered to have the feats Point Blank Shot and Precise Shot. These may serves as prerequisites for other feats, however, any feats gained in this manner only apply to the throwing of improvised weapons.
+**Trick Throw**: When throwing improvised weapons a Jester is considered to have the feats Point Blank Shot and Precise Shot. These may serves as prerequisites for other feats, however, any feats gained in this manner only apply to the throwing of improvised weapons. Additionally a Jester may use his dexterity modifier in place of his strength modifier for making ranged attack rolls with improvised weapons.
+
+Additionally a Jester gains a +3 bonus on any performance checks made to attempt to juggle, and is allowed to take 10 on such checks.
 
 **Weapon Sleeve**: A jester may attempt a Sleight of Hand check to hide weapons in his sleeves (the jester may take 10 or 20 on this check). The number of weapons that can be hidden this way is equal to the result of the check divided by 5 (rounded down). Weapons hidden in this manner must be light, cannot be bladed, and may weigh no more than 1 pound. Up to 2 weapons concealed this way may be drawn as a swift or immediate action. The jester must be wearing clothing with sleeves to use this ability. The DC to find the concealed weapons with a search check is the result of the jester's sleight of hand check divided by 2.
 
@@ -41,9 +45,11 @@ The jester's attack deals extra damage any time her target would be denied a Dex
 
 **Jester's Feint**: As a swift action a Jester may toss a brightly colored object in the square of an enemy with a Sleight of Hand check opposed by the enemy’s Spot check. If he succeeds, the enemy is denied his Dex bonus for any attacks the Jester makes this turn. This ability has a range of 30 ft.
 
-An enemy targeted by this ability multiple times gains a +5 bonus to Spot for each prior time he has been targeted, regardless of who won the prior checks. This bonus lasts for 24 hours.
+An enemy targeted by this ability multiple times gains a +10 bonus to Spot for each prior time he has been targeted, regardless of who won the prior checks. This bonus lasts for 24 hours.
 
-**Killer Clown**: So long as he meets the requirements of the Harlequin’s Face ability, the Jester can make a special Intimidate check as a move action. If successful, this check causes the enemy to suffer the frightened condition. If the Jester wins the check by 1-5, then they are frightened for 1 round, 6-10 is 2 rounds, and 11+ is 3 rounds. This is a mind-affecting fear effect. A creature targeted by this effect cannot be affected by it again until 24 hours have elapsed.
+**Improvised Weapon Master**: A 5th level Jester gains the benefits of the feat Two-Weapon Fighting, but only when wielding two improvised weapons.
+
+**Killer Clown**: So long as he meets the requirements of the Harlequin’s Face ability, once per day per two class levels the Jester can make a special Intimidate check as a move action. If successful, this check causes the enemy to suffer the frightened condition. If the Jester wins the check by 1-5, then they are frightened for 1 round, 6-10 is 2 rounds, and 11+ is 3 rounds. This is a mind-affecting fear effect. A creature targeted by this effect cannot be affected by it again until 24 hours have elapsed.
 
 **Last Trick**: Anytime a Jester is killed or knocked unconscious, he may cast one of his spells known as if it were the spell in a contingency effect.
 

@@ -8,8 +8,8 @@
 
 LVL | BAB | F | R | W | Special |  1 | 2 | 3
 --- | --- | - | - | - | ------- |  - | - | -
-1   | 1   | 0 | 0 | 2 | Charnel touch, rebuke undead | 3 | -   | -  
-2   | 2   | 0 | 0 | 3 | Lich body DR 2 | 4 | -   | -
+1   | 1   | 0 | 0 | 2 | Charnel touch, rebuke undead | 3 | - | -  
+2   | 2   | 0 | 0 | 3 | Lich body DR 2 | 4 | - | -
 3   | 3   | 1 | 1 | 3 | Mental bastion, negative energy burst, tomb-tainted soul | 5 | - | -
 4   | 4   | 1 | 1 | 4 | Advanced learning | 6 | 3 | -
 5   | 5   | 1 | 1 | 4 | Fear Aura, scabrous touch | 6 | 4 | -
@@ -31,7 +31,7 @@ To cast a spell, a dread necromancer must have a Charisma score of 10 + the spel
 
 **Mental Bastion**: Starting at 3rd level, a dread necromancer gains a +2 bonus on saving throws made to resist sleep, stunning, paralysis, poison, or disease.
 
-**Negative Energy Burst**(Su): Beginning at 3rd level, a dread necromancer gains the ability to emit a burst of negative energy from her body, harming living creatures within 5 feet of her. This burst deals 1d4 points of damage per class level. A successful Will save (DC 10 + 1/2 her class level + Cha modifier) reduces damage by half. Undead creatures (and the dread necromancer herself) within this burst are healed the same amount of hit points as the damage she deals to living creatures. A dread necromancer may use this ability once per day per two class levels (rounded down).
+**Negative Energy Burst**(Su): Beginning at 3rd level, a dread necromancer gains the ability to expend a standard action to emit a burst of negative energy from her body, harming living creatures within 5 feet of her. This burst deals 1d4 points of damage per class level. A successful Will save (DC 10 + 1/2 her class level + Cha modifier) reduces damage by half. Undead creatures (and the dread necromancer herself) within this burst are healed the same amount of hit points as the damage she deals to living creatures. A dread necromancer may use this ability once per day per two class levels (rounded down).
 
 **Tomb-Tainted Soul**: A 3rd level dread necromancer gains the feat Tomb-Tainted Soul. If he already has this feat he may select another feat for which he meets the prerequisites.
 

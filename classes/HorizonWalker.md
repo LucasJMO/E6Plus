@@ -10,7 +10,7 @@ LVL | BAB | F | R | W | Special
 --- | --- | - | - | - | ------- 
 1   | 1   | 2 | 2 | 2 | Terrain Mastery
 2   | 2   | 3 | 3 | 3 | Terrain Mastery
-3   | 3   | 3 | 3 | 3 | Terrain Mastery, Knowledge Devotion
+3   | 3   | 3 | 3 | 3 | Terrain Mastery
 4   | 4   | 4 | 4 | 4 | Terrain Mastery, Planar Attunement
 5   | 5   | 4 | 4 | 4 | Terrain Mastery, Horizon Step
 6   | 6/1 | 5 | 5 | 5 | Terrain Mastery, Horizon Guide
@@ -31,7 +31,7 @@ A horizon walker can change the planes he is attuned to by spending a week in ca
 
 The horizon walker may bring touched objects, so long as their weight does not exceed his maximum load. He cannot however bring other creatures.
 
-**Horizon Guide**(Su): A 6th level horizon walker may expend a standard action to allow himself and up to three allies within 60 feet to teleport up to 60 feet. This teleportation functions like horizon step. This ability is usable up to three times per day, using it does not provoke attacks of opportunity.
+**Horizon Guide**(Su): A 6th level horizon walker may expend a swift action to allow himself and up to three allies within 60 feet to teleport up to 60 feet. This teleportation functions like horizon step. This ability is usable up to six times per day, using it does not provoke attacks of opportunity.
 
 ## Terrain Mastery Benefits
 
@@ -42,6 +42,8 @@ The horizon walker may bring touched objects, so long as their weight does not e
 **Forest**: You have a +4 competence bonus on Hide checks. You gain a +1 insight bonus on attack and damage rolls against forest creatures.
 
 **Hills**: You gain a +4 competence bonus on Listen checks. You gain a +1 insight bonus on attack and damage rolls against hills creatures.
+
+**Jungle**: You gain a +10-foot bonus to your land speed. You gain a +1 insight bonus on attack and damage rolls against jungle creatures.
 
 **Marsh**: You have a +4 competence bonus on Move Silently checks. You gain a +1 insight bonus on attack and damage rolls against marsh creatures.
 
@@ -61,7 +63,7 @@ The horizon walker may bring touched objects, so long as their weight does not e
 
 **Negative (Planar)**: You gain the ability to rebuke or command undead as an evil cleric of your class level.
 
-**Positive (Planar)**: Your connection with this plane sustains you. You no longer require food or drink to survive, and gain the ability Greater Improved Healing, letting you regain 1 hit point for every 60 minutes spent out of combat.
+**Positive (Planar)**: Your connection with this plane sustains you. You no longer require food or drink to survive, and gain the ability Greater Improved Healing, letting you regain 1 hit point for every 10 minutes spent out of combat.
 
 **Shadow (Planar)**: You gain the supernatural ability Hide in Plain Sight. You gain a +1 insight bonus on attack and damage rolls against creatures native to the Plane of Shadow.
 

@@ -61,7 +61,7 @@ The maximum number of elementals which can be summoned at one time is equal to t
 
 **Legion**: At 5th level, when casting a Summon Monster/Nature’s Ally/Undead spell, you summon an additional creature from a lower level list. For example a Diploconvoker casting Summon Undead 3 could select to summon a Ghoul from the 3rd level list, and an Owlbear Skeleton from the 2nd level list.
 
-**Minor Planar Ally**(Su): Once per week, a diploconvoker may perform a ten minute long ritual to call one elemental or outsider with no more than 4 HD. This ability functions like th espell Lesser Planar Ally, except that no gp payment is needed.
+**Minor Planar Ally**(Su): Once per week, a diploconvoker may perform a ten minute long ritual to call one elemental or outsider with no more than 4 HD. This ability functions like the spell Lesser Planar Ally, except that no gp payment is needed.
 
 ## Diploconvoker Spell List
 Level | Spells Known

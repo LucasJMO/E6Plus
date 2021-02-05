@@ -9,10 +9,10 @@ Skills/Level: 4 + Int modifier
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
 1   | 0   | 0 | 2 | 2 | Mind Blade, martial weapon proficiency
-2   | 1   | 0 | 3 | 3 | Throw mind blade
-3   | 2   | 1 | 3 | 3 | Free draw
+2   | 1   | 0 | 3 | 3 | Throw mind blade, mind blade enhancement
+3   | 2   | 1 | 3 | 3 | +2 mind blade, free draw
 4   | 3   | 1 | 4 | 4 | Mind blade enhancement
-5   | 3   | 1 | 4 | 4 | +1 mind blade
+5   | 3   | 1 | 4 | 4 | +3 mind blade
 6   | 4   | 2 | 5 | 5 | Mind blade enhancement
 
 **Weapon and Armor Proficiency**: Soulknives are proficient with all simple weapons, with light armor, medium armor, and shields (except tower shields).
@@ -29,7 +29,7 @@ Even in places where psionic effects do not normally function (such as within a 
 
 A soulknife can dual wield a mind blade and a normal weapon, however a mind blade cannot be treated as an off-hand weapon.
 
-At 5th level, mind blades manifested by the soulknife gain a +1 enhancement bonus to attack and damage rolls.
+Mind blades manifested by the soulknife gain a +1 enhancement bonus to attack and damage rolls. At 3rd level that bonus increases to +2, and at 5th level it increases to +3.
 
 **Martial Weapon Proficiency**: A soulknife gains Martial Weapon Proficiency as a bonus feat, she may select any weapon for this feat. The benefits from this feat apply to manifested mind weapons of the appropriate type.
 
@@ -39,7 +39,7 @@ Whether or not the attack hits, a thrown mind blade then dissipates. A soulknife
 
 **Free Draw**: At 3rd level, a soulknife becomes able to materialize his mind blade as a free action instead of a move action. He can make only one attempt to materialize the mind blade per round, however.
 
-**Mind Blade Enhancement**: At 4th level, a soulknife gains the ability to enhance his mind blade. He can add any one of the weapon special abilities listed below. At 6th level he may apply another.
+**Mind Blade Enhancement**: At 2nd level, a soulknife gains the ability to enhance his mind blade. He can add any one of the weapon special abilities listed below. At 4th and 6th level he may apply another.
 
 The weapon ability or abilities remain the same every time the soulknife materializes his mind blade (unless he decides to reassign its abilities; see below). The ability or abilities apply to any form the mind blade takes, including the use of the shape mind blade or bladewind class abilities.
 

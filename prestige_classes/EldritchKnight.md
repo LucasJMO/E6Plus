@@ -16,7 +16,7 @@ LVL | BAB | F | R | W | Special | Spellcasting
 2   | 2   | 3 | 0 | 3 | Armor proficiency (Light) | +1 level of existing spellcasting class
 3   | 3   | 3 | 1 | 3 | Armor proficiency (Medium) | +1 level of existing spellcasting class      
 4   | 4   | 4 | 1 | 4 | Armor proficiency (Heavy) | +1 level of existing spellcasting class
-5	| 5	  | 4 | 1 | 4 |  | +1 level of existing spellcasting class
+5	| 5	  | 4 | 1 | 4 | Bonus Feat | +1 level of existing spellcasting class
 
 **Weapon and Armor Proficiency**: Eldritch knights gain no proficiency with any weapon or armor.
 
@@ -31,3 +31,5 @@ LVL | BAB | F | R | W | Special | Spellcasting
 **Armor Proficiency (Medium)**: A 3rd level eldritch knight gains the feat Armor Proficiency (Medium).
 
 **Armor Proficiency (Heavy)**: A 3rd level eldritch knight gains the feat Armor Proficiency (Heavy).
+
+**Bonus Feat**: At 6th level an Eldritch Knight gains a bonus feat. She can choose a metamagic feat, an item creation feat, or Spell Mastery. The Eldritch Knight must still meet all prerequisites for a bonus feat, including caster level minimums.

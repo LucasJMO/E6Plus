@@ -11,7 +11,7 @@ LVL | BAB | F | R | W | Special | 0 | 1 | 2 | 3
 1   | 0   | 2 | 0 | 2 | Turn or rebuke undead | 3 | 1+1 | -   | -  
 2   | 1   | 3 | 0 | 3 |  | 4 | 2+1 | -   | -
 3   | 2   | 3 | 1 | 3 |  | 4 | 2+1 | 1+1 | -
-4   | 3   | 4 | 1 | 4 | Bonus Feat | 5 | 3+1 | 2+1 | -
+4   | 3   | 4 | 1 | 4 | Lay on Hands | 5 | 3+1 | 2+1 | -
 5   | 3   | 4 | 1 | 4 |  | 5 | 3+1 | 2+1 | 1+1
 6   | 4   | 5 | 2 | 5 |  | 5 | 3+1 | 3+1 | 2+1
 
@@ -49,8 +49,10 @@ A good cleric (or a neutral cleric who worships a good deity) can turn or destro
 
 A cleric may attempt to turn undead a number of times per day equal to 3 + his Charisma modifier. A cleric with 5 or more ranks in Knowledge (religion) gets a +2 bonus on turning checks against undead.
 
-**Bonus Feat**: At 4th level, a cleric gains a bonus feat. She can choose a metamagic feat, an item creation feat, or Spell Mastery. The cleric must still meet all prerequisites for a bonus feat, including caster level minimums.
-
 This bonus feat is in addition to the feat that a character of any class gets from advancing levels. The cleric is not limited to the categories of item creation feats, metamagic feats, or Spell Mastery when choosing these feats.
+
+**Lay on Hands**: Beginning at 4th level, a cleric gains the ability to heal the wounds of others (not her own) by touch. Each day she can heal a total number of hit points of damage equal to her cleric level minus two * her Wisdom bonus. A cleric may choose to divide her healing among multiple recipients, and she doesn’t have to use it all at once. Using lay on hands is a standard action.
+
+Alternatively, a cleric can use any or all of this healing power to deal damage to undead creatures. Using lay on hands in this way requires a successful melee touch attack and doesn’t provoke an attack of opportunity. The paladin decides how many of her daily allotment of points to use as damage after successfully touching an undead creature. An undead creature targeted by this ability is allowed a will save for half damage. The save DC is 10 + 1/2 Cleric level + the Cleric's Wisdom modifier.
 
 **Bonus Languages**: A cleric’s bonus language options include Celestial, Abyssal, and Infernal (the languages of good, chaotic evil, and lawful evil outsiders, respectively). These choices are in addition to the bonus languages available to the character because of his race.

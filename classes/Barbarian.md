@@ -2,13 +2,13 @@
 
 **Hit Die**: d12
 
-**Skills**: Balance (Dex), Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Jump (Str), Listen (Wis), Move Silently (Dex), Ride (Dex), Survival (Wis), Swim (Str), Tumble (Dex)
+**Skills**: Balance (Dex), Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Jump (Str), Listen (Wis), Move Silently (Dex), Ride (Dex), Spot (Int), Survival (Wis), Swim (Str), Tumble (Dex)
 
-**Skills/Level**: 4 + Int modifier
+**Skills/Level**: 6 + Int modifier
 
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
-1   | 1   | 2 | 0 | 0 | Fast Movement, Illiteracy, Rage     
+1   | 1   | 2 | 0 | 0 | Fast Movement, Illiteracy, Rage, Power Attack    
 2   | 2   | 3 | 0 | 0 | Skirmish +1d6  
 3   | 3   | 3 | 1 | 1 | Damage Reduction 1/-, endurance
 4   | 4   | 4 | 1 | 1 | Greater Fast Movement, Improved Healing        
@@ -41,4 +41,4 @@ While raging, a barbarian cannot use any Charisma, Dexterity, or Intelligence ba
 
 **Unshakeable**: A 5th level barbarian who is reduced to 0 hit points is not disabled (they are not limited to a single move or standard action each round). Additionally, a barbarian with 0 or fewer hit points recovers 1 hit point per round. 
 
-**Greater Improved Healing**: A 6th level barbarian's healing improves even further, letting them recover 1 hitpoint for every 60 minutes spent out of combat. 
+**Greater Improved Healing**: A 6th level barbarian's healing improves even further, letting them recover 1 hitpoint for every 10 minutes spent out of combat. 

@@ -18,7 +18,7 @@ LVL | BAB | F | R | W | Special | Spells per Day
 --- | --- | - | - | - | ------- | --------------
 1   | 0   | 2 | 0 | 2 | Special Ability | -
 2   | 1   | 3 | 0 | 3 | Special Ability | +1 level of existing spellcasting class
-3   | 1   | 3 | 1 | 3 | Special Ability | +1 level of existing spellcasting class
+3   | 2   | 3 | 1 | 3 | Special Ability | +1 level of existing spellcasting class
 
 **Weapon and Armor Proficiency**: Hierophants gain no proficiency with any weapon or armor.
 
@@ -58,15 +58,17 @@ Chaotic evil    |Lawful good
 
 **Healing Overflow**(Su): When you use a spell to heal a creature's hit points, you may also heal another ally within 30 feet. This functions as if both allies were targeted by the ability, though it still only expends one use.
 
+**Hierophant Wild Shape**: Available only to hierophants with druid levels, you are able to use wild shape one additional time per day.
+
 **Holy Strength**(Su): When you heal a creature with positive energy (such as by channeling positive energy to heal the living, using cure spells, or using lay on hands), any affected creature gains a +1 sacred bonus on attack rolls, skill checks, ability checks, and saving throws for 1 minute. If you channel negative energy to heal undead, this is a profane bonus rather than a sacred bonus.
+
+**Lay on Hands**: You gain the ability to heal the wounds of others (not your own) by touch. Each day you can heal a total number of hit points of damage equal to your character level minus one * your Wisdom bonus. You may choose to divide your healing among multiple recipients, and don't have to use it all at once. Using lay on hands is a standard action.
 
 **Master of Energy**(Su): Available only to hierophants with cleric levels, this ability allows a hierophant to channel positive or negative energy much more effectively, increasing his ability to affect undead. Add a +4 bonus to the hierophant’s turning checks and turning damage rolls. This ability only affects undead, even if the hierophant can turn other creatures, such as with a granted power of a domain.
 
-**Metamagic Feat**: A hierophant can choose a metamagic feat in place of one of the special abilities described here if desired.
-
 **Power of Nature**(Su): Available only to hierophants with druid levels, this ability allows a hierophant to temporarily transfer one or more of his druid Class Features to a willing creature. The transfer lasts anywhere from 24 hours to one week (chosen at the time of transfer), and while the transfer is in effect, the hierophant cannot use the transferred power. He can transfer any of his druid powers except spellcasting and the ability to have an animal companion.
 
-The druid’s wild shape ability can be partially or completely transferred. The heirophant choses how many uses of wild shape per day to give to transfer and retains the rest of the uses for himself. If the hierophant can assume the form of Tiny or Huge animals, the recipient can as well.
+The druid’s wild shape ability can be partially or completely transferred. The heirophant choses how many uses of wild shape per day to give to transfer and retains the rest of the uses for himself. 
 
 As with the imbue with spell ability spell, the hierophant remains responsible to his deity for any use to which the recipient puts the transferred abilities.
 

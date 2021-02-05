@@ -18,10 +18,10 @@ To qualify to become a dragon disciple, a character must fulfill all the followi
 
 LVL | BAB | F | R | W | Special | Spellcasting
 --- | --- | - | - | - | ------- | ------------
-1   | 1   | 2 | 0 | 2 | Breath weapon (1d8), natural armor increase (+1) | -    
-2   | 2   | 3 | 0 | 3 | Ability boost (Str +2), claws and bite | -
+1   | 1   | 2 | 0 | 2 | Breath weapon (1d8), natural armor increase (+1) | +1 level of existing spellcasting class
+2   | 2   | 3 | 0 | 3 | Ability boost (Str +2), bonus feat, claws and bite | -
 3   | 3   | 3 | 1 | 3 | Ability boost (Dex +2), breath weapon (2d8), blindsense 30 ft, natural armor increase (+2) | +1 level of existing spellcasting class      
-4   | 4   | 4 | 1 | 4 | Ability boost (Con +2) | -         
+4   | 4   | 4 | 1 | 4 | Ability boost (Con +2), bonus feat | -         
 5	| 5	  | 4 | 2 | 4 | Ability boost (Cha +2), Breath Weapon (3d8), draconic aspect, natural armor increase (+3) | +1 level of existing spellcasting class
 
 **Weapon and Armor Proficiency**: A dragon disciple is proficient with light armor.
@@ -56,6 +56,8 @@ Bronze| Line of lightning
 Copper| Line of acid
 Gold  | Cone of fire
 Silver| Cone of cold
+
+**Bonus Metamagic Feat**: At 2nd and 4th level a Dragon Disciple may select a bonus metabreath feat for which it meets the prerequisites.
 
 **Claws and Bite**(Ex): At 2nd level, a dragon disciple gains claw and bite attacks if he does not already have them. Use the values below or the disciple’s base claw and bite damage values, whichever are greater.
 

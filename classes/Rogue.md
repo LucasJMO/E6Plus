@@ -11,7 +11,7 @@ LVL | BAB | F | R | W | Special
 1   | 0   | 0 | 2 | 2 | Sneak Attack +1d6, Trapfinding 
 2   | 1   | 0 | 3 | 3 | Evasion
 3   | 2   | 1 | 3 | 3 | Sneak Attack +2d6, Trap Sense +1, Special Ability  
-4   | 3   | 1 | 4 | 4 | Uncanny Dodge, Special Ability
+4   | 3   | 1 | 4 | 4 | Uncanny Dodge, Special Ability x2
 5   | 3   | 2 | 4 | 4 | Sneak Attack +3d6, Special Ability x2
 6   | 4   | 2 | 5 | 5 | Trap Sense +2, Special Ability x2
 
@@ -37,7 +37,7 @@ A rogue who beats the trap's DC by 10 or more with a Disable Device check can st
 
 ## Special Ability 
 
-At 3rd and 4th level, a rogue may select one of active assault, combat focus, damage reduction, dark caster, defensive roll, dextrous trip, fast movement, fear aura, hide in plain sight, improved evasion, improved healing, improved reaction, jester's feint, mettle, moving attack, opportunist, pratfall, rapid stealth, skill mastery, slippery mind, or unshakeable. At 5th and 6th level he may select two special abilities from the list.
+At 3rd level, a rogue may select one of active assault, combat focus, damage reduction, dark caster, defensive roll, dextrous trip, fast movement, fear aura, greater improved healing, hide in plain sight, improved evasion, improved reaction, jester's feint, mettle, moving attack, opportunist, pratfall, rapid stealth, skill mastery, slippery mind, or unshakeable. Then at 4th, 5th, and 6th level he may select two special abilities from the list.
 
 **Active Assault**: A rogue gains the ability to take his 5-foot steps out of turn. If on his turn he would have been allowed to take a 5-foot step but elected not to, he may expend an immediate action any time before his next turn to take a 5-foot step. If he took a 5-foot step (or any other form of movement) on his previous turn, he may still expend an immediate action to take a 5-foot step, but if he does, he may not take any other forms of movement on his next turn.
 
@@ -45,7 +45,7 @@ At 3rd and 4th level, a rogue may select one of active assault, combat focus, da
 
 **Damage Reduction**: A rogue gains damage reduction 2/-.
 
-**Dark Caster**: A rogue can learn an illusion spell of 2nd level or lower and cast it a number of times per day equal to rogue level divided by 2 (rounded down). Save DC is 10 + spell level + Charisma modifier. Treat rogue level as caster level.
+**Dark Caster**: A rogue can learn a spell of 2nd level or lower and cast it a number of times per day equal to rogue level divided by spell level plus one (rounded down). Save DC is 10 + spell level + Charisma modifier. Treat rogue level as caster level.
 
 **Defensive Roll**: If an attack (from a weapon or some other blow) would reduce a rogue to 0 or fewer hit points. The rogue may attempt a reflex saving throw (DC = damage dealt). If the save succeeds, he takes only half damage from the blow.
 
@@ -59,13 +59,13 @@ At 3rd and 4th level, a rogue may select one of active assault, combat focus, da
 
 **Improved Evasion**: This ability works like evasion, except that while the rogue still takes no damage on a successful Reflex saving throw against attacks henceforth she takes only half damage on a failed save. A helpless rogue does not gain the benefit of improved evasion.
 
-**Improved Healing**: A rogue gains an enhancement to their natural healing abilities. For every 60 minutes a rogue spends out of combat they recover 1 hitpoint. This is in addition to hitpoints regained via other methods (resting for example).
+**Greater Improved Healing**: A rogue gains an enhancement to their natural healing abilities. For every 10 minutes a rogue spends out of combat they recover 1 hitpoint. This is in addition to hitpoints regained via other methods (resting for example).
 
 **Improved Reaction**: A rogue gains a +2 untyped initiative bonus.
 
 **Jester's Feint**: As a swift action a rogue may toss a brightly colored object in the square of an enemy with a Sleight of Hand check opposed by the enemy’s Spot check. If he succeeds, the enemy is denied his Dex bonus for the rogue’s next attack. This ability has a range of 30 ft.
 
-An enemy targeted by this ability multiple times gains a +5 bonus to Spot for each prior time he has been targeted, regardless of who won the prior checks. This bonus lasts for 24 hours.
+An enemy targeted by this ability multiple times gains a +10 bonus to Spot for each prior time he has been targeted, regardless of who won the prior checks. This bonus lasts for 24 hours.
 
 **Mettle**: A rogue who succeeds a Fortitude partial or Will partial save takes no effect as if she had immunity.
 

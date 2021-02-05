@@ -13,11 +13,11 @@ LVL | BAB | F | R | W | Special | 1 | 2
 3   | 3   | 3 | 1 | 1 | Aura of despair, dark resilience | - | -  
 4   | 4   | 4 | 1 | 1 | Command undead | 1 | -  
 5   | 5   | 4 | 1 | 1 | Smite good 2/day | 1 | -  
-6   | 6/1 | 5 | 2 | 2 | Contagion, fiendish mount | 2 | 1
+6   | 6/1 | 5 | 2 | 2 | Cruel champion, contagion, fiendish mount | 2 | 1
 
 **Weapon and Armor Proficiency**: Blackguards are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with all shields (including tower shields).
 
-**Spells**: A blackguard casts divine spells, which are drawn from the blackguard spell list. A blackguard must choose and prepare her spells in advance. 
+**Spells**: A blackguard casts divine spells, which are drawn from the paladin spell list. A blackguard must choose and prepare her spells in advance. 
 
 To prepare or cast a spell, a blackguard must have a Charisma score equal to at least 10 + spell level. The Difficulty Class for a saving throw against a blackguard's spell is 10 + spell level + Charisma modifier. 
 
@@ -45,12 +45,9 @@ Alternatively, a blackguard can use any or all of this power to cure damage to u
 
 The summoning ritual requires an hour of unbroken meditation. Once summoned the mount is treated as a normal magical beast (it must be fed/rested), and remains until it drops to 0 hit points or is dismissed (dismissal is a free action), a mount that is killed or dismissed leaves behind no physical form. In either case repeating the ritual summons the same mount, restored to its hit point maximum.
 
-## Blackguard Spell List
+**Contagion**: A 6th level blackguard can cast Contagion, as the spell, once per week.
 
-Level | Spells Known
------ | ------------
-1 | Cause fear, corrupt weapon, cure light wounds, doom, inflict light wounds, magic weapon, summon monster 1 
-2 | bull's strength, cure moderate wounds, darkness, death knell, eagle's splendor, inflict moderate wounds, shatter, summon monster 2
+**Cruel Champion**: A 6th level blackguard gains darkvision out to 60 feet, damage reduction 2/-, and +2 Charisma. Additionally as a free action she can choose to snuff out all non-magical sources of light within 5 feet of her.
 
 **The Blackguard's Mount**:
 

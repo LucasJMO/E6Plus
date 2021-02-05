@@ -8,16 +8,16 @@
 
 LVL | BAB | F | R | W | Special | AC Bonus
 --- | --- | - | - | - | ------- | --- 
-1   | 1   | 2 | 2 | 2 | Armored in life, fatal strike, anticipation, fighting style | +4
-2   | 2   | 3 | 3 | 3 | Rain of flowers, abundant leap, slow fall, acrobatic		| +5
-3   | 3   | 3 | 3 | 3 | Fighting style 												| +5
-4   | 4   | 4 | 4 | 4 | Evasion		 												| +6
+1   | 1   | 2 | 2 | 2 | Armored in life, fatal strike, anticipation, fighting style, improved unarmed strike | +2
+2   | 2   | 3 | 3 | 3 | Rain of flowers, abundant leap, slow fall, acrobatic		| +3
+3   | 3   | 3 | 3 | 3 | Fighting style 												| +4
+4   | 4   | 4 | 4 | 4 | Evasion		 												| +5
 5   | 5   | 4 | 4 | 4 | Fighting style, purity of body								| +6
 6   | 6/1 | 5 | 5 | 5 | Master style 			 									| +7
 
 **Weapon and Armor Proficiency**: Martial artists are proficient with all simple weapons, as well any weapon defined as a special monk weapon, such as the sai, the nunchaku, the kama, the shuriken, and the triple staff. Martial artists are not proficient with any armor or shields of any kind.
 
-**Armored in Life**: A martial artist has a special armor bonus whenever they are not wearing armor or using a shield. This armor bonus applies against touch attacks and incorporeal touch attacks and has a value of +4. Every even numbered class level, the armored in life bonus increases by 1. 
+**Armored in Life**: A martial artist has a special armor bonus whenever they are not wearing armor or using a shield. This armor bonus applies against touch attacks and incorporeal touch attacks and has a value of +2. Every subsequent class level, the armored in life bonus increases by 1. 
 
 **Anticipation**: If a martial artists would be allowed to add his Dexterity modifier to a Reflex Save or Armor Class, he may add his Wisdom bonus (if positive) instead.
 
@@ -25,19 +25,21 @@ LVL | BAB | F | R | W | Special | AC Bonus
 
 A martial artist's slam is treated as a magical weapon for the purpose of overcoming damage reduction.
 
-**Fighting Style**: At levels 1, 3, and 5, the martial artist learns a fighting style. Each fighting style requires a Swift Action to activate, lasts one round, and is usable at will. Each fighting style provides two bonuses selected from the list of fighting style abilities.
+**Fighting Style**: At levels 1, 3, and 5, the martial artist learns a fighting style. Each fighting style requires a Swift Action to activate, lasts one round per class level, and is usable at will. Exiting a fighting style requires a free action, and a martial artist may only have one fighting style active at a time. Each fighting style provides two bonuses selected from the list of fighting style abilities.
 
 * While active, your fighting style provides a +4 Dodge Bonus to AC.
 * While active, your fighting style provides a +4 Dodge Bonus to Saving Throws.
 * While active, your fighting style allows you to make an attack of opportunity against any opponent who attacks you. This attack of opportunity must be a trip or disarm attempt.
 * While active, your fighting style provides you with concealment.
-* While active, your fighting style provides a +30’ Insight Bonus to your movement rate.
+* While active, your fighting style provides a +30' Insight Bonus to your movement rate.
 * While active, your fighting style transforms your slam attacks into Force effects which inflict Force damage and ignore hardness and DR.
 * While active, your fighting style provides any bonuses it gives to your slam attack to any attack you make with any weapon.
 * While active, your fighting style causes your slam attack to inflict piercing damage and to inflict a 2 point penalty to an ability score of your choice. You decide this ability score when you enter the fighting style, and changing it to another requires a Swift Action. If not fixed through alternate means this penalty remains for 1 minute per class level.
 * While active, your fighting style causes your slam attack to inflict slashing damage and to reduce your opponent’s movement rate by 10’ every time they suffer damage from it, to a minimum of half the opponent's base movement speed. This reduction lasts for 1 minute per class level.
 * While active, your fighting style allows you to move through occupied spaces as if they were unoccupied and you provoke no attacks of opportunity for your movement.
-* While active, your fighting style allows you to shoot fire out of your mouth or hands as a standard action. The fire can be shout out to a maximum of 20 feet per class level, requires a ranged touch attack, and inflicts 1d4 of fire damage per class level if it hits.
+* While active, your fighting style allows you to shoot fire out of your mouth or hands as a standard action. The fire can be shout out to a maximum of 20 feet per class level, requires a ranged touch attack, and inflicts 1d4 of fire damage per class level if it hits. You may use your Wisdom modifier instead of your Dexterity modifier when making this ranged attack roll.
+
+**Improved Unarmed Strike**: A 1st level martial artist gains the feat Improved Unarmed Strike.
 
 **Rain of Flowers**: Any time a 2nd level martial artist inflicts lethal damage, he may elect to inflict non-lethal damage instead. Any time a martial atist inflicts non-lethal damage, he may elect to do lethal damage instead.
 
@@ -51,4 +53,4 @@ A martial artist's slam is treated as a magical weapon for the purpose of overco
 
 **Purity of Body**: At 5th level, a martial artist gains immunity to all diseases, except for supernatural and magical diseases.
 
-**Master Style**: Once per day, a martial artist of sixth level or higher may activate a Fighting Style and extend its duration to 1 round/level rather than 1 round. Activating this Fighting Style is still a Swift Action. Other Fighting Styles may be activated during this period, though their duration is normally going to be only 1 round. 
+**Master Style**: Once per day, a martial artist of sixth level or higher may activate a Fighting Style which may be used in tandem with other Fighting Styles. Activating this Fighting Style is still a Swift Action. 

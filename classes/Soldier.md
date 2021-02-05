@@ -8,10 +8,10 @@
 
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
-1   | 1   | 2 | 0 | 2 | Combat Focus          
+1   | 1   | 2 | 0 | 2 | Armor Master, Combat Focus          
 2   | 2   | 3 | 0 | 3 | Active Assault, Problem Solver          
 3   | 3   | 3 | 1 | 3 | Pack Mule 
-4   | 4   | 4 | 1 | 4 | Bonus Feat
+4   | 4   | 4 | 1 | 4 | Bonus Feat, Exotic Weapon Master
 5   | 5   | 4 | 1 | 4 | Array of Stunts       
 6   | 6/1 | 5 | 2 | 5 | Foil Action
 
@@ -19,13 +19,17 @@ LVL | BAB | F | R | W | Special
 
 **Bonus Feat**: At 4th level a soldier gains a bonus feat in addition to any feats from their normal level progression.
 
+**Armor Master**: A soldier is able to wear heavy armor without suffering any penalties to his movement speed.
+
 **Combat Focus**(Ex): A soldier begins any combat encounter in combat focus. He may end his combat focus at any time to reroll any die roll he makes, and if not used it ends on its own after a number of combat rounds equal to his class level. Voluntarily ending combat focus requires the use of a swift action (or an immediate action if it is not the soldier's turn), re-entering combat focus after ending it requires the use of a move action.
 
 **Active Assault**(Ex): A 2nd level soldier gains the ability to take his 5-foot steps out of turn. If on his turn he would have been allowed to take a 5-foot step but elected not to, he may expend an immediate action any time before his next turn to take a 5-foot step. If he took a 5-foot step (or any other form of movement) on his previous turn, he may still expend an immediate action to take a 5-foot step, but if he does, he may not take any other forms of movement on his next turn.
 
 **Problem Solver**(Ex): A 2nd level soldier may expend a swift action and gain the benefits of any [Combat] feat for which he meets the prerequisites and use it for a number of rounds equal to his class level. This ability may be used once per hour.
 
-**Pack Mule**(Ex): A 3rd level soldier suffers no penalties for carrying a medium load, and may retrieve stored items from his person without provoking an attack of opportunity.
+**Pack Mule**(Ex): A 3rd level soldier suffers no penalties for carrying a medium load, and may retrieve stored items from his person with a swift action, and without provoking an attack of opportunity. 
+
+**Exotic Weapon Master**: A 4th level soldier gains the ability to become proficient with any exotic weapon. In order to do so he must spend at least 4 hours a day training with it over the course of a week.
 
 **Array of Stunts**(Ex): A 5th level soldier may use an immediate action without sacrificing his swift action on his next turn.
 

@@ -9,11 +9,11 @@
 LVL | BAB | F | R | W | Special | 1 | 2 
 --- | --- | - | - | - | ------- | - | -
 1   | 1   | 2 | 2 | 0 | 1st Favored Enemy, Track, Wild Empathy, Precise Shot | - | -  
-2   | 2   | 3 | 3 | 0 | Combat Style TWF, Combat Style Ranged | - | -  
+2   | 2   | 3 | 3 | 0 | Combat Style | - | -  
 3   | 3   | 3 | 3 | 1 | Endurance, 2nd Favored Enemy, Quick Draw | - | -
 4   | 4   | 4 | 4 | 1 | Animal Companion | 1 | -
 5   | 5   | 4 | 4 | 1 | 3rd Favored Enemy | 2 | 1
-6   | 6/1 | 5 | 5 | 2 | Improved Combat Style TWF, Improved Combat Style Ranged | 3 | 2
+6   | 6/1 | 5 | 5 | 2 | Improved Combat Style, Flexible Favored Enemy | 3 | 2
 
 **Weapon and Armor Proficiency**: A ranger is proficient with all simple and martial weapons, and with light armor and shields (except tower shields).
 
@@ -23,7 +23,7 @@ To prepare or cast a spell, a ranger must have a Wisdom score equal to at least 
 
 **Favored Enemy**(Ex): At 1st level, a ranger may select a type of creature from among those given on the table. The ranger gains a +2 bonus on Bluff, Listen, Sense Motive, Spot, and Survival checks when using these skills against creatures of this type. Likewise he gets a +2 bonus on weapon damage rolls, and a +1 to crit range against such creatures.
 
-At 3rd and 5th level the ranger selects an additional favored enemy type from those given on the table. In addition, at each such interval, the bonuses against any one favored enemy (including the one just selected, if so desired) increase by 2 (save for the bonus to crit range, which increases by 1).
+At 3rd and 5th level the ranger selects an additional favored enemy type from those given on the table. 
 
 Type (Subtype) | Type (Subtype)
 ---------------|---------------
@@ -53,7 +53,7 @@ The ranger can also use this ability to influence a magical beast with an intell
 
 **Precise Shot**: A 1st level ranger gains the feat Precise Shot, if he already has this feat then he may select another feat for which he meets the prerequisites.
 
-**Combat Style**(Ex): A 2nd level ranger selects either archery or two-weapon combat as his combat style. A ranger who selects archery gains the feat Rapid Shot, while a ranger who selects two-weapon combat gains the feat Two-Weapon Fighting. These feats may be gained even if the ranger does not meet the normal prerequisites for the chosen feat. The benefit of the ranger's chosen style apply only when he wears light armor or no armor. He loses all benefits of his combat style while wearing medium or heavy armor.
+**Combat Style**(Ex): A 2nd level ranger gains the feats Rapid Shot and Two-Weapon Fighting. These feats may be gained even if the ranger does not meet the normal prerequisites for the chosen feat. These benefits apply only when he wears light armor or no armor. He loses all benefits of combat style while wearing medium or heavy armor.
 
 **Endurance**: A ranger gains endurance as a bonus feat at 3rd level. If they already have this feat they may select another feat for which they meet the prerequisites. 
 
@@ -63,4 +63,8 @@ The ranger can also use this ability to influence a magical beast with an intell
 
 This ability functions like the druid ability of the same name, except that the ranger’s effective druid level is one-half his ranger level. A ranger may select from the alternative lists of animal companions just as a druid can, though again his effective druid level is half his ranger level. Like a druid, a ranger cannot select an alternative animal if the choice would reduce his effective druid level below 1st.
 
-**Improved Combat Style**(Ex): A 6th level ranger who selected the archery combat style gains Manyshot, while a 6th level ranger who selected two-weapon combat gains Improved Two-Weapon Fighting. These feats can be gained through Improved Combat Style even if the Ranger does not meet the normal prerequisites. The benefit of the ranger's chosen style apply only when he wears light armor or no armor. He loses all benefits of his combat style while wearing medium or heavy armor.
+**Improved Combat Style**(Ex): A 6th level ranger gains Manyshot and Improved Two-Weapon Fighting. These feats can be gained through Improved Combat Style even if the Ranger does not meet the normal prerequisites. The benefit of the ranger's style apply only when he wears light armor or no armor. He loses all benefits of improved combat style while wearing medium or heavy armor.
+
+**Flexible Favored Enemy**: A 6th level ranger can pick any type from the favored enemy list (except one which is already his favored enemy) and gain a +2 bonus on Bluff, Listen, Sense Motive, Spot, and Survival checks when using these skills against creatures of this type. Likewise he gets a +2 bonus on weapon damage rolls, and a +1 to crit range against such creatures.
+
+By spending a week in study, he is able to change his flexible favored enemy to another type from the list.

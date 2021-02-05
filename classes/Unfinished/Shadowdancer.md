@@ -25,9 +25,9 @@ LVL | BAB | F | R | W | Special
 
 **Darkvision**(Su): A 2nd level shadowdancer gains darkvision out to 60-feet, or 120-foot darkvision if he already had darkvision from another source.
 
-**Shadow Jump**(Su): At 2nd level, a shadowdancer gains the ability to travel between shadows as if by means of a dimension door spell. The limitations are that the magical transport must have line of sight, and must begin and end in an area with at least some shadow. The max distance a shadowdancer can jump begins at 20 ft., and doubles every two class levels, up to 80 ft. at level 6.
+**Shadow Jump**(Su): At 2nd level, a shadowdancer gains the ability to travel between shadows as if by means of a dimension door spell. The limitations are that the magical transport must have line of sight, and must begin and end in an area with at least some shadow. The max distance a shadowdancer can jump begins at 20 ft., and doubles every two class levels, up to 80 ft. at level 6. The shadowdancer may not bring any other beings with them for this teleportation, except their companion (if it is adjacent when they use this ability).
 
-Making a jump requires a swift action, and can only be used once every 1d4 rounds.
+Making a jump requires a standard action, and can only be used once every 1d4 rounds.
 
 **Uncanny Dodge**(Ex): Starting at 2nd level, a shadowdancer retains her Dexterity bonus to AC (if any) regardless of being caught flat-footed or struck by an invisible attacker. (She still loses any Dexterity bonus to AC if immobilized.)
 
@@ -51,11 +51,11 @@ At 3rd level, the shadowdancer gains the ability to conjure a humanoid companion
 
 Summoning the companion requires a swift action, the companion may be placed in a square adjacent to the shadowdancer. Once summoned, the shadowdancer can dismiss the companion (causing it to disappear) as a free action. A dismissed companion can be summoned again in the same manner, even on the same turn it was dismissed.
 
-If not dismissed, the companion remains until it is destroyed, its master dies, or its master sleeps. When a companion disappears, any ongoing spell effects (positive or negative) end. However damage sustained by the companion persists until its master takes a long rest, or it is healed by alternative means. If the companion is destroyed it cannot be summoned again until after its master takes a long rest.
+If not dismissed, the companion remains until it is destroyed, it goes over 180 feet away from its master, its master dies, or its master sleeps. When a companion disappears, any ongoing spell effects (positive or negative) end. However damage sustained by the companion persists until its master takes a long rest, or it is healed by alternative means. If the companion is destroyed it cannot be summoned again until after its master takes a long rest.
 
 The shadowdancer's companion is a medium, bipedal humanoid. It stands approximately 6 feet tall, and has no distinguishing features, save for a mouth. It possesses no senses of its own, instead relying on telepathic orders from the shadowdancer. It is not intelligent, it cannot speak, cast spells, activate magical items, or attempt any mental skill checks. The companion does not need to eat or drink, but it can consume potions or magical items and receive their benefits. For physical skill checks it is considered to have the same number of ranks invested as its shadowdancer master. Additionally the companion is considered proficient with the same varieties of weapons and armor as its master.
 
-The companion can equip any gear it is given. It suffers the standard penalties for attempting to use weapons/armor with which it is not proficient. It cannot activate magic items, but gains any passive benefits from such items. If the companion dies, is dismissed, or otherwise disappears, all equipped gear or carried items fall in a pile on the space the companion occupied. 
+The companion can equip any gear it is given. It is proficient with all weapons and armor its master is proficient with, and it suffers the standard penalties for attempting to use weapons/armor with which it is not proficient. It cannot activate magic items, but gains any passive benefits from such items. If the companion dies, is dismissed, or otherwise disappears, all equipped gear or carried items fall in a pile on the space the companion occupied. 
 
 The companion shares the traits of undead creatures, except that unlike undead the companion can be healed through conventional means and takes damage from negative energy. As the shadowdancer advances in level the shadowdancer's companion increases in strength, specific stats are given on the table below.
 

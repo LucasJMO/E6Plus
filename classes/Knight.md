@@ -1,6 +1,6 @@
 # Knight
 
-**Hit Die**: d10
+**Hit Die**: d12
 
 **Skills**: Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Jump (Str), Knowledge (History) (Int), Knowledge (Nobility) (Int), Knowledge (Geography) (Int), Listen (Wis), Perform (Cha), Ride (Dex), Sense Motive (Wis), Spot (Wis), Swim (Str)
 
@@ -13,13 +13,13 @@ LVL | BAB | F | R | W | Special
 3   | 3   | 3 | 1 | 3 | Energy Resistance, Speak to Animals
 4   | 4   | 4 | 1 | 4 | Damage Reduction, Immunity to Fear, Knightly Spirit
 5   | 5   | 4 | 1 | 4 | Sacrifice, Mettle
-6   | 6/1 | 5 | 2 | 5 | Defend Others, Quick Recovery
+6   | 6/1 | 5 | 2 | 5 | Defend Others, Immovable Stance, Quick Recovery
 
 **Weapon and Armor Proficiency**: Knights are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with all shields (including tower shields).
 
 **Code of Conduct**: A knight must abide by the following rules. Breaking any results in the loss of knightly abilities until atonement is completed. A knight must refuse bonuses from Aid Another actions in combat, a knight must refrain from the use of poisons of any kind, a knight may not voluntarily change shape, and a knight may not sell magic items.
 
-**Draw Fire**: With a Swift Action, a knight may pique the interest of any opponent with intelligence 6 or less within 60 feet. That creature must make a will save (DC 10 + 1/2 knight level + constitution modifier) or spend all of its actions moving towards or attacking the knight. This effect ends after a number of rounds equal to the knight’s class level.
+**Draw Fire**: With a Swift Action, a knight may pique the interest of any opponent with intelligence 6 or less within 60 feet. That creature must make a will save (DC 10 + 1/2 knight level + constitution modifier) or spend all of its actions moving towards or attacking the knight. This effect ends after a number of rounds equal to the knight’s class level, and creatures targeted by this effect can not be affected by it again for the next 24 hours (from the knight targeting them, they can still be affected by other knights using the ability).
 
 **Shield Mastery**: A knight subtracts his knight level from the armor check penalty given by used shields. This ability can reduce a shield's armor check penalty to a minimum of 0.
 
@@ -43,4 +43,9 @@ LVL | BAB | F | R | W | Special
 
 **Defend Others**: Any ally adjacent to the knight gains Evasion, although the knight does not.
 
+**Immovable Stance**: A 6th level knight gains the ability to adopt a defensive stance, granting him phenomenal strength and durability, but preventing him from taking any movement on his turn except for a single 5 foot step. A knight in his immovable stance gains +2 to strength, +4 to constitution, +2 resistance bonus on all saves, and +1 to his damage reduction.
+
+Using or stopping the immovable stance takes no time itself, but a knight can only do so during his action. A knight suffers no penalties for exiting his stance, but he may only re-enter it after taking no physical actions for a full minute.
+
 **Quick Recovery**: If a knight is stunned, dazed, or paralyzed during her turn, that condition ends at the end of that turn.
+

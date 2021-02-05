@@ -13,7 +13,7 @@ LVL | BAB | F | R | W | Special | 1 | 2
 3   | 3   | 3 | 1 | 1 | Aura of Courage, Divine Health | - | -
 4   | 4   | 4 | 1 | 1 | Turn Undead | 1 | -
 5   | 5   | 4 | 1 | 1 | Smite Evil 2/day | 1 | -
-6   | 6/1 | 5 | 2 | 2 | Special Mount, Remove Disease | 2 | 1
+6   | 6/1 | 5 | 2 | 2 | Brilliant Champion, Special Mount, Remove Disease | 2 | 1
 
 **Weapon and Armor Proficiency**: Paladins are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with all shields (including tower shields).
 
@@ -40,6 +40,8 @@ At 5th level the paladin may smite evil one additional time per day.
 **Divine Health**: A 3rd level paladin gains immunity to all diseases, including supernatural and magical diseases.
 
 **Turn Undead**(Su): A 4th level paladin gains the supernatural ability to turn undead. She may use this ability a number of times per day equal to 3 + her Charisma modifier. She turns undead as a cleric of three levels lower would.
+
+**Brilliant Champion**: A 6th level paladin gains darkvision out to 60 feet, damage reduction 2/-, and +2 Charisma. Additionally as a free action she can choose to emanate a dim glow, illuminating all adjacent spaces.
 
 **Remove Disease**(Sp): A 6th level paladin can produce a remove disease effect, as the spell, once per week.
 
