@@ -8,8 +8,8 @@
 
 LVL | BAB | F | R | W | Special | 1 | 2 
 --- | --- | - | - | - | ------- | - | -
-1   | 1   | 2 | 2 | 0 | 1st Favored Enemy, Track, Wild Empathy, Precise Shot | - | -  
-2   | 2   | 3 | 3 | 0 | Combat Style | - | -  
+1   | 1   | 2 | 2 | 0 | 1st Favored Enemy, Track, Wild Empathy, Precise Shot | - | -
+2   | 2   | 3 | 3 | 0 | Combat Style | - | -
 3   | 3   | 3 | 3 | 1 | Endurance, 2nd Favored Enemy, Quick Draw | - | -
 4   | 4   | 4 | 4 | 1 | Animal Companion | 1 | -
 5   | 5   | 4 | 4 | 1 | 3rd Favored Enemy | 2 | 1

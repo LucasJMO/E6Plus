@@ -8,12 +8,12 @@
 
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
-1   | 1   | 2 | 0 | 2 | Armor Master, Combat Focus          
-2   | 2   | 3 | 0 | 3 | Active Assault, Problem Solver          
-3   | 3   | 3 | 1 | 3 | Pack Mule 
-4   | 4   | 4 | 1 | 4 | Bonus Feat, Exotic Weapon Master
-5   | 5   | 4 | 1 | 4 | Array of Stunts       
-6   | 6/1 | 5 | 2 | 5 | Foil Action
+1   | 1   | 2 | 0 | 0 | Armor Master, Combat Focus          
+2   | 2   | 3 | 0 | 1 | Active Assault, Problem Solver          
+3   | 3   | 3 | 1 | 1 | Pack Mule 
+4   | 4   | 4 | 1 | 2 | Bonus Feat, Exotic Weapon Master
+5   | 5   | 4 | 1 | 2 | Array of Stunts       
+6   | 6/1 | 5 | 2 | 3 | Foil Action
 
 **Weapon and Armor Proficiency**: A soldier is proficient with all simple and martial weapons and with all armor (heavy, medium, and light) and shields (including tower shields).
 
@@ -33,4 +33,4 @@ LVL | BAB | F | R | W | Special
 
 **Foil Action**(Ex): A 6th level soldier may use an immediate action to make a touch attack or ranged touch attack on any opponent within 30 ft. If this attack succeeds the opponent's action is wasted, and any spell slots, limited ability uses, potions, or the like used to power it are expended.
 
-The only actions exempt from this ability are attacking (standard action or full round), moving (standard, full round, or 5-foot step), and anything that takes a swift, immediate, or free action.
+The only actions exempt from this ability are attacking (standard action or full round), moving (standard, full round, or 5-foot step), and anything that takes a swift, immediate, or free action. After using this ability a soldier must wait one round before using it again.

@@ -8,12 +8,12 @@
 
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
-1   | 0   | 2 | 2 | 0 | Fire weapon, fire resistance, nimbus
-2   | 1   | 3 | 3 | 0 | Fire burst, fire weapon +1
-3   | 2   | 3 | 3 | 1 | Piercing flames, smokeless flame
-4   | 3   | 4 | 4 | 1 | Explosive charge, fire immunity, fire weapon +2
-5   | 3   | 4 | 4 | 1 | Free draw
-6   | 4   | 5 | 5 | 2 | Firewalk, fire weapon +3
+1   | 0   | 2 | 0 | 0 | Fire weapon, fire resistance, nimbus
+2   | 1   | 3 | 1 | 0 | Fire burst, fire weapon +1
+3   | 2   | 3 | 1 | 1 | Fire bolt, piercing flames, smokeless flame
+4   | 3   | 4 | 2 | 1 | Explosive charge, fire immunity, fire weapon +2
+5   | 3   | 4 | 2 | 1 | Free draw
+6   | 4   | 5 | 3 | 2 | Firewalk, fire weapon +3
 
 **Weapon and Armor Proficiency**: Pyrokineticists are proficient with all simple and martial weapons. Pyrokineticists are proficient with light armor and medium armor, but not shields of any kind.
 
@@ -31,11 +31,13 @@ A pyrokineticist can dual wield a fire weapon and a normal weapon, however a fir
 
 **Fire Burst**(Su): As a standard action, a 2nd level Pyrokineticist can emit a burst of flame from his body, striking all creatures and objects within 10’ of his position except himself. This burst of flames inflicts 1d4 points of fire damage per class level, with an allowed Reflex Save for half (DC 10 + 1/2 class level + charisma modifier)
 
+**Fire Bolts**(Su): A Pyrokineticist can throw bolts of fire as a standard action. A Fire Bolt has a range of 60 feet, requires a ranged touch attack to hit, and inflicts 1d4 of Fire damage per two class levels (rounded down), up to a maximum of 3d4 at 6th level.
+
 **Piercing Flames**(Su): From 3rd level on, a pyrokineticist’s fire cuts through Fire Resistance, hardness, and Immunity. No more than 1/2 of the damage inflicted by his fire can be negated by hardness, immunity, or resistance to fire. In addition, the pyrokineticist ignores the first 5 points of Fire Resistance that a target has.
 
 **Smokeless Flame**(Su): A 3rd level pyrokineticist can create fires that produce no heat and do not burn. These fires can be anything from the size of a torch to a bonfire, and produce light accordingly. Each lasts for 1 hour per class level. Smokeless Flame can be created anywhere within medium range.
 
-**Explosive Charge**(Ex): From 4th level on, a pyrokineticist who charges may expend a swift action to activate a fire burst at any point during their charge.
+**Explosive Charge**(Ex): From 4th level on, a pyrokineticist who charges may expend a swift action to activate a fire burst at any point during their charge. This ability is usable three times per day.
 
 **Fire Immunity**(Ex): At 4th level a pyrokineticist is immune to fire.
 

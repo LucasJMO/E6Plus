@@ -9,11 +9,11 @@
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
 1   | 1   | 2 | 0 | 0 | Battle Shout, Inspire Bravery     
-2   | 2   | 3 | 0 | 0 | Untiring, Heal Injuries, Marshall's Poise
+2   | 2   | 3 | 0 | 1 | Untiring, Heal Injuries, Marshall's Poise
 3   | 3   | 3 | 1 | 1 | Heroic Resolve, War Shout
-4   | 4   | 4 | 1 | 1 | Bolster Allies
-5   | 5   | 4 | 1 | 1 | Inner strength, snap out of it
-6   | 6/1 | 5 | 2 | 2 | Terrible Shout, Command Enemy
+4   | 4   | 4 | 1 | 2 | Bolster Allies
+5   | 5   | 4 | 1 | 2 | Inner strength, snap out of it
+6   | 6/1 | 5 | 2 | 3 | Terrible Shout, Command Enemy
 
 **Weapon and Armor Proficiency**: Marshalls are proficient with all simple and martial weapons. Marshalls are proficient with all armor and shields (including tower shields).
 

@@ -8,12 +8,12 @@
 
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
-1   | 0   | 0 | 2 | 2 | Acrobatic Flair, Dodge, Trapfinding, Pole Jump        
-2   | 1   | 0 | 3 | 3 | Sneak Attack +1d6, Evasion, Fast Movement, Pole Fighter
-3   | 2   | 1 | 3 | 3 | Sure Climb, Athletic Cascade, Rapid Stealth, Skirmish +1d6
-4   | 3   | 1 | 4 | 4 | Sneak Attack +2d6, Grapple Line, Skill Mastery
-5   | 3   | 1 | 4 | 4 | Detect Magic, Improved Evasion, Moving Attack
-6   | 4   | 2 | 5 | 5 | Sneak Attack +3d6, Mercurial Charge, Death From Above
+1   | 0   | 0 | 2 | 0 | Acrobatic Flair, Dodge, Trapfinding, Pole Jump        
+2   | 1   | 0 | 3 | 1 | Sneak Attack +1d6, Evasion, Fast Movement, Pole Fighter
+3   | 2   | 1 | 3 | 1 | Sure Climb, Athletic Cascade, Rapid Stealth, Skirmish +1d6
+4   | 3   | 1 | 4 | 2 | Sneak Attack +2d6, Grapple Line, Skill Mastery
+5   | 3   | 1 | 4 | 2 | Detect Magic, Improved Evasion, Moving Attack
+6   | 4   | 2 | 5 | 3 | Sneak Attack +3d6, Mercurial Charge, Death From Above
 
 **Weapon and Armor Proficiency**: Thief Acrobats are proficient with all simple weapons, as well as the sap, the shortsword, the whip, the bolas, the spear, the longstaff, and the shuriken. Thief Acrobats are proficient with light armor but not with shields of any kind.
 

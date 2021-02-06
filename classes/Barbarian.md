@@ -9,11 +9,11 @@
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
 1   | 1   | 2 | 0 | 0 | Fast Movement, Illiteracy, Rage, Power Attack    
-2   | 2   | 3 | 0 | 0 | Skirmish +1d6  
+2   | 2   | 3 | 1 | 0 | Skirmish +1d6  
 3   | 3   | 3 | 1 | 1 | Damage Reduction 1/-, endurance
-4   | 4   | 4 | 1 | 1 | Greater Fast Movement, Improved Healing        
-5   | 5   | 4 | 1 | 1 | Unshakeable
-6   | 6/1 | 5 | 2 | 2 | Damage Reduction 2/-, Greater Improved Healing      
+4   | 4   | 4 | 2 | 1 | Greater Fast Movement, Improved Healing        
+5   | 5   | 4 | 2 | 1 | Unshakeable
+6   | 6/1 | 5 | 3 | 2 | Damage Reduction 2/-, Greater Improved Healing      
 
 **Weapon and Armor Proficiency**: A barbarian is proficient with all simple and martial weapons, light armor, medium armor, and shields (except tower shields).
 
@@ -25,7 +25,7 @@ LVL | BAB | F | R | W | Special
 
 Because of regeneration, damage a barbarian takes while raging is treated as nonlethal damage, and healed at a rate of 1 hit point per round. Damage taken before entering a rage is treated normally, and any nonlethal damage remaining when a barbarian exits rage is converted to lethal damage.
 
-While raging, a barbarian cannot use any Charisma, Dexterity, or Intelligence based skills (except for Balance, Escape Artist, Intimidate, and Ride), the Concentration skill, or any abilities that require patience or concentration, nor can he cast spells or activate magic items that require a command word, a spell trigger (such as a wand), or spell completion (such as a scroll) to function.
+While raging, a barbarian cannot use any Charisma, Dexterity, or Intelligence based skills (except for Balance, Escape Artist, Intimidate, Tumble, and Ride), the Concentration skill, or any abilities that require patience or concentration, nor can he cast spells or activate magic items that require a command word, a spell trigger (such as a wand), or spell completion (such as a scroll) to function.
 
 **Power Attack**: At 1st level a barbarian gains the feat power attack, if the barbarian already has this feat they can instead select a different feat for which they meet the prerequisites.
 

@@ -31,7 +31,7 @@ A horizon walker can change the planes he is attuned to by spending a week in ca
 
 The horizon walker may bring touched objects, so long as their weight does not exceed his maximum load. He cannot however bring other creatures.
 
-**Horizon Guide**(Su): A 6th level horizon walker may expend a swift action to allow himself and up to three allies within 60 feet to teleport up to 60 feet. This teleportation functions like horizon step. This ability is usable up to six times per day, using it does not provoke attacks of opportunity.
+**Horizon Guide**(Su): A 6th level horizon walker may expend a swift action to allow himself and up to three allies within 60 feet to teleport up to 60 feet. This teleportation functions like horizon step. This ability is usable up to six times per day, using it does not provoke attacks of opportunity. After using this ability, the horizon walker must wait 1d4 round before using it again.
 
 ## Terrain Mastery Benefits
 

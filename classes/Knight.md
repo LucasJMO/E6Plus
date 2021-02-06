@@ -8,16 +8,16 @@
 
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
-1   | 1   | 2 | 0 | 2 | Code of Conduct, Draw Fire, Shield Mastery       
-2   | 2   | 3 | 0 | 3 | Bastion of Defense, Defensive Fighter
-3   | 3   | 3 | 1 | 3 | Energy Resistance, Speak to Animals
-4   | 4   | 4 | 1 | 4 | Damage Reduction, Immunity to Fear, Knightly Spirit
-5   | 5   | 4 | 1 | 4 | Sacrifice, Mettle
-6   | 6/1 | 5 | 2 | 5 | Defend Others, Immovable Stance, Quick Recovery
+1   | 1   | 2 | 0 | 0 | Code of Conduct, Draw Fire, Shield Mastery       
+2   | 2   | 3 | 0 | 1 | Bastion of Defense, Defensive Fighter
+3   | 3   | 3 | 1 | 1 | Energy Resistance, Speak to Animals
+4   | 4   | 4 | 1 | 2 | Damage Reduction, Immunity to Fear, Knightly Spirit
+5   | 5   | 4 | 1 | 2 | Sacrifice, Mettle
+6   | 6/1 | 5 | 2 | 3 | Defend Others, Immovable Stance, Quick Recovery
 
 **Weapon and Armor Proficiency**: Knights are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with all shields (including tower shields).
 
-**Code of Conduct**: A knight must abide by the following rules. Breaking any results in the loss of knightly abilities until atonement is completed. A knight must refuse bonuses from Aid Another actions in combat, a knight must refrain from the use of poisons of any kind, a knight may not voluntarily change shape, and a knight may not sell magic items.
+**Code of Conduct**: A knight must abide by the following rules. Breaking any results in the loss of knightly abilities until atonement is completed. A knight must refuse bonuses from Aid Another actions in combat, a knight must refrain from the use of poisons of any kind, and a knight may not voluntarily change shape.
 
 **Draw Fire**: With a Swift Action, a knight may pique the interest of any opponent with intelligence 6 or less within 60 feet. That creature must make a will save (DC 10 + 1/2 knight level + constitution modifier) or spend all of its actions moving towards or attacking the knight. This effect ends after a number of rounds equal to the knight’s class level, and creatures targeted by this effect can not be affected by it again for the next 24 hours (from the knight targeting them, they can still be affected by other knights using the ability).
 
@@ -25,9 +25,9 @@ LVL | BAB | F | R | W | Special
 
 **Bastion of Defense**: All adjacent allies except the knight gain a +2 Dodge bonus to their AC and Reflex Saves.
 
-**Defensive Fighter**: A knight who chooses to fight defensively incurs only a -2 penalty on attack rolls and gains a +4 dodge bonus to AC.
+**Defensive Fighter**: A knight who chooses to fight defensively incurs only a -2 penalty on attack rolls.
 
-**Energy Resistance**: As a swift action, a 3rd level knight may grant herself Energy Resistance against any type of energy equal to her knight Level plus her Shield Bonus (as with damage reduction, this bonus can only come from a physically held shield). This energy resistance lasts until she spends a Swift Action to choose another Energy type, or her Shield Bonus is reduced.
+**Energy Resistance**: A 3rd level knight may expend a swift action to grant herself Energy Resistance against any type of energy equal to her Shield Bonus (as with damage reduction, this bonus can only come from a physically held shield). This energy resistance lasts until she spends a Swift Action to choose another Energy type, or her Shield Bonus is reduced.
 
 **Speak to Animals**: A knight gains a bonus to her Ride and Handle Animal checks equal to half her knight level.
 
