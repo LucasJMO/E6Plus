@@ -4,6 +4,8 @@
 
 The skills Climb, Jump, and Swim are combined into the skill Acrobatics. Bonuses which would be applied to Climb/Jump/Swim checks are instead applied to Athletics checks made to climb/jump/swim.
 
+Any class which had Climb, Jump, or Swim as a class skill gains Athletics as a class skill.
+
 ## Bluff:
 
 A Bluff check is opposed by the target's Wisdom modifier. See the accompanying table for examples of different kinds of bluffs and the modifier to the target's Wisdom check for each one.
@@ -40,7 +42,7 @@ Use the table below to determine the effectiveness of Diplomacy checks (or Chari
 
 Initial Attitude|Hostile|Unfriendly|Indifferent|Friendly
 ----------------|-------|----------|-----------|--------
-Hostile|-|30|35|45
+Hostile|Less than 30|30|35|45
 Unfriendly|Less than 10|10|25|35
 Indifferent|-|Less than 5|5|25
 Friendly|-|-|Less than 1|1
@@ -130,3 +132,5 @@ You speak a similar language to the language being spoken|-10
 While attempting to communicate with a creature with which you do not share a common language, you must first select a known language as the base for your attempt. The DC is 25 to communicate simple ideas, 35 to communicate moderately complex ideas, and 45 to communicate complex ideas. 
 
 If the base language selected is a similar to a language spoken by the creature gain a +10 to the Speak Language roll. If the base language shares an alphabet with a language spoken by the creature gain an additional +5 to your roll.
+
+You may take 10 or 20 on Speak Language checks.
