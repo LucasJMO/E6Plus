@@ -1,5 +1,9 @@
 # Alternate Rules for Skills
 
+## Class Skills:
+
+A 1st level character may select three additional skills to make class skills.
+
 ## Athletics:
 
 The skills Climb, Jump, and Swim are combined into the skill Acrobatics. Bonuses which would be applied to Climb/Jump/Swim checks are instead applied to Athletics checks made to climb/jump/swim.

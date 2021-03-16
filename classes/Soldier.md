@@ -8,12 +8,12 @@
 
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
-1   | 1   | 2 | 0 | 0 | Armor Master, Combat Focus          
-2   | 2   | 3 | 0 | 1 | Active Assault, Problem Solver          
-3   | 3   | 3 | 1 | 1 | Pack Mule 
-4   | 4   | 4 | 1 | 2 | Bonus Feat, Exotic Weapon Master
-5   | 5   | 4 | 1 | 2 | Array of Stunts       
-6   | 6/1 | 5 | 2 | 3 | Foil Action
+1   | 1   | 2 | 0 | 0 | Armor master, combat focus          
+2   | 2   | 3 | 0 | 1 | Active assault, problem solver          
+3   | 3   | 3 | 1 | 1 | Pack mule 
+4   | 4   | 4 | 1 | 2 | Bonus feat, exotic weapon master
+5   | 5   | 4 | 1 | 2 | Array of stunts       
+6   | 6/1 | 5 | 2 | 3 | Foil action
 
 **Weapon and Armor Proficiency**: A soldier is proficient with all simple and martial weapons and with all armor (heavy, medium, and light) and shields (including tower shields).
 

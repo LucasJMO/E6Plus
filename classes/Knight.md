@@ -8,12 +8,12 @@
 
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
-1   | 1   | 2 | 0 | 0 | Code of Conduct, Draw Fire, Shield Mastery       
-2   | 2   | 3 | 0 | 1 | Bastion of Defense, Defensive Fighter
-3   | 3   | 3 | 1 | 1 | Energy Resistance, Speak to Animals
-4   | 4   | 4 | 1 | 2 | Damage Reduction, Immunity to Fear, Knightly Spirit
-5   | 5   | 4 | 1 | 2 | Sacrifice, Mettle
-6   | 6/1 | 5 | 2 | 3 | Defend Others, Immovable Stance, Quick Recovery
+1   | 1   | 2 | 0 | 0 | Code of conduct, draw fire, shield mastery       
+2   | 2   | 3 | 0 | 1 | Bastion of defense, defensive fighter
+3   | 3   | 3 | 1 | 1 | Energy resistance, speak to animals
+4   | 4   | 4 | 1 | 2 | Damage reduction, immunity to fear, knightly spirit
+5   | 5   | 4 | 1 | 2 | Sacrifice, mettle
+6   | 6/1 | 5 | 2 | 3 | Defend others, immovable stance, quick recovery
 
 **Weapon and Armor Proficiency**: Knights are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with all shields (including tower shields).
 

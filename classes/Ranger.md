@@ -8,12 +8,12 @@
 
 LVL | BAB | F | R | W | Special | 1 | 2 
 --- | --- | - | - | - | ------- | - | -
-1   | 1   | 2 | 2 | 0 | 1st Favored Enemy, Track, Wild Empathy, Precise Shot | - | -
-2   | 2   | 3 | 3 | 0 | Combat Style | - | -
-3   | 3   | 3 | 3 | 1 | Endurance, 2nd Favored Enemy, Quick Draw | - | -
-4   | 4   | 4 | 4 | 1 | Animal Companion | 1 | -
-5   | 5   | 4 | 4 | 1 | 3rd Favored Enemy | 2 | 1
-6   | 6/1 | 5 | 5 | 2 | Improved Combat Style, Flexible Favored Enemy | 3 | 2
+1   | 1   | 2 | 2 | 0 | 1st favored enemy, track, wild empathy, precise shot | - | -
+2   | 2   | 3 | 3 | 0 | Combat style | - | -
+3   | 3   | 3 | 3 | 1 | Endurance, 2nd favored enemy, quick draw | - | -
+4   | 4   | 4 | 4 | 1 | Animal companion | 1 | -
+5   | 5   | 4 | 4 | 1 | 3rd favored enemy | 2 | 1
+6   | 6/1 | 5 | 5 | 2 | Improved combat style, flexible favored enemy | 3 | 2
 
 **Weapon and Armor Proficiency**: A ranger is proficient with all simple and martial weapons, and with light armor and shields (except tower shields).
 

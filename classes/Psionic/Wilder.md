@@ -8,7 +8,7 @@
 
 LVL | BAB | F | R | W | Special | Power Points/Day | Powers Known | Maximum Power Level Known
 --- | --- | - | - | - | ------- | ---------------- | ------------ | -------------------------
-1   | 0   | 0 | 0 | 2 | Wild surge +1, psychic enervation, psicrystal affinity, discipline | 4 | 3 			  | 1st 
+1   | 0   | 0 | 0 | 2 | Wild surge +1, psychic enervation, psicrystal affinity, discipline | 4 | 3 | 1st 
 2   | 1   | 0 | 0 | 3 | Elude touch			   | 11| 3			  | 1st
 3   | 2   | 1 | 1 | 3 | Wild surge +2		   | 18| 3			  | 1st
 4   | 3   | 1 | 1 | 4 | Surging euphoria 	   | 27| 4			  | 2nd

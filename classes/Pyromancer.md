@@ -8,12 +8,12 @@
 
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
-1   | 0   | 0 | 2 | 0 | Fire Resistance, Fire Burst, Fire Bolts, Impress Flames, Fire Magic, Nimbus
-2   | 1   | 0 | 3 | 1 | Ignite, smokeless flame
-3   | 2   | 1 | 3 | 1 | Piercing Flames, Hands of Fire
-4   | 3   | 1 | 4 | 2 | Fire Immunity
-5   | 3   | 1 | 4 | 2 | Fireballs
-6   | 4   | 2 | 5 | 3 | Mind of Fire
+1   | 0   | 0 | 2 | 0 | Fire resistance, fire burst, fire bolts, impress flames, fire magic, nimbus
+2   | 1   | 1 | 3 | 1 | Ignite, smokeless flame
+3   | 2   | 1 | 3 | 1 | Piercing flames, hands of fire
+4   | 3   | 2 | 4 | 2 | Fire immunity
+5   | 3   | 2 | 4 | 2 | Fireballs
+6   | 4   | 3 | 5 | 3 | Mind of fire
 
 **Weapon and Armor Proficiency**: Pyromancers are proficient with all simple weapons, as well as the whip, all martial axes, and all sizes and varieties of scimitar (including falchions). Pyromancers are proficient with light armor, but not shields of any kind.
 
@@ -29,7 +29,7 @@ Although a pyromancer can become proficient with other forms of armor, wearing m
 
 **Fire Magic**: A Pyromancer is considered to have every spell with the Fire Descriptor on his spell list for the purpose of activating magic items.
 
-**Nimbus**: Once per day a pyromancer can wreathe himself in flames. While nimbus is active creatures who strike the pyromancer in melee suffer 1d4 points of fire damage. Activating nimbus requires a free action and it lasts for 3 rounds.
+**Nimbus**: Once per day per three class levels (rounded up) pyromancer can wreathe himself in flames. While nimbus is active the pyromancer gains damage reduction 2/-, and creatures who strike him in melee suffer 1d4 points of fire damage. Activating nimbus requires a free action and it lasts for 3 rounds.
 
 **Ignite**(Su): As a standard action, a 2nd level Pyromancer can cause any creature or object to burst into flame. A creature on fire suffers 1d4 of Fire damage per round on their turn (the Mage’s Impress Flames ability applies to each round). At the start of its turn, the creature can expend a move equivalent action to attempt a Reflex save (DC 10 + 1/2 class level + charisma modifier), if the creature succeeds it still takes damage for the turn, however the flames are extinguished. If the flames are not extinguished they go out on their own after three rounds. This ability can be used out to 20 feet per level, and it always hits.
 

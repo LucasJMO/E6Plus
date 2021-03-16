@@ -9,11 +9,11 @@
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
 1   | 0   | 2 | 0 | 0 | Fire weapon, fire resistance, nimbus
-2   | 1   | 3 | 1 | 0 | Fire burst, fire weapon +1
+2   | 1   | 3 | 1 | 1 | Fire burst, fire weapon +1
 3   | 2   | 3 | 1 | 1 | Fire bolt, piercing flames, smokeless flame
-4   | 3   | 4 | 2 | 1 | Explosive charge, fire immunity, fire weapon +2
-5   | 3   | 4 | 2 | 1 | Free draw
-6   | 4   | 5 | 3 | 2 | Firewalk, fire weapon +3
+4   | 3   | 4 | 2 | 2 | Explosive charge, fire immunity, fire weapon +2
+5   | 3   | 4 | 2 | 2 | Free draw
+6   | 4   | 5 | 3 | 3 | Firewalk, fire weapon +3
 
 **Weapon and Armor Proficiency**: Pyrokineticists are proficient with all simple and martial weapons. Pyrokineticists are proficient with light armor and medium armor, but not shields of any kind.
 

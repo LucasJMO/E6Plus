@@ -39,13 +39,13 @@ Alternatively, a blackguard can use any or all of this power to cure damage to u
 
 **Aura of Despair**(Su): Beginning at 3rd level, the blackguard radiates a malign aura that causes enemies within 10 feet of him to take a -2 penalty on all saving throws.
 
-**Dark Resilience**: A 3rd level blackguard may be infected with diseases and show symptoms, but does not suffer any of the ill effects (ability score damage, hit point damage, etc).
+**Dark Resilience**(Ex): A 3rd level blackguard may be infected with diseases and show symptoms, but does not suffer any of the ill effects (ability score damage, hit point damage, etc).
 
 **Special Mount**(Sp): A 6th level blackguard gains the ability to summon an unusually intelligent, strong, and loyal steed. This mount is usually a heavy warhorse (for a Medium blackguard) or a warpony (for a Small blackguard). A blackguard's mount is treated as a magical beast, not an animal, for the purpose of all effects the depend on its type (though it retains an animal's HD, base attack bonus, saves, skill points, and feats).
 
-The summoning ritual requires an hour of unbroken meditation. Once summoned the mount is treated as a normal magical beast (it must be fed/rested), and remains until it drops to 0 hit points or is dismissed (dismissal is a free action), a mount that is killed or dismissed leaves behind no physical form. In either case repeating the ritual summons the same mount, restored to its hit point maximum.
+The summoning ritual requires an hour of unbroken meditation. Once summoned the mount is treated as a normal magical beast (it must be fed/rested), and remains until it drops to 0 hit points or is dismissed (dismissal is a free action), a mount that is killed or dismissed leaves behind no physical form. A dismissed mount can be summoned again by repeating the ritual. A mount that is killed can not be summoned again until the blackguard visits a shrine or temple to their god, and spends a day in meditation there.
 
-**Contagion**: A 6th level blackguard can cast Contagion, as the spell, once per week.
+**Contagion**(Sp): A 6th level blackguard can cast Contagion, as the spell, once per week.
 
 **Cruel Champion**: A 6th level blackguard gains darkvision out to 60 feet, damage reduction 2/-, and +2 Charisma. Additionally as a free action she can choose to snuff out all non-magical sources of light within 5 feet of her.
 

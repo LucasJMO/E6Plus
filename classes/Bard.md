@@ -8,12 +8,12 @@
 
 LVL | BAB | F | R | W | Special | 0 | 1 | 2
 --- | --- | - | - | - | ------- | - | - | -
-1   | 1   | 0 | 2 | 0 | Advanced Learning, Bardic Knowledge, Heroic Note +1, Skill Focus (Perform), Song of Life | 4/2 |  -  |  -  
-2   | 2   | 0 | 3 | 1 | Clever Melody, Song of Shelter, Song of Evasion | 5/3 | 2/1 |  -  
-3   | 3   | 1 | 3 | 1 | Song of Freedom | 6/3 | 3/1 | 2/1
-4   | 4   | 1 | 4 | 2 | Song of Battle | 6/3 | 3/2 | 3/1
-5   | 5   | 2 | 4 | 2 | Heroic Note +2 | 6/3 | 4/3 | 3/1
-6   | 6/1 | 2 | 5 | 3 | Song of Swiftness, Combine Songs, Power Song | 6/3 | 4/3 | 3/2
+1   | 1   | 0 | 2 | 0 | Advanced learning, bardic knowledge, heroic note +1, skill focus (Perform), song of life | 4/2 |  -  |  -  
+2   | 2   | 0 | 3 | 1 | Clever melody, song of shelter, song of evasion | 5/3 | 2/1 |  -  
+3   | 3   | 1 | 3 | 1 | Song of freedom | 6/3 | 3/1 | 2/1
+4   | 4   | 1 | 4 | 2 | Song of battle | 6/3 | 3/2 | 3/1
+5   | 5   | 2 | 4 | 2 | Heroic note +2 | 6/3 | 4/3 | 3/1
+6   | 6/1 | 2 | 5 | 3 | Song of swiftness, combine songs, power song | 6/3 | 4/3 | 3/2
 
 **Weapon and Armor Proficiency**: A bard is proficient with all simple and martial weapons. Bards are proficient with light armor, medium armor, and shields (except tower shields). A bard can cast bard spells while wearing light or medium armor without incurring the normal arcane spell failure chance. However wearing heavy armor or using a shield incurs a chance of arcane spell failure if the spell being cast has a somatic component. A multiclass bard still incurs the normal arcane spell failure chance for arcane spells received from other classes.
 
@@ -21,7 +21,7 @@ LVL | BAB | F | R | W | Special | 0 | 1 | 2
 
 Upon reaching 4th level, and at every bard level after that, a bard can choose to learn a new spell in place of one he already knows. 
 
-**Advanced Learning**: At 1st, 2nd, and 4th level, a bard can gain an additional spell known, from a spell list outside of her own (should she choose to do so). The spell may be of a level no higher than that of the highest level spell the bard already knows. If a spell appears on multiple spell lists, use the lowest level version.
+**Advanced Learning**(Ex): At 1st, 2nd, and 4th level, a bard can gain an additional spell known, from a spell list outside of her own (should she choose to do so). The spell may be of a level no higher than that of the highest level spell the bard already knows. If a spell appears on multiple spell lists, use the lowest level version.
 
 **Bardic Knowledge**: A bard may make a special bardic knowledge check with a bonus equal to bard level + intelligence modifier + ranks in knowledge (history) divided by two. A successful bardic knowledge check will not reveal the powers of a magic item, but may give a hint as to its general function. A bard may not take 10 or 20 on this check.
 

@@ -19,7 +19,7 @@ LVL | BAB | F | R | W | Special | 0 | 1 | 2 | 3
 
 A cleric who chooses the War domain receives the Weapon Focus feat related to his deity’s weapon as a bonus feat. He also receives the appropriate Martial Weapon Proficiency feat as a bonus feat, if the weapon falls into that category.
 
-**Aura**: A cleric of a chaotic, evil, good, or lawful deity has a particularly powerful aura corresponding to the deity’s alignment (see the detect evil spell for details). Clerics who don’t worship a specific deity but choose the Chaos, Evil, Good, or Law domain have a similarly powerful aura of the corresponding alignment.
+**Aura**(Ex): A cleric of a chaotic, evil, good, or lawful deity has a particularly powerful aura corresponding to the deity’s alignment (see the detect evil spell for details). Clerics who don’t worship a specific deity but choose the Chaos, Evil, Good, or Law domain have a similarly powerful aura of the corresponding alignment.
 
 **Spells**: A cleric casts divine spells, which are drawn from the cleric spell list. To prepare or cast a spell, a cleric must have a Wisdom score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a cleric’s spell is 10 + the spell level + the cleric’s Wisdom modifier.
 

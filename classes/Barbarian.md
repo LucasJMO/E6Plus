@@ -8,7 +8,7 @@
 
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
-1   | 1   | 2 | 0 | 0 | Fast Movement, Illiteracy, Rage, Power Attack    
+1   | 1   | 2 | 0 | 0 | Fast Movement, illiteracy, rage, power attack    
 2   | 2   | 3 | 1 | 0 | Skirmish +1d6  
 3   | 3   | 3 | 1 | 1 | Damage Reduction 1/-, endurance
 4   | 4   | 4 | 2 | 1 | Greater Fast Movement, Improved Healing        
@@ -29,16 +29,16 @@ While raging, a barbarian cannot use any Charisma, Dexterity, or Intelligence ba
 
 **Power Attack**: At 1st level a barbarian gains the feat power attack, if the barbarian already has this feat they can instead select a different feat for which they meet the prerequisites.
 
-**Damage Reduction**: At 3rd level a barbarian gains Damage Reduction. Substract 1 from damage the barbarian takes each time he is dealt damage. At 6th level this reduction increases to 2.
+**Damage Reduction**(Ex): At 3rd level a barbarian gains Damage Reduction. Substract 1 from damage the barbarian takes each time he is dealt damage. At 6th level this reduction increases to 2.
 
 **Endurance**: A barbarian gains endurance as a bonus feat at 3rd level. If they already have this feat they may select another feat for which they meet the prerequisites. 
 
-**Skirmish**: A 2nd level barbarian deals an extra 1d6 damage on the first attack she makes during any turn in which she moves at least 10 feet away from where she was at the start of her turn. 
+**Skirmish**(Ex): A 2nd level barbarian deals an extra 1d6 damage on the first attack she makes during any turn in which she moves at least 10 feet away from where she was at the start of her turn. 
 
-**Greater Fast Movement**: Add +10 to land speed, this stacks with the bonus from fast movement.
+**Greater Fast Movement**(Ex): Add +10 to land speed, this stacks with the bonus from fast movement.
 
-**Improved Healing**: A 4th level barbarian gains an enhancement to their natural healing abilities. Every time a barbarian rests they recover an additional hit point per hit die. 
+**Improved Healing**(Ex): A 4th level barbarian gains an enhancement to their natural healing abilities. Every time a barbarian rests they recover an additional hit point per hit die. 
 
-**Unshakeable**: A 5th level barbarian who is reduced to 0 hit points is not disabled (they are not limited to a single move or standard action each round). Additionally, a barbarian with 0 or fewer hit points recovers 1 hit point per round. 
+**Unshakeable**(Ex): A 5th level barbarian who is reduced to 0 hit points is not disabled (they are not limited to a single move or standard action each round). Additionally, a barbarian with 0 or fewer hit points recovers 1 hit point per round. 
 
-**Greater Improved Healing**: A 6th level barbarian's healing improves even further, letting them recover 1 hitpoint for every 10 minutes spent out of combat. 
+**Greater Improved Healing**(Ex): A 6th level barbarian's healing improves even further, letting them recover 1 hitpoint for every 10 minutes spent out of combat. 

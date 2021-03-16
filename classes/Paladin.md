@@ -8,12 +8,12 @@
 
 LVL | BAB | F | R | W | Special | 1 | 2 
 --- | --- | - | - | - | ------- | - | -
-1   | 1   | 2 | 0 | 0 | Aura of Good, Detect Evil, Smite Evil 1/day | - | -  
-2   | 2   | 3 | 0 | 1 | Divine Grace, Harm Undead, Healing Word | - | -  
-3   | 3   | 3 | 1 | 1 | Aura of Courage, Divine Health | - | -
-4   | 4   | 4 | 1 | 2 | Turn Undead | 1 | -
-5   | 5   | 4 | 1 | 2 | Smite Evil 2/day | 1 | -
-6   | 6/1 | 5 | 2 | 3 | Brilliant Champion, Special Mount, Remove Disease | 2 | 1
+1   | 1   | 2 | 0 | 0 | Aura of good, detect evil, smite evil 1/day | - | -  
+2   | 2   | 3 | 0 | 1 | Divine grace, harm undead, healing word | - | -  
+3   | 3   | 3 | 1 | 1 | Aura of courage, divine health | - | -
+4   | 4   | 4 | 1 | 2 | Turn undead | 1 | -
+5   | 5   | 4 | 1 | 2 | Smite evil 2/day | 1 | -
+6   | 6/1 | 5 | 2 | 3 | Brilliant champion, special mount, remove disease | 2 | 1
 
 **Weapon and Armor Proficiency**: Paladins are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with all shields (including tower shields).
 
@@ -41,13 +41,13 @@ At 5th level the paladin may smite evil one additional time per day.
 
 **Turn Undead**(Su): A 4th level paladin gains the supernatural ability to turn undead. She may use this ability a number of times per day equal to 3 + her Charisma modifier. She turns undead as a cleric of three levels lower would.
 
-**Brilliant Champion**: A 6th level paladin gains darkvision out to 60 feet, damage reduction 2/-, and +2 Charisma. Additionally as a free action she can choose to emanate a dim glow, illuminating all adjacent spaces.
+**Brilliant Champion**(Su): A 6th level paladin gains darkvision out to 60 feet, damage reduction 2/-, and +2 Charisma. Additionally as a free action she can choose to emanate a dim glow, illuminating all adjacent spaces.
 
 **Remove Disease**(Sp): A 6th level paladin can produce a remove disease effect, as the spell, once per week.
 
 **Special Mount**(Sp): A 6th level paladin gains the ability to summon an unusually intelligent, strong, and loyal steed. This mount is usually a heavy warhorse (for a Medium paladin) or a warpony (for a Small paladin). A paladin's mount is treated as a magical beast, not an animal, for the purpose of all effects the depend on its type (though it retains an animal's HD, base attack bonus, saves, skill points, and feats).
 
-The summoning ritual requires an hour of unbroken meditation. Once summoned the mount is treated as a normal magical beast (it must be fed/rested), and remains until it drops to 0 hit points or is dismissed (dismissal is a free action), a mount that is killed or dismissed leaves behind no physical form. In either case repeating the ritual summons the same mount, restored to its hit point maximum.
+The summoning ritual requires an hour of unbroken meditation. Once summoned the mount is treated as a normal magical beast (it must be fed/rested), and remains until it drops to 0 hit points or is dismissed (dismissal is a free action), a mount that is killed or dismissed leaves behind no physical form. A dismissed mount can be summoned again by repeating the ritual. A mount that is killed can not be summoned again until the paladin visits a shrine or temple to their god, and spends a day in meditation there.
 
 **The Paladin's Mount**:
 
