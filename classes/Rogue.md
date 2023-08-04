@@ -8,8 +8,8 @@
 
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
-1   | 0   | 0 | 2 | 0 | Sneak attack +1d6, trapfinding 
-2   | 1   | 0 | 3 | 1 | Evasion
+1   | 0   | 0 | 2 | 0 | Sneak attack +1d6, special ability, trapfinding
+2   | 1   | 0 | 3 | 1 | Evasion, special ability
 3   | 2   | 1 | 3 | 1 | Sneak attack +2d6, trap sense +1, special ability  
 4   | 3   | 1 | 4 | 2 | Uncanny dodge, special ability x2
 5   | 3   | 2 | 4 | 2 | Sneak attack +3d6, special ability x2
@@ -37,15 +37,15 @@ A rogue who beats the trap's DC by 10 or more with a Disable Device check can st
 
 ## Special Ability 
 
-At 3rd level, a rogue may select one of active assault, combat focus, damage reduction, dark caster, defensive roll, dextrous trip, fast movement, fear aura, greater improved healing, hide in plain sight, improved evasion, improved reaction, jester's feint, mettle, moving attack, opportunist, pratfall, rapid stealth, skill mastery, slippery mind, or unshakeable. Then at 4th, 5th, and 6th level he may select two special abilities from the list.
+At 1st, 2nd, and 3rd level a rogue may select one of active assault, combat focus, damage reduction, dark caster, defensive roll, dextrous trip, fast movement, fear aura, greater improved healing, hide in plain sight, improved evasion, improved reaction, improved sneak attac, jester's feint, mettle, moving attack, opportunist, pratfall, rapid stealth, skill mastery, slippery mind, or unshakeable. Then at 4th, 5th, and 6th level he may select two special abilities from the list. Each special ability may only be selected once unless otherwise specified.
 
 **Active Assault**: A rogue gains the ability to take his 5-foot steps out of turn. If on his turn he would have been allowed to take a 5-foot step but elected not to, he may expend an immediate action any time before his next turn to take a 5-foot step. If he took a 5-foot step (or any other form of movement) on his previous turn, he may still expend an immediate action to take a 5-foot step, but if he does, he may not take any other forms of movement on his next turn.
 
 **Combat Focus**: A rogue begins any combat encounter in combat focus. He may end his combat focus at any time to reroll any die roll he makes, and if not used it ends on its own after a number of combat rounds equal to his class level. Voluntarily ending combat focus requires the use of a swift action (or an immediate action if it is not the rogue's turn), re-entering combat focus after ending it requires the use of a move action.
 
-**Damage Reduction**: A rogue gains damage reduction 2/-.
+**Damage Reduction**: A rogue gains damage reduction 2/-. This ability may be selected up to 3 times.
 
-**Dark Caster**: A rogue can learn a spell of 2nd level or lower and cast it a number of times per day equal to rogue level divided by spell level plus one (rounded down). Save DC is 10 + spell level + Charisma modifier. Treat rogue level as caster level.
+**Dark Caster**: A rogue can learn a spell of 2nd level or lower and cast it a number of times per day equal to rogue level divided by spell level. Save DC is 10 + spell level + Charisma modifier. Treat rogue level as caster level.
 
 **Defensive Roll**: If an attack (from a weapon or some other blow) would reduce a rogue to 0 or fewer hit points. The rogue may attempt a reflex saving throw (DC = damage dealt). If the save succeeds, he takes only half damage from the blow.
 
@@ -55,13 +55,15 @@ At 3rd level, a rogue may select one of active assault, combat focus, damage red
 
 **Fear Aura**: A rogue radiates a 5-foot-radius fear aura as a free action. Enemies in the area must succeed on a Will save (DC 10 + 1/2 her class level + her Cha modifier) or become shaken. A creature who successfully saves cannot be affected by that rogue's fear aura for 24 hours.
 
+**Greater Improved Healing**: A rogue gains an enhancement to their natural healing abilities. For every 10 minutes a rogue spends out of combat they recover 1 hitpoint. This is in addition to hitpoints regained via other methods (resting for example).
+
 **Hide in Plain Sight**: A rogue with hide in plain sight can use the Hide skill even while being observed (as long as he is within 10 feet of some sort of shadow). He cannot however, hide in his own shadow.
 
 **Improved Evasion**: This ability works like evasion, except that while the rogue still takes no damage on a successful Reflex saving throw against attacks henceforth she takes only half damage on a failed save. A helpless rogue does not gain the benefit of improved evasion.
 
-**Greater Improved Healing**: A rogue gains an enhancement to their natural healing abilities. For every 10 minutes a rogue spends out of combat they recover 1 hitpoint. This is in addition to hitpoints regained via other methods (resting for example).
-
 **Improved Reaction**: A rogue gains a +2 untyped initiative bonus.
+
+**Improved Sneak Attack**: A rogue gains an additional 1d6 bonus damage when sneak attacking.
 
 **Jester's Feint**: As a swift action a rogue may toss a brightly colored object in the square of an enemy with a Sleight of Hand check opposed by the enemy’s Spot check. If he succeeds, the enemy is denied his Dex bonus for the rogue’s next attack. This ability has a range of 30 ft.
 

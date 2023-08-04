@@ -13,7 +13,7 @@ LVL | BAB | F | R | W | Special
 3   | 2   | 1 | 3 | 1 | Sure climb, athletic cascade, rapid stealth, skirmish +1d6
 4   | 3   | 1 | 4 | 2 | Sneak attack +2d6, grapple line, skill mastery
 5   | 3   | 1 | 4 | 2 | Detect magic, improved evasion, moving attack
-6   | 4   | 2 | 5 | 3 | Sneak attack +3d6, mercurial charge, death from above
+6   | 4   | 2 | 5 | 3 | Sneak attack +3d6, mercurial charge, death from above, skirmish +2d6
 
 **Weapon and Armor Proficiency**: Thief Acrobats are proficient with all simple weapons, as well as the sap, the shortsword, the whip, the bolas, the spear, the longstaff, and the shuriken. Thief Acrobats are proficient with light armor but not with shields of any kind.
 
@@ -39,7 +39,7 @@ Additionally, a Thief Acrobat may use any pole like weapon as a double weapon. A
 
 **Rapid Stealth**: A Thief acrobat does not suffer the -10 penalty to Move Silently or Hide for moving at her full normal speed.
 
-**Skirmish**: A 2nd level Thief Acrobat deals an extra 1d6 damage on the first attack she makes during any turn in which she moves at least 10 feet away from where she was at the start of her turn. 
+**Skirmish**: A 2nd level Thief Acrobat deals an extra 1d6 damage on the first attack she makes during any turn in which she moves at least 10 feet away from where she was at the start of her turn. At 6th level the extra damage increases to 2d6.
 
 **Detect Magic**(Sp): A Thief Acrobat may use detect magic at-will as a spell-like ability. A Thief Acrobat may use her Appraise Skill in place of her Spellcraft in order to glean additional information from her detect magic.
 

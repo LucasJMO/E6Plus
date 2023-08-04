@@ -8,12 +8,12 @@
 
 LVL | BAB | F | R | W | Special | 0 | 1 | 2 | 3
 --- | --- | - | - | - | ------- | - | - | - | -
-1   | 0   | 0 | 0 | 2 | Animal companion, nature sense, wild empathy | 3 | 1 | - | -  
-2   | 1   | 1 | 0 | 3 | Woodland stride | 4 | 2 | -   | -
-3   | 1   | 1 | 1 | 3 | Trackless step | 4 | 2 | 1 | -
-4   | 2   | 2 | 1 | 4 | Resist nature's lure, wild shape (1/day) | 5 | 3 | 2 | -
-5   | 2   | 2 | 1 | 4 | Wild shape (2/day) | 5 | 3 | 2 | 1
-6   | 3   | 3 | 2 | 5 | Wild shape (3/day) | 5 | 3 | 3 | 2
+1   | 0   | 0 | 0 | 2 | Animal companion, nature sense, wild empathy | 5 | 3 | - | -  
+2   | 1   | 1 | 0 | 3 | Woodland stride | 6 | 4 | -   | -
+3   | 1   | 1 | 1 | 3 | Trackless step | 6 | 4 | 3 | -
+4   | 2   | 2 | 1 | 4 | Resist nature's lure, wild shape (1/day) | 7 | 5 | 4 | -
+5   | 2   | 2 | 1 | 4 | Wild shape (2/day) | 7 | 5 | 4 | 3
+6   | 3   | 3 | 2 | 5 | Wild shape (3/day) | 7 | 5 | 5 | 4
 
 **Weapon and Armor Proficiency**: Druids are proficient with the following weapons: club, dagger, dart, quarterstaff, scimitar, sickle, shortspear, sling, and spear. They are also proficient with all natural attacks (claw, bite, and so forth) of any form they assume with wild shape.
 

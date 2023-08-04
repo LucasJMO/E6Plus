@@ -8,12 +8,12 @@
 
 LVL | BAB | F | R | W | Special | 0 | 1 | 2
 --- | --- | - | - | - | ------- | - | - | -
-1   | 0   | 0 | 2 | 0 | Advanced learning, harlequin's mask, ignore components, poison use, skill focus (sleight of hand) | 2 |  -  |  -  
-2   | 1   | 0 | 3 | 1 | Sneak attack +1d6, evasion, laugh it off, trick throw | 3 | 0 |  -  
-3   | 2   | 1 | 3 | 1 | Weapon sleeve | 3 | 1 | -
-4   | 3   | 1 | 4 | 2 | Sneak attack +2d6, jester's feint | 3 | 2 | 0
-5   | 3   | 1 | 4 | 2 | Improvised weapon master, killer clown, last trick | 3 | 3 | 1
-6   | 4   | 2 | 5 | 3 | Sneak Attack +3d6, Pratfall | 3 | 3 | 2
+1   | 0   | 0 | 2 | 0 | Advanced learning, harlequin's mask, ignore components, poison use, skill focus (sleight of hand) | 4 |  -  |  -  
+2   | 1   | 0 | 3 | 1 | Sneak attack +1d6, evasion, laugh it off, trick throw | 5 | 2 |  -  
+3   | 2   | 1 | 3 | 1 | Weapon sleeve | 5 | 3 | -
+4   | 3   | 1 | 4 | 2 | Sneak attack +2d6, jester's feint | 5 | 4 | 2
+5   | 3   | 1 | 4 | 2 | Improvised weapon master, killer clown, last trick | 5 | 5 | 3
+6   | 4   | 2 | 5 | 3 | Sneak Attack +3d6, Pratfall, quick throw | 5 | 5 | 4
 
 **Weapon and Armor Proficiency**: Jesters are proficient with light armor but not with shields of any kind. A Jester is proficient with daggers, sickles, quarterstaves, darts, and slings, and suffers no attack penalty for using an improvised weapon. Additionally an improvised thrown weapon for a Jester has a range increment of 30 feet.
 
@@ -55,10 +55,12 @@ An enemy targeted by this ability multiple times gains a +10 bonus to Spot for e
 
 **Pratfall**(Ex): Any time a 6th level Jester strikes an opponent with a melee sneak attack, they may make a free trip attempt which does not provoke an attack of opportunity. They may use their Dexterity modifier as opposed to their Strength modifier for the purpose of this attempt.
 
+**Quick Throw**(Ex): When throwing improvised weapons a Jester is considered to have the feat Rapid Shot. This may serve as a prerequisite for other feats, however, any feats gained in this manner only apply to the throwing of improvised weapons.
+
 ## Jester Spells
 
 Level | Spells Known
 ----- | ------------
 **0** | Alarm, Detect Magic, Detect Poison, Grease, Unseen Servant, Ventriloquism
-**1** | Fire Trap, Hideous Laughter, Magic Mouth, Misdirection, Pyrotechnics, Reduce Person
-**2** | Baleful Transposition, Explosive Runes, Glitterdust, Invisibility, Rage, Touch of Idiocy
+**1** | Benign Transposition, Fire Trap, Guided Shot, Hideous Laughter, Magic Mouth, Misdirection, Pyrotechnics, Reduce Person, Silent Image
+**2** | Baleful Transposition, Blinding Color Surge, Explosive Runes, Glitterdust, Invisibility, Rage, Seeking Ray, Snake's Swiftness, Touch of Idiocy

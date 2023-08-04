@@ -9,15 +9,15 @@
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
 1   | 1   | 2 | 0 | 0 | Armor master, combat focus          
-2   | 2   | 3 | 0 | 1 | Active assault, problem solver          
+2   | 2   | 3 | 0 | 1 | Active assault, bonus feat, problem solver          
 3   | 3   | 3 | 1 | 1 | Pack mule 
 4   | 4   | 4 | 1 | 2 | Bonus feat, exotic weapon master
 5   | 5   | 4 | 1 | 2 | Array of stunts       
-6   | 6/1 | 5 | 2 | 3 | Foil action
+6   | 6/1 | 5 | 2 | 3 | Bonus feat, foil action
 
 **Weapon and Armor Proficiency**: A soldier is proficient with all simple and martial weapons and with all armor (heavy, medium, and light) and shields (including tower shields).
 
-**Bonus Feat**: At 4th level a soldier gains a bonus feat in addition to any feats from their normal level progression.
+**Bonus Feat**: At 2nd, 4th, and 6th level a soldier gains a bonus feat in addition to any feats from their normal level progression.
 
 **Combat Focus**(Ex): A soldier begins any combat encounter in combat focus. He may end his combat focus at any time to reroll any die roll he makes, and if not used it ends on its own after a number of combat rounds equal to his class level. Voluntarily ending combat focus requires the use of a swift action (or an immediate action if it is not the soldier's turn), re-entering combat focus after ending it requires the use of a move action.
 

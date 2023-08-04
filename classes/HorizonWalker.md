@@ -8,12 +8,12 @@
 
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
-1   | 1   | 0 | 2 | 0 | Terrain mastery
-2   | 2   | 1 | 3 | 1 | Terrain mastery
-3   | 3   | 1 | 3 | 1 | Terrain mastery
-4   | 4   | 2 | 4 | 2 | Terrain mastery, planar attunement
-5   | 5   | 2 | 4 | 2 | Terrain mastery, horizon step
-6   | 6/1 | 3 | 5 | 3 | Terrain mastery, horizon guide
+1   | 1   | 2 | 2 | 2 | Terrain mastery
+2   | 2   | 3 | 3 | 3 | Terrain mastery
+3   | 3   | 3 | 3 | 3 | Terrain mastery
+4   | 4   | 4 | 4 | 4 | Terrain mastery, planar attunement
+5   | 5   | 4 | 4 | 4 | Terrain mastery, horizon step
+6   | 6/1 | 5 | 5 | 5 | Terrain mastery, horizon guide
 
 **Weapon and Armor Proficiency**: A horizon walker is proficient with all simple and martial weapons. Horizon walkers are proficient with light armor, medium armor, and shields (except tower shields).
 
@@ -25,11 +25,11 @@ Horizon walkers take their terrain mastery with them wherever they go. They reta
 
 A horizon walker can change the planes he is attuned to by spending a week in careful meditation. He must full rest each night, and spend 12 hours each day connecting to the planes he wishes to attune himself to. He may use the remaining hours of the day to engage in simple, non-strenuous activity. Combat or use of his horizon step or horizon guide abilities will cause the attempt to fail, leaving him attuned to the same planes as he was before attempting to change.
 
-**Horizon Step**(Su): A 5th level horizon walker gains the ability to teleport a short distance every 1d4 rounds. Using this ability requires a swift action, the max range traveled is 60 feet, you must have line of sight to the desired destination, and if this ability would put you in a place that is already occupied by a solid body, it fails. This form of movement does not provoke attacks of opportunity, and is only available to a horizon walker wearing light, medium, or no armor.
+**Horizon Step**(Su): A 5th level horizon walker gains the ability to teleport a short distance every 1d3 rounds. Using this ability requires a swift action or a move equivalent action, the max range traveled is 60 feet, you must have line of sight to the desired destination, and if this ability would put you in a place that is already occupied by a solid body, it fails. This form of movement does not provoke attacks of opportunity, and is only available to a horizon walker wearing light, medium, or no armor.
 
 The horizon walker may bring touched objects, so long as their weight does not exceed his maximum load. He cannot however bring other creatures.
 
-**Horizon Guide**(Su): A 6th level horizon walker may expend a movement action to allow himself and up to three allies within 60 feet to teleport up to 60 feet. This teleportation functions like horizon step. This ability is usable up to six times per day, using it does not provoke attacks of opportunity. After using this ability, the horizon walker must wait 1d4 round before using it again.
+**Horizon Guide**(Su): A 6th level horizon walker may expend a swift action or a move equivalent action to allow himself and up to three allies within 60 feet to teleport up to 60 feet. This teleportation functions like horizon step. Using this ability does not provoke attacks of opportunity. After using this ability the horizon walker must wait 1d3 rounds before using it again.
 
 ## Terrain Mastery Benefits
 

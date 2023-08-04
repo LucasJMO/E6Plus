@@ -9,11 +9,11 @@
 LVL | BAB | F | R | W | Special | FOB | Unarmed Damage | ACB | USB
 --- | --- | - | - | - | ------- | --- | -------------- | --- | ---
 1   | 1   | 2 | 2 | 2 | Acrobatic, Bonus Feat, Flurry of Blows, Unarmed Strike, Weapon Finesse | -1/-1   | 1d6 | +0 | +10
-2   | 2   | 3 | 3 | 3 | Ki Ray, Evasion, Slow Fall 20ft | 0/0 | 1d6 | +1 | +10
+2   | 2   | 3 | 3 | 3 | Damage Reduction 1/-, Ki Ray, Evasion, Slow Fall 20ft | 0/0 | 1d6 | +1 | +10
 3   | 3   | 3 | 3 | 3 | Bonus Feat, Still Mind | +1/+1 | 1d6 | +1 | +10
-4   | 4   | 4 | 4 | 4 | Slow Fall 40ft | +2/+2 | 1d8 | +2 | +20
-5   | 5   | 4 | 4 | 4 | Purity of Body | +4/+4 | 1d8 | +2 | +20
-6   | 6/1 | 5 | 5 | 5 | Slow Fall 60ft, Snap Kick | +6/+6/+1 | 1d8 | +3 | +30
+4   | 4   | 4 | 4 | 4 | Damage Reduction 2/-, Slow Fall 40ft | +2/+2 | 1d8 | +2 | +20
+5   | 5   | 4 | 4 | 4 | Calm Spirit, Purity of Body | +4/+4 | 1d8 | +2 | +20
+6   | 6/1 | 5 | 5 | 5 | Damage Reduction 3/-, Furious Fist, Slow Fall 60ft, Snap Kick | +6/+6/+1 | 1d8 | +3 | +30
 
 **Weapon and Armor Proficiency**: Monks are proficient with club, crossbow (light or heavy), dagger, handaxe, javelin, kama, nunchaku, quarterstaff, sai, shuriken, siangham, and sling.
 
@@ -37,6 +37,8 @@ These bonuses to AC apply even against touch attacks or when the monk is flat-fo
 
 **Weapon Finesse**: A monk may use her Dexterity modifier instead of Strength modifier on unarmed attack rolls. 
 
+**Damage Reduction**(Ex): At 2nd level a monk gains Damage Reduction. Substract 1 from damage the barbarian takes each time he is dealt damage. This reduction increases to 2/- at 4th level and 3/- at 6th level.
+
 **Slow Fall**(Ex): At 2nd level or higher, a monk can slow her descent. When first using this ability, she takes damage as if the fall were 20 feet shorter than it actually is. At 4th level she takes damage as if the fall were 40 feet shorter than it actually is, and at 6th level she takes damage as if the fall were 60 feet shorter than it actually is.
 
 **Evasion**(Ex): At 2nd level or higher, if a monk makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can only be used if a monk is wearing light armor or no armor. A helpless monk does not gain the benefit of evasion.
@@ -47,6 +49,10 @@ These bonuses to AC apply even against touch attacks or when the monk is flat-fo
 
 **Ki Strike**: A 4th level monk's unarmed attacks are treated as magic weapons for the purpose of dealing damage to creatures with damage reduction.
 
+**Calm Spirit**(Ex): At the start of his turn a 5th level monk may choose to activate calm spirit as a free action. While calm spirit is active the monk loses his speed bonus and cannot use flurry of blows, however his armor class bonus and damage reduction (gained through monk class features) are both doubled.
+
 **Purity of Body**(Ex): At 5th level, a monk gains immunity to all diseases, except for supernatural and magical diseases.
+
+**Furious Fist**(Ex): A 6th level monk may choose to activate furious fist as a free action. After activating furious fist he can take no further movement during his turn. While furious fist is active any damage the monk deals or receives is doubled. Damage is doubled before damage reduction is applied. Furious fist only grants this benefit to melee attacks made by the monk. Ending furious fist requires a standard action, furious fist cannot be active at the same time as calm spirit.
 
 **Snap Kick**: A 6th level monk gains Snap Kick as a bonus feat, if she already has this feat she may instead select a different feat for which she meets the prerequisites.

@@ -17,13 +17,13 @@ LVL | BAB | F | R | W | Special
 
 **Weapon and Armor Proficiency**: Marshalls are proficient with all simple and martial weapons. Marshalls are proficient with all armor and shields (including tower shields).
 
-**Battle Shout**: Once per day per class level, a marshall may expend a swift action in order to grant up to four allies (this may include the marshall) within short range a +1 Morale bonus to all attack rolls, damage rolls, and saves. This bonus lasts for a number of rounds equal to the marshall's class level. In a party with multiple marshalls this effect does not stack.
+**Battle Shout**: Twice per day per class level, a marshall may expend a swift action in order to grant up to four allies (this may include the marshall) within short range a +1 Morale bonus to all attack rolls, damage rolls, armor class, and saves. This bonus lasts for a number of rounds equal to the marshall's class level. In a party with multiple marshalls this effect does not stack.
 
 **Inspire Bravery**: Allies within 60 feet of a Marshall may add the Marshall’s Charisma bonus to their saves against Fear effects. This bonus does not stack in a party with multiple marshalls.
 
 **Untiring**(Ex): A Marshall needs half as much sleep as normal (for example, a long rest for a marshall is 4 hours) and is immune to any effects which cause fatigue, exhaustion, or sleep.
 
-**Heal Injuries**(Su): As a swift action, a marshall can heal up to four allies (including the marshall) a number of hit points equal to his class level. This action may be taken a number of times per day equal to the marshall's class level divided by two (rounded down), and all affected characters must be within short range.
+**Heal Injuries**(Su): As a swift action, a marshall can expend a use of battle shout to heal an ally in short range (or himself) a number of hit points equal to his class level divided by 2.
 
 **Marshall's Poise**(Ex): A marshall applies his Charisma modifier (if positive) as a bonus on all saving throws.
 
@@ -31,11 +31,11 @@ LVL | BAB | F | R | W | Special
 
 **War Shout**(Ex): At 3rd level, a Marshall’s battle shout affects all allies within medium range. The allies must still be able to hear the Marshall as normal.
 
-**Bolster Allies**(Ex): At 4th level, allies being affected by the marshall's battle shout may reroll one d20 die roll per usage of battle shout. The ally must decide to reroll immediately after making their roll (before they know whether their save, attack, skill check, etc.) has succeeded, and must abide by the result of the reroll, even if it's worse than the original roll. Using their reroll prematurely ends the the benefits of battle shout.
+**Bolster Allies**(Ex): At 4th level, allies being affected by the marshall's battle shout may reroll one d20 die roll per usage of battle shout. The ally must decide to reroll immediately after making their roll (before they know whether their save, attack, skill check, etc.) has succeeded, and must abide by the result of the reroll, even if it's worse than the original roll. 
 
 **Inner Strength**(Ex): A 5th level marshall may expend one usage of Battle Shout to give himself a +2 untyped bonus to Charisma. Activating Inner Strength requires a swift action, and the bonus lasts for one round per class level.
 
-**Snap Out Of It**(Ex): A 5th level marshall can expend a move action target an ally within 60 feet who is suffering a negative effect as the result of a failed will save and allow them to reroll the save and add the marshall's Charisma modifier to their roll. If they succeed the effect ends, if they fail the effect continues as normal.
+**Snap Out Of It**(Ex): A 5th level marshall can expend a move equivalent action to target an ally within 60 feet who is suffering a negative effect as the result of a failed will save and allow them to reroll the save and add the marshall's Charisma modifier to their roll. If they succeed the effect ends, if they fail the effect continues as normal. Should the ally fail their first save the marshall may expend one further usage of battle shout to allow the ally to attempt a second save.
 
 **Terrible Shout**(Ex): Twice per day, a marshall can expend a standard action to force all creatures within 60 foot cone to make a Will save (DC 10 + 1/2 Class Level + Charisma Modifier) or becomes frightened for 3 rounds. Creatures who succeed this save are unaffected by this ability for the next 24 hours.
 
