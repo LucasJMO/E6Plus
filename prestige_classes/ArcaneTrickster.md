@@ -1,6 +1,6 @@
 # Arcane Trickster
 
-**Hit Die**: d4
+**Hit Die**: d6
 
 **Skills**: Appraise (Int), Balance (Dex), Bluff (Cha), Climb (Str), Concentration (Con), Craft (Int), Decipher Script (Int), Diplomacy (Cha), Disable Device (Int), Disguise (Cha), Escape Artist (Dex), Forgery (Int), Gather Information (Cha), Handle Animal (Cha), Heal (Wis), Hide (Dex), Intimidate (Cha), Jump (Str), Knowledge (all skills, taken individually) (Int), Listen (Wis), Move Silently (Dex), Open Lock (Dex), Perform (Cha), Profession (Wis), Ride (Dex), Search (Int), Sense Motive (Wis), Sleight of Hand (Dex), Speak Language (None), Spellcraft (Int), Spot (Wis), Survival (Wis), Swim (Str), Tumble (Dex), Use Magic Device (Cha), Use Rope (Dex)
 
@@ -28,4 +28,4 @@ LVL | BAB | F | R | W | Special | Spellcasting
 
 **Sneak Attack**: This is exactly like the rogue ability of the same name. If the arcane trickster gets a sneak attack bonus from another source the bonuses on damage stack.
 
-**Impromptu Sneak Attack**: Once per day a third level arcane trickster can declare one melee or ranged attack he makes to be a sneak attack (the target can be no more than 30 feet distant if the impromptu sneak attack is a ranged attack). The target of an impromptu sneak attack loses any Dexterity bonus to AC, but only against that attack. The power can be used against any target, but creatures that are not subject to critical hits take no extra damage (though they still lose any Dexterity bonus to AC against the attack).
+**Impromptu Sneak Attack**: Once per level (up to 6 times per day at level 6) a third level arcane trickster can declare one melee or ranged attack he makes to be a sneak attack (the target can be no more than 30 feet distant if the impromptu sneak attack is a ranged attack). The target of an impromptu sneak attack loses any Dexterity bonus to AC, but only against that attack. The power can be used against any target, but creatures that are not subject to critical hits take no extra damage (though they still lose any Dexterity bonus to AC against the attack).

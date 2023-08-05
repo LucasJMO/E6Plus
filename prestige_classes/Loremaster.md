@@ -28,17 +28,17 @@ LVL | BAB | F | R | W | Special | Spellcasting
 
 **Bonus Languages**: Each time a loremaster gains a level, he can choose any new language.
 
-**Secret**: When a loremaster advances in level he chooses one secret from the table below. He can't choose the same secret twice.
+**Secret**: When a loremaster advances in level he chooses one secret from the table below.
 
 Secret | Effect
 ------ | ------
-Instant Mastery | 4 ranks of a skill in which the character has no ranks
-Secret Health | +6 hit points
-Secrets of inner strength | +2 bonus on Will saves
-The lore of true stamina | +2 bonus on Fortitude saves
-Secret knowledge of avoidance | +2 bonus on Reflex saves
-Weapon trick | +1 bonus on attack rolls
-Dodge trick | +1 dodge bonus to AC
+Instant Mastery | 6 ranks of a skill in which the character has no ranks
+Secret Health | +10 hit points
+Secrets of inner strength | +4 bonus on Will saves
+The lore of true stamina | +4 bonus on Fortitude saves
+Secret knowledge of avoidance | +4 bonus on Reflex saves
+Weapon trick | +2 bonus on attack rolls
+Dodge trick | +2 dodge bonus to AC
 Newfound arcana | 1 bonus 1st-level spell
 More newfound arcana | 1 bonus 2nd-level spell
 

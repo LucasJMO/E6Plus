@@ -18,11 +18,11 @@ To qualify to become a dragon disciple, a character must fulfill all the followi
 
 LVL | BAB | F | R | W | Special | Spellcasting
 --- | --- | - | - | - | ------- | ------------
-1   | 1   | 2 | 0 | 2 | Breath weapon (1d8), natural armor increase (+1) | +1 level of existing spellcasting class
-2   | 2   | 3 | 0 | 3 | Ability boost (Str +2), bonus feat, claws and bite | -
-3   | 3   | 3 | 1 | 3 | Ability boost (Dex +2), breath weapon (2d8), blindsense 30 ft, natural armor increase (+2) | +1 level of existing spellcasting class      
-4   | 4   | 4 | 1 | 4 | Ability boost (Con +2), bonus feat | -         
-5	| 5	  | 4 | 2 | 4 | Ability boost (Cha +2), Breath Weapon (3d8), draconic aspect, natural armor increase (+3) | +1 level of existing spellcasting class
+1   | 1   | 2 | 0 | 2 | Breath weapon (1d8), natural armor increase | +1 level of existing spellcasting class
+2   | 2   | 3 | 0 | 3 | Ability boost (Str +3), bonus feat, claws and bite | -
+3   | 3   | 3 | 1 | 3 | Ability boost (Dex +3), breath weapon (2d8), blindsense 30 ft | +1 level of existing spellcasting class      
+4   | 4   | 4 | 1 | 4 | Ability boost (Con +3), bonus feat | -         
+5	| 5	  | 4 | 2 | 4 | Ability boost (Cha +3), Breath Weapon (3d8), draconic aspect | +1 level of existing spellcasting class
 
 **Weapon and Armor Proficiency**: A dragon disciple is proficient with light armor.
 
@@ -30,7 +30,7 @@ LVL | BAB | F | R | W | Special | Spellcasting
 
 A dragon disciple can cast spontaneous arcane spells while wearing light armor without incurring the normal arcane spell failure chance.
 
-**Natural Armor Increase**: At 1st, 3rd, and 5th level, a dragon disciple gains an increase to the character’s existing natural armor (if any). As his skin thickens, a dragon disciple takes on more and more of his progenitor’s physical aspect.
+**Natural Armor Increase**: A dragon disciple gains an increase of 1 per class level (from +1 to +5) to the character’s existing natural armor (if any). As his skin thickens, a dragon disciple takes on more and more of his progenitor’s physical aspect.
 
 **Ability Boost**(Ex): As a dragon disciple gains levels in this prestige class, his ability scores increase.
 
@@ -75,4 +75,4 @@ Any opponent the dragon disciple cannot see still has total concealment against 
 
 **Draconic Aspect**: A 5th level dragon disciple's appearance is forever altered, their skin gains a smooth, metallic quality, and a light tinge matching the color of their chosen dragon variety. Their eyes change to a deep golden color. 
 
-They gain a +2 to charisma based skill checks, +1 to saves against paralysis, sleep, or poison, darkvision out to 60 feet (120 feet if they already had darkvision from another source), and damage reduction 1/magic.
+They gain a +2 to charisma based skill checks, +1 to saves against paralysis, sleep, or poison, darkvision out to 60 feet (120 feet if they already had darkvision from another source), and damage reduction 2/magic.

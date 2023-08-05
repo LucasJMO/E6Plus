@@ -41,7 +41,7 @@ At 5th level the paladin may smite evil one additional time per day.
 
 **Improved Healing**: The number of hitpoints available to heal with healing word or lay on hands increases to (paladin level+charisma modifier)*10
 
-**Lay on Hands**(Su): A 4th level paladin can heal wounds (her own or those of others) by touch. This draws from the same pool as healing word. Lay on hands can be used as a full round action or two full round actions. If used as a full round action the paladin may choose to heal for a number of d6 equal to or lass then her class level. If used with two full round actions the paladin can heal any amount she chooses.
+**Lay on Hands**(Su): A 4th level paladin can heal wounds (her own or those of others) by touch. This draws from the same pool as healing word. Lay on hands can be used as a full round action or two full round actions. If used as a full round action the paladin may choose to heal for a number of d6 equal to or less then her class level. If used with two full round actions the paladin can heal any amount she chooses.
 
 Using lay on hands provokes an attack of opportunity and if the paladin is damaged she must succeed on a concentration check of DC 10 + damage dealt or she cannot use lay on hands.
 

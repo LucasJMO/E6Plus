@@ -23,7 +23,7 @@ LVL | BAB | F | R | W | Special
 
 **Untiring**(Ex): A Marshall needs half as much sleep as normal (for example, a long rest for a marshall is 4 hours) and is immune to any effects which cause fatigue, exhaustion, or sleep.
 
-**Heal Injuries**(Su): As a swift action, a marshall can expend a use of battle shout to heal an ally in short range (or himself) a number of hit points equal to his class level divided by 2.
+**Heal Injuries**(Su): As a swift action, a marshall can expend a use of battle shout to heal an ally in short range (or himself) a number of hit points equal to his class level divided by 2 (minimum of 1).
 
 **Marshall's Poise**(Ex): A marshall applies his Charisma modifier (if positive) as a bonus on all saving throws.
 

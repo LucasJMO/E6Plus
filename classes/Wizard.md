@@ -8,12 +8,12 @@
 
 LVL | BAB | F | R | W | Special | 0 | 1 | 2 | 3
 --- | --- | - | - | - | ------- | - | - | - | -
-1   | 0   | 0 | 0 | 2 | Summon familiar, scribe scroll | 5 | 3 | -   | -  
-2   | 1   | 0 | 0 | 3 | Bonus feat | 6 | 4 | -   | -
-3   | 1   | 1 | 1 | 3 |  | 6 | 4 | 3 | -
-4   | 2   | 1 | 1 | 4 |  | 6 | 5 | 4 | -
-5   | 2   | 1 | 1 | 4 |  | 6 | 5 | 4 | 3
-6   | 3   | 2 | 2 | 5 | Bonus feat | 6 | 5 | 5 | 4
+1   | 0   | 0 | 0 | 2 | Advanced Learning, Metamagician, Summon familiar, scribe scroll | 6 | 4 | -   | -  
+2   | 1   | 0 | 0 | 3 | Advanced Learning, Bonus feat, Spontaneous | 7 | 5 | -   | -
+3   | 1   | 1 | 1 | 3 | Advanced Learning | 7 | 5 | 4 | -
+4   | 2   | 1 | 1 | 4 | Advanced Learning, Spontaneous | 7 | 6 | 5 | -
+5   | 2   | 1 | 1 | 4 | Advanced Learning | 7 | 6 | 5 | 4
+6   | 3   | 2 | 2 | 5 | Advanced Learning, Bonus feat, Spontaneous | 7 | 6 | 6 | 5
 
 **Weapon and Armor Proficiency**: Wizards are proficient with the club, dagger, heavy crossbow, light crossbow, and quarterstaff, but not with any type of armor or shield. Armor of any type interferes with a wizard’s movements, which can cause her spells with somatic components to fail.
 
@@ -27,6 +27,10 @@ Unlike a bard or sorcerer, a wizard may know any number of spells. She must choo
 
 **Bonus Languages**: A wizard may substitute Draconic for one of the bonus languages available to the character because of her race.
 
+**Advanced Learning**: Each time a wizard gains a level he can learn to prepare a spell which does not appear in the sorcerer/wizard spell list.
+
+**Metamagician**: Once per day per class level a wizard can apply one of Empower Spell, Enlarge Spell, Extend Spell, Heighten Spell, Maximize Spell, Quicken Spell, Silent Spell, or Widen Spell to a spell he casts without increasing the spell's level.
+
 **Familiar**: A wizard can obtain a familiar in exactly the same manner a sorcerer can.
 
 **Scribe Scroll**: At 1st level, a wizard gains Scribe Scroll as a bonus feat.
@@ -34,6 +38,8 @@ Unlike a bard or sorcerer, a wizard may know any number of spells. She must choo
 **Bonus Feat**: At 2nd, 4th, 5th, and 6th level, a wizard gains a bonus feat. At each such opportunity, she can choose a metamagic feat, an item creation feat, or Spell Mastery. The wizard must still meet all prerequisites for a bonus feat, including caster level minimums.
 
 These bonus feats are in addition to the feat that a character of any class gets from advancing levels. The wizard is not limited to the categories of item creation feats, metamagic feats, or Spell Mastery when choosing these feats.
+
+**Spontaneous**: At 2nd, 4th, and 6th level a wizard may select a spell from his spell list and gain the ability to cast it spontaneously (as a sorcerer would) by expending a prepared spell of the same level. 
 
 **Spellbooks**: A wizard must study her spellbook each day to prepare her spells. She cannot prepare any spell not recorded in her spellbook, except for read magic, which all wizards can prepare from memory.
 

@@ -51,8 +51,8 @@ A cleric may attempt to turn undead a number of times per day equal to 3 + his C
 
 This bonus feat is in addition to the feat that a character of any class gets from advancing levels. The cleric is not limited to the categories of item creation feats, metamagic feats, or Spell Mastery when choosing these feats.
 
-**Lay on Hands**: Beginning at 4th level, a cleric gains the ability to heal the wounds of others (not her own) by touch. Each day she can heal a total number of hit points of damage equal to her cleric level minus two * her Wisdom bonus. A cleric may choose to divide her healing among multiple recipients, and she doesn’t have to use it all at once. Using lay on hands is a standard action.
+**Lay on Hands**: Beginning at 4th level, a cleric gains the ability to heal the wounds of others (not her own) by touch. Each day she can heal a total number of hit points of damage equal to her cleric level*10. Lay on hands can be used as a full round action or two full round actions. If used as a full round action the cleric may choose to heal for a number of d6 equal to or less then her class level. If used with two full round actions the cleric can heal any amount she chooses.
 
-Alternatively, a cleric can use any or all of this healing power to deal damage to undead creatures. Using lay on hands in this way requires a successful melee touch attack and doesn’t provoke an attack of opportunity. The paladin decides how many of her daily allotment of points to use as damage after successfully touching an undead creature. An undead creature targeted by this ability is allowed a will save for half damage. The save DC is 10 + 1/2 Cleric level + the Cleric's Wisdom modifier.
+Using lay on hands provokes an attack of opportunity and if the cleric is damaged she must succeed on a concentration check of DC 10 + damage dealt or she cannot use lay on hands.
 
 **Bonus Languages**: A cleric’s bonus language options include Celestial, Abyssal, and Infernal (the languages of good, chaotic evil, and lawful evil outsiders, respectively). These choices are in addition to the bonus languages available to the character because of his race.

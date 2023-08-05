@@ -17,10 +17,10 @@ To qualify to become an arcane archer, a character must fulfill all the followin
 LVL | BAB | F | R | W | Special | Spellcasting
 --- | --- | - | - | - | ------- | ------------
 1   | 1   | 0 | 2 | 2 | Enhance arrow, imbue arrow | +1 level of existing spellcasting class
-2   | 2   | 0 | 3 | 3 | Bonus feat, seeker arrow | -
+2   | 2   | 0 | 3 | 3 | Bonus feat, seeker arrow | +1 level of existing spellcasting class
 3   | 3   | 1 | 3 | 3 | Hail of arrows | +1 level of existing spellcasting class  
 
-**Spells per Day**: When an arcane archer reaches level 3, the character gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not, however, gain any other benefit a character of that class would have gained, except for an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a loremaster, he must decide to which class he adds the new level for purposes of determining spells per day.
+**Spells per Day**: When an arcane archer gains a level the character gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not, however, gain any other benefit a character of that class would have gained, except for an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a loremaster, he must decide to which class he adds the new level for purposes of determining spells per day.
 
 **Enhance Arrow**(Su): Nonmagical arrows fired by an arcane archer become magical and gain a +1 enhancement bonus per class level. An archer's magic arrows only function for her. 
 

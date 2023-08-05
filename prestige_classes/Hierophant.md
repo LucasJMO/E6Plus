@@ -16,9 +16,9 @@ To qualify to become a hierophant, a character must fulfill all the following cr
 
 LVL | BAB | F | R | W | Special | Spells per Day
 --- | --- | - | - | - | ------- | --------------
-1   | 0   | 2 | 0 | 2 | Special Ability | -
-2   | 1   | 3 | 0 | 3 | Special Ability | +1 level of existing spellcasting class
-3   | 2   | 3 | 1 | 3 | Special Ability | +1 level of existing spellcasting class
+1   | 1   | 2 | 0 | 2 | Special Ability | -
+2   | 2   | 3 | 0 | 3 | Special Ability | +1 level of existing spellcasting class
+3   | 3   | 3 | 1 | 3 | Special Ability | +1 level of existing spellcasting class
 
 **Weapon and Armor Proficiency**: Hierophants gain no proficiency with any weapon or armor.
 
@@ -46,9 +46,9 @@ Lawful evil     |Chaotic good
 Neutral evil    |Neutral good
 Chaotic evil    |Lawful good
 
-**Bless Water**(Su): You gain the ability to create temporary potions. Once per day per class level you may select one spell you know and imbue a vial of water with its benefits. The spell must be a valid choice for the Brew Potion feat. The vial of water becomes a potion of the selected spell. If not consumed, the temporary potion reverts to normal water after 12 hours.
+**Bless Water**(Su): You gain the ability to create temporary potions. Once per day per level you may select one spell you know and imbue a vial of water with its benefits. The spell must be a valid choice for the Brew Potion feat. The vial of water becomes a potion of the selected spell. If not consumed, the temporary potion reverts to normal water after 12 hours.
 
-**Divine Counterspell**(Su): As an immediate action, you can expend one of your spells to counter a spell. Upon using this ability you must identify the spell with a spellcraft check (DC 15 + the spell's level). If you correctly identify the spell you can expend a spell or spell slot of a level equal to or higher than the spell being cast to counter the spell. This ability is usable once per day per class level.
+**Divine Counterspell**(Su): As an immediate action, you can expend one of your spells to counter a spell. Upon using this ability you must identify the spell with a spellcraft check (DC 15 + the spell's level). If you correctly identify the spell you can expend a spell or spell slot of a level equal to or higher than the spell being cast to counter the spell. This ability is usable once per day per level.
 
 **Divine Reach**(Su): You can use touch spells on targets up to 30 feet away. If the spell requires a melee touch attack, the hierophant must make a ranged touch attack instead. Divine reach can be selected a second time as a special ability, in which case the range increases to 60 feet.
 
@@ -62,7 +62,7 @@ Chaotic evil    |Lawful good
 
 **Holy Strength**(Su): When you heal a creature with positive energy (such as by channeling positive energy to heal the living, using cure spells, or using lay on hands), any affected creature gains a +1 sacred bonus on attack rolls, skill checks, ability checks, and saving throws for 1 minute. If you channel negative energy to heal undead, this is a profane bonus rather than a sacred bonus.
 
-**Lay on Hands**: You gain the ability to heal the wounds of others (not your own) by touch. Each day you can heal a total number of hit points of damage equal to your character level minus one * your Wisdom bonus. You may choose to divide your healing among multiple recipients, and don't have to use it all at once. Using lay on hands is a standard action.
+**Lay on Hands**: You gain the ability to heal the wounds of others (not your own) by touch. Each day you can heal a total number of hit points of damage equal to your character level*10. You may choose to divide your healing among multiple recipients, and don't have to use it all at once. Using lay on hands is a standard action.
 
 **Master of Energy**(Su): Available only to hierophants with cleric levels, this ability allows a hierophant to channel positive or negative energy much more effectively, increasing his ability to affect undead. Add a +4 bonus to the hierophant’s turning checks and turning damage rolls. This ability only affects undead, even if the hierophant can turn other creatures, such as with a granted power of a domain.
 
