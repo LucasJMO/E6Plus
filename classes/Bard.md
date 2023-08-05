@@ -9,10 +9,10 @@
 LVL | BAB | F | R | W | Special | 0 | 1 | 2
 --- | --- | - | - | - | ------- | - | - | -
 1   | 1   | 0 | 2 | 0 | Advanced learning, bardic knowledge, heroic note +1, skill focus (Perform), song of life | 4/2 |  -  |  -  
-2   | 2   | 0 | 3 | 1 | Clever melody, song of shelter, song of evasion | 5/3 | 2/1 |  -  
+2   | 2   | 0 | 3 | 1 | Advanced learning, clever melody, song of shelter, song of evasion | 5/3 | 2/1 |  -  
 3   | 3   | 1 | 3 | 1 | Song of freedom | 6/3 | 3/1 | 2/1
-4   | 4   | 1 | 4 | 2 | Song of battle | 6/3 | 3/2 | 3/1
-5   | 5   | 2 | 4 | 2 | Heroic note +2 | 6/3 | 4/3 | 3/1
+4   | 4   | 1 | 4 | 2 | Advanced learning, song of battle | 6/3 | 3/2 | 3/1
+5   | 5   | 2 | 4 | 2 | Advanced learning, heroic note +2 | 6/3 | 4/3 | 3/1
 6   | 6/1 | 2 | 5 | 3 | Song of swiftness, combine songs, power song | 6/3 | 4/3 | 3/2
 
 **Weapon and Armor Proficiency**: A bard is proficient with all simple and martial weapons. Bards are proficient with light armor, medium armor, and shields (except tower shields). A bard can cast bard spells while wearing light or medium armor without incurring the normal arcane spell failure chance. However wearing heavy armor or using a shield incurs a chance of arcane spell failure if the spell being cast has a somatic component. A multiclass bard still incurs the normal arcane spell failure chance for arcane spells received from other classes.
@@ -21,7 +21,7 @@ LVL | BAB | F | R | W | Special | 0 | 1 | 2
 
 Upon reaching 4th level, and at every bard level after that, a bard can choose to learn a new spell in place of one he already knows. 
 
-**Advanced Learning**(Ex): At 1st, 2nd, and 4th level, a bard can gain an additional spell known, from a spell list outside of her own (should she choose to do so). The spell may be of a level no higher than that of the highest level spell the bard already knows. If a spell appears on multiple spell lists, use the lowest level version.
+**Advanced Learning**(Ex): At 1st, 2nd, 4th, and 5th level a bard can gain an additional spell known, from a spell list outside of her own (should she choose to do so). The spell may be of a level no higher than that of the highest level spell the bard already knows. If a spell appears on multiple spell lists, use the lowest level version.
 
 **Bardic Knowledge**: A bard may make a special bardic knowledge check with a bonus equal to bard level + intelligence modifier + ranks in knowledge (history) divided by two. A successful bardic knowledge check will not reveal the powers of a magic item, but may give a hint as to its general function. A bard may not take 10 or 20 on this check.
 
@@ -38,9 +38,9 @@ DC | Type of Knowledge
 
 **Clever Melody**(Su): At 2nd level, a bard can help an ally succeed at a task. The ally must be within 30 feet, and be able to see and hear the bard. The ally gains a competence bonus on skill checks with a particular skill as long as he continues to hear the bard's music. This bonus is equal to the bard's performance check divided by 5 (rounded down). The effect lasts as long as the bard concentrates, up to a maximum of two minutes. A bard cannot inspire competence in himself. This ability can be used once per bard level per day.
 
-**Songs**(Su): The ablities song of life/shelter/evasion/freedom/battle/swiftness are supernatural abilities which confer bonuses on up to 3 allies within 50 ft who can hear the bard. Changing which allies are being affected by the song requires a free action. Each song requires a standard action to start, and a standard action each round to continue. There is no limit on the number of rounds a song can remain active. Stopping a song is a free action, and transitioning from one active song to another requires a swift action. If a bard takes damage while using a song they must roll a concentration check of DC 10 + damage dealt or stop any ongoing song effect.
+**Songs**(Su): The ablities song of life/shelter/evasion/freedom/battle/swiftness are supernatural abilities which confer bonuses on up to 3 allies within 60 ft who can hear the bard. Changing which allies are being affected by the song requires a free action. Each song requires a standard action to start, and a standard action each round to continue. There is no limit on the number of rounds a song can remain active. Stopping a song is a free action, and transitioning from one active song to another requires a swift action. If a bard takes damage while using a song they must roll a concentration check of DC 10 + damage dealt or stop any ongoing song effect.
 
-**Song of Life**: Affected allies gain immunity to poison and disease. Additionally once per day per two bard levels, a bard can roll a performance check and divide the result between herself and all allies affected by the song, healing them for that amount. For example, a bard who rolls a 20 on this performance check could elect to heal herself for 10 points, and her two allies for 5 each.
+**Song of Life**: Affected allies gain immunity to poison and disease. Additionally once per day per two class levels, a bard can roll a performance check and divide the result between herself and all allies affected by the song, healing them for that amount. For example, a bard who rolls a 20 on this performance check could elect to heal herself for 10 points, and her two allies for 5 each.
 
 **Song of Shelter**: Affected allies gain resistance 5 to an energy type of the bard's choosing. The bard may switch to a different type of energy by expending a swift action. At 5th level the resistance increases to 10.
 
@@ -54,4 +54,4 @@ DC | Type of Knowledge
 
 **Combine Songs**: At 6th level, a bard gains the ability to have multiple songs active at the same time. Starting a combined song is a standard action, switching either active song is a swift action, and stopping is a free action. Two versions of the same song can be active, however their effects do not stack. The exceptions to this are song of shelter (the bard can choose a different type of energy for each song) and song of freedom (the bard can choose a separate target for each song, or suppress two ongoing spell effects on the same target). A bard with a combined song active must fully stop (end both songs) before entering a power song.
 
-**Power Song**: A 6th level bard who elects not to start a combined song can instead start a power song. This functions identically to standard songs, however range is increased to 100 feet. A bard with a power song active must fully stop (end the song) before entering a combined song.
+**Power Song**: A 6th level bard who elects not to start a combined song can instead start a power song. This functions identically to standard songs, however range is increased to 120 feet. A bard with a power song active must fully stop (end the song) before entering a combined song.

@@ -1,6 +1,6 @@
 # Eldritch Knight
 
-**Hit Die**: d8
+**Hit Die**: d10
 
 **Skills**: Concentration (Con), Craft (Int), Decipher Script (Int), Jump (Str), Knowledge (arcana) (Int), Knowledge (nobility and royalty) (Int), Ride (Dex), Sense Motive (Wis), Spellcraft (Int), Swim (Str)
 

@@ -9,7 +9,7 @@
 LVL | BAB | F | R | W | Special |  1 | 2 | 3
 --- | --- | - | - | - | ------- |  - | - | -
 1   | 1   | 0 | 0 | 2 | Charnel touch, rebuke undead | 5 | - | -  
-2   | 2   | 1 | 0 | 3 | Lich body DR 2 | 6 | - | -
+2   | 2   | 1 | 0 | 3 | Advanced learning, lich body DR 2 | 6 | - | -
 3   | 3   | 1 | 1 | 3 | Mental bastion, negative energy burst, tomb-tainted soul | 7 | - | -
 4   | 4   | 2 | 1 | 4 | Advanced learning | 8 | 5 | -
 5   | 5   | 2 | 1 | 4 | Fear Aura, scabrous touch | 8 | 6 | -
@@ -23,7 +23,7 @@ Dread necromancers are also proficient with light armor, but not with shields. T
 
 To cast a spell, a dread necromancer must have a Charisma score of 10 + the spell's level. The Difficulty Class for a saving throw against a dread necromancer's spell is 10 + the spell's level + her Charisma modifier. Like other spellcasters, a dread necromancer can cast only a certain number of spells of each spell level per day. Her base daily spell allotment is given in the table above.
 
-**Charnel Touch**(Su): Negative energy flows through a dread necromancer's body, concentrating in her hands. At will, but no more than once per round, she can make a melee touch attack against a living foe that deals 1d8 points of damage, +1 per three class levels. This touch heals undead creatures, restoring 1 hit point per touch, +1 per three class levels. A dread necromancer can use the spectral hand spell to deliver this attack from a distance.
+**Charnel Touch**(Su): Negative energy flows through a dread necromancer's body, concentrating in her hands. She can make a melee touch attack against a living foe that deals 1d8 points of damage, +1 per three class levels. This touch heals undead creatures for the same amount. A dread necromancer can use the spectral hand spell to deliver this attack from a distance.
 
 **Rebuke Undead**(Su): A dread necromancer can rebuke or command undead creatures by channeling negative energy through her body. This functions identically to the cleric class feature of the same name, and dread necromancer levels stack with cleric levels for determining daily number of turning attempts.
 
@@ -35,7 +35,7 @@ To cast a spell, a dread necromancer must have a Charisma score of 10 + the spel
 
 **Tomb-Tainted Soul**: A 3rd level dread necromancer gains the feat Tomb-Tainted Soul. If he already has this feat he may select another feat for which he meets the prerequisites.
 
-**Advanced Learning**(Ex): At 4th and 6th level, a dread necromancer can add a new spell to her list, representing the result of personal study and experimentation. The spell must be a cleric or wizard spell of the necromancy school, and of a level no higher than that of the highest-level spell the dread necromancer already knows. Once a new spell is selected, it is added to that dread necromancer's spell list and can be cast just like any other spell she knows. If a spell is both a cleric spell and a wizard spell, use the lower of the two spell levels (when different) to determine what level the spell is for a dread necromancer.
+**Advanced Learning**(Ex): At 2nd, 4th, and 6th level, a dread necromancer can add a new spell to her list, representing the result of personal study and experimentation. The spell must be a cleric or wizard spell of the necromancy school, and of a level no higher than that of the highest-level spell the dread necromancer already knows. Once a new spell is selected, it is added to that dread necromancer's spell list and can be cast just like any other spell she knows. If a spell is both a cleric spell and a wizard spell, use the lower of the two spell levels (when different) to determine what level the spell is for a dread necromancer.
 
 **Fear Aura**(Su): Beginning at 5th level, a dread necromancer radiates a 5-foot-radius fear aura as a free action. Enemies in the area must succeed on a Will save (DC 10 + 1/2 her class level + her Cha modifier) or become shaken. A creature who successfully saves cannot be affected by that dread necromancer's fear aura for 24 hours.
 
@@ -43,7 +43,7 @@ To cast a spell, a dread necromancer must have a Charisma score of 10 + the spel
 
 Activating this class feature is a swift action. The effect lasts until the dread necromancer makes a successful charnel touch attack. The spectral hand spell enables a dread necromancer to deliver a scabrous touch attack from a distance.
 
-**Undead Transformation**: A 6th level dread necromancer's type changes to undead, and it gains the augmented subtyped. Do not recalculate base attack bonus, saves, or skill points. Size is unchanged. Hit dice are increased to d12, and the dread necromancer gains +4 turn resistance.
+**Undead Transformation**: A 6th level dread necromancer's type changes to undead, and it gains the augmented subtyped. Do not recalculate base attack bonus, saves (though constitution modifier becomes +0), or skill points. Size is unchanged. Hit dice are increased to d12, and the dread necromancer gains +4 turn resistance.
 
 A 6th level dread necromancer no longer needs to sleep, however they still require 8 hours of unbroken rest in order to recover their daily spell alotment. 
 

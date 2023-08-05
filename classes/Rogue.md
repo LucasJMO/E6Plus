@@ -45,7 +45,7 @@ At 1st, 2nd, and 3rd level a rogue may select one of active assault, combat focu
 
 **Damage Reduction**: A rogue gains damage reduction 2/-. This ability may be selected up to 3 times.
 
-**Dark Caster**: A rogue can learn a spell of 2nd level or lower and cast it a number of times per day equal to rogue level divided by spell level. Save DC is 10 + spell level + Charisma modifier. Treat rogue level as caster level.
+**Dark Caster**: A rogue can learn a spell of 2nd level or lower and cast it a number of times per day equal to rogue level divided by spell level. Save DC is 10 + spell level + Charisma modifier. Treat rogue level as caster level. This ability may be selected unlimited times.
 
 **Defensive Roll**: If an attack (from a weapon or some other blow) would reduce a rogue to 0 or fewer hit points. The rogue may attempt a reflex saving throw (DC = damage dealt). If the save succeeds, he takes only half damage from the blow.
 

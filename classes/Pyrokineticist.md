@@ -1,6 +1,6 @@
 # Pyrokineticist
 
-**Hit Die**: d8
+**Hit Die**: d12
 
 **Skills**: Climb (Str), Craft (Dex), Concentration (Con), Intimidate (Cha), Jump (Str), Listen (Wis), Move Silently (Dex), Profession (Wis), Ride (Dex), Search (Int), Spellcraft (Int), Spot (Int), Survival (Wis), Tumble (Dex), Use Rope (Dex)
 
@@ -27,7 +27,7 @@ A pyrokineticist can dual wield a fire weapon and a normal weapon, however a fir
 
 **Fire Resistance**(Ex): A pyrokineticist has a resistance to fire equal to twice his class level.
 
-**Nimbus**(Su): Once per day per class level a pyrokineticist can wreathe himself in flames. While nimbus is active the pyrokineticist's Charisma score increases by 4, he gains damage reduction 5/-, his speed increases by 10, and creatures who strike him in melee suffer 1d6 points of fire damage. Activating nimbus requires a free action and it lasts for 3 + the pyrokineticist's constitution modifier rounds.
+**Nimbus**(Su): Once per day per class level a pyrokineticist can wreathe himself in flames. While nimbus is active the pyrokineticist's Charisma score increases by 4, he gains damage reduction 5/-, his speed increases by 10, his weapon deals an additional 1d6 of fire damage, and creatures who strike him in melee suffer 1d6 points of fire damage. Activating nimbus requires a free action and it lasts for 3 + the pyrokineticist's constitution modifier rounds.
 
 **Fire Burst**(Su): As a standard action, a 2nd level Pyrokineticist can emit a burst of flame from his body, striking all creatures and objects within 10’ of his position except himself. This burst of flames inflicts 1d4 points of fire damage per class level, with an allowed Reflex Save for half (DC 10 + 1/2 class level + charisma modifier)
 
@@ -43,4 +43,4 @@ A pyrokineticist can dual wield a fire weapon and a normal weapon, however a fir
 
 **Free Draw**(Ex): Beginning at 5th level a pyrokineticist can create a fire weapon as a free action.
 
-**Firewalk**(Su): Once per day per level a 6th level pyrokineticist can expend a free action to gain the ability to walk on air for one round. She moves at her normal speed in all directions, including vertically. A firewalking pyrokineticist leaves footprints of flame in the air that disperse in 2 rounds, but her tread does not deal damage.
+**Firewalk**(Su): While in nimbus a 6th level pyrokineticist gains the ability to walk on air. She moves at her normal speed in all directions, including vertically. A firewalking pyrokineticist leaves footprints of flame in the air that disperse in 2 rounds, but her tread does not deal damage.

@@ -8,12 +8,12 @@
 
 LVL | BAB | F | R | W | Special | 0 | 1 | 2 | 3
 --- | --- | - | - | - | ------- | - | - | - | -
-1   | 0   | 0 | 0 | 2 | Animal companion, nature sense, wild empathy | 5 | 3 | - | -  
-2   | 1   | 1 | 0 | 3 | Woodland stride | 6 | 4 | -   | -
-3   | 1   | 1 | 1 | 3 | Trackless step | 6 | 4 | 3 | -
-4   | 2   | 2 | 1 | 4 | Resist nature's lure, wild shape (1/day) | 7 | 5 | 4 | -
-5   | 2   | 2 | 1 | 4 | Wild shape (2/day) | 7 | 5 | 4 | 3
-6   | 3   | 3 | 2 | 5 | Wild shape (3/day) | 7 | 5 | 5 | 4
+1   | 1   | 0 | 0 | 2 | Metamagician, nature sense, wild empathy | 5 | 3 | - | -  
+2   | 2   | 1 | 0 | 3 | Woodland stride | 6 | 4 | -   | -
+3   | 3   | 1 | 1 | 3 | Trackless step | 6 | 4 | 3 | -
+4   | 4   | 2 | 1 | 4 | Resist nature's lure, wild shape (1/day) | 7 | 5 | 4 | -
+5   | 5   | 2 | 1 | 4 | Wild shape (2/day) | 7 | 5 | 4 | 3
+6   | 6/1 | 3 | 2 | 5 | Wild shape (3/day) | 7 | 5 | 5 | 4
 
 **Weapon and Armor Proficiency**: Druids are proficient with the following weapons: club, dagger, dart, quarterstaff, scimitar, sickle, shortspear, sling, and spear. They are also proficient with all natural attacks (claw, bite, and so forth) of any form they assume with wild shape.
 
@@ -39,11 +39,7 @@ A druid also knows Druidic, a secret language known only to druids, which she le
 
 Druidic has its own alphabet.
 
-**Animal Companion**(Ex): A druid may begin play with an animal companion selected from the following list: badger, camel, dire rat, dog, riding dog, eagle, hawk, horse (light or heavy), owl, pony, snake (Small or Medium viper), or wolf. If the campaign takes place wholly or partly in an aquatic environment, the following creatures are also available: porpoise, Medium shark, and squid. This animal is a loyal companion that accompanies the druid on her adventures as appropriate for its kind.
-
-A 1st-level druid’s companion is completely typical for its kind except as noted below. As a druid advances in level, the animal’s power increases as shown on the table. If a druid releases her companion from service, she may gain a new one by performing a ceremony requiring 24 uninterrupted hours of prayer. This ceremony can also replace an animal companion that has perished.
-
-A druid of 4th level or higher may select from alternative lists of animals. Should she select an animal companion from one of these alternative lists, the creature gains abilities as if the character’s druid level were lower than it actually is. Subtract the value indicated in the appropriate list header from the character’s druid level and compare the result with the druid level entry on the table to determine the animal companion’s powers. (If this adjustment would reduce the druid’s effective level to 0 or lower, she can’t have that animal as a companion.)
+**Metamagician**: Once per day per two class levels a druid can apply one of Empower Spell, Enlarge Spell, Extend Spell, Heighten Spell, Maximize Spell, Quicken Spell, Silent Spell, or Widen Spell to a spell he casts without increasing the spell's level.
 
 **Nature Sense**(Ex): A druid gains a +2 bonus on Knowledge (nature) and Survival checks.
 
@@ -71,32 +67,3 @@ A druid loses her ability to speak while in animal form because she is limited t
 
 The new form’s Hit Dice can’t exceed the character’s druid level.
 
-**The Druid's Animal Companion**: A druid’s animal companion is different from a normal animal of its kind in many ways. A druid’s animal companion is superior to a normal animal of its kind and has special powers, as described below.
-
-Class Level | Bonus HD | Natural Armor Adjustment | Strength/Dexterity Adjustment | Bonus Tricks | Special
------------ | -------- | ------------------------ | ----------------------------- | ------------ | -------
-1st-2nd     | +0       | +0                       | +0                            | 1            | Link, share spells
-3rd-5th     | +2       | +2                       | +1                            | 2            | Evasion
-6th         | +4       | +4                       | +2                            | 3            | Devotion
- 
-**Animal Companion Basics**: Use the base statistics for a creature of the companion’s kind, but make the following changes.
-
-**Class Level**: The character’s druid level. The druid’s class levels stack with levels of any other classes that are entitled to an animal companion for the purpose of determining the companion’s abilities and the alternative lists available to the character.
-
-**Bonus HD**: Extra eight-sided (d8) Hit Dice, each of which gains a Constitution modifier, as normal. Remember that extra Hit Dice improve the animal companion’s base attack and base save bonuses. An animal companion’s base attack bonus is the same as that of a druid of a level equal to the animal’s HD. An animal companion has good Fortitude and Reflex saves (treat it as a character whose level equals the animal’s HD). An animal companion gains additional skill points and feats for bonus HD as normal for advancing a monster’s Hit Dice.
-
-**Natural Armor Adjustment**: The number noted here is an improvement to the animal companion’s existing natural armor bonus.
-
-**Strength/Dexterity Adjustment**: Add this value to the animal companion’s Strength and Dexterity scores.
-
-**Bonus Tricks**: The value given in this column is the total number of "bonus" tricks that the animal knows in addition to any that the druid might choose to teach it (see the Handle Animal skill). These bonus tricks don’t require any training time or Handle Animal checks, and they don’t count against the normal limit of tricks known by the animal. The druid selects these bonus tricks, and once selected, they can’t be changed.
-
-**Link**: A druid can handle her animal companion as a free action, or push it as a move action, even if she doesn’t have any ranks in the Handle Animal skill. The druid gains a +4 circumstance bonus on all wild empathy checks and Handle Animal checks made regarding an animal companion.
-
-**Share Spells**: At the druid’s option, she may have any spell (but not any spell-like ability) she casts upon herself also affect her animal companion. The animal companion must be within 5 feet of her at the time of casting to receive the benefit. If the spell or effect has a duration other than instantaneous, it stops affecting the animal companion if the companion moves farther than 5 feet away and will not affect the animal again, even if it returns to the druid before the duration expires.
-
-Additionally, the druid may cast a spell with a target of "You" on her animal companion (as a touch range spell) instead of on herself. A druid and her animal companion can share spells even if the spells normally do not affect creatures of the companion’s type (animal).
-
-**Evasion**: If an animal companion is subjected to an attack that normally allows a Reflex saving throw for half damage, it takes no damage if it makes a successful saving throw.
-
-**Devotion**: An animal companion gains a +4 morale bonus on Will saves against enchantment spells and effects.

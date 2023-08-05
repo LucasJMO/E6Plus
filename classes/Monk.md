@@ -1,6 +1,6 @@
 # Monk
 
-**Hit Die**: d8
+**Hit Die**: d12
 
 **Skills**: Balance (Dex), Climb (Str), Concentration (Con), Craft (Int), Escape Artist (Dex), Hide (Dex), Jump (Str), Knowledge (arcana) (Int), Knowledge (religion) (Int), Listen (Wis), Move Silently (Dex), Perform (Cha), Profession (Wis), Sense Motive (Wis), Spot (Wis), Swim (Str), Tumble (Dex)
 

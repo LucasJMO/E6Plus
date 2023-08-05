@@ -62,5 +62,5 @@ An enemy targeted by this ability multiple times gains a +10 bonus to Spot for e
 Level | Spells Known
 ----- | ------------
 **0** | Alarm, Detect Magic, Detect Poison, Grease, Unseen Servant, Ventriloquism
-**1** | Benign Transposition, Fire Trap, Guided Shot, Hideous Laughter, Magic Mouth, Misdirection, Pyrotechnics, Reduce Person, Silent Image
-**2** | Baleful Transposition, Blinding Color Surge, Explosive Runes, Glitterdust, Invisibility, Rage, Seeking Ray, Snake's Swiftness, Touch of Idiocy
+**1** | Benign Transposition, Fire Trap, Guided Shot, Hideous Laughter, Magic Mouth, Misdirection, Pyrotechnics, Reduce Person, Silent Image, Snake's Swiftness
+**2** | Baleful Transposition, Blinding Color Surge, Explosive Runes, Glitterdust, Invisibility, Rage, Seeking Ray, Snake's Swiftness Mass, Touch of Idiocy

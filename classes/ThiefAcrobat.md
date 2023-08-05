@@ -12,7 +12,7 @@ LVL | BAB | F | R | W | Special
 2   | 1   | 0 | 3 | 1 | Sneak attack +1d6, evasion, fast movement, pole fighter
 3   | 2   | 1 | 3 | 1 | Sure climb, athletic cascade, rapid stealth, skirmish +1d6
 4   | 3   | 1 | 4 | 2 | Sneak attack +2d6, grapple line, skill mastery
-5   | 3   | 1 | 4 | 2 | Detect magic, improved evasion, moving attack
+5   | 3   | 1 | 4 | 2 | Detect magic, improved evasion, moving attack, two weapon fighting
 6   | 4   | 2 | 5 | 3 | Sneak attack +3d6, mercurial charge, death from above, skirmish +2d6
 
 **Weapon and Armor Proficiency**: Thief Acrobats are proficient with all simple weapons, as well as the sap, the shortsword, the whip, the bolas, the spear, the longstaff, and the shuriken. Thief Acrobats are proficient with light armor but not with shields of any kind.
@@ -46,6 +46,8 @@ Additionally, a Thief Acrobat may use any pole like weapon as a double weapon. A
 **Improved Evasion**: This ability works like evasion, except that while the thief acrobat still takes no damage on a successful Reflex saving throw against attacks henceforth she takes only half damage on a failed save. A helpless thief acrobat does not gain the benefit of improved evasion.
 
 **Moving Attack**: When using the attack action with a melee weapon, a thief acrobat can move both before and after the attack, provided that the total distance moved is not greater than her speed.
+
+**Two Weapon Fighting**: At 5th level a thief acrobat gains the feat two weapon fighting. If the thief acrobat already has this feat, they can instead select a different feat for which they meet the prerequisites.
 
 **Grapple Line**: A Thief Acrobat may fire a missile weapon designed as a grappling weapon at an unoccupied square and, if it does at least 1 point of damage to an object filling that square (wall, ceiling, statue, etc) or a securely affixed object (ceiling post, small statue, etc) the Thief acrobat may run a rope from his current position to that location as a full round action. He may then use this rope to make a Balance or Climb check as normal.
 

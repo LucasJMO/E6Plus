@@ -31,7 +31,7 @@ At 5th level the paladin may smite evil one additional time per day.
 
 **Divine Grace**(Su): A 2nd level paladin gains a bonus equal to her charisma bonus on all saving throws.
 
-**Healing Word**(Su): A 2nd level paladin can invoke divine energy to heal herself or others. Each day she can heal a total number of hit points of damage equal to (paladin level+charisma modifier)*5 (treat any charisma modifier less than or equal to 0 as 1). A paladin may heal up to 1d4 one use of healing word. Using healing word is a swift action and can target any ally within 60 ft.
+**Healing Word**(Su): A 2nd level paladin can invoke divine energy to heal herself or others. Each day she can heal a total number of hit points of damage equal to paladin level*5. A paladin may heal up to 1d4 one use of healing word. Using healing word is a swift action and can target any ally within 60 ft.
 
 **Harm Undead**(Su): A 2nd level paladin may draw from the same pool as healing word in order to harm undead creatures. Using harm undead requires a successful melee touch attack (this does not provoke an attack of opportunity). After successfully touching the undead creature, the paladin decides how many points to use from his daily allotment. An opponent subjected to this attack can make a Will save (DC 10 + 1/2 paladin level + charisma modifier) to halve the damage dealt.
 
@@ -39,7 +39,7 @@ At 5th level the paladin may smite evil one additional time per day.
 
 **Divine Health**: A 3rd level paladin gains immunity to all diseases, including supernatural and magical diseases.
 
-**Improved Healing**: The number of hitpoints available to heal with healing word or lay on hands increases to (paladin level+charisma modifier)*10
+**Improved Healing**: The number of hitpoints available to heal with healing word or lay on hands increases to paladin level*10
 
 **Lay on Hands**(Su): A 4th level paladin can heal wounds (her own or those of others) by touch. This draws from the same pool as healing word. Lay on hands can be used as a full round action or two full round actions. If used as a full round action the paladin may choose to heal for a number of d6 equal to or less then her class level. If used with two full round actions the paladin can heal any amount she chooses.
 
@@ -47,9 +47,9 @@ Using lay on hands provokes an attack of opportunity and if the paladin is damag
 
 **Turn Undead**(Su): A 4th level paladin gains the supernatural ability to turn undead. She may use this ability a number of times per day equal to 3 + her Charisma modifier. She turns undead as a cleric of three levels lower would.
 
-**Brilliant Champion**(Su): A 6th level paladin gains darkvision out to 60 feet, damage reduction 2/-, and +2 Charisma. Additionally as a free action she can choose to emanate a dim glow, illuminating all adjacent spaces.
+**Brilliant Champion**(Su): A 6th level paladin gains darkvision out to 60 feet, damage reduction 2/-, +2 Charisma, and healing at the rate of 1 hit point per round. Additionally as a free action she can choose to emanate a dim glow, illuminating all adjacent spaces.
 
-**Greater Healing**: The number of hitpoints available to heal with healing word or lay on hands increases to (paladin level+charisma modifier)*15
+**Greater Healing**: The number of hitpoints available to heal with healing word or lay on hands increases to (paladin level+charisma modifier)*10 (treat any charisma modifier less than or equal to 0 as 1).
 
 **Remove Disease**(Sp): A 6th level paladin can produce a remove disease effect, as the spell, once per week.
 

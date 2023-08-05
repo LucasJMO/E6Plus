@@ -8,7 +8,7 @@
 
 LVL | BAB | F | R | W | Special | 0 | 1 | 2 | 3
 --- | --- | - | - | - | ------- | - | - | - | -
-1   | 0   | 0 | 0 | 2 | Turn or rebuke undead | 5 | 3+1 | -   | -  
+1   | 0   | 0 | 0 | 2 | Metamagician, turn or rebuke undead | 5 | 3+1 | -   | -  
 2   | 1   | 1 | 0 | 3 |  | 6 | 4+1 | -   | -
 3   | 2   | 1 | 1 | 3 |  | 6 | 4+1 | 3+1 | -
 4   | 3   | 2 | 1 | 4 | Lay on Hands | 7 | 5+1 | 4+1 | -
@@ -43,6 +43,8 @@ A cleric who is neither good nor evil and whose deity is neither good nor evil c
 
 **Chaotic, Evil, Good, and Lawful Spells**: A cleric can’t cast spells of an alignment opposed to his own or his deity’s (if he has one). Spells associated with particular alignments are indicated by the chaos, evil, good, and law descriptors in their spell descriptions.
 
+**Metamagician**: Once per day per two class levels a cleric can apply one of Empower Spell, Enlarge Spell, Extend Spell, Heighten Spell, Maximize Spell, Quicken Spell, Silent Spell, or Widen Spell to a spell he casts without increasing the spell's level.
+
 **Turn or Rebuke Undead**(Su): Any cleric, regardless of alignment, has the power to affect undead creatures by channeling the power of his faith through his holy (or unholy) symbol (see Turn or Rebuke Undead).
 
 A good cleric (or a neutral cleric who worships a good deity) can turn or destroy undead creatures. An evil cleric (or a neutral cleric who worships an evil deity) instead rebukes or commands such creatures. A neutral cleric of a neutral deity must choose whether his turning ability functions as that of a good cleric or an evil cleric. Once this choice is made, it cannot be reversed. This decision also determines whether the cleric can cast spontaneous cure or inflict spells.
@@ -51,7 +53,7 @@ A cleric may attempt to turn undead a number of times per day equal to 3 + his C
 
 This bonus feat is in addition to the feat that a character of any class gets from advancing levels. The cleric is not limited to the categories of item creation feats, metamagic feats, or Spell Mastery when choosing these feats.
 
-**Lay on Hands**: Beginning at 4th level, a cleric gains the ability to heal the wounds of others (not her own) by touch. Each day she can heal a total number of hit points of damage equal to her cleric level*10. Lay on hands can be used as a full round action or two full round actions. If used as a full round action the cleric may choose to heal for a number of d6 equal to or less then her class level. If used with two full round actions the cleric can heal any amount she chooses.
+**Lay on Hands**: Beginning at 4th level, a cleric gains the ability to heal wounds by touch. Each day she can heal a total number of hit points of damage equal to her cleric level*10. Lay on hands can be used as a full round action or two full round actions. If used as a full round action the cleric may choose to heal for a number of d6 equal to or less then her class level. If used with two full round actions the cleric can heal any amount she chooses.
 
 Using lay on hands provokes an attack of opportunity and if the cleric is damaged she must succeed on a concentration check of DC 10 + damage dealt or she cannot use lay on hands.
 

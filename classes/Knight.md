@@ -45,7 +45,7 @@ LVL | BAB | F | R | W | Special
 
 **Defend Others**: Any ally adjacent to the knight gains Evasion, although the knight does not.
 
-**Immovable Stance**: A 6th level knight gains the ability to adopt a defensive stance, granting him phenomenal strength and durability, but preventing him from taking any movement on his turn except for a single 5 foot step. A knight in his immovable stance gains +4 to strength, +4 to constitution, +4 resistance bonus on all saves, and +2 to his damage reduction.
+**Immovable Stance**: A 6th level knight gains the ability to adopt a defensive stance, granting him phenomenal strength and durability, but preventing him from taking any movement on his turn except for a single 5 foot step. A knight in his immovable stance gains +4 to strength, +4 to constitution, +4 resistance bonus on all saves, +4 to AC, and +2 to his damage reduction.
 
 Using or stopping the immovable stance takes no time itself, but a knight can only do so during his action. A knight suffers no penalties for exiting his stance, but he may only re-enter it after taking no physical actions for a full minute.
 
