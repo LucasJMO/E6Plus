@@ -8,7 +8,7 @@
 
 ## Requirements
 
-To qualify to become a loremaster, a character must meet the following requirements.
+To qualify to become a Loremaster, a character must meet the following requirements.
 
 **Skills**: Knowledge, any, 6 ranks.
 
@@ -24,11 +24,11 @@ LVL | BAB | F | R | W | Special | Spellcasting
 
 **Weapon and Armor Proficiency**: Loremasters gain no proficiency with any weapon or armor.
 
-**Spells per Day**: When a loremaster advances in level, the character gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not, however, gain any other benefit a character of that class would have gained, except for an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a loremaster, he must decide to which class he adds the new level for purposes of determining spells per day.
+**Spells per Day**: When a Loremaster advances in level, the character gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not, however, gain any other benefit a character of that class would have gained, except for an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a Loremaster, he must decide to which class he adds the new level for purposes of determining spells per day.
 
-**Bonus Languages**: Each time a loremaster gains a level, he can choose any new language.
+**Bonus Languages**: Each time a Loremaster gains a level, he can choose any new language.
 
-**Secret**: When a loremaster advances in level he chooses one secret from the table below.
+**Secret**: When a Loremaster advances in level he chooses one secret from the table below.
 
 Secret | Effect
 ------ | ------
@@ -42,7 +42,7 @@ Dodge trick | +2 dodge bonus to AC
 Newfound arcana | 1 bonus 1st-level spell
 More newfound arcana | 1 bonus 2nd-level spell
 
-**Lore**: At 3rd level, a loremaster gains the ability to know legends or information regarding various topics, just as a bard can with bardic knowledge. The loremaster adds her level, her Intelligence modifier, and her ranks in knowledge (history) divided by two to the lore check, which functions otherwise exactly like a bardic knowledge check.
+**Lore**: At 3rd level, a Loremaster gains the ability to know legends or information regarding various topics, just as a bard can with bardic knowledge. The Loremaster adds her level, her Intelligence modifier, and her ranks in knowledge (history) divided by two to the lore check, which functions otherwise exactly like a bardic knowledge check.
 
 DC | Type of Knowledge
 -- | -----------------

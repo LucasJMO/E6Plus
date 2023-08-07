@@ -8,18 +8,18 @@
 
 LVL | BAB | F | R | W | Special | 0 | 1 | 2
 --- | --- | - | - | - | ------- | - | - | -
-1   | 0   | 0 | 2 | 0 | Advanced learning, harlequin's mask, ignore components, poison use, skill focus (sleight of hand) | 4 |  -  |  -  
-2   | 1   | 0 | 3 | 1 | Sneak attack +1d6, evasion, laugh it off, trick throw | 5 | 2 |  -  
-3   | 2   | 1 | 3 | 1 | Weapon sleeve | 5 | 3 | -
-4   | 3   | 1 | 4 | 2 | Sneak attack +2d6, jester's feint | 5 | 4 | 2
-5   | 3   | 1 | 4 | 2 | Improvised weapon master, killer clown, last trick | 5 | 5 | 3
-6   | 4   | 2 | 5 | 3 | Sneak Attack +3d6, Pratfall, quick throw | 5 | 5 | 4
+1   | 0   | 0 | 2 | 0 | Advanced Learning, Harlequin's Mask, Ignore Components, Poison Use, Skill Focus (Sleight of Hand) | 4 |  -  |  -  
+2   | 1   | 0 | 3 | 1 | Sneak Attack +1d6, Advanced Learning, Evasion, Laugh It Off, Trick Throw | 5 | 2 |  -  
+3   | 2   | 1 | 3 | 1 | Weapon Sleeve | 5 | 3 | -
+4   | 3   | 1 | 4 | 2 | Sneak Attack +2d6, Advanced Learning, Jester's Feint | 5 | 4 | 2
+5   | 3   | 1 | 4 | 2 | Advanced Learning, Improvised Weapon Master, Killer Clown, Last Trick | 5 | 5 | 3
+6   | 4   | 2 | 5 | 3 | Sneak Attack +3d6, Pratfall, Quick Throw | 5 | 5 | 4
 
 **Weapon and Armor Proficiency**: Jesters are proficient with light armor but not with shields of any kind. A Jester is proficient with daggers, sickles, quarterstaves, darts, and slings, and suffers no attack penalty for using an improvised weapon. Additionally an improvised thrown weapon for a Jester has a range increment of 30 feet.
 
 **Spellcasting**: Jester is an Arcane caster with the same spells per day progression as a Bard. A Jester casts from the Jester Spell List (below). A Jester automatically knows every spell on his spell list. He can cast any spell he knows without preparing them ahead of time, provided that spell slots of an appropriate level are still available. To cast a Jester spell, he must have a Charisma of at least 10+spell level. The DC of the Jester’s spells is Charisma based, and the bonus spells are Charisma based.
 
-**Advanced Learning**(Ex): At 1st, 2nd, and 4th level, a jester can gain an additional spell known, from a spell list outside of her own (should she choose to do so). The spell may be of a level no higher than that of the highest level spell the Jester already knows. If a spell appears on multiple spell lists, use the lowest level version.
+**Advanced Learning**(Ex): At 1st, 2nd, and 4th level, a Jester can gain an additional spell known, from a spell list outside of her own (should she choose to do so). The spell may be of a level no higher than that of the highest level spell the Jester already knows. If a spell appears on multiple spell lists, use the lowest level version.
 
 **Harlequin's Mask**(Su): As long as a Jester’s face is painted, masked, or adorned in the manner of a harlequin or other comedic figure, he is immune to compulsion effects.
 
@@ -29,7 +29,7 @@ LVL | BAB | F | R | W | Special | 0 | 1 | 2
 
 **Skill Focus (Sleight of Hand)**: At 1st level, a Jester gains the feat skill focus for the skill Sleigh of Hand. If the Jester already has this feat, they can instead select a different feat for which they meet the prerequisites.
 
-**Evasion**(Ex): A jester can avoid even magical and unusal attacks with great agility. If she makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if the rogue is wearing light armor or no armor. A helpless rogue does not gain the benefits of evasion.
+**Evasion**(Ex): A Jester can avoid even magical and unusal attacks with great agility. If she makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if the rogue is wearing light armor or no armor. A helpless rogue does not gain the benefits of evasion.
 
 **Laugh it Off**(Ex): A Jester may add his Charisma modifier as a morale bonus to his saves.
 
@@ -37,11 +37,11 @@ LVL | BAB | F | R | W | Special | 0 | 1 | 2
 
 Additionally a Jester gains a +3 bonus on any performance checks made to attempt to juggle, and is allowed to take 10 on such checks.
 
-**Weapon Sleeve**(Ex): A jester may attempt a Sleight of Hand check to hide weapons in his sleeves (the jester may take 10 or 20 on this check). The number of weapons that can be hidden this way is equal to the result of the check divided by 5 (rounded down). Weapons hidden in this manner must be light, cannot be bladed, and may weigh no more than 1 pound. Up to 2 weapons concealed this way may be drawn as a swift or immediate action. The jester must be wearing clothing with sleeves to use this ability. The DC to find the concealed weapons with a search check is the result of the jester's sleight of hand check divided by 2.
+**Weapon Sleeve**(Ex): A Jester may attempt a Sleight of Hand check to hide weapons in his sleeves (the Jester may take 10 or 20 on this check). The number of weapons that can be hidden this way is equal to the result of the check divided by 5 (rounded down). Weapons hidden in this manner must be light, cannot be bladed, and may weigh no more than 1 pound. Up to 2 weapons concealed this way may be drawn as a swift or immediate action. The Jester must be wearing clothing with sleeves to use this ability. The DC to find the concealed weapons with a search check is the result of the Jester's sleight of hand check divided by 2.
 
-**Sneak Attack**: If a jester can catch an opponent when he is unable to defend himself effectively from her attack, she can strike a vital spot for extra damage. 
+**Sneak Attack**: If a Jester can catch an opponent when he is unable to defend himself effectively from her attack, she can strike a vital spot for extra damage. 
 
-The jester's attack deals extra damage any time her target would be denied a Dexterity bonus to AC (whether the target actually has a Dexterity bonus or not), or when the jester flanks her target. Should the jester score a critical hit with a sneak atack, this extra damage is not multiplied. 
+The Jester's attack deals extra damage any time her target would be denied a Dexterity bonus to AC (whether the target actually has a Dexterity bonus or not), or when the Jester flanks her target. Should the Jester score a critical hit with a sneak atack, this extra damage is not multiplied. 
 
 **Jester's Feint**(Ex): As a swift action a Jester may toss a brightly colored object in the square of an enemy with a Sleight of Hand check opposed by the enemy’s Spot check. If he succeeds, the enemy is denied his Dex bonus for any attacks the Jester makes this turn. This ability has a range of 30 ft.
 
