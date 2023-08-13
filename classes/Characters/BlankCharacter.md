@@ -20,6 +20,14 @@ ATTACKS | BONUS | DAMAGE | CRITICAL | NOTES
 ------- | ----- | ------ | -------- | -----
 Name    | Bonus | Damage | Crit range/multiplier | Notes
 
+Class Feature | Explanation
+------------- | -----------
+Feature | Explanation
+
+Feat | Explanation
+----- | -----------
+Feat Name | Feat Explanation
+
 Skill | Points Invested | Ability Modifier | Score
 ----- | --------------- | ---------------- | -----
 Appraise (Int) | -      | -                | -
