@@ -1,4 +1,24 @@
-# Skills
+# Class
+
+Hit Points(HP) | Armor Class(AC) | Initiative Modifier | Speed
+-------------- | --------------- | ------------------- | -----
+HP             | AC              | Initiative          | Speed
+
+Base Attack Bonus(BAB) | Damage Reduction(DR) | Grapple Modifier
+---------------------  | -------------------- | ----------------
+BAB                    | DR                   | Grapple
+
+CON   | DEX   | STR   | CHA   | INT   | WIS 
+---   | ---   | ---   | ---   | -     | ------- 
+10(0) | 10(0) | 10(0) | 10(0) | 10(0) | 10(0) 
+
+FORTITUDE | REFLEX | WILL
+--------- | ------ | ----
+FORT      | REFL   | WILL
+
+ATTACKS | BONUS | DAMAGE | CRITICAL | NOTES
+------- | ----- | ------ | -------- | -----
+Name    | Bonus | Damage | Crit range/multiplier | Notes
 
 Skill | Points Invested | Ability Modifier | Score
 ----- | --------------- | ---------------- | -----
