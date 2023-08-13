@@ -34,12 +34,12 @@ Unshakeable | You may continue to act normally after being reduced to 0 or less 
 
 Feat | Explanation
 ----- | -----------
-Power Attack | Before making an attack action you may subtract a number less than or equal to your BAB from your attack roll and add it to your damage roll.
-Quick Draw | You can draw a weapon as a free action instead of as a move action. You can draw a hidden weapon as a move action.
-Weapon Focus (Greatsword) | Gain a +1 bonus on attack rolls made with greatswords.
-Endurance | You gain a +4 bonus on checks or saves made to resist/avoid nonlethal damage from physical stress or exertion. You may sleep in light or medium armor without becoming fatigued.
-Improved Initiative | You gain a +4 bonus on initiative checks.
-Combat Reflexes | You may make a number of additional attacks of opportunity equal to your Dexterity bonus. You may also make attacks of opportunity while flat footed.
+Power Attack | Before making an attack action you may subtract a number less than or equal to your BAB from your attack roll and add it to your damage roll. Gained through class feature.
+Quick Draw | You can draw a weapon as a free action instead of as a move action. You can draw a hidden weapon as a move action. Gained as 1st level feat.
+Weapon Focus (Greatsword) | Gain a +1 bonus on attack rolls made with greatswords. Gained as human bonus feat.
+Endurance | You gain a +4 bonus on checks or saves made to resist/avoid nonlethal damage from physical stress or exertion. You may sleep in light or medium armor without becoming fatigued. Gained as class feature.
+Improved Initiative | You gain a +4 bonus on initiative checks. Gained as 3rd level feat.
+Combat Reflexes | You may make a number of additional attacks of opportunity equal to your Dexterity bonus. You may also make attacks of opportunity while flat footed. Gained as 6th level feat.
 
 **Total Skill Points:** 45=36+0(Int)+9(Human)
 
@@ -80,3 +80,5 @@ Swim (Str, Armor)| - | 4                   | -2| 2
 Tumble (Dex, Armor)| 9 | 2                 | -2| 9
 Use Magic Device (Cha) | - | -1             | -| -1
 Use Rope (Dex)         | - | 2             | -| 2
+
+**Possessions**: +3 Greatsword, Chain Shirt

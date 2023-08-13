@@ -15,7 +15,7 @@ LVL | BAB | F | R | W | Special | 0 | 1 | 2
 5   | 5   | 2 | 4 | 2 | Advanced Learning, Heroic Note +2 | 8/5 | 6/5 | 5/3
 6   | 6/1 | 2 | 5 | 3 | Song of Swiftness, Combine Songs, Power Song | 8/5 | 6/4 | 5/4
 
-**Weapon and Armor Proficiency**: A Bard is proficient with all simple and martial weapons. Bards are proficient with light armor, medium armor, and shields (except tower shields). A Bard can cast Bard spells while wearing light or medium armor without incurring the normal arcane spell failure chance. However wearing heavy armor or using a shield incurs a chance of arcane spell failure if the spell being cast has a somatic component. A multiclass Bard still incurs the normal arcane spell failure chance for arcane spells received from other classes.
+**Weapon and Armor Proficiency**: A Bard is proficient with all simple and martial weapons. Bards are proficient with light armor, medium armor, and shields (except tower shields). A Bard can cast spells while wearing light or medium armor without incurring the normal arcane spell failure chance. However wearing heavy armor or using a shield incurs a chance of arcane spell failure if the spell being cast has a somatic component. A multiclass Bard still incurs the normal arcane spell failure chance for arcane spells received from other classes.
 
 **Spells**: A Bard casts arcane spells which are drawn from the Bard spell list. He can cast any spell he knows without preparing it beforehand. To learn or cast a spell, a Bard must have a Charisma score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a Bard's spell is 10 + spell level + Charisma modifier.
 
