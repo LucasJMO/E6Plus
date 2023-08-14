@@ -14,7 +14,7 @@ CON   | DEX   | STR   | CHA   | INT   | WIS
 
 FORTITUDE | REFLEX | WILL
 --------- | ------ | ----
-+8        | +5     | +2
+8=5+3(Con)| 5=3+2(Dex)| 5=2+3(Con)
 
 ATTACKS | BONUS | DAMAGE | CRITICAL | NOTES
 ------- | ----- | ------ | -------- | -----
@@ -39,7 +39,7 @@ Quick Draw | You can draw a weapon as a free action instead of as a move action.
 Weapon Focus (Greatsword) | Gain a +1 bonus on attack rolls made with greatswords. Gained as human bonus feat.
 Endurance | You gain a +4 bonus on checks or saves made to resist/avoid nonlethal damage from physical stress or exertion. You may sleep in light or medium armor without becoming fatigued. Gained as class feature.
 Improved Initiative | You gain a +4 bonus on initiative checks. Gained as 3rd level feat.
-Combat Reflexes | You may make a number of additional attacks of opportunity equal to your Dexterity bonus. You may also make attacks of opportunity while flat footed. Gained as 6th level feat.
+Steadfast Determination | You can use your Constitution modifier in place of your Wisdom modifier on Will saves. You do not automatically fail Fortitude saves on a 1. Gained as 6th level feat.
 
 **Total Skill Points:** 45=36+0(Int)+9(Human)
 
@@ -60,7 +60,7 @@ Gather Information (Cha) | - | -1           | -| -1
 Handle Animal (Cha) | -  | -1               | -| -1
 Heal (Wis)          | -  | 0               | -| 0
 Hide (Dex, Armor)   | -  | 2               | -2| 0
-Intimidate (Cha)    | 9  | 4               | -| 13
+Intimidate (Str)    | 9  | 4               | -| 13
 Jump (Str, Armor)   | 8  | 4               | -2| 10
 Knowledge (Int)     | -  | 0               | -| 0
 Listen (Wis)        | 3  | 0               | -| 3
@@ -81,4 +81,4 @@ Tumble (Dex, Armor)| 9 | 2                 | -2| 9
 Use Magic Device (Cha) | - | -1             | -| -1
 Use Rope (Dex)         | - | 2             | -| 2
 
-**Possessions**: +3 Greatsword, Chain Shirt
+**Possessions(28 lbs, Light Load)**: +3 Greatsword(8 lbs), Chain Shirt (25 lbs)

@@ -8,7 +8,7 @@
 
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
-1   | 1   | 2 | 0 | 0 | Fast Movement, Illiteracy, Rage, Power Attack    
+1   | 1   | 2 | 0 | 0 | Brutish, Fast Movement, Illiteracy, Rage, Power Attack    
 2   | 2   | 3 | 1 | 0 | Skirmish +1d6  
 3   | 3   | 3 | 1 | 1 | Damage Reduction 1/-, Endurance
 4   | 4   | 4 | 2 | 1 | Greater Fast Movement, Improved Healing,   
@@ -16,6 +16,8 @@ LVL | BAB | F | R | W | Special
 6   | 6/1 | 5 | 3 | 2 | Damage Reduction 2/-, Greater Improved Healing, Skirmish +2d6     
 
 **Weapon and Armor Proficiency**: A Barbarian is proficient with all simple and martial weapons, light armor, medium armor, and shields (except tower shields).
+
+**Brutish**(Ex): A Barbarian can use their Strength ability modifier in place of Charisma for Intimidate checks.
 
 **Fast Movement**(Ex): A Barbarian's land speed is faster than the norm for his race by +10 ft. This benefit applies only when he is wearing no armor, light armor, or medium armor and not carrying a heavy load. Apply this bonus before modifying the Barbarian's speed because of any load carried or armor.
 

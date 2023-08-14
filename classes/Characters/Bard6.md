@@ -2,7 +2,7 @@
 
 Hit Points(HP) | Armor Class(AC) | Initiative Modifier | Speed
 -------------- | --------------- | ------------------- | -----
-60=36(HD)+24(Con)| 17=10+4(Armor)+3(Dex)| 3(Dex)          | 30ft
+60=36(HD)+24(Con)| 17=10+4(Armor)+3(Dex)| 7=3(Dex)+4(Improved Initiative)          | 30ft
 
 Base Attack Bonus(BAB) | Damage Reduction(DR) | Grapple Modifier
 ---------------------  | -------------------- | ----------------
@@ -14,7 +14,7 @@ CON   | DEX   | STR   | CHA   | INT   | WIS
 
 FORTITUDE | REFLEX | WILL
 --------- | ------ | ----
-+6        | +8     | +5
+6=2+4(Con)| 8=5+3(Dex)| 3=3+0(Wis)
 
 ATTACKS | BONUS | DAMAGE | CRITICAL | NOTES
 ------- | ----- | ------ | -------- | -----
@@ -53,7 +53,7 @@ Iron Will | Gain a +2 bonus on Will saving throws. Gained as human bonus feat.
 Improved Initiative | You gain a +4 bonus on initiative checks. Gained as 1st level feat.
 Skill Focus (Perform) | Gain a +3 bonus on all Perform checks with an instrument of your choice. Gained through class feature.
 Combat Casting | Gain a +4 bonus on Concentration checks made to cast a spell or use a spell-like ability while on the defensive or while you are grappling or pinned.
-Skill Focus (Concentrate) | Gain a +3 bonus on all Concentrate checks. Gained as 6th level feat.
+Skill Focus (Concentration) | Gain a +3 bonus on all Concentration checks. Gained as 6th level feat.
 
 **Total Skill Points**: 45=36+9(Human)
 
@@ -95,4 +95,4 @@ Tumble (Dex, Armor)| - | 3                 | -2| 1
 Use Magic Device (Cha) | - | 2             | -| 2
 Use Rope (Dex)         | - | 2             | -| 2
 
-**Possessions**: +3 Lute, Chain Shirt, Shortbow
+**Possessions(24 lbs, Light Load)**: +3 Lute (2 lbs), Lightweight Chain Shirt (20 lbs), Shortbow (2 lbs)

@@ -1,4 +1,4 @@
-# Class
+# Human Jester 6
 
 Hit Points(HP) | Armor Class(AC) | Initiative Modifier | Speed
 -------------- | --------------- | ------------------- | -----
