@@ -2,7 +2,7 @@
 
 **Hit Die**: d12
 
-**Skills**: Balance (Dex), Climb (Str), Concentration (Con), Craft (Int), Escape Artist (Dex), Hide (Dex), Jump (Str), Knowledge (arcana) (Int), Knowledge (religion) (Int), Listen (Wis), Move Silently (Dex), Perform (Cha), Profession (Wis), Sense Motive (Wis), Spot (Wis), Swim (Str), Tumble (Dex)
+**Skills**: Acrobatics (Dex), Athletics (Str), Concentration (Con), Craft (Int), Knowledge (arcana) (Int), Knowledge (religion) (Int), Listen (Wis), Perform (Cha), Profession (Wis), Spot (Wis), Stealth (Dex)
 
 **Skills/Level**: 4 + Int modifier
 

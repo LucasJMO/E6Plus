@@ -2,7 +2,7 @@
 
 **Hit Die**: d4
 
-**Skills**: Bluff (Cha), Concentration (Con), Craft (Int), Knowledge (arcana) (Int), Profession (Wis), Spellcraft (Int)
+**Skills**: Acrobatics (Dex), Athletics (Str), Bluff (Cha), Concentration (Con), Craft (Int), Knowledge (arcana) (Int), Profession (Wis), Spellcraft (Int)
 
 **Skills/Level**: 2 + Int modifier
 

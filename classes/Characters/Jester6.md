@@ -2,19 +2,19 @@
 
 Hit Points(HP) | Armor Class(AC) | Initiative Modifier | Speed
 -------------- | --------------- | ------------------- | -----
-HP             | AC              | Initiative          | Speed
+48=36+12(Con)  | AC              | Initiative          | Speed
 
 Base Attack Bonus(BAB) | Damage Reduction(DR) | Grapple Modifier
 ---------------------  | -------------------- | ----------------
-BAB                    | DR                   | Grapple
+4                      | -                    | 3=4(BAB)-1(Str)
 
 CON   | DEX   | STR   | CHA   | INT   | WIS 
 ---   | ---   | ---   | ---   | -     | ------- 
-10(0) | 10(0) | 10(0) | 10(0) | 10(0) | 10(0) 
+14(2) | 18(4) | 8(-1) | 16(3) | 10(0) | 10(0) 
 
 FORTITUDE | REFLEX | WILL
 --------- | ------ | ----
-FORT      | REFL   | WILL
+4=2+2(Con)| 9=5+4(Dex)| 3=3+0(Wis)
 
 ATTACKS | BONUS | DAMAGE | CRITICAL | NOTES
 ------- | ----- | ------ | -------- | -----

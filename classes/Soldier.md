@@ -2,7 +2,7 @@
 
 **Hit Die**: d12
 
-**Skills**: Balance (Dex), Climb (Str), Craft (Int), Escape Artist (Dex), Handle Animal (Cha), Heal (Wis), Jump (Str), Knowledge (all skills, taken individually) (Int), Listen (Wis), Move Silently (Dex), Profession (Wis), Ride (Dex), Spot (Wis), Survival (Wis), Swim (Str), Tumble (Dex), Use Rope (Dex)
+**Skills**: Acrobatics (Dex), Athletics (Str), Craft (Int), Handle Animal (Cha), Heal (Wis), Knowledge (all skills, taken individually) (Int), Listen (Wis), Profession (Wis), Ride (Dex), Spot (Wis), Stealth (Dex), Survival (Wis), Use Rope (Dex)
 
 **Skills/Level**: 4 + Int modifier
 

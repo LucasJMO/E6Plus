@@ -2,7 +2,7 @@
 
 **Hit Die**: d4
 
-**Skills**: Concentration (Con), Craft (Int), Craft (Int), Decipher Script (Int), Knowledge (all skills, taken individually) (Int), Profession (Wis), Spellcraft (Int)
+**Skills**: Acrobatics (Dex), Athletics (Str), Concentration (Con), Craft (Int), Craft (Int), Decipher Script (Int), Knowledge (all skills, taken individually) (Int), Profession (Wis), Spellcraft (Int)
 
 **Skills/Level**: 2 + Int modifier
 

@@ -2,7 +2,7 @@
 
 **Hit Die**: d10
 
-**Skills**: Concentration (Con), Craft (Int), Decipher Script (Int), Jump (Str), Knowledge (arcana) (Int), Knowledge (nobility and royalty) (Int), Ride (Dex), Sense Motive (Wis), Spellcraft (Int), Swim (Str)
+**Skills**: Acrobatics (Dex), Athletics (Str), Concentration (Con), Craft (Int), Decipher Script (Int), Knowledge (arcana) (Int), Knowledge (nobility and royalty) (Int), Ride (Dex), Spellcraft (Int)
 
 **Skills/Level**: 2 + Int modifier
 

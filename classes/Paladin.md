@@ -2,7 +2,7 @@
 
 **Hit Die**: d10
 
-**Skills**: Concentration (Con), Craft (Int), Diplomacy (Cha), Handle Animal (Cha), Heal (Wis), Knowledge (nobility and royalty) (Int), Knowledge (religion) (Int), Profession (Wis), Ride (Dex), Sense Motive (Wis)
+**Skills**: Acrobatics (Dex), Athletics (Str), Concentration (Con), Craft (Int), Handle Animal (Cha), Heal (Wis), Knowledge (nobility and royalty) (Int), Knowledge (religion) (Int), Profession (Wis), Ride (Dex)
 
 **Skills/Level**: 2 + Int modifier
 

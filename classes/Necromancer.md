@@ -4,7 +4,7 @@
 
 **Skills**: 2 + Int modifier
 
-**Skills/Level**: Bluff (Cha), Concentration (Con), Craft (Int), Decipher Script (Int), Disguise (Cha), Hide (Dex), Intimidate (Cha), Knowledge (Arcana) (Int), Knowledge (Religion) (Int), Profession (Wis), Spellcraft (Int)
+**Skills/Level**: Acrobatics (Dex), Athletics (Str), Bluff (Cha), Concentration (Con), Craft (Int), Decipher Script (Int), Disguise (Cha), Intimidate (Cha), Knowledge (Arcana) (Int), Knowledge (Religion) (Int), Profession (Wis), Spellcraft (Int), Stealth (Dex)
 
 LVL | BAB | F | R | W | Special |  1 | 2 | 3
 --- | --- | - | - | - | ------- |  - | - | -

@@ -2,7 +2,7 @@
 
 **Hit Die**: d8
 
-**Skills**: Concentration (Con), Craft (Int), Diplomacy (Cha), Handle Animal (Cha), Heal (Wis), Knowledge (arcana) (Int), Knowledge (history) (Int), Knowledge (nature) (Int), Knowledge (religion) (Int), Listen (Wis), Knowledge (religion) (Int), Profession (Wis), Ride (Dex), Spellcraft (Int), Spot (Wis), Survival (Wis), and Swim (Str)
+**Skills**: Acrobatics (Dex), Athletics (Str), Concentration (Con), Craft (Int), Handle Animal (Cha), Heal (Wis), Knowledge (arcana) (Int), Knowledge (history) (Int), Knowledge (nature) (Int), Knowledge (religion) (Int), Listen (Wis), Profession (Wis), Ride (Dex), Spellcraft (Int), Spot (Wis), Survival (Wis)
 
 **Skills/Level**: 4 + Int modifier
 

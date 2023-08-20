@@ -2,7 +2,7 @@
 
 **Hit Die**: d6
 
-**Skills**: Bluff (Cha), Climb (Str), Craft (Dex), Concentration (Con), Disguise (Cha), Escape Artist (Dex), Handle Animal (Cha), Intimidate (Cha), Jump (Str), Listen (Wis), Move Silently (Dex), Profession (Wis), Ride (Dex), Search (Int), Spellcraft (Int), Spot (Int), Survival (Wis), Tumble (Dex), Use Rope (Dex)
+**Skills**: Acrobatics (Dex), Athletics (Str), Bluff (Cha), Craft (Dex), Concentration (Con), Disguise (Cha), Handle Animal (Cha), Intimidate (Cha), Listen (Wis), Profession (Wis), Ride (Dex), Search (Int), Spellcraft (Int), Spot (Int), Stealth (Dex), Survival (Wis), Use Rope (Dex)
 
 **Skills/Level**: 4 + Int modifier
 

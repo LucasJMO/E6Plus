@@ -2,13 +2,13 @@
 
 **Hit Die**: d12
 
-**Skills**: Climb (Str), Craft (Dex), Concentration (Con), Intimidate (Cha), Jump (Str), Listen (Wis), Move Silently (Dex), Profession (Wis), Ride (Dex), Search (Int), Spellcraft (Int), Spot (Int), Survival (Wis), Tumble (Dex), Use Rope (Dex)
+**Skills**: Acrobatics (Dex), Athletics (Str), Craft (Dex), Concentration (Con), Intimidate (Cha), Listen (Wis), Profession (Wis), Ride (Dex), Search (Int), Spellcraft (Int), Spot (Int), Stealth (Dex), Survival (Wis), Use Rope (Dex)
 
 **Skills/Level**: 4 + Int modifier
 
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
-1   | 1   | 2 | 0 | 0 | Fire Weapon, Fire Resistance, Nimbus
+1   | 1   | 2 | 0 | 0 | Fire Weapon, Brutish, Fire Resistance, Nimbus
 2   | 2   | 3 | 1 | 1 | Fire Burst, Fire Weapon +1
 3   | 3   | 3 | 1 | 1 | Fire Bolt, Piercing Flames, Smokeless Flame
 4   | 4   | 4 | 2 | 2 | Explosive Charge, Fire Immunity, Fire Weapon +2
@@ -24,6 +24,8 @@ Although a Pyrokineticist can become proficient with other forms of armor, weari
 A weapon manifested in this way is treated as a normal weapon of its size and type, except that at each even numbered level it gains a +1 bonus on attack rolls and deals an additional 1d6 points of fire damage to a target it strikes. This additional fire damage is only applied to the first successful melee attack a Pyrokineticist makes each turn, and is not multiplied if the Pyrokineticist scores a critical hit with their flame weapon. 
 
 A Pyrokineticist can dual wield a fire weapon and a normal weapon, however a fire weapon cannot be treated as an off-hand weapon. A fire weapon is treated as a magical weapon for the purpose of overcoming damage reduction.
+
+**Brutish**(Ex): A Pyrokineticist can use their Strength ability modifier in place of Charisma for Intimidate checks.
 
 **Fire Resistance**(Ex): A Pyrokineticist has a resistance to fire equal to twice his class level.
 

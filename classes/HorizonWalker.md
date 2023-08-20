@@ -2,7 +2,7 @@
 
 **Hit Die**: d10
 
-**Skills**: Balance (Dex), Climb (Str), Handle Animal (Cha), Hide (Dex), Knowledge (all skills, taken individually) (Int), Listen (Wis), Move Silently (Dex), Profession (Wis), Ride (Dex), Search (Int), Speak Language (None), Spot (Wis), Survival (Wis), Swim (Str)
+**Skills**: Acrobatics (Dex), Athletics(Str), Handle Animal (Cha), Knowledge (all skills, taken individually) (Int), Listen (Wis), Profession (Wis), Ride (Dex), Search (Int), Speak Language (None), Spot (Wis), Stealth (Dex), Survival (Wis)
 
 **Skills/Level**: 6 + Int modifier
 

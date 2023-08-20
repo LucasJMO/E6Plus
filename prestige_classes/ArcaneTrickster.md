@@ -2,7 +2,7 @@
 
 **Hit Die**: d6
 
-**Skills**: Appraise (Int), Balance (Dex), Bluff (Cha), Climb (Str), Concentration (Con), Craft (Int), Decipher Script (Int), Diplomacy (Cha), Disable Device (Int), Disguise (Cha), Escape Artist (Dex), Forgery (Int), Gather Information (Cha), Handle Animal (Cha), Heal (Wis), Hide (Dex), Intimidate (Cha), Jump (Str), Knowledge (all skills, taken individually) (Int), Listen (Wis), Move Silently (Dex), Open Lock (Dex), Perform (Cha), Profession (Wis), Ride (Dex), Search (Int), Sense Motive (Wis), Sleight of Hand (Dex), Speak Language (None), Spellcraft (Int), Spot (Wis), Survival (Wis), Swim (Str), Tumble (Dex), Use Magic Device (Cha), Use Rope (Dex)
+**Skills**: Acrobatics (Dex), Appraise (Int), Athletics (Str), Bluff (Cha), Concentration (Con), Craft (Int), Decipher Script (Int), Diplomacy (Cha), Disable Device (Int), Disguise (Cha), Forgery (Int), Gather Information (Cha), Handle Animal (Cha), Heal (Wis), Intimidate (Cha), Knowledge (all skills, taken individually) (Int), Listen (Wis), Open Lock (Dex), Perform (Cha), Profession (Wis), Ride (Dex), Search (Int), Speak Language (None), Spellcraft (Int), Spot (Wis), Stealth (Dex), Survival (Wis), Use Magic Device (Cha), Use Rope (Dex)
 
 **Skills/Level**: 2 + Int modifier
 

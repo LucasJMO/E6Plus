@@ -2,7 +2,7 @@
 
 **Hit Die**: d8
 
-**Skills**: Concentration (Con), Craft (Int), Diplomacy (Cha), Heal (Wis), Knowledge (arcana) (Int), Knowledge (history) (Int), Knowledge (religion) (Int), Knowledge (the planes) (Int), Profession (Wis), and Spellcraft (Int)
+**Skills**: Acrobatics (Dex), Athletics (Str), Concentration (Con), Craft (Int), Heal (Wis), Knowledge (arcana) (Int), Knowledge (history) (Int), Knowledge (religion) (Int), Knowledge (the planes) (Int), Profession (Wis), Spellcraft (Int)
 
 **Skills/Level**: 2 + Int modifier
 

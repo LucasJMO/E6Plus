@@ -2,7 +2,7 @@
 
 **Hit Die**: d12
 
-**Skills**: Concentration (Con), Craft (Int), Diplomacy (Cha), Escape Artist (Dex), Gather Information (Cha), Knowledge (all skills, taken individually) (Int), Listen (Wis), Profession (Wis), Search (Int), Speak Language (None), Spellcraft (Int), Spot (Wis)
+**Skills**: Acrobatics (Dex), Athletics (Str), Concentration (Con), Craft (Int), Gather Information (Cha), Knowledge (all skills, taken individually) (Int), Listen (Wis), Profession (Wis), Search (Int), Speak Language (None), Spellcraft (Int), Spot (Wis)
 
 **Skills/Level**: 2 + Int modifier
 

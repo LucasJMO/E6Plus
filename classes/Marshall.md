@@ -2,7 +2,7 @@
 
 **Hit Die**: d12
 
-**Skills**: Climb (Str), Craft (Int), Concentration (Con), Disguise (Cha), Gather Information (Cha), Handle Animal (Cha), Heal (Wis), Hide (Dex), Intimidate (Cha), Jump (Str), Knowledge (All skills, trained individually) (Int), Listen (Wis), Move Silently (Dex), Profession (Wis), Ride (Dex), Search (Int), Sense Motive (Wis), Spellcraft (Int), Spot (Wis), Survival (Wis), Swim (Str), Use Rope (Dex)
+**Skills**: Acrobatics (Dex), Athletics (Str), Craft (Int), Concentration (Con), Disguise (Cha), Gather Information (Cha), Handle Animal (Cha), Heal (Wis), Intimidate (Cha), Knowledge (All skills, trained individually) (Int), Listen (Wis), Profession (Wis), Ride (Dex), Search (Int), Spellcraft (Int), Spot (Wis), Stealth (Dex), Survival (Wis), Use Rope (Dex)
 
 **Skills/Level**: 4 + Int modifier
 

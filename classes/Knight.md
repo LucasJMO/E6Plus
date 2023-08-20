@@ -2,7 +2,7 @@
 
 **Hit Die**: d12
 
-**Skills**: Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Jump (Str), Knowledge (History) (Int), Knowledge (Nobility) (Int), Knowledge (Geography) (Int), Listen (Wis), Perform (Cha), Ride (Dex), Sense Motive (Wis), Spot (Wis), Swim (Str)
+**Skills**: Acrobatics (Dex), Athletics (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Knowledge (History) (Int), Knowledge (Nobility) (Int), Knowledge (Geography) (Int), Listen (Wis), Perform (Cha), Ride (Dex), Spot (Wis)
 
 **Skills/Level**: 4 + Int modifier
 

@@ -2,7 +2,7 @@
 
 **Hit Die**: d6
 
-**Skills**: Appraise (Int), Balance (Dex), Bluff (Cha), Climb (Str), Concentration (Con), Craft (Int), Decipher Script (Int), Diplomacy (Cha), Disguise (Cha), Escape Artist (Dex), Gather Information (Cha), Heal (Wis), Hide (Dex), Jump (Str), Knowledge (all skills, taken individually) (Int), Listen (Wis), Move Silently (Dex), Perform (Cha), Profession (Wis), Sleight of Hand (Dex), Speak Language (None), Spellcraft (Int), Swim (Str), Tumble (Dex), Use Magic Device (Cha)
+**Skills**: Acrobatics (Dex), Appraise (Int), Athletics (Str), Bluff (Cha), Concentration (Con), Craft (Int), Decipher Script (Int), Disguise (Cha), Gather Information (Cha), Heal (Wis), Knowledge (all skills, taken individually) (Int), Listen (Wis), Perform (Cha), Profession (Wis), Speak Language (None), Spellcraft (Int), Stealth (Dex), Use Magic Device (Cha)
 
 **Skills/Level**: 6 + Int modifier
 

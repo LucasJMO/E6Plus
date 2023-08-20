@@ -2,7 +2,7 @@
 
 **Hit Die**: d12
 
-**Skills**: Balance (Dex), Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Jump (Str), Listen (Wis), Move Silently (Dex), Ride (Dex), Spot (Int), Survival (Wis), Swim (Str), Tumble (Dex)
+**Skills**: Acrobatics (Dex), Athletics (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Listen (Wis), Ride (Dex), Spot (Int), Stealth (Dex), Survival (Wis)
 
 **Skills/Level**: 6 + Int modifier
 

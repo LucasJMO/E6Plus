@@ -2,7 +2,7 @@
 
 **Hit Die**: d4
 
-**Skills**: Appraise (Int), Concentration (Con), Craft (alchemy) (Int), Decipher Script (Int), Gather Information (Cha), Handle Animal (Cha), Heal (Wis), Knowledge (all skills taken individually) (Int), Perform (Cha), Profession (Wis), Speak Language (None), Spellcraft (Int), Use Magic Device (Cha)
+**Skills**: Acrobatics (Dex), Appraise (Int), Athletics (Str), Concentration (Con), Craft (alchemy) (Int), Decipher Script (Int), Gather Information (Cha), Handle Animal (Cha), Heal (Wis), Knowledge (all skills taken individually) (Int), Perform (Cha), Profession (Wis), Speak Language (None), Spellcraft (Int), Use Magic Device (Cha)
 
 **Skills/Level**: 4 + Int modifier
 

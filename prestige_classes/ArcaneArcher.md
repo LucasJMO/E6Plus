@@ -2,7 +2,7 @@
 
 **Hit Die**: d8
 
-**Skills**: Craft (Int), Hide (Dex). Listen (Wis), Move Silently (Dex), Ride (Dex), Spot (Wis), Survival (Wis), Use Rope (Dex)
+**Skills**: Acrobatics (Dex), Athletics (Str), Craft (Int), Hide (Dex), Listen (Wis), Ride (Dex), Spot (Wis), Stealth (Dex), Survival (Wis), Use Rope (Dex)
 
 **Skills/Level**: 4 + Int modifier
 
