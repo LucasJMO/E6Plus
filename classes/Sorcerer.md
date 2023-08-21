@@ -37,9 +37,9 @@ A slain or dismissed familiar cannot be replaced for a year and day. A slain fam
 
 A character with more than one class that grants a familiar may have only one familiar at a time.
 
-**Advanced Learning**: Each time a Sorcerer gains a level he can learn one additional spell from any spell list he desires.
+**Advanced Learning**: Each time a Sorcerer gains a level he can learn one additional spell from any spell list he desires. Spells learned this way cannot be a higher level than the Sorcerer can cast.
 
-**Metamagician**: Once per day per class level a Sorcerer can apply one of Empower Spell, Enlarge Spell, Extend Spell, Heighten Spell, Maximize Spell, Quicken Spell, Silent Spell, or Widen Spell to a spell he casts without increasing the spell's level.
+**Metamagician**: Once per day per class level a Sorcerer can apply one of Empower Spell, Enlarge Spell, Extend Spell, Heighten Spell, Maximize Spell, Quicken Spell, Sculpt Spell, Silent Spell, or Widen Spell to a spell he casts without increasing the spell's level.
 
 **Bonus Feat**: At 2nd and 6th level, a Sorcerer gains a bonus feat. She can choose a metamagic feat, an item creation feat, or Spell Mastery. The Sorcerer must still meet all prerequisites for a bonus feat, including caster level minimums.
 

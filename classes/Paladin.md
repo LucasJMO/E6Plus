@@ -8,11 +8,11 @@
 
 LVL | BAB | F | R | W | Special | 1 | 2 | 3
 --- | --- | - | - | - | ------- | - | - | -
-1   | 1   | 2 | 0 | 0 | Aura of Good, Detect Evil, Smite Evil 1/day | 3 | 2 | -
+1   | 1   | 2 | 0 | 0 | Aura of Good, Detect Evil, Smite  | 3 | 2 | -
 2   | 2   | 3 | 0 | 1 | Divine Grace, Harm Undead, Healing Word | 3 | 3 | -   
 3   | 3   | 3 | 1 | 1 | Aura of Courage, Divine Health | 3 | 3 | 3
 4   | 4   | 4 | 1 | 2 | Lay on Hands, Improved Healing, Turn Undead | 3 | 3 | 3
-5   | 5   | 4 | 1 | 2 | Smite Evil 2/day | 4 | 3 | 3
+5   | 5   | 4 | 1 | 2 | - | 4 | 3 | 3
 6   | 6/1 | 5 | 2 | 3 | Brilliant Champion, Greater Healing, Remove Disease | 4 | 4 | 3
 
 **Weapon and Armor Proficiency**: Paladins are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with all shields (including tower shields).
@@ -25,15 +25,13 @@ To prepare or cast a spell, a Paladin must have a Charisma score equal to at lea
 
 **Detect Evil**(Sp): At will, a Paladin can use detect evil, as the spell.
 
-**Smite Evil**(Su): Once per day, a Paladin may attempt to smite evil with one normal melee attack. She adds her Charisma bonus (if any) to her attack roll and deals 1 extra point of damage per Paladin level. If the Paladin accidentally smites a creature that is not evil, the smite has no effect, but the ability is still used up for that day. 
-
-At 5th level the Paladin may smite evil one additional time per day.
+**Smite**(Su): Once per day per class level, a Paladin may attempt to smite evil with one normal melee attack. She adds her Charisma bonus (if any) to her attack roll and deals 1 extra point of damage per Paladin level. 
 
 **Divine Grace**(Su): A 2nd level Paladin gains a bonus equal to her charisma bonus on all saving throws.
 
 **Healing Word**(Su): A 2nd level Paladin can invoke divine energy to heal herself or others. Each day she can heal a total number of hit points of damage equal to Paladin level*5. A Paladin may heal up to 1d4 one use of healing word. Using healing word is a swift action and can target any ally within 60 ft.
 
-**Harm Undead**(Su): A 2nd level Paladin may draw from the same pool as healing word in order to harm undead creatures. Using harm undead requires a successful melee touch attack (this does not provoke an attack of opportunity). After successfully touching the undead creature, the Paladin decides how many points to use from his daily allotment. An opponent subjected to this attack can make a Will save (DC 10 + 1/2 Paladin level + charisma modifier) to halve the damage dealt.
+**Harm Undead**(Su): A 2nd level Paladin may draw from the same pool as healing word in order to harm undead creatures. Using harm undead requires a successful melee touch attack (this does not provoke an attack of opportunity). After successfully touching the undead creature, the Paladin may deal up to 1d6 per class level. An opponent subjected to this attack can make a Will save (DC 10 + 1/2 Paladin level + charisma modifier) to halve the damage dealt.
 
 **Aura of Courage**(Su): A 3rd level Paladin is immune to fear (magical or otherwise). Each ally within 10 feet of her gains a +4 morale bonus on saving throws against fear effects. This ability functions while the Paladin is conscious, but not if she is unconscious or dead.
 

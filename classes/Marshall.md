@@ -17,23 +17,23 @@ LVL | BAB | F | R | W | Special
 
 **Weapon and Armor Proficiency**: Marshalls are proficient with all simple and martial weapons. Marshalls are proficient with all armor and shields (including tower shields).
 
-**Battle Shout**: Twice per day per class level, a Marshall may expend a swift action in order to grant up to four allies (this may include the Marshall) within short range a Morale bonus to all attack rolls equal to the Marshall's Charisma modifier, a Morale bonus to all damage rolls equal to the Marshall's Intelligence modifier, and a Morale bonus to AC and saves equal to the Marshall's Wisdom modifier. This bonus lasts for a number of rounds equal to the Marshall's class level plus Wisdom modifier. In a party with multiple Marshalls this effect does not stack.
+**Battle Shout**: Twice per day per class level, a Marshall may expend a swift action in order to grant up to four allies (this may include the Marshall) within 60ft a Morale bonus to all attack rolls equal to the Marshall's Charisma modifier, a Morale bonus to all damage rolls equal to the Marshall's Intelligence modifier, and a Morale bonus to AC and saves equal to the Marshall's Wisdom modifier. This bonus lasts for a number of rounds equal to the Marshall's class level plus Wisdom modifier. In a party with multiple Marshalls this effect does not stack.
 
 **Inspire Bravery**: Allies within 60 feet of a Marshall may add the Marshall’s Charisma bonus to their saves against Fear effects. This bonus does not stack in a party with multiple Marshalls.
 
 **Untiring**(Ex): A Marshall needs half as much sleep as normal (for example, a long rest for a Marshall is 4 hours) and is immune to any effects which cause fatigue, exhaustion, or sleep.
 
-**Heal Injuries**(Su): As a swift action, a Marshall can expend a use of battle shout to heal an ally in short range (or himself) a number of hit points equal to his class level divided by 2 (minimum of 1).
+**Heal Injuries**(Su): As a swift action, a Marshall can expend a use of battle shout to heal an ally within 60ft (or himself) a number of hit points equal to his class level divided by 2 (minimum of 1).
 
 **Marshall's Poise**(Ex): A Marshall applies his Charisma modifier (if positive) as a bonus on all saving throws.
 
 **Heroic Resolve**(Ex): A Marshall who is suffering a negative effect as the result of a failed Will save may expend a standard action to attempt the save again. This ability is usable once for any effect which requires a Will save. If the Marshall succeeds on this save the negative effect ends, if he fails it continues as normal.
 
-**War Shout**(Ex): At 3rd level, a Marshall’s battle shout affects all allies within medium range. The allies must still be able to hear the Marshall as normal.
+**War Shout**(Ex): At 3rd level, a Marshall’s battle shout affects all allies within 100ft. The allies must still be able to hear the Marshall as normal.
 
 **Bolster Allies**(Ex): At 4th level, allies being affected by the Marshall's battle shout may reroll one d20 die roll per usage of battle shout. The ally must decide to reroll immediately after making their roll (before they know whether their save, attack, skill check, etc.) has succeeded, and must abide by the result of the reroll, even if it's worse than the original roll. 
 
-**Inner Strength**(Ex): A 5th level Marshall may expend one usage of Battle Shout to give himself a +2 untyped bonus to any ability score. Activating Inner Strength requires a swift action, and the bonus lasts for one round per class level.
+**Inner Strength**(Ex): A 5th level Marshall may expend one usage of Battle Shout to give himself or an ally within 60 ft a +2 untyped bonus to any ability score. Activating Inner Strength requires a swift action, and the bonus lasts for one round per class level.
 
 **Snap Out Of It**(Ex): A 5th level Marshall can expend a move equivalent action to target an ally within 60 feet who is suffering a negative effect as the result of a failed will save and allow them to reroll the save and add the Marshall's Charisma modifier to their roll. If they succeed the effect ends, if they fail the effect continues as normal. Should the ally fail their first save the Marshall may expend one further usage of battle shout to allow the ally to attempt a second save.
 

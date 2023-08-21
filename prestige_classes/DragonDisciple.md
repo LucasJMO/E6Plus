@@ -19,10 +19,10 @@ To qualify to become a Dragon Disciple, a character must fulfill all the followi
 LVL | BAB | F | R | W | Special | Spellcasting
 --- | --- | - | - | - | ------- | ------------
 1   | 1   | 2 | 0 | 2 | Breath weapon (1d8), Natural Armor Increase | +1 level of existing spellcasting class
-2   | 2   | 3 | 0 | 3 | Ability boost (Str +3), Bonus Feat, Claws and Bite | -
-3   | 3   | 3 | 1 | 3 | Ability boost (Dex +3), Breath Weapon (2d8), Blindsense 30 ft | +1 level of existing spellcasting class      
-4   | 4   | 4 | 1 | 4 | Ability boost (Con +3), Bonus Feat | -         
-5	| 5	  | 4 | 2 | 4 | Ability boost (Cha +3), Breath Weapon (3d8), Draconic Aspect | +1 level of existing spellcasting class
+2   | 2   | 3 | 0 | 3 | Ability boost (Str +2), Bonus Feat, Claws and Bite | -
+3   | 3   | 3 | 1 | 3 | Ability boost (Dex +2), Breath Weapon (2d8), Blindsense 30 ft | +1 level of existing spellcasting class      
+4   | 4   | 4 | 1 | 4 | Ability boost (Con +2), Bonus Feat | -         
+5	| 5	  | 4 | 2 | 4 | Ability boost (Cha +2), Breath Weapon (3d8), Draconic Aspect | +1 level of existing spellcasting class
 
 **Weapon and Armor Proficiency**: A Dragon Disciple is proficient with light armor.
 

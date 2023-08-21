@@ -10,8 +10,6 @@
 
 To qualify to become a Mystic Theurge, a character must meet the following requirements.
 
-**Feats**: Skill Focus (Knowledge [arcana]), Skill Focus (Knowledge [religion])
-
 **Spells**: Must be able to cast either 2nd level divine spells and 1st level arcane spells, or 1st level divine spells and 2nd level arcane spells.
 
 LVL | BAB | F | R | W | Special | Spellcasting

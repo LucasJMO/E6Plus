@@ -35,7 +35,7 @@ Unshakeable | You may continue to act normally after being reduced to 0 or less 
 
 Racial Ability| Explanation
 ------------- | -----------
-Darkvision 60ft | You can see in the dark out to 60ft  
+Darkvision 60ft | -  
 Light Sensitivity | You are dazzled in bright sunlight or in the radius of a daylight spell. Take a -1 penalty on attack rolls, search checks, and spot checks.
 
 Feat | Explanation
@@ -58,30 +58,27 @@ Athletics (Str, Armor) | 9      | 6                | -2 | 13
 Bluff (Cha)    | -      | -2               | - | -2
 Concentration (Con)| -  | 3                | -| 3
 Craft (Int)        | -  | -1                | -| -1
-Decipher Script (Int)| -| -1                | -| -1
-Disable Device (Int)| - | -1                | -| -1
+Decipher Script (Int, Trained)| -| -1                | -| -1
+Disable Device (Int, Trained)| - | -1                | -| -1
 Disguise (Cha)      | - | -2                | -| -2
 Forgery (Int)       | - | -1                | -| -1
 Gather Information (Cha) | - | -2           | -| -2
-Handle Animal (Cha) | -  | -2              | -| -2
+Handle Animal (Cha, Trained) | -  | -2              | -| -2
 Heal (Wis)          | -  | -1               | -| -1
-Hide (Dex, Armor)   | -  | 2               | -2| 0
 Intimidate (Str)    | 9  | 6               | -| 15
-Knowledge (Int)     | -  | -1               | -| -1
+Knowledge (Int, Trained)     | -  | -1               | -| -1
 Listen (Wis)        | 5  | -1               | -| 4
-Move Silently (Dex, Armor) | 6 | 2         | -2| 6
-Open Lock (Dex) | - | 2                    | -| 2
+Open Lock (Dex, Trained) | - | 2                    | -| 2
 Perform (Cha)   | - | -2                    | -| -2
-Profession (Wis)| - | -1                    | -| -1
+Profession (Wis, Trained)| - | -1                    | -| -1
 Ride (Dex)      | - | 2                    | -| 2
 Search (Int)    | - | -1                    | -| -1
-Sleight of Hand (Dex, Armor) | - | 2       | -2| 0
 Speak Language | - | -                     | -| -
-Spellcraft (Int) | - | -1                   | -| -1
+Spellcraft (Int, Trained) | - | -1                   | -| -1
 Spot (Wis)       | 4 | -1                   | -| 3
+Stealth (Dex, Armor)| 4 | 2                   | -2| 4
 Survival (Wis)   | - | -1                   | -| -1
-Tumble (Dex, Armor)| 9 | 2                 | -2| 9
-Use Magic Device (Cha) | - | -2             | -| -2
+Use Magic Device (Cha, Trained) | - | -2             | -| -2
 Use Rope (Dex)         | - | 2             | -| 2
 
 **Possessions(28 lbs, Light Load)**: +3 Greatsword(8 lbs), Chain Shirt (25 lbs)

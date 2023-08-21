@@ -8,18 +8,18 @@
 
 LVL | BAB | F | R | W | Special | 0 | 1 | 2
 --- | --- | - | - | - | ------- | - | - | -
-1   | 0   | 0 | 2 | 0 | Advanced Learning, Harlequin's Mask, Ignore Components, Poison Use, Skill Focus (Sleight of Hand) | 4 |  -  |  -  
+1   | 0   | 0 | 2 | 0 | Harlequin's Mask, Ignore Components, Poison Use, Skill Focus (Sleight of Hand) | 4 |  -  |  -  
 2   | 1   | 0 | 3 | 1 | Sneak Attack +1d6, Advanced Learning, Evasion, Laugh It Off, Trick Throw | 5 | 2 |  -  
 3   | 2   | 1 | 3 | 1 | Weapon Sleeve | 5 | 3 | -
 4   | 3   | 1 | 4 | 2 | Sneak Attack +2d6, Advanced Learning, Jester's Feint | 5 | 4 | 2
 5   | 3   | 1 | 4 | 2 | Advanced Learning, Improvised Weapon Master, Killer Clown, Last Trick | 5 | 5 | 3
-6   | 4   | 2 | 5 | 3 | Sneak Attack +3d6, Pratfall, Quick Throw | 5 | 5 | 4
+6   | 4   | 2 | 5 | 3 | Sneak Attack +3d6, Advanced Learning, Pratfall, Quick Throw | 5 | 5 | 4
 
-**Weapon and Armor Proficiency**: Jesters are proficient with light armor but not with shields of any kind. A Jester is proficient with daggers, sickles, quarterstaves, darts, and slings, and suffers no attack penalty for using an improvised weapon. Additionally an improvised thrown weapon for a Jester has a range increment of 30 feet.
+**Weapon and Armor Proficiency**: Jesters are proficient with light armor but not with shields of any kind. A Jester is proficient with daggers, sickles, quarterstaves, darts, and slings, and suffers no attack penalty for using an improvised weapon. Improvised weapons wielded by a Jester do not have a 50% chance of breaking after dealing damage or being thrown. Additionally an improvised thrown weapon for a Jester has a range increment of 30 feet.
 
 **Spellcasting**: Jester is an Arcane caster with the same spells per day progression as a Bard. A Jester casts from the Jester Spell List (below). A Jester automatically knows every spell on his spell list. He can cast any spell he knows without preparing them ahead of time, provided that spell slots of an appropriate level are still available. To cast a Jester spell, he must have a Charisma of at least 10+spell level. The DC of the Jester’s spells is Charisma based, and the bonus spells are Charisma based.
 
-**Advanced Learning**(Ex): At 1st, 2nd, and 4th level, a Jester can gain an additional spell known, from a spell list outside of her own (should she choose to do so). The spell may be of a level no higher than that of the highest level spell the Jester already knows. If a spell appears on multiple spell lists, use the lowest level version.
+**Advanced Learning**(Ex): At 2nd, 4th, and 6th level, a Jester can gain an additional spell known, from a spell list outside of her own (should she choose to do so). The spell may be of a level no higher than that of the highest level spell the Jester already knows. If a spell appears on multiple spell lists, use the lowest level version.
 
 **Harlequin's Mask**(Su): As long as a Jester’s face is painted, masked, or adorned in the manner of a harlequin or other comedic figure, he is immune to compulsion effects.
 
@@ -33,7 +33,7 @@ LVL | BAB | F | R | W | Special | 0 | 1 | 2
 
 **Laugh it Off**(Ex): A Jester may add his Charisma modifier as a morale bonus to his saves.
 
-**Trick Throw**(Ex): When throwing improvised weapons a Jester is considered to have the feats Point Blank Shot and Precise Shot. These may serves as prerequisites for other feats, however, any feats gained in this manner only apply to the throwing of improvised weapons. Additionally a Jester may use his dexterity modifier in place of his strength modifier for making ranged attack rolls with improvised weapons.
+**Trick Throw**(Ex): A Jester may use his dexterity modifier in place of his strength modifier for making ranged attack rolls with improvised weapons.
 
 Additionally a Jester gains a +3 bonus on any performance checks made to attempt to juggle, and is allowed to take 10 on such checks.
 

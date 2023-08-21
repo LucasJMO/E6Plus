@@ -19,7 +19,9 @@ LVL | BAB | F | R | W | Special
 
 **Code of Conduct**: A Knight must abide by the following rules. Breaking any results in the loss of Knightly abilities until atonement is completed. A Knight must refuse bonuses from Aid Another actions in combat, a Knight must refrain from the use of poisons of any kind, and a Knight may not voluntarily change shape.
 
-**Draw Fire**: With a Swift Action, a Knight may pique the interest of any opponent with intelligence 6 or less within 60 feet. That creature must make a will save (DC 10 + 1/2 Knight level + constitution modifier) or spend all of its actions moving towards or attacking the Knight. This effect ends after a number of rounds equal to the Knight’s class level, and creatures targeted by this effect can not be affected by it again for the next 24 hours (from the Knight targeting them, they can still be affected by other Knights using the ability).
+**Draw Fire**: With a Swift Action, a Knight may pique the interest of any opponent within 60 feet. That creature must make a will save (DC 10 + 1/2 Knight level + constitution modifier) or spend all of its actions moving towards or attacking the Knight. This effect ends after a number of rounds equal to the Knight’s class level, and creatures targeted by this effect can not be affected by it again for the next 24 hours (from the Knight targeting them, they can still be affected by other Knights using the ability).
+
+In order to be targeted by this ability a creature must have an Intelligence score and that score must be 10 or less.
 
 **Shield Mastery**: A Knight subtracts his Knight level from the armor check penalty given by used shields. This ability can reduce a shield's armor check penalty to a minimum of 0.
 

@@ -8,10 +8,10 @@
 
 LVL | BAB | F | R | W | Special | FOB | Unarmed Damage | ACB | USB
 --- | --- | - | - | - | ------- | --- | -------------- | --- | ---
-1   | 1   | 2 | 2 | 2 | Acrobatic, Bonus Feat, Flurry of Blows, Unarmed Strike, Weapon Finesse | -1/-1   | 1d6 | +0 | +10
-2   | 2   | 3 | 3 | 3 | Damage Reduction 1/-, Ki Ray, Evasion, Slow Fall 20ft | 0/0 | 1d6 | +1 | +10
+1   | 1   | 2 | 2 | 2 | Acrobatic, Bonus Feat, Flurry of Blows, Unarmed Strike | -1/-1   | 1d6 | +0 | +10
+2   | 2   | 3 | 3 | 3 | Damage Reduction 1/-, Evasion, Slow Fall 20ft | 0/0 | 1d6 | +1 | +10
 3   | 3   | 3 | 3 | 3 | Bonus Feat, Still Mind | +1/+1 | 1d6 | +1 | +10
-4   | 4   | 4 | 4 | 4 | Damage Reduction 2/-, Slow Fall 40ft | +2/+2 | 1d8 | +2 | +20
+4   | 4   | 4 | 4 | 4 | Damage Reduction 2/-, Ki Strike, Slow Fall 40ft | +2/+2 | 1d8 | +2 | +20
 5   | 5   | 4 | 4 | 4 | Calm Spirit, Purity of Body | +4/+4 | 1d8 | +2 | +20
 6   | 6/1 | 5 | 5 | 5 | Damage Reduction 3/-, Furious Fist, Slow Fall 60ft, Snap Kick | +6/+6/+1 | 1d8 | +3 | +30
 
@@ -29,13 +29,11 @@ These bonuses to AC apply even against touch attacks or when the Monk is flat-fo
 
 **Unarmored Speed Bonus(USB)**(Ex): When unarmored and unencumbered, a 1st level Monk adds +10 to her land speed, at 3rd level this bonus increases to +20, and at 6th level it increases to +30.
 
-**Acrobatic**(Ex): When unarmored and unencumbered, a Monk adds her Monk level to Balance, Climb, Escape Artist, Jump, Swim, and Tumble checks.
+**Acrobatic**(Ex): When unarmored and unencumbered, a Monk adds her Monk level to Acrobatics and Athletics checks.
 
 **Bonus Feat**: A 1st level Monk may select either Improved Grapple or Stunning Fist as a bonus feat. At 3rd level, she may select either Combat Reflexes or Deflect Arrows as a bonus feat. A Monk need not have any of the prerequisites normally required for these feats to select them.
 
 **Unarmed Strike**: A 1st level Monk gains Improved Unarmed Strike as a bonus feat. A Monk's attacks may be either fist interchangeably or even from elbows, knees, and feet. This means that a Monk may even make unarmed strikes with her hands full. There is no such thing as an off hand attack for a Monk striking unarmed. A Monk may thus apply her full Strength bonus on damage rolls for all her unarmed strikes
-
-**Weapon Finesse**: A Monk may use her Dexterity modifier instead of Strength modifier on unarmed attack rolls. 
 
 **Damage Reduction**(Ex): At 2nd level a Monk gains Damage Reduction. Substract 1 from damage the barbarian takes each time he is dealt damage. This reduction increases to 2/- at 4th level and 3/- at 6th level.
 
@@ -44,8 +42,6 @@ These bonuses to AC apply even against touch attacks or when the Monk is flat-fo
 **Evasion**(Ex): At 2nd level or higher, if a Monk makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can only be used if a Monk is wearing light armor or no armor. A helpless Monk does not gain the benefit of evasion.
 
 **Still Mind**(Ex): A Monk of 3rd level or higher gains a +2 bonus on saving throws against spells and effects from the school of enchantment.
-
-**Ki Ray**: A 2nd level Monk may make a ranged touch attack with a maximum range of 25 + 5 feet per Monk level, dealing 1d6/Monk level + Wisdom modifier. This ability may be used once per day per Monk level.
 
 **Ki Strike**: A 4th level Monk's unarmed attacks are treated as magic weapons for the purpose of dealing damage to creatures with damage reduction.
 

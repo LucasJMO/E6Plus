@@ -39,7 +39,7 @@ A Druid also knows Druidic, a secret language known only to Druids, which she le
 
 Druidic has its own alphabet.
 
-**Metamagician**: Once per day per two class levels a Druid can apply one of Empower Spell, Enlarge Spell, Extend Spell, Heighten Spell, Maximize Spell, Quicken Spell, Silent Spell, or Widen Spell to a spell he casts without increasing the spell's level.
+**Metamagician**: Once per day per two class levels a Druid can apply one of Empower Spell, Enlarge Spell, Extend Spell, Heighten Spell, Maximize Spell, Quicken Spell, Sculpt Spell, Silent Spell, or Widen Spell to a spell he casts without increasing the spell's level.
 
 **Nature Sense**(Ex): A Druid gains a +2 bonus on Knowledge (nature) and Survival checks.
 

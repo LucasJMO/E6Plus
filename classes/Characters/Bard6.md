@@ -1,25 +1,26 @@
-# Human Bard 6
+# Halfling Bard 6
 
-Hit Points(HP) | Armor Class(AC) | Initiative Modifier | Speed
--------------- | --------------- | ------------------- | -----
-60=36(HD)+24(Con)| 17=10+4(Armor)+3(Dex)| 7=3(Dex)+4(Improved Initiative)          | 30ft
+Hit Points(HP) | Armor Class(AC) | Initiative Modifier | Speed | Size
+-------------- | --------------- | ------------------- | ----- | ----
+60=36(HD)+24(Con)| 19=10+4(Armor)+4(Dex)+1(Size)| 8=4(Dex)+4(Improved Initiative)          | 20ft | Small (1)
 
 Base Attack Bonus(BAB) | Damage Reduction(DR) | Grapple Modifier
 ---------------------  | -------------------- | ----------------
-6/1                    | -                    | 5=6(BAB)-1(Str)
+6/1                    | -                    | 0=6(BAB)-2(Str)-4(Size)
 
 CON   | DEX   | STR   | CHA   | INT   | WIS 
 ---   | ---   | ---   | ---   | -     | ------- 
-18(4) | 16(3) | 8(-1) | 14(2) | 10(0) | 10(0) 
+18(4) | 18(4) | 6(-2) | 14(2) | 10(0) | 10(0) 
+(Scores before racial mods are 18, 16, 8, 14, 10, 10)
 
 FORTITUDE | REFLEX | WILL
 --------- | ------ | ----
-6=2+4(Con)| 8=5+3(Dex)| 3=3+0(Wis)
+7=2+4(Con)+1(Race)| 9=5+3(Dex)+1(Race)| 4=3+0(Wis)+1(Race)
 
 ATTACKS | BONUS | DAMAGE | CRITICAL | NOTES
 ------- | ----- | ------ | -------- | -----
-+3 Enchanted Lute | 8/3=6(BAB)-1(Str)+3(Enchantment) | 1d6-1(Str)+3(Enchantment) | 18-20/x2 | +3 Enchantment Bonus to attack/damage
-Shortbow          | 9/4=6(BAB)+3(Dex)                | 1d6                       | 20/x3    | -
++3 Enchanted Lute | 14/9=6(BAB)+4(Dex)+3(Enchantment)+1(Size) | 1d4+1(-2(Str)+3(Enchantment)) | 18-20/x2 | +3 Enchantment Bonus to attack/damage
+Shortbow          | 11/6=6(BAB)+4(Dex)+1(Size) |1d4| 20/x3 | -
 
 Spell Level | Spells Known | Spells Per Day 
 ----------- | ------------ | --------------
@@ -47,52 +48,54 @@ Song of Swiftness | Allies who make a full attack gain an extra attack at their 
 Combine Songs | Multiple songs can be active at once with 60 ft range
 Power Song | Once song can be active with 120 ft range
 
+Racial Ability| Explanation
+------------- | -----------
+Small size | +1 bonus to AC, +1 bonus on attack rolls, +4 bonus on Stealth checks made to hide, -4 penalty on grapple checks, lifting and carrying limits 3/4 those of Medium characters
++2 racial bonus on skill checks made to climb, jump, or move silently | -
++1 racial bonus on all saving throws | -
++2 morale bonus on saving throws against fear | -
++1 racial bonus on attack rolls with thrown weapons and slings | -
++2 racial bonus on Listen checks | -
+
+
 Feat | Explanation
 ----- | -----------
-Iron Will | Gain a +2 bonus on Will saving throws. Gained as human bonus feat.
 Improved Initiative | You gain a +4 bonus on initiative checks. Gained as 1st level feat.
 Skill Focus (Perform) | Gain a +3 bonus on all Perform checks with an instrument of your choice. Gained through class feature.
 Combat Casting | Gain a +4 bonus on Concentration checks made to cast a spell or use a spell-like ability while on the defensive or while you are grappling or pinned.
 Skill Focus (Concentration) | Gain a +3 bonus on all Concentration checks. Gained as 6th level feat.
 
-**Total Skill Points**: 45=36+9(Human)
+**Total Skill Points**: 54=6*9
 
 Skill | Points Invested | Ability Modifier | Armor Check Penalty | Score
 ----- | --------------- | ---------------- | ------------------- | -----
+Acrobatics (Dex, Armor) | 9      | 4                | -2| 11
 Appraise (Int) | -      | 0                | -| 0
-Balance (Dex, Armor) | -| 3                | -2| 1
+Athletics (Str, Armor) | 5      | -2                | -2| 1
 Bluff (Cha)    | 9      | 2                | -| 11
-Climb (Str, Armor) | -  | -1                | - | -1
 Concentration (Con)| 9  | 4               | -| 16=13+3(Feat)
 Craft (Int)        | -  | 0                | -| 0
-Decipher Script (Int)| -| 0                | -| 0
-Disable Device (Int)| - | 0                | -| 0
+Decipher Script (Int, Trained)| -| 0                | -| 0
+Disable Device (Int, Trained)| - | 0                | -| 0
 Disguise (Cha)      | - | 2                | -| 2
-Escape Artist (Dex, Armor)| 4 | 3          | -2| 5
 Forgery (Int)       | - | 0                | -| 0
 Gather Information (Cha) | - | 2           | -| 2
-Handle Animal (Cha) | -  | 2               | -| 2
+Handle Animal (Cha, Trained) | -  | 2               | -| 2
 Heal (Wis)          | -  | 0               | -| 0
-Hide (Dex, Armor)   | -  | 3               | -2| 1
-Intimidate (Cha)    | 5  | 2               | -| 7
-Jump (Str, Armor)   | -  | -1               | -2| -3
-Knowledge (History) (Int)     | 9  | 0               | -| 9
-Listen (Wis)        | -  | 0               | -| 0
-Move Silently (Dex, Armor) | - | 3         | -2| 1
-Open Lock (Dex) | - | 3                    | -| 3
-Perform (Lute) (Cha)   | 9 | 2                    | -| 14=11+3(Feat)
-Profession (Wis)| - | 0                    | -| 0
-Ride (Dex)      | - | 3                    | -| 3
+Intimidate (Cha)    | -  | 2               | -| 2
+Knowledge (History) (Int, Trained)     | 4  | 0     | -| 4
+Listen (Wis)        | 5  | 0               | -| 7=5+2(Race)
+Open Lock (Dex) | - | 4                    | -| 4
+Perform (Lute) (Cha)   | 9 | 2    | -| 14=11+3(Feat)
+Profession (Wis, Trained)| - | 0                    | -| 0
+Ride (Dex)      | - | 4                    | -| 4
 Search (Int)    | - | 0                    | -| 0
-Sense Motive (Wis) | 9 | 0                 | -| 9
-Sleight of Hand (Dex, Armor) | - | 3       | -2| 1
 Speak Language | - | -                     | -| -
-Spellcraft (Int) | - | 0                   | -| 0
-Spot (Wis)       | - | 0                   | -| 0
+Spellcraft (Int, Trained) | - | 0                   | -| 0
+Spot (Wis)       | 5 | 0                   | -| 5
+Stealth (Dex, Armor)| 8 | 4                   | -2| 10
 Survival (Wis)   | - | 0                   | -| 0
-Swim (Str, Armor)| - | -1                   | -2| -3
-Tumble (Dex, Armor)| - | 3                 | -2| 1
-Use Magic Device (Cha) | - | 2             | -| 2
-Use Rope (Dex)         | - | 2             | -| 2
+Use Magic Device (Cha, Trained) | - | 2             | -| 2
+Use Rope (Dex)         | - | 4             | -| 4
 
-**Possessions(24 lbs, Light Load)**: +3 Lute (2 lbs), Lightweight Chain Shirt (20 lbs), Shortbow (2 lbs)
+**Possessions(12 lbs, Light Load)**: +3 Lute (1 lb), Lightweight Chain Shirt (10 lbs), Shortbow (1 lb)

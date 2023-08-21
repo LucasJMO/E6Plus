@@ -2,7 +2,7 @@
 
 **Hit Die**: d8
 
-**Skills**: Acrobatics (Dex), Appraise (Int), Athletics (Str), Bluff (Cha), Craft (Int), Disable Device (Int), Intimidate (Cha), Listen (Wis), Perform (Cha), Profession (Wis), Search (Int), Spot (Wis), tealth (Dex), Use Magic Device (Cha), Use Rope (Dex)
+**Skills**: Acrobatics (Dex), Appraise (Int), Athletics (Str), Bluff (Cha), Craft (Int), Disable Device (Int), Intimidate (Cha), Listen (Wis), Perform (Cha), Profession (Wis), Search (Int), Spot (Wis), Stealth (Dex), Use Magic Device (Cha), Use Rope (Dex)
 
 **Skills/Level**: 6 + Int modifier
 

@@ -12,8 +12,6 @@ To qualify to become a Loremaster, a character must meet the following requireme
 
 **Skills**: Knowledge, any, 6 ranks.
 
-**Feats**: Any two Skill Focus (Knowledge [any individual Knowledge skill]) feats.
-
 **Spells**: Must be able to cast a first level divination spell.
 
 LVL | BAB | F | R | W | Special | Spellcasting

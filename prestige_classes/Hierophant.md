@@ -2,7 +2,7 @@
 
 **Hit Die**: d6
 
-**Skills**: Acrobatics (Dex), Athletics (Str), Concentration (Con), Craft (Int), Diplomacy (Cha), Heal (Wis), Knowledge (arcana) (Int), Knowledge (religion) (Int), Profession (Wis), Spellcraft (Int)
+**Skills**: Acrobatics (Dex), Athletics (Str), Concentration (Con), Craft (Int), Diplomacy (Cha), Heal (Wis), Knowledge (arcana) (Int), Knowledge (religion) (Int), Knowledge (the planes) (Int), Profession (Wis), Spellcraft (Int)
 
 **Skills/Level**: 2 + Int modifier
 
@@ -10,15 +10,13 @@
 
 To qualify to become a Hierophant, a character must fulfill all the following criteria.
 
-**Feats**: A Hierophant must have two out of Skill Focus (Knowledge [Religion]), Scribe Scroll, and Brew Potion
-
 **Spells**: Able to cast 1st-level divine spells.
 
 LVL | BAB | F | R | W | Special | Spells per Day
 --- | --- | - | - | - | ------- | --------------
-1   | 0   | 2 | 0 | 2 | Special Ability | -
-2   | 1   | 3 | 0 | 3 | Special Ability | +1 level of existing spellcasting class
-3   | 2   | 3 | 1 | 3 | Special Ability | +1 level of existing spellcasting class
+1   | 0   | 0 | 0 | 2 | Special Ability | +1 level of existing spellcasting class
+2   | 1   | 1 | 0 | 3 | Special Ability | +1 level of existing spellcasting class
+3   | 2   | 1 | 1 | 3 | Special Ability | +1 level of existing spellcasting class
 
 **Weapon and Armor Proficiency**: Hierophants gain no proficiency with any weapon or armor.
 
@@ -62,7 +60,7 @@ Chaotic evil    |Lawful good
 
 **Holy Strength**(Su): When you heal a creature with positive energy (such as by channeling positive energy to heal the living, using cure spells, or using lay on hands), any affected creature gains a +1 sacred bonus on attack rolls, skill checks, ability checks, and saving throws for 1 minute. If you channel negative energy to heal undead, this is a profane bonus rather than a sacred bonus.
 
-**Lay on Hands**: You gain the ability to heal the wounds of others (not your own) by touch. Each day you can heal a total number of hit points of damage equal to your character level*10. You may choose to divide your healing among multiple recipients, and don't have to use it all at once. Using lay on hands is a standard action.
+**Lay on Hands**: You gain the ability to heal the wounds of others by touch. Each day you can heal a total number of hit points of damage equal to your character level*10. You may choose to divide your healing among multiple recipients, and don't have to use it all at once. Using lay on hands is a standard action.
 
 **Master of Energy**(Su): Available only to Hierophants with cleric levels, this ability allows a Hierophant to channel positive or negative energy much more effectively, increasing his ability to affect undead. Add a +4 bonus to the Hierophant’s turning checks and turning damage rolls. This ability only affects undead, even if the Hierophant can turn other creatures, such as with a granted power of a domain.
 

@@ -4,16 +4,16 @@
 
 **Skills**: Acrobatics (Dex), Athletics (Str), Concentration (Con), Craft (Int), Heal (Wis), Knowledge (arcana) (Int), Knowledge (history) (Int), Knowledge (religion) (Int), Knowledge (the planes) (Int), Profession (Wis), Spellcraft (Int)
 
-**Skills/Level**: 2 + Int modifier
+**Skills/Level**: 4 + Int modifier
 
 LVL | BAB | F | R | W | Special | 0 | 1 | 2 | 3
 --- | --- | - | - | - | ------- | - | - | - | -
 1   | 0   | 0 | 0 | 2 | Metamagician, Turn or Rebuke Undead | 5 | 3+1 | -   | -  
-2   | 1   | 1 | 0 | 3 |  | 6 | 4+1 | -   | -
+2   | 1   | 1 | 0 | 3 | Advanced Learning | 6 | 4+1 | -   | -
 3   | 2   | 1 | 1 | 3 |  | 6 | 4+1 | 3+1 | -
-4   | 3   | 2 | 1 | 4 | Lay on Hands | 7 | 5+1 | 4+1 | -
+4   | 3   | 2 | 1 | 4 | Advanced Learning, Lay on Hands | 7 | 5+1 | 4+1 | -
 5   | 3   | 2 | 1 | 4 |  | 7 | 5+1 | 4+1 | 3+1
-6   | 4   | 3 | 2 | 5 |  | 7 | 5+1 | 5+1 | 4+1
+6   | 4   | 3 | 2 | 5 | Advanced Learning | 7 | 5+1 | 5+1 | 4+1
 
 **Weapon and Armor Proficiency**: Clerics are proficient with all simple weapons, with all types of armor (light, medium, and heavy), and with shields (except tower shields).
 
@@ -43,7 +43,7 @@ A Cleric who is neither good nor evil and whose deity is neither good nor evil c
 
 **Chaotic, Evil, Good, and Lawful Spells**: A Cleric can’t cast spells of an alignment opposed to his own or his deity’s (if he has one). Spells associated with particular alignments are indicated by the chaos, evil, good, and law descriptors in their spell descriptions.
 
-**Metamagician**: Once per day per two class levels a Cleric can apply one of Empower Spell, Enlarge Spell, Extend Spell, Heighten Spell, Maximize Spell, Quicken Spell, Silent Spell, or Widen Spell to a spell he casts without increasing the spell's level.
+**Metamagician**: Once per day per two class levels a Cleric can apply one of Empower Spell, Enlarge Spell, Extend Spell, Heighten Spell, Maximize Spell, Quicken Spell, Sculpt Spell, Silent Spell, or Widen Spell to a spell he casts without increasing the spell's level.
 
 **Turn or Rebuke Undead**(Su): Any Cleric, regardless of alignment, has the power to affect undead creatures by channeling the power of his faith through his holy (or unholy) symbol (see Turn or Rebuke Undead).
 
@@ -52,6 +52,8 @@ A good Cleric (or a neutral Cleric who worships a good deity) can turn or destro
 A Cleric may attempt to turn undead a number of times per day equal to 3 + his Charisma modifier. A Cleric with 5 or more ranks in Knowledge (religion) gets a +2 bonus on turning checks against undead.
 
 This bonus feat is in addition to the feat that a character of any class gets from advancing levels. The Cleric is not limited to the categories of item creation feats, metamagic feats, or Spell Mastery when choosing these feats.
+
+**Advanced Learning**: At 2nd, 4th, and 6th level a Cleric can learn one additional spell from any spell list he desires. He casts and prepares these spells normally. Spells learned this way cannot be a higher level than the Cleric can cast.
 
 **Lay on Hands**: Beginning at 4th level, a Cleric gains the ability to heal wounds by touch. Each day she can heal a total number of hit points of damage equal to her Cleric level*10. Lay on hands can be used as a full round action or two full round actions. If used as a full round action the Cleric may choose to heal for a number of d6 equal to or less then her class level. If used with two full round actions the Cleric can heal any amount she chooses.
 

@@ -27,9 +27,9 @@ Unlike a Bard or Sorcerer, a Wizard may know any number of spells. She must choo
 
 **Bonus Languages**: A Wizard may substitute Draconic for one of the bonus languages available to the character because of her race.
 
-**Advanced Learning**: Each time a Wizard gains a level he can learn to prepare a spell which does not appear in the Sorcerer/Wizard spell list.
+**Advanced Learning**: Each time a Wizard gains a level he can learn to prepare a spell which does not appear in the Sorcerer/Wizard spell list. Spells learned this way cannot be a higher level than the Wizard can cast.
 
-**Metamagician**: Once per day per class level a Wizard can apply one of Empower Spell, Enlarge Spell, Extend Spell, Heighten Spell, Maximize Spell, Quicken Spell, Silent Spell, or Widen Spell to a spell he casts without increasing the spell's level.
+**Metamagician**: Once per day per class level a Wizard can apply one of Empower Spell, Enlarge Spell, Extend Spell, Heighten Spell, Maximize Spell, Quicken Spell, Sculpt Spell, Silent Spell, or Widen Spell to a spell he casts without increasing the spell's level.
 
 **Familiar**: A Wizard can obtain a familiar in exactly the same manner a Sorcerer can.
 

@@ -72,7 +72,7 @@ Speak Language is an Intelligence based skill, it can be used untrained.
 
 You start at 1st level knowing one or two languages (based on your race), plus an additional number of languages equal to your starting Intelligence bonus. You can purchase Speak Language just like any other skill, but instead of buying a rank in it, you choose a new language that you can speak. You cannot learn a language unless a creature who already speaks the language teaches you, or if you have a language teaching text for that language (this text must be in a language which you can already read).
 
-A literate character (anyone but a barbarian who has not spent skill points to become literate) can read and write any language she speaks. Each language has an alphabet, though sometimes several spoken languages share a single alphabet.
+A literate character (anyone but a Barbarian who has not spent skill points to become literate) can read and write any language she speaks. Each language has an alphabet, though sometimes several spoken languages share a single alphabet.
 
 Language|Typical Speakers|Alphabet
 --------|----------------|--------

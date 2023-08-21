@@ -1,6 +1,6 @@
 # Bard
 
-**Hit Die**: d6
+**Hit Die**: d8
 
 **Skills**: Acrobatics (Dex), Appraise (Int), Athletics (Str), Bluff (Cha), Concentration (Con), Craft (Int), Decipher Script (Int), Disguise (Cha), Gather Information (Cha), Heal (Wis), Knowledge (all skills, taken individually) (Int), Listen (Wis), Perform (Cha), Profession (Wis), Speak Language (None), Spellcraft (Int), Stealth (Dex), Use Magic Device (Cha)
 
@@ -50,7 +50,7 @@ DC | Type of Knowledge
 
 **Song of Battle**: Affected allies gain +1 to attack rolls and damage.
 
-**Song of Swiftness**: Affected allies who make a full attack gain an extra attack at their full base attack bonus. Additionally a Bard with song of swiftness active increases all of their forms of movement (land movement, burrow, climb, fly, and swim) by 30 feet, up to a maximum of twice the Bard's normal speed with that form of movement.
+**Song of Swiftness**: Affected allies who make an attack gain an extra attack at their full base attack bonus. Additionally a Bard with song of swiftness active increases all of their forms of movement (land movement, burrow, climb, fly, and swim) by 30 feet, up to a maximum of twice the Bard's normal speed with that form of movement.
 
 **Combine Songs**: At 6th level, a Bard gains the ability to have multiple songs active at the same time. Starting a combined song is a standard action, switching either active song is a swift action, and stopping is a free action. Two versions of the same song can be active, however their effects do not stack. The exceptions to this are song of shelter (the Bard can choose a different type of energy for each song) and song of freedom (the Bard can choose a separate target for each song, or suppress two ongoing spell effects on the same target). A Bard with a combined song active must fully stop (end both songs) before entering a power song.
 

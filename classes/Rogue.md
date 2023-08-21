@@ -43,7 +43,7 @@ At 1st, 2nd, and 3rd level a Rogue may select one of active assault, combat focu
 
 **Combat Focus**: A Rogue begins any combat encounter in combat focus. He may end his combat focus at any time to reroll any die roll he makes, and if not used it ends on its own after a number of combat rounds equal to his class level. Voluntarily ending combat focus requires the use of a swift action (or an immediate action if it is not the Rogue's turn), re-entering combat focus after ending it requires the use of a move action.
 
-**Damage Reduction**: A Rogue gains damage reduction 2/-. This ability may be selected up to 3 times.
+**Damage Reduction**: A Rogue gains damage reduction 2/-. This ability may be selected up to 2 times.
 
 **Dark Caster**: A Rogue can learn a spell of 2nd level or lower and cast it a number of times per day equal to Rogue level divided by spell level. Save DC is 10 + spell level + Charisma modifier. Treat Rogue level as caster level. This ability may be selected unlimited times.
 
