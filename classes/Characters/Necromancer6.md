@@ -1,4 +1,4 @@
-# Class
+# Elf Necromancer 6
 
 Hit Points(HP) | Armor Class(AC) | Initiative Modifier | Speed | Size
 -------------- | --------------- | ------------------- | ----- | ----
