@@ -11,6 +11,7 @@ Base Attack Bonus(BAB) | Damage Reduction(DR) | Grapple Modifier
 CON   | DEX   | STR   | CHA   | INT   | WIS 
 ---   | ---   | ---   | ---   | -     | ------- 
 18(4) | 14(2) | 18(4) | 6(-2) | 10(0) | 10(0) 
+
 (Scores before racial mods are 16, 15, 18, 8, 10, 10)
 
 FORTITUDE | REFLEX | WILL

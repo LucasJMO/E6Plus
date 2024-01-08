@@ -60,8 +60,8 @@ Stability | Dwarves gain a +4 bonus on ability checks made to resist being bull 
 Feat | Explanation
 ----- | -----------
 Battle Blessing           | You can cast standard action spells as swift actions and full round action spells as standard actions. Gained as 1st level feat.
-Improved Initiative       | Gain a +4 bonus to initiative.
-Weapon Focus (Greatsword) | +1 to attack rolls with greatswords.
+Improved Initiative       | Gain a +4 bonus to initiative. Gained as 3rd level feat.
+Weapon Focus (Greatsword) | +1 to attack rolls with greatswords. Gained as 6th level feat.
 
 **Total Skill Points**: 18=2*9
 
@@ -97,4 +97,4 @@ Survival (Wis)                             | - | 0 | - | 0
 Use Magic Device (Cha, Trained)            | - | - | - | -
 Use Rope (Dex)                             | - | 1 | - | 1
 
-**Possessions(Total lbs, Load Type)**: 
+**Possessions(Total lbs, Load Type)**: Full Plate Armor (50 lbs), +3 Greatsword(8 lbs)
