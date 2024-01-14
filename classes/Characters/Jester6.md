@@ -2,7 +2,7 @@
 
 Hit Points(HP) | Armor Class(AC) | Initiative Modifier | Speed | Size
 -------------- | --------------- | ------------------- | ----- | ----
-48=36+12(Con)  | 19=3(Armor)+5(Dex)+1(Size)| Initiative | 20ft | Small (1)
+48=36+12(Con)  | 19=3(Armor)+5(Dex)+1(Size)| 9=5(Dex)+4(Improved Initiative) | 20ft | Small (1)
 
 Base Attack Bonus(BAB) | Damage Reduction(DR) | Grapple Modifier
 ---------------------  | -------------------- | ----------------
@@ -89,7 +89,7 @@ Handle Animal (Cha, Trained) | -  | -      | - | -
 Heal (Wis)          | -  | 0               | - | 0
 Intimidate (Cha)    | 9  | 3               | - | 12
 Knowledge (Int, Trained)     | -  | -      | - | -
-Listen (Wis)        | 8  | 0               | - | 8
+Listen (Wis)        | 8  | 0               | - | 10=8+2(Race)
 Open Lock (Dex, Trained) | 1 | 5           | - | 6
 Perform (Cha)   | - | 3                    | - | 3
 Profession (Wis, Trained)| - | -           | - | -
@@ -98,7 +98,7 @@ Search (Int)    | - | 0                    | - | 0
 Speak Language | - | -                     | - | -
 Spellcraft (Int, Trained) | - | -          | - | -
 Spot (Wis)       | 9 | 0                   | - | 9
-Stealth (Dex, Armor)| 9 | 5                | -1 | 16=13+3(Feat)
+Stealth (Dex, Armor)| 9 | 5                | -1 | 20=13+3(Feat)+4(Size)
 Survival (Wis)   | - | 0                   | - | 0
 Use Magic Device (Cha, Trained) | 1 | 3             | - | 4
 Use Rope (Dex)         | - | 5             | - | 5

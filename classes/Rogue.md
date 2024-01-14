@@ -21,7 +21,7 @@ LVL | BAB | F | R | W | Special
 
 The Rogue's attack deals extra damage any time her target would be denied a Dexterity bonus to AC (whether the target actually has a Dexterity bonus or not), or when the Rogue flanks her target. This extra damage 1d6 at 1st level, and it increases by 1d6 damage every two Rogue levels thereafter. Should the Rogue score a critical hit with a sneak atack, this extra damage is not multiplied.
 
-**Trapfinding**: Rogues can use the Search skill to locate traps when the task hs a Difficulty Class higher than 20. 
+**Trapfinding**: Rogues can use the Search skill to locate traps when the task has a Difficulty Class higher than 20. 
 
 Finding a nonmagical trap has a DC of at least 20, or higher if it is well hidden. Finding a magic has a DC of 25 + the level of the spell used to create it.
 
@@ -39,7 +39,7 @@ A Rogue who beats the trap's DC by 10 or more with a Disable Device check can st
 
 At 1st, 2nd, and 3rd level a Rogue may select one of active assault, combat focus, damage reduction, dark caster, defensive roll, dextrous trip, fast movement, fear aura, greater improved healing, hide in plain sight, improved evasion, improved reaction, improved sneak attac, jester's feint, mettle, moving attack, opportunist, pratfall, rapid stealth, skill mastery, slippery mind, or unshakeable. Then at 4th, 5th, and 6th level he may select two special abilities from the list. Each special ability may only be selected once unless otherwise specified.
 
-**Active Assault**: A Rogue gains the ability to take his 5-foot steps out of turn. If on his turn he would have been allowed to take a 5-foot step but elected not to, he may expend an immediate action any time before his next turn to take a 5-foot step. If he took a 5-foot step (or any other form of movement) on his previous turn, he may still expend an immediate action to take a 5-foot step, but if he does, he may not take any other forms of movement on his next turn.
+**Active Assault**: A Rogue gains the ability to take his 5-foot steps out of turn. If on his turn he would have been allowed to take a 5-foot step but elected not to, he may expend an immediate action any time before his next turn to take a 5-foot step. If he uses this ability he may not use any form of movement on his next turn.
 
 **Combat Focus**: A Rogue begins any combat encounter in combat focus. He may end his combat focus at any time to reroll any die roll he makes, and if not used it ends on its own after a number of combat rounds equal to his class level. Voluntarily ending combat focus requires the use of a swift action (or an immediate action if it is not the Rogue's turn), re-entering combat focus after ending it requires the use of a move action.
 
@@ -65,7 +65,7 @@ At 1st, 2nd, and 3rd level a Rogue may select one of active assault, combat focu
 
 **Improved Sneak Attack**: A Rogue gains an additional 1d6 bonus damage when sneak attacking.
 
-**Jester's Feint**: As a swift action a Rogue may toss a brightly colored object in the square of an enemy with a Sleight of Hand check opposed by the enemy’s Spot check. If he succeeds, the enemy is denied his Dex bonus for the Rogue’s next attack. This ability has a range of 30 ft.
+**Jester's Feint**: As a swift action a Rogue may toss a brightly colored object in the square of an enemy with a Stealth check opposed by the enemy’s Spot check. If he succeeds, the enemy is denied his Dex bonus for the Rogue’s next attack. This ability has a range of 30 ft.
 
 An enemy targeted by this ability multiple times gains a +10 bonus to Spot for each prior time he has been targeted, regardless of who won the prior checks. This bonus lasts for 24 hours.
 

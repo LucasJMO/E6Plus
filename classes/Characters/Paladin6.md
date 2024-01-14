@@ -2,7 +2,7 @@
 
 Hit Points(HP) | Armor Class(AC) | Initiative Modifier | Speed | Size
 -------------- | --------------- | ------------------- | ----- | ----
-78=60+18(Con)  | 19=8(Armor)+1(Dex)| 5=1(Dex)+4(Improved Initiative)| 20ft | Medium
+78=60+18(Con)  | 19=8(Armor)+1(Dex)| 5=1(Dex)+4(Improved Initiative)| 20ft | Medium (0)
 
 Base Attack Bonus(BAB) | Damage Reduction(DR) | Grapple Modifier
 ---------------------  | -------------------- | ----------------
@@ -21,6 +21,7 @@ FORTITUDE | REFLEX | WILL
 ATTACKS | BONUS | DAMAGE | CRITICAL | NOTES
 ------- | ----- | ------ | -------- | -----
 Enchanted Greatsword +3  | 14/9=6(BAB)+4(Str)+3(Enchantment)+1(Weapon Focus) | 2d6+9(6(Str*1.5)+3(Enchantment)) | 19-20/x2 | +3 Enchantment Bonus to attack/damage
+Composite Longbow | 7/2=6(BAB)+1(Dex) | 1d8+4(Str) | 20/x3 | 110ft range increment
 
 Spell Level | Spells Per Day 
 ----------- | --------------
@@ -97,4 +98,4 @@ Survival (Wis)                             | - | 0 | - | 0
 Use Magic Device (Cha, Trained)            | - | - | - | -
 Use Rope (Dex)                             | - | 1 | - | 1
 
-**Possessions(Total lbs, Load Type)**: Full Plate Armor (50 lbs), +3 Greatsword(8 lbs)
+**Possessions(61 lbs, Light Load)**: Full Plate Armor (50 lbs), +3 Greatsword(8 lbs), Composite Longbow (3 lbs)

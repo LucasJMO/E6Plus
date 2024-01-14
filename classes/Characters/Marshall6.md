@@ -92,4 +92,4 @@ Survival (Wis)   | - | 3                   | - | 3
 Use Magic Device (Cha, Trained) | - | -    | - | -
 Use Rope (Dex)         | - | 0             | - | 0
 
-**Possessions(53 lbs, Light Load)**: Composite Longbow +3(3 lbs), Full Plate Armor (50 lbs) 
+**Possessions(61 lbs, Light Load)**: Composite Longbow +3(3 lbs), Full Plate Armor (50 lbs), Greatsword (8 lbs)

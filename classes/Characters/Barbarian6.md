@@ -6,21 +6,23 @@ Hit Points(HP) | Armor Class(AC) | Initiative Modifier | Speed | Size
 
 Base Attack Bonus(BAB) | Damage Reduction(DR) | Grapple Modifier
 ---------------------  | -------------------- | ----------------
-6/1                    | 2                    | 10=6(BAB)+4(Str)+0(Size)
+6/1                    | 2                    | 12=6(BAB)+6(Str)+0(Size)
 
 CON   | DEX   | STR   | CHA   | INT   | WIS 
 ---   | ---   | ---   | ---   | -     | ------- 
 16(3) | 14(2) | 22(6) | 6(-2) | 8(-1) | 8(-1) 
+
 (Scores before racial mods are 16, 14, 18, 8, 10, 10)
 
 FORTITUDE | REFLEX | WILL
 --------- | ------ | ----
-8=5+3(Con)| 5=3+2(Dex)| 5=2+3(Con)
+8=5+3(Con)| 5=3+2(Dex)| 5=5+3(Con)
 
 ATTACKS | BONUS | DAMAGE | CRITICAL | NOTES
 ------- | ----- | ------ | -------- | -----
 Enchanted Greatsword +3  | 16/11=6(BAB)+6(Str)+3(Enchantment)+1(Weapon Focus) | 2d6+12(9(Str*1.5)+3(Enchantment)) | 19-20/x2 | +3 Enchantment Bonus to attack/damage
 Enchanted Greatsword +3 (Rage) | 18/13=6(BAB)+8(Str)+3(Enchantment)+1(Weapon Focus) | 2d6+15(12(Str*1.5)+3(Enchantment)) | 19-20/x2 | Same attack while in rage
+Composite Longbow | 8/3=6(BAB)+2(Dex) | 1d8+6(Str) | 20/x3 | 110ft range increment
 
 Class Feature | Explanation
 ------------- | -----------
@@ -81,4 +83,4 @@ Survival (Wis)   | - | -1                   | -| -1
 Use Magic Device (Cha, Trained) | - | -2             | -| -2
 Use Rope (Dex)         | - | 2             | -| 2
 
-**Possessions(28 lbs, Light Load)**: +3 Greatsword(8 lbs), Chain Shirt (25 lbs)
+**Possessions(31 lbs, Light Load)**: +3 Greatsword(8 lbs), Chain Shirt (25 lbs), Composite Longbow (3 lbs)

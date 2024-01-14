@@ -2,7 +2,7 @@
 
 **Hit Die**: d12
 
-**Skills**: Acrobatics (Dex), Athletics (Str), Craft (Dex), Concentration (Con), Intimidate (Cha), Listen (Wis), Profession (Wis), Ride (Dex), Search (Int), Spellcraft (Int), Spot (Int), Stealth (Dex), Survival (Wis), Use Rope (Dex)
+**Skills**: Acrobatics (Dex), Athletics (Str), Craft (Int), Concentration (Con), Intimidate (Cha), Listen (Wis), Profession (Wis), Ride (Dex), Search (Int), Spellcraft (Int), Spot (Int), Stealth (Dex), Survival (Wis), Use Rope (Dex)
 
 **Skills/Level**: 4 + Int modifier
 
@@ -39,7 +39,7 @@ A Pyrokineticist can dual wield a fire weapon and a normal weapon, however a fir
 
 **Smokeless Flame**(Su): A 3rd level Pyrokineticist can create fires that produce no heat and do not burn. These fires can be anything from the size of a torch to a bonfire, and produce light accordingly. Each lasts for 1 hour per class level. Smokeless Flame can be created anywhere within medium range.
 
-**Explosive Charge**(Ex): From 4th level on, a Pyrokineticist who charges while nimbus is active may expend a swift action to activate a fire burst at any point during their charge.
+**Explosive Charge**(Ex): From 4th level on, a Pyrokineticist who charges while nimbus is active may expend a swift action to activate a fire burst at the start of his charge.
 
 **Fire Immunity**(Ex): At 4th level a Pyrokineticist is immune to fire.
 

@@ -22,6 +22,7 @@ ATTACKS | BONUS | DAMAGE | CRITICAL | NOTES
 ------- | ----- | ------ | -------- | -----
 Dwarven Waraxe +3 | 13/8=6(BAB)+4(STR)+3(Enchantment) | 1d10+7(4(STR)+3(Enchantment)) | 20/x3 | +3 bonus to attack rolls and damage
 Dwarven Waraxe +3 (Immovable Stance) | 15/10=6(BAB)+6(STR)+3(Enchantment) | 1d10+9(6(STR)+3(Enchantment)) | - | -
+Composite Longbow | 7/2=6(BAB)+1(Dex) | 1d8+4(Str) | 20/x3 | 110ft range increment
 
 Class Feature | Explanation
 ------------- | -----------
@@ -97,4 +98,4 @@ Survival (Wis)   | - | 0                   | - | 0
 Use Magic Device (Cha, Trained) | - | -2   | - | -2
 Use Rope (Dex)         | - | 2             | - | 2
 
-**Possessions(103 lbs, Medium Load)**: Full Plate Armor (50 lbs), Tower Shield (45 lbs), Dwarven Waraxe +3 (8 lbs)
+**Possessions(106 lbs, Medium Load)**: Full Plate Armor (50 lbs), Tower Shield (45 lbs), Dwarven Waraxe +3 (8 lbs), Composite Longbow (3 lbs)

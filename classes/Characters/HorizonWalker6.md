@@ -21,6 +21,7 @@ FORTITUDE | REFLEX | WILL
 ATTACKS | BONUS | DAMAGE | CRITICAL | NOTES
 ------- | ----- | ------ | -------- | -----
 Enchanted Greatsword +3  | 15/10=6(BAB)+6(Str)+3(Enchantment) | 2d6+12(9(Str*1.5)+3(Enchantment)) | 19-20/x2 | +3 Enchantment Bonus to attack/damage
+Composite Longbow | 8/3=6(BAB)+2(Dex) | 1d8+6(Str) | 20/x3 | 110ft range increment
 
 Class Feature | Explanation
 ------------- | -----------
@@ -90,4 +91,4 @@ Survival (Wis)   | - | 0                   | - | 0
 Use Magic Device (Cha, Trained) | - | -1             | - | -2
 Use Rope (Dex)         | - | 2             | - | 2
 
-**Possessions(28 lbs, Light Load)**: +3 Greatsword(8 lbs), Chain Shirt (25 lbs)
+**Possessions(31 lbs, Light Load)**: +3 Greatsword(8 lbs), Chain Shirt (25 lbs), Composite Longbow (3 lbs)

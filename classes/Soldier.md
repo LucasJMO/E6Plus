@@ -9,7 +9,7 @@
 LVL | BAB | F | R | W | Special 
 --- | --- | - | - | - | ------- 
 1   | 1   | 2 | 0 | 2 | Combat Focus          
-2   | 2   | 3 | 1 | 3 | Active Assault, Bonus Feat         
+2   | 2   | 3 | 1 | 3 | Active Assault       
 3   | 3   | 3 | 1 | 3 | Pack Mule 
 4   | 4   | 4 | 2 | 4 | Bide Your Time, Bonus Feat, Exotic Weapon Master, Improved Healing
 5   | 5   | 4 | 2 | 4 | Array of Stunts, Commander
@@ -17,11 +17,11 @@ LVL | BAB | F | R | W | Special
 
 **Weapon and Armor Proficiency**: A Soldier is proficient with all simple and martial weapons and with all armor (heavy, medium, and light) and shields (including tower shields).
 
-**Bonus Feat**: At 2nd, 4th, and 6th level a Soldier gains a bonus feat in addition to any feats from their normal level progression.
+**Bonus Feat**: At 4th and 6th level a Soldier gains a bonus feat in addition to any feats from their normal level progression.
 
 **Combat Focus**(Ex): A Soldier begins any combat encounter with one charge of combat focus per class level. He may expend a charge of combat focus at any time to reroll any die roll he makes. Expending a charge of combat focus requires the use of a swift action (or an immediate action if it is not the Soldier's turn), regaining all charges requires a full round action.
 
-**Active Assault**(Ex): A 2nd level Soldier gains the ability to take his 5-foot steps out of turn. If on his turn he would have been allowed to take a 5-foot step but elected not to, he may expend an immediate action any time before his next turn to take a 5-foot step. If he took a 5-foot step (or any other form of movement) on his previous turn, he may still expend an immediate action to take a 5-foot step, but if he does, he may not take any other forms of movement on his next turn.
+**Active Assault**(Ex): A 2nd level Soldier gains the ability to take his 5-foot steps out of turn. If on his turn he would have been allowed to take a 5-foot step but elected not to, he may expend an immediate action any time before his next turn to take a 5-foot step. If he uses this ability he may not use any form of movement on his next turn.
 
 **Pack Mule**(Ex): A 3rd level Soldier suffers no penalties for carrying a medium load, and may retrieve or store items from/to his person with a swift action, and without provoking an attack of opportunity. 
 

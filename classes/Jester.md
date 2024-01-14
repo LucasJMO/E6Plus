@@ -27,7 +27,7 @@ LVL | BAB | F | R | W | Special | 0 | 1 | 2
 
 **Poison Use**: A Jester may prepare, apply, and use poison without any chance of poisoning himself.
 
-**Skill Focus (Sleight of Hand)**: At 1st level, a Jester gains the feat skill focus for the skill Sleigh of Hand. If the Jester already has this feat, they can instead select a different feat for which they meet the prerequisites.
+**Skill Focus (Sleight of Hand)**: At 1st level, a Jester gains +3 to Stealth checks made for sleight of hand. This does not stack with the bonuses conferred by Skill Focus (Stealth).
 
 **Evasion**(Ex): A Jester can avoid even magical and unusal attacks with great agility. If she makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if the rogue is wearing light armor or no armor. A helpless rogue does not gain the benefits of evasion.
 

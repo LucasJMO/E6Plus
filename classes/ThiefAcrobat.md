@@ -2,7 +2,7 @@
 
 **Hit Die**: d8
 
-**Skills**: Acrobatics (Dex), Appraise (Int), Athletics (Str), Bluff (Cha), Craft (Int), Disable Device (Int), Intimidate (Cha), Listen (Wis), Perform (Cha), Profession (Wis), Search (Int), Spot (Wis), Stealth (Dex), Use Magic Device (Cha), Use Rope (Dex)
+**Skills**: Acrobatics (Dex), Appraise (Int), Athletics (Str), Bluff (Cha), Craft (Int), Disable Device (Int), Intimidate (Cha), Listen (Wis), Open Lock (Dex), Perform (Cha), Profession (Wis), Search (Int), Spot (Wis), Stealth (Dex), Use Magic Device (Cha), Use Rope (Dex)
 
 **Skills/Level**: 6 + Int modifier
 
@@ -11,13 +11,13 @@ LVL | BAB | F | R | W | Special
 1   | 0   | 0 | 2 | 0 | Acrobatic Flair, Dodge, Trapfinding, Pole Jump        
 2   | 1   | 0 | 3 | 1 | Sneak Attack +1d6, Evasion, Fast Movement +10, Pole Fighter
 3   | 2   | 1 | 3 | 1 | Sure Climb, Athletic Cascade, Rapid Stealth, Skirmish +1d6
-4   | 3   | 1 | 4 | 2 | Sneak Attack +2d6, Fast Movement +20, Grapple Line, Skill Mastery
+4   | 3   | 1 | 4 | 2 | Sneak Attack +2d6, Fast Movement +20, Skill Mastery
 5   | 3   | 1 | 4 | 2 | Detect Magic, Improved Evasion, Moving Attack, Two Weapon Fighting
 6   | 4   | 2 | 5 | 3 | Sneak attack +3d6, Fast Movement +30, Mercurial Charge, Death From Above, Skirmish +2d6
 
 **Weapon and Armor Proficiency**: Thief Acrobats are proficient with all simple weapons, as well as the sap, the shortsword, the whip, the bolas, the spear, the longstaff, and the shuriken. Thief Acrobats are proficient with light armor but not with shields of any kind.
 
-**Acrobatic Flair**: A Thief Acrobat may move her full movement while using the Tumble or Balance skill without suffering a penalty or increasing the DC of her check.
+**Acrobatic Flair**: A Thief Acrobat may move her full movement while using the Acrobatics skill without suffering a penalty or increasing the DC of her check.
 
 **Dodge**: A 1st level Thief Acrobat gains Dodge as a bonus feat.
 
@@ -37,7 +37,7 @@ Additionally, a Thief Acrobat may use any pole like weapon as a double weapon. A
 
 **Athletic Cascade**: If a Thief Acrobat moves before making an attack, for the purpose of flanking she may count any square she has moved through as threatening an opponent, in addition to the space she is actually attacking from. She may not, however, use this ability to flank with herself.
 
-**Rapid Stealth**: A Thief Acrobat does not suffer the -10 penalty to Move Silently or Hide for moving at her full normal speed.
+**Rapid Stealth**: A Thief Acrobat does not suffer the -10 penalty to Stealth for moving at her full normal speed.
 
 **Skirmish**: A 2nd level Thief Acrobat deals an extra 1d6 damage on the first attack she makes during any turn in which she moves at least 10 feet away from where she was at the start of her turn. At 6th level the extra damage increases to 2d6.
 
@@ -49,14 +49,10 @@ Additionally, a Thief Acrobat may use any pole like weapon as a double weapon. A
 
 **Two Weapon Fighting**: At 5th level a Thief Acrobat gains the feat two weapon fighting. If the Thief Acrobat already has this feat, they can instead select a different feat for which they meet the prerequisites.
 
-**Grapple Line**: A Thief Acrobat may fire a missile weapon designed as a grappling weapon at an unoccupied square and, if it does at least 1 point of damage to an object filling that square (wall, ceiling, statue, etc) or a securely affixed object (ceiling post, small statue, etc) the Thief Acrobat may run a rope from his current position to that location as a full round action. He may then use this rope to make a Balance or Climb check as normal.
+**Skill Mastery**: A Thief Acrobat is able to take 10 on any Acrobatics, Appraise, Athletics, Disable Device, and Stealth checks. 
 
-**Skill Mastery**: A Thief Acrobat is able to take 10 on any Appraise, Balance, Disable Device, Jump, Hide, Move Silently, and Tumble checks. 
-
-**Mercurial Charge**: As a full round action, a Thief Acrobat may move up to twice her movement speed and then make a full-round attack. The Thief Acrobat may not move back on herself while using this form of movement, if she moves at least 10 feet before making her attack she adds +2 to her roll and -2 to her AC for the next turn. Tumble checks taken during this action suffer a penalty of -10.
+**Mercurial Charge**: As a full round action, a Thief Acrobat may move up to twice her movement speed and then make a full-round attack. The Thief Acrobat may not move back on herself while using this form of movement, if she moves at least 10 feet before making her attack she adds +2 to her roll and -2 to her AC for the next turn. Acrobatics checks taken during this action suffer a penalty of -10.
 
 A Thief Acrobat may even move along vertical surfaces using this ability, however each 5 feet moved across a vertical surface is equivalent to 10 feet moved across a horizontal surface.
-
-Additionally, a Thief Acrobat who uses mercurial charge may flank with herself using spaces she threatens because of her athletic cascade ability.
 
 **Death From Above**: Any attacks a Thief Acrobat makes after falling from a height of 15 or more feet deny the attack's target their dexterity bonus.

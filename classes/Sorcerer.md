@@ -9,11 +9,11 @@
 LVL | BAB | F | R | W | Special | 0 | 1 | 2 | 3
 --- | --- | - | - | - | ------- | - | - | - | -
 1   | 0   | 0 | 0 | 2 | Advanced Learning, Metamagician, Summon Familiar | 7/8 | 5/6 | - | -  
-2   | 1   | 0 | 0 | 3 | Advanced Learning, Bonus feat, Studious | 8/9 | 5/7 | -   | -
+2   | 1   | 0 | 0 | 3 | Advanced Learning, Studious | 8/9 | 5/7 | -   | -
 3   | 1   | 1 | 1 | 3 | Advanced Learning | 8/9 | 6/8 | 4/6 | -
 4   | 2   | 1 | 1 | 4 | Advanced Learning, Studious | 9/9 | 6/8 | 5/7 | -
 5   | 2   | 1 | 1 | 4 | Advanced Learning | 9/9 | 7/9 | 5/8 | 4/6
-6   | 3   | 2 | 2 | 5 | Advanced Learning, Bonus feat, Studious | 10/9 | 7/9 | 6/9 | 5/7
+6   | 3   | 2 | 2 | 5 | Advanced Learning, Studious | 10/9 | 7/9 | 6/9 | 5/7
 
 **Weapon and Armor Proficiency**: Sorcerers are proficient with all simple weapons. They are not proficient with any type of armor or shield. Armor of any type interferes with a Sorcerer’s gestures, which can cause his spells with somatic components to fail.
 
@@ -40,9 +40,5 @@ A character with more than one class that grants a familiar may have only one fa
 **Advanced Learning**: Each time a Sorcerer gains a level he can learn one additional spell from any spell list he desires. Spells learned this way cannot be a higher level than the Sorcerer can cast.
 
 **Metamagician**: Once per day per class level a Sorcerer can apply one of Empower Spell, Enlarge Spell, Extend Spell, Heighten Spell, Maximize Spell, Quicken Spell, Sculpt Spell, Silent Spell, or Widen Spell to a spell he casts without increasing the spell's level.
-
-**Bonus Feat**: At 2nd and 6th level, a Sorcerer gains a bonus feat. She can choose a metamagic feat, an item creation feat, or Spell Mastery. The Sorcerer must still meet all prerequisites for a bonus feat, including caster level minimums.
-
-These bonus feats are in addition to the feat that a character of any class gets from advancing levels. The Sorcerer is not limited to the categories of item creation feats, metamagic feats, or Spell Mastery when choosing these feats.
 
 **Studious**: A 2nd level Sorcerer gains the ability to prepare 1 spell per day in the same way a Wizard would (however a Sorcerer does not need a spellbook to study). A spell prepared in this way may only be cast once per day but otherwise functions like the Sorcerer's spontaneous casting. At 4th and 6th level the Sorcerer gains the ability to prepare an additional spell (up to a maximum of 3).

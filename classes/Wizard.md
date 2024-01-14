@@ -9,11 +9,11 @@
 LVL | BAB | F | R | W | Special | 0 | 1 | 2 | 3
 --- | --- | - | - | - | ------- | - | - | - | -
 1   | 0   | 0 | 0 | 2 | Advanced Learning, Metamagician, Summon familiar, Scribe Scroll | 6 | 4 | -   | -  
-2   | 1   | 0 | 0 | 3 | Advanced Learning, Bonus Feat, Spontaneous | 7 | 5 | -   | -
+2   | 1   | 0 | 0 | 3 | Advanced Learning, Spontaneous | 7 | 5 | -   | -
 3   | 1   | 1 | 1 | 3 | Advanced Learning | 7 | 5 | 4 | -
 4   | 2   | 1 | 1 | 4 | Advanced Learning, Spontaneous | 7 | 6 | 5 | -
 5   | 2   | 1 | 1 | 4 | Advanced Learning, Spontaneous | 7 | 6 | 5 | 4
-6   | 3   | 2 | 2 | 5 | Advanced Learning, Bonus Feat, Spontaneous | 7 | 6 | 6 | 5
+6   | 3   | 2 | 2 | 5 | Advanced Learning, Spontaneous | 7 | 6 | 6 | 5
 
 **Weapon and Armor Proficiency**: Wizards are proficient with the club, dagger, heavy crossbow, light crossbow, and quarterstaff, but not with any type of armor or shield. Armor of any type interferes with a wizard’s movements, which can cause her spells with somatic components to fail.
 
@@ -35,11 +35,9 @@ Unlike a Bard or Sorcerer, a Wizard may know any number of spells. She must choo
 
 **Scribe Scroll**: At 1st level, a Wizard gains Scribe Scroll as a bonus feat.
 
-**Bonus Feat**: At 2nd, 4th, 5th, and 6th level, a Wizard gains a bonus feat. At each such opportunity, she can choose a metamagic feat, an item creation feat, or Spell Mastery. The Wizard must still meet all prerequisites for a bonus feat, including caster level minimums.
-
 These bonus feats are in addition to the feat that a character of any class gets from advancing levels. The Wizard is not limited to the categories of item creation feats, metamagic feats, or Spell Mastery when choosing these feats.
 
-**Spontaneous**: At 2nd, 4th, 5th, and 6th level a Wizard may select a spell from his spell list and gain the ability to cast it spontaneously (as a Sorcerer would) by expending a prepared spell of the same level. 
+**Spontaneous**: At 2nd, 4th, 5th, and 6th level a Wizard may select a spell from his spell list (or a spell gained through Advanced Learning) and gain the ability to cast it spontaneously (as a Sorcerer would) by expending a prepared spell of the same level. 
 
 **Spellbooks**: A Wizard must study her spellbook each day to prepare her spells. She cannot prepare any spell not recorded in her spellbook, except for read magic, which all wizards can prepare from memory.
 

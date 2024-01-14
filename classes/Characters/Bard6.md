@@ -94,7 +94,7 @@ Search (Int)    | - | 0                    | -| 0
 Speak Language | - | -                     | -| -
 Spellcraft (Int, Trained) | - | 0                   | -| 0
 Spot (Wis)       | 5 | 0                   | -| 5
-Stealth (Dex, Armor)| 8 | 4                   | -2| 10
+Stealth (Dex, Armor)| 8 | 4                   | -2| 14=10+4(Race)
 Survival (Wis)   | - | 0                   | -| 0
 Use Magic Device (Cha, Trained) | - | 2             | -| 2
 Use Rope (Dex)         | - | 4             | -| 4
