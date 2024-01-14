@@ -2,7 +2,7 @@
 
 **Hit Die**: d8
 
-**Skills**: Acrobatics (Dex), Athletics (Str), Craft (Int), Hide (Dex), Listen (Wis), Ride (Dex), Spot (Wis), Stealth (Dex), Survival (Wis), Use Rope (Dex)
+**Skills**: Acrobatics (Dex), Athletics (Str), Craft (Int), Listen (Wis), Ride (Dex), Spot (Wis), Stealth (Dex), Survival (Wis), Use Rope (Dex)
 
 **Skills/Level**: 4 + Int modifier
 
@@ -10,15 +10,13 @@
 
 To qualify to become an Arcane Archer, a character must fulfill all the following criteria.
 
-**Feats**: Point Blank Shot, Precise Shot
-
 **Spells**: Ability to cast 2nd-level arcane spells
 
 LVL | BAB | F | R | W | Special | Spellcasting
 --- | --- | - | - | - | ------- | ------------
 1   | 1   | 0 | 2 | 2 | Enhance Arrow, Imbue Arrow | +1 Level of Existing Spellcasting Class
 2   | 2   | 0 | 3 | 3 | Bonus Feat, Seeker Arrow | +1 Level of Existing Spellcasting Class
-3   | 3   | 1 | 3 | 3 | Hail of Arrows, Phase Arrow | +1 Level of Existing Spellcasting Class  
+3   | 3   | 1 | 3 | 3 | Empower Arrow, Hail of Arrows, Phase Arrow | +1 Level of Existing Spellcasting Class  
 
 **Spells per Day**: When an Arcane Archer gains a level the character gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not, however, gain any other benefit a character of that class would have gained, except for an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a loremaster, he must decide to which class he adds the new level for purposes of determining spells per day.
 
