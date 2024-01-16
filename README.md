@@ -27,6 +27,7 @@ E6+ is a game inspired by [**E6: The Game Inside the World's Most Popular Rolepl
 - The skill Stealth (Dexterity based with armor check penalty) is added. Any action depending on Hide, Move Silently, or Sleight of Hand is now attempted using Stealth.
 - The skill Bluff is now opposed by the target's Wisdom modifier (as opposed to the Sense Motive skill).
 - The skill Speak Language is added. It is an Intelligence based skill and can be used untrained.
+- If you are a single classed character who takes levels in a prestige class, you can treat both the original class's class skills and the prestige class's class skills as class skills.
 
 #### Speak Language
 
