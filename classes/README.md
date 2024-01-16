@@ -66,11 +66,11 @@ Functions largely as you'd expect however with some buffs. You can now prepare a
 
 ## Thief Acrobat
 
-A movement and climbing focused sneak attacker who supports his teammates with flanking. Understand rules for sneak attack and read the class description carefully. A medium complexity class.
+A movement and climbing focused sneak attacker who supports his teammates with flanking. Understand rules for sneak attack and read the class description carefully. Also you should probably understand how the skill Tumble (Acrobatics in this game) works. A medium complexity class.
 
 ## Wizard
 
-Read the class specification for a few key buffs. 
+Read the class specification for a few key buffs. Overall though it's a wizard, you know the drill. Complex.
 
 ### Credits
 
